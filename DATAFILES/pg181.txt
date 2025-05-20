@@ -1,0 +1,1990 @@
+﻿The Project Gutenberg eBook of The Project Gutenberg RST Manual
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Project Gutenberg RST Manual
+
+Creator: Marcello Perathoner
+
+Release date: January 1, 2001 [eBook #181]
+                Most recently updated: August 27, 2011
+
+Language: English
+
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE PROJECT GUTENBERG RST MANUAL ***
+
+
+
+
+[pg!i]
+
+
+
+
+                                  The
+
+                           Project Gutenberg
+
+                               RST Manual
+
+
+
+
+[pg!iii]
+
+
+
+
+Contents
+
+
+    Installing EpubMaker
+      Windows
+      Debian
+    PG-RST Classes
+      Classes For Inline Text
+      Classes For Block Text
+      Classes For Front Matter Markup
+    PG-RST Extensions
+      Styles
+      Pagination
+      Table of Contents
+      List of Figures
+      List of Tables
+      Toc-Entry
+      Footnotes
+      Page Numbers
+      Dropcaps
+      Tables
+    PG Metadata
+      Top Boilerplate
+      Metadata Directive
+      Bottom Boilerplate
+    PG-RST Best Practices
+    Examples and Tests
+      Section 3.1
+      Section 3.2
+      Section 3.3
+
+[pg!v]
+
+
+
+
+List of Tables
+
+
+    Classes For Inline Text I
+    Classes For Inline Text II
+    Classes For Inline Text III
+    Classes For Block Text
+    Classes For Front Matter Markup
+    Directives For Pagination
+    Footnote Positions
+    Support for dropcaps in output formats
+    Demo Table
+    Truth table for “and”
+    Fields In the PG Scheme
+    Fields In the DC Scheme
+    Fields In the MARCREL Scheme
+    Fields Without Scheme
+    _TABLE 8_ Types of Computers Used in the Systems Reported
+
+[pg!vii]
+
+
+
+
+List of Figures
+
+
+    Richard and Drucilla Martin
+
+[pg!1]
+
+
+
+
+Installing EpubMaker
+
+
+EpubMaker is Project Gutenberg’s file converter. It can convert from
+PG-RST to HTML, EPUB, PDF and plain text.
+
+
+
+Windows
+
+
+Prerequisites
+
+
+  1. Install Python.
+
+     Assuming you don’t have python yet. If you have either version 2.6
+     or 2.7 already installed, skip this.
+
+     From http://www.python.org/download/releases/2.7/ download the
+     Windows x86 MSI Installer (2.7) and run it.
+
+     Select all the default options and install.
+
+  2. Install Python Setuptools.
+
+     From http://pypi.python.org/pypi/setuptools download
+     setuptools-0.6c11.win32-py2.7.exe (or any newer version) and run
+     it.
+
+     If you are using python 2.6 get the setuptools for 2.6.
+
+  3. Install Groff. (You can skip this step if you don’t want to
+     generate plain text files.)
+
+     From http://gnuwin32.sourceforge.net/packages/groff.htm download
+     _Complete package, except sources - Setup_ (groff-1.20.1-setup.exe)
+     and run it.
+
+     Select all the default options and install.
+
+  4. Install TexLive. (You can skip this step if you don’t want to
+     generate PDF files.)
+
+     Go to http://mirror.ctan.org/systems/texlive/tlnet and download the
+     file install-tl.zip. Then say:
+
+         > unzip install−tl.zip
+         > cd install−tl*
+         > install−tl
+
+     This will open the TeX Live installation wizard. Follow the
+     instructions. When in doubt use the defaults.
+
+     This will take quite a while. (3 hours on an old Dell Vostro 1000
+     laptop. It installs about 2.5 GB in 93,000 files.) If you
+     experience download problems, restart the wizard: it will resume
+     the download where it left off.
+
+     Long installation instructions can be found at
+     http://www.tug.org/texlive/doc/texlive-en/texlive-en.html#x1-150003
+
+  5. Install HTML Tidy. (You can skip this step if you only want to
+     process RST files and don’t want to build EPUBs from HTML input.)
+
+     If you are a post-processor you already have this.
+
+     http://tidy.sourceforge.net/
+
+  6. Update your PATH.
+
+     Start | Control Panel | System | Advanced | Environment Variables.
+     Click "Path" in the User variables at the top. Click "Edit"
+
+     If the field is empty just enter (all in one line):
+
+         C:\Python27;
+         C:\Python27\Scripts;
+         C:\Program Files\GnuWin32\bin;
+
+     If the field contains data, go to the end of that data and add a
+     semicolon if there isn’t one already and then add the string above.
+
+     Click Ok three times.
+
+
+
+EpubMaker
+
+
+  1. At the command prompt run:
+
+         > easy_install epubmaker
+
+  2. Test your installation:
+
+         > epubmaker −−help
+         > epubmaker https://www.gutenberg.org/masters/rst/181/181.rst
+
+
+
+
+Debian
+
+
+Prerequisites
+
+
+(Does not work with python 3 yet. If your distribution uses python 3 as
+default (not likely!), you’ll have to parallel install python 2.6 or
+2.7.)
+
+    # apt−get install python python−setuptools python−lxml
+    # apt−get install groff tidy
+    # apt−get install libpng−dev libjpeg−dev libfreetype6−dev
+
+Note: To get PDF generation to work, you have to use TeX Live version
+2009-11 or newer. You can get those from debian testing or unstable. If
+don’t want to switch from debian stable, you have to install TeX Live
+manually.
+
+If you are on testing or unstable:
+
+    # apt−get install texlive texlive−latex−extra texlive−xetex
+    # apt−get install ttf−linux−libertine ttf−dejavu
+
+Else, to install TeX Live manually, go to
+http://mirror.ctan.org/systems/texlive/tlnet and download the file
+install-tl-unx.tar.gz. Unpack it. Then:
+
+    # cd /path/where/unpacked
+    # perl install−tl −gui
+
+Long installation instructions can be found at
+http://www.tug.org/texlive/doc/texlive-en/texlive-en.html#x1-150003
+
+
+EpubMaker
+
+
+    # easy_install epubmaker
+
+
+Kindlegen
+
+
+(Optional: Used only to make Kindle files):
+
+    $ wget http://s3.amazonaws.com/kindlegen/kindlegen_linux_2.6_i386_v1.2.tar.gz
+    $ tar −xzf kindlegen_linux_2.6_i386_v1.2.tar.gz
+
+
+
+
+PG-RST Classes
+
+
+A list of classes you can use in PG-RST.
+
+
+
+Classes For Inline Text
+
+
+These classes have an effect on inline text. If you put them on a block,
+all inline contents of the block will be rendered accordingly.
+
+
+Classes For Inline Text I
+
+            ────────────────────────────────────────────────
+            Class         Explanation
+            ────────────────────────────────────────────────
+            italics       Switch to italic font.
+            ────────────────────────────────────────────────
+            bold          Switch to boldface.
+            ────────────────────────────────────────────────
+            small-caps    Switch to small capitals.
+            ────────────────────────────────────────────────
+            gesperrt      Switch to gesperrt (extended
+                          letter spacing).
+            ────────────────────────────────────────────────
+            antiqua       Switch to antiqua.
+            ────────────────────────────────────────────────
+            monospaced    Switch to monospaced font.
+            ────────────────────────────────────────────────
+
+
+Classes For Inline Text II
+
+            ────────────────────────────────────────────────
+            Class         Explanation
+            ────────────────────────────────────────────────
+            smaller       Switch to smaller font.
+            ────────────────────────────────────────────────
+            larger        Switch to larger font.
+            ────────────────────────────────────────────────
+            xx-small      Switch to smallest font.
+            ────────────────────────────────────────────────
+            x-small       Switch to very small font.
+            ────────────────────────────────────────────────
+            small         Switch to small font.
+            ────────────────────────────────────────────────
+            medium        Switch to normal font size.
+            ────────────────────────────────────────────────
+            large         Switch to large font.
+            ────────────────────────────────────────────────
+            x-large       Switch to very large font.
+            ────────────────────────────────────────────────
+            xx-large      Switch to largest font.
+            ────────────────────────────────────────────────
+
+
+Classes For Inline Text III
+
+            ────────────────────────────────────────────────
+            Class         Explanation
+            ────────────────────────────────────────────────
+            red           Switch to red font.
+            ────────────────────────────────────────────────
+            green         Switch to green font.
+            ────────────────────────────────────────────────
+            blue          Switch to blue font.
+            ────────────────────────────────────────────────
+            yellow        Switch to yellow font.
+            ────────────────────────────────────────────────
+            white         Switch to white font.
+            ────────────────────────────────────────────────
+            gray          Switch to gray font.
+            ────────────────────────────────────────────────
+            black         Switch to black font.
+            ────────────────────────────────────────────────
+
+
+
+Classes For Block Text
+
+
+These classes have an effect on block text. Please do not confuse the
+alignment of the block with the alignment of the text in the block. Eg.
+a table can be centered, while the text inside the table is
+left-aligned. The alignment of the block is set with the align option.
+
+
+Classes For Block Text
+
+        ─────────────────────────────────────────────────────────
+        Class                  Explanation
+        ─────────────────────────────────────────────────────────
+        left                   Left-aligns the text in the
+                               block.
+        ─────────────────────────────────────────────────────────
+        center                 Centers the text in the block.
+        ─────────────────────────────────────────────────────────
+        right                  Right-aligns the text in the
+                               block.
+        ─────────────────────────────────────────────────────────
+        justify                Justifies the text in the block.
+        ─────────────────────────────────────────────────────────
+        white-space-pre-line   Preserves newlines.
+        ─────────────────────────────────────────────────────────
+
+
+
+Classes For Front Matter Markup
+
+
+EpubMaker includes a few classes to markup front matter. While it is not
+necessary to do this, it adds value. In future the PG catalog might
+automatically extract not only the cover page but also the title page,
+verso, etc.
+
+
+Classes For Front Matter Markup
+
+            ─────────────────────────────────────────────────
+            Class          Explanation
+            ─────────────────────────────────────────────────
+            coverpage      The cover page.
+            ─────────────────────────────────────────────────
+            frontispiece   The frontispiece.
+            ─────────────────────────────────────────────────
+            titlepage      The title page.
+            ─────────────────────────────────────────────────
+            verso          The title page verso.
+            ─────────────────────────────────────────────────
+            dedication     The dedication page.
+            ─────────────────────────────────────────────────
+            plainpage      A general class for page.
+            ─────────────────────────────────────────────────
+
+
+Use these classes on a container. These classes already insert page
+breaks before the container so you need not insert page breaks on your
+own.
+
+
+
+
+    .. container:: titlepage
+
+       | Pride and Prejudice
+       |
+       | Written by Jane Austen.
+
+
+
+
+PG-RST Extensions
+
+
+You can create custom roles based on the existing ones. This is how you
+create and then use custom roles.
+
+
+
+
+    .. role:: small−caps
+       :class: small−caps
+
+    This text is in :small−caps:`Small Caps`.
+
+This text is in _Small Caps_.
+
+
+
+
+You can attach more than one class to a role:
+
+
+
+
+    .. role:: big−and−bold
+       :class: x−large bold
+
+    This text is :big−and−bold:`big and bold`.
+
+This text is *big and bold*.
+
+
+
+
+Styles
+
+
+You can redefine the rendering of elements:
+
+
+
+
+    .. style:: emphasis
+       :class: gesperrt
+
+    Now *emphasis* will be rendered as gesperrt.
+
+Now emphasis__ will be rendered as gesperrt.
+
+
+
+
+    .. style:: strong
+       :class: small−caps
+
+    And **Strong Emphasis** will be rendered as small−caps.
+
+And *_Strong Emphasis_* will be rendered as small-caps.
+
+
+
+
+    .. style:: strong
+       :class: small−caps x−large bold
+
+    And **Strong Emphasis** will be rendered as big bold small−caps.
+
+And *_Strong Emphasis_* will be rendered as big bold small-caps.
+
+
+
+
+    .. style:: literal
+       :class: red
+
+    ``literally red``
+
+    .. style:: superscript
+       :class: green
+
+    :superscript:`sup`\ er
+
+    .. style:: title_reference
+       :class: blue
+
+    :title−reference:`Hamlet` and `Othello`.
+
+literally red
+
+super
+
+_Hamlet_ and _Othello_.
+
+
+
+
+You can semantically markup foreign text:
+
+
+
+
+    .. role:: french
+       :class: language−fr italics
+
+    :french:`Pas de double` is the French for "father of twins".
+
+_Pas de double_ is the French for "father of twins".
+
+
+
+
+Pagination
+
+
+Pagination is important if you generate PDFs. See the Directives For
+Pagination Table.
+
+
+Directives For Pagination
+
+    ─────────────────────────────────────────────────────────────────
+    Directive         Explanation
+    ─────────────────────────────────────────────────────────────────
+    clearpage         This directive inserts a page break.
+    ─────────────────────────────────────────────────────────────────
+    cleardoublepage   This directive inserts page breaks so that the
+                      next item starts on a right-hand page.
+    ─────────────────────────────────────────────────────────────────
+    vfill             (PDF only.)
+
+                      This directive generates ‘elastic´ vertical
+                      space. This space expands to all of the free
+                      space on one page. If you use this more than
+                      once on a page, the free space is equally
+                      divided among all invocations.
+
+                      To vertically align an item to the bottom, use
+                      vfill before that item.
+
+                      To vertically align an item about 1/3 of the
+                      page use vfill once before the item and twice
+                      after the item.
+    ─────────────────────────────────────────────────────────────────
+    frontmatter       (PDF only.)
+
+                      Put this directive at the start of your book.
+
+                      The pgheader directive uses this directive
+                      internally, so you can omit frontmatter
+                      whenever you use pgheader.
+
+                      This directive turns on roman page numbers.
+    ─────────────────────────────────────────────────────────────────
+    mainmatter        (PDF only.)
+
+                      Put this directive after the table of contents
+                      and before the first chapter.
+
+                      This directive switches from roman page
+                      numbering to arabic page numbering and resets
+                      the page counter.
+    ─────────────────────────────────────────────────────────────────
+    backmatter        (PDF only.)
+
+                      Put this directive before appendices or
+                      indices.
+    ─────────────────────────────────────────────────────────────────
+
+
+
+Table of Contents
+
+
+Use the RST contents directive to automatically generate a table of
+contents.
+
+N.B. You may also provide a table of contents manually.
+
+In PG-RST the contents directive requires you to specify an argument or
+the local option.
+
+The local option displays a local table of contents, containing only the
+sub-sections of the section in which it is declared.
+
+The page-numbers option displays the original page number in the TOC.
+
+
+
+
+    .. contents:: A TOC With Page Numbers
+       :depth: 2
+       :page−numbers:
+
+
+
+
+A TOC With Page Numbers
+
+
+    Installing EpubMaker ..............................................
+      Windows .........................................................
+      Debian ..........................................................
+    PG-RST Classes ....................................................
+      Classes For Inline Text .........................................
+      Classes For Block Text ..........................................
+      Classes For Front Matter Markup .................................
+    PG-RST Extensions .................................................
+      Styles ..........................................................
+      Pagination ......................................................
+      Table of Contents ...............................................
+      List of Figures .................................................
+      List of Tables ..................................................
+      Toc-Entry .......................................................
+      Footnotes .......................................................
+      Page Numbers ....................................................
+      Dropcaps ........................................................
+      Tables ..........................................................
+    PG Metadata .......................................................
+      Top Boilerplate .................................................
+      Metadata Directive ..............................................
+      Bottom Boilerplate ..............................................
+    PG-RST Best Practices .............................................
+    Examples and Tests ................................................
+      Section 3.1 .....................................................
+      Section 3.2 .....................................................
+      Section 3.3 .....................................................
+
+
+
+List of Figures
+
+
+Use the lof directive to generate a list of figures automatically.
+
+N.B. You may also provide a list of figures manually.
+
+
+
+
+    .. lof:: A List of Figures
+       :page−numbers:
+       :backlinks: none
+
+
+A List of Figures
+
+
+    Richard and Drucilla Martin .......................................
+
+
+
+
+List of Tables
+
+
+Use the lot directive to generate a list of tables.
+
+N.B. You may also provide a list of tables manually.
+
+
+
+
+    .. lot:: A List of Tables
+       :page−numbers:
+       :backlinks: none
+
+
+A List of Tables
+
+
+    Classes For Inline Text I .........................................
+    Classes For Inline Text II ........................................
+    Classes For Inline Text III .......................................
+    Classes For Block Text ............................................
+    Classes For Front Matter Markup ...................................
+    Directives For Pagination .........................................
+    Footnote Positions ................................................
+    Support for dropcaps in output formats ............................
+    Demo Table ........................................................
+    Truth table for “and” .............................................
+    Fields In the PG Scheme ...........................................
+    Fields In the DC Scheme ...........................................
+    Fields In the MARCREL Scheme ......................................
+    Fields Without Scheme .............................................
+    _TABLE 8_ Types of Computers Used in the Systems Reported .........
+
+
+
+
+Toc-Entry
+
+
+Use the toc-entry directive to:
+
+  - provide an alternate toc entry
+  - suppress a toc entry, or
+  - switch toc gathering on or off.
+
+A toc-entry with argument sets the argument as toc entry for the next
+section, figure or table.
+
+A toc-entry without argument suppresses the toc entry for the next
+section, figure or table.
+
+Use the depth option to set the depth up to which section titles are
+gathered for the toc. A depth of 0 switches toc gathering off.
+
+
+
+
+    .. toc−entry:: An Alternative Caption
+
+
+
+
+Footnotes
+
+
+Always define footnotes right after the paragraph they are referenced.
+
+
+Positioning of footnotes
+
+            ─────────────────────────────────────────────────
+            Format      Position
+            ─────────────────────────────────────────────────
+            HTML        Collected under the footnotes
+                        directive.
+            ─────────────────────────────────────────────────
+            EPUB        Idem.
+            ─────────────────────────────────────────────────
+            TXT         Where they are defined.
+            ─────────────────────────────────────────────────
+            PDF         At the bottom of the current page.
+            ─────────────────────────────────────────────────
+
+
+To collect the footnotes use the footnotes directive. This directive
+will output a section with title and all footnotes in the document will
+be moved inside the section.
+
+In PDF and TXT formats the footnotes directive will do nothing.¹
+
+Test²³ .
+
+    ¹ Not even print the section title.
+
+
+
+
+    .. footnotes:: Footnotes
+       :class: smaller
+
+
+
+
+    ² Another footnote, to test how multiple footnotes⁴ stack on one
+      page.
+
+    ³ Later editions continued as follows:
+
+      When the sands are all dry, he is gay as a lark,
+      And will talk in contemptuous tones of the Shark,
+      But, when the tide rises and sharks are around,
+      His voice has a timid and tremulous sound.
+
+    ⁴ Gibbon test. A footnote inside a footnote.
+
+
+
+Page Numbers
+
+
+The sequence [pg n] will convert into a page number marker of n. n can
+be any arabic or roman numeral. The sequence itself will be removed from
+the text flow leaving a page anchor. There _must_ be spaces around the
+sequence. If the page break is in the middle of a word, join the word
+and put the sequence at the end of the word.
+
+
+
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt [pg 42] ut labore et dolore magna
+    aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
+    duo dolores [pg xviii] et ea rebum.
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt [pg 42] ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores [pg
+xviii] et ea rebum.
+
+
+
+
+A reference to a page number can be inserted with the sequence [pg n]_.
+This will generate a link to the page anchor.
+
+
+
+
+    See page [pg 42]_.
+
+See page [pg 42]_.
+
+
+
+
+An invisible page number can be inserted with the sequence [pg!n].
+
+
+
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt [pg!43] ut labore et dolore magna
+    aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
+    duo dolores et ea rebum. See page [pg 43]_.
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt [pg!43] ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. See page [pg 43]_.
+
+
+
+
+See page [pg iii]_.
+
+
+
+Dropcaps
+
+
+You can insert dropcaps with the dropcap directive. You can use either
+an enlarged character or an image as dropcap. You can also specify a
+span of character that should be set in small-caps after the dropcap
+initial.
+
+
+Support for dropcaps in output formats
+
+          ────────────────────────────────────────────────────
+          Format    Letter                Image
+          ────────────────────────────────────────────────────
+          HTML      enlarged and          resized and dropped
+                    dropped
+          ────────────────────────────────────────────────────
+          EPUB      enlarged on           resized on baseline
+                    baseline
+          ────────────────────────────────────────────────────
+          TXT       normal size           alt text
+          ────────────────────────────────────────────────────
+          PDF       enlarged and          resized and
+                    dropped⁵              dropped⁵
+          ────────────────────────────────────────────────────
+
+
+    ⁵ _Warning:_ If a paragraph with a dropcap gets page-broken the
+      dropcap may stick into the page bottom. Avoid dropcaps unless you
+      are sure that you are at the top of a page, like at a chapter
+      start.
+
+The first argument (mandatory) states the character(s) to replace with
+caps. It must match the beginning of the next paragraph.
+
+The second (optional) argument states the characters to replace with
+small-caps. It must also match the beginning of the next paragraph.
+
+
+
+
+    .. clearpage::
+
+    .. dropcap:: L Lorem ipsum
+       :lines: 4
+       :indents: −1.25em 0.5em
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+    erat, sed diam voluptua. At vero eos et accusam et justo duo
+    dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+    sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+    consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+
+
+
+L_orem ipsum_ dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+aliquyam erat, sed diam voluptua.
+
+
+
+
+The lines option (PDF only) specifies how many lines the dropcap should
+span. Default is 2.
+
+The indents option (PDF only) can specifiy up to 2 length values. The
+first one is the indent of the first line, the second one the indent of
+the following lines. The indent is calculated from the right border of
+the dropcap letter. Defaults are 0em and 0.5em.
+
+The image option specifies the image url. In plain text and EPUB the
+image will not be used.
+
+
+
+
+    .. clearpage::
+
+    .. dropcap:: G
+       :image: images/G.png
+       :lines: 4
+
+    Gorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+    erat, sed diam voluptua. At vero eos et accusam et justo duo
+    dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+    sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+    consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+
+
+
+__orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+aliquyam erat, sed diam voluptua.
+
+
+
+
+Tables
+
+
+Be careful with tables because the table support of many ereaders is
+weak or nil.
+
+Tables also support these options:
+
+width  Makes the table that wide.
+
+widths A space-separated list of unitless values, each specifying the
+       relative width of one table column.
+
+       If you don’t use the option widths, the column widths are
+       calculated from the layout of the table in your source file.
+
+aligns Horizontally align the columns.
+
+       A space-separated list of alignments, each specifying the
+       alignment of one column.
+
+       Valid alignments values are: left, center, right and justify.
+
+vertical-aligns
+       Vertically align the columns.
+
+       A space-separated list of vertical alignments, each specifying
+       the alignment of one column.
+
+       Valid alignments values are: top, middle, and bottom.
+
+       Note: vertical alignment is fully supported in HTML only. Other
+       formats may support it in varying degrees.
+
+summary (HTML only.)
+       Puts a summary attribute on the table element.
+
+These are the extra classes supported by PG-RST:
+
+norules
+       Omits the rules between table rows. (Not the rule between header
+       and body nor the rules at the top and bottom of the table.)
+
+       Use this class when the eye can follow the table rows without the
+       aid of rules.
+
+
+
+
+    .. table:: Demo Table
+       :width: 100%
+       :align: center
+       :widths: 3 1 1 1
+       :aligns: justify justify center right
+       :vertical−aligns: top middle bottom top
+       :summary: This table contains valuable data.
+
+       +−−−−−−−−−−−−−−−−−−−−−−−−+−−−−−−−−−−−+−−−−−−−−−−+−−−−−−−−−−−+
+       | Header row, column 1   | Justified | Centered | Price ($) |
+       | (header rows optional) |           |          |           |
+       +========================+===========+==========+===========+
+       | row 1                  | column    |  column  |      1.23 |
+       +−−−−−−−−−−−−−−−−−−−−−−−−+−−−−−−−−−−−+−−−−−−−−−−+−−−−−−−−−−−+
+       | row 2                  | col col   |   col    |     45.67 |
+       |                        | col col   |          |           |
+       |                        | col col   |          |           |
+       |                        | col       |          |           |
+       +−−−−−−−−−−−−−−−−−−−−−−−−+−−−−−−−−−−−+−−−−−−−−−−+−−−−−−−−−−−+
+       | row 3                  | Cells may span columns.          |
+       |                        | Lorem ipsum dolor sit amet,      |
+       |                        | consetetur sadipscing elitr, sed |
+       |                        | nonumy eirmod tempor invidunt ut |
+       |                        | labore et dolore magna aliquyam  |
+       |                        | sed diam voluptua. At vero eos   |
+       |                        | accusam et justo duo dolores et  |
+       |                        | rebum.                           |
+       +−−−−−−−−−−−−−−−−−−−−−−−−+−−−−−−−−−−−+−−−−−−−−−−+−−−−−−−−−−−+
+       | Cells may span rows and            | Cells    | row 4     |
+       | columns. Lorem ipsum dolor sit     | may span +−−−−−−−−−−−+
+       | amet, consetetur adipiscing.       | rows.    | row 5     |
+       +−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−+−−−−−−−−−−+−−−−−−−−−−−+
+
+
+Demo Table
+
+   ──────────────────────────────────────────────────────────────────
+   Header row, column 1 (header    Justified   Centered    Price ($)
+   rows optional)
+   ──────────────────────────────────────────────────────────────────
+   row 1                           column       column          1.23
+   ──────────────────────────────────────────────────────────────────
+   row 2                           col col        col          45.67
+                                   col col
+                                   col col
+                                   col
+   ──────────────────────────────────────────────────────────────────
+   row 3                           Cells may span columns. Lorem
+                                   ipsum dolor sit amet, consetetur
+                                   sadipscing elitr, sed nonumy
+                                   eirmod tempor invidunt ut labore
+                                   et dolore magna aliquyam sed diam
+                                   voluptua. At vero eos accusam et
+                                   justo duo dolores et rebum.
+   ──────────────────────────────────────────────────────────────────
+   Cells may span rows and columns. Lorem      Cells may       row 4
+   ipsum dolor sit amet, consetetur            span      ────────────
+   adipiscing.                                 rows.           row 5
+   ──────────────────────────────────────────────────────────────────
+
+
+
+
+    .. table:: Truth table for “and”
+       :class: norules
+       :align: center
+       :width: 50%
+
+       ===== ===== =========
+         A     B    A and B
+       ===== ===== =========
+       False False False
+       True  False False
+       False True  False
+       True  True  True
+       ===== ===== =========
+
+
+Truth table for “and”
+
+                    ─────────────────────────────────
+                    A         B         A and B
+                    ─────────────────────────────────
+                    False     False     False
+                    ─────────────────────────────────
+                    True      False     False
+                    ─────────────────────────────────
+                    False     True      False
+                    ─────────────────────────────────
+                    True      True      True
+                    ─────────────────────────────────
+
+
+
+
+PG Metadata
+
+
+
+Top Boilerplate
+
+
+This section explains the PG boilerplate that you must put at the top of
+your PG-RST file.
+
+It looks like this:
+
+
+
+
+     .. −*− encoding: utf−8 −*−      (1)
+
+     .. meta::                       (2)
+        :PG.Id: 181
+        :PG.Title: Very Short Title
+        :PG.Released: 2010−11−25
+        :PG.Rights: Public Domain
+        :PG.Producer: Woody Guthrie
+        :PG.Producer: Pete Seeger
+        :PG.Producer: The Almanac Singers
+        :PG.Credits: This file was produced from images stolen from the Louvre.
+        :DC.Creator: Jane Austen
+        :MARCREL.edt: Mark Twain
+        :MARCREL.ill: Édouard Manet
+        :DC.Title: Full Title Statement
+        :DC.Language: en
+        :DC.Language: fr
+        :DC.Language: de
+        :DC.Created: 1900
+        :coverpage: images/cover.jpg
+
+
+     ===========
+     Short Title                     (3)
+     ===========
+
+     .. pgheader::                   (4)
+
+
+
+
+  (1) Insert this line verbatim. It must be the first line in the text.⁶
+      This tells the converter to use UTF-8 encoding and is also
+      recognized by many editors.
+  (2) The metadata directive: see section below.
+  (3) This will be the first line of the generated files. It should say:
+      “The Project Gutenberg Ebook of Title” or just “Title”. Use ’=’
+      above and below the title.
+  (4) This directive inserts the PG header as generated from the
+      metadata.
+
+    ⁶ A unicode BOM is allowed before this. In fact most Windows editors
+      will add a BOM without asking you.
+
+
+
+Metadata Directive
+
+
+The metadata directive contains all data that is used to generate the PG
+header and the PG catalog entry.
+
+The scheme is the part before the dot.
+
+
+PG Scheme
+
+
+The PG scheme holds data that is relevant to Project Gutenberg only.
+
+
+Fields In the PG Scheme
+
+            ────────────────────────────────────────────────
+            Name          Contents
+            ────────────────────────────────────────────────
+            PG.Id         The ebook number.
+            ────────────────────────────────────────────────
+            PG.Released   The PG release date in YYYY-MM-DD
+                          format.
+            ────────────────────────────────────────────────
+            PG.Rights     Either ’Public Domain’ or
+                          ’Copyrighted’.
+            ────────────────────────────────────────────────
+            PG.Title      A much shortened form of the
+                          title. Used in the PG boilerplate
+                          in the lines that say: “Start of
+                          this PG ebook …” and “End of this
+                          PG ebook …”.
+            ────────────────────────────────────────────────
+            PG.Producer   A personal name or organization
+                          that helped produce this text.
+                          This field may appear more than
+                          once. Don’t put more than one
+                          name into one field. Repeat the
+                          field if necessary.
+            ────────────────────────────────────────────────
+            PG.Credits    A line acknowledging the source
+                          of the images or other stuff.
+            ────────────────────────────────────────────────
+
+
+DC Scheme
+
+
+This scheme holds standard Dublincore stuff and is used by many search
+engines and the PG cataloguing software.
+
+
+Fields In the DC Scheme
+
+            ────────────────────────────────────────────────
+            Name          Contents
+            ────────────────────────────────────────────────
+            DC.Creator    Author. A personal name or
+                          organization that created the
+                          text. May appear more than once.
+                          Don’t put more than one name into
+                          one field. Repeat the field if
+                          necessary.
+            ────────────────────────────────────────────────
+            DC.Title      The full title statement as found
+                          on the book’s title page.
+            ────────────────────────────────────────────────
+            DC.Language   The 2 or 3 letter code for all
+                          languages used for substantial
+                          portions of the text. May appear
+                          more than once. Don’t put more
+                          than one code into one field.
+                          Repeat the field if necessary.
+                          The languages listed here are
+                          indicative for the catalog and do
+                          not set the text language and
+                          hyphenation rules. Use the option
+                          class language-<language-code>
+                          for that.
+            ────────────────────────────────────────────────
+            DC.Created    The year of original publication
+                          if known.
+            ────────────────────────────────────────────────
+
+
+MARCREL Scheme
+
+
+This is used to record contributors to the text. All these fields may
+appear more than once. Don’t put more than one name into one field.
+Repeat the field if necessary.
+
+
+Fields In the MARCREL Scheme
+
+            ────────────────────────────────────────────────
+            Name          Contents
+            ────────────────────────────────────────────────
+            MARCREL.edt   Editor
+            ────────────────────────────────────────────────
+            MARCREL.ill   Illustrator
+            ────────────────────────────────────────────────
+            MARCREL.trl   Translator
+            ────────────────────────────────────────────────
+            MARCREL.*     See the full list of MARC relator
+                          codes.
+            ────────────────────────────────────────────────
+
+
+No Scheme
+
+
+Some fields are associated with none of the above schemes.
+
+
+Fields Without Scheme
+
+            ────────────────────────────────────────────────
+            Name          Contents
+            ────────────────────────────────────────────────
+            coverpage     A coverpage for those formats
+                          (eg. Kindle) that support a cover
+                          page. This image must be included
+                          in the upload but must not
+                          necessarily be put in the text
+                          flow.
+            ────────────────────────────────────────────────
+
+
+
+Bottom Boilerplate
+
+
+You must put this at the very bottom of your PG-RST file.
+
+
+
+
+     .. pgfooter::     (1)
+
+
+
+
+  (1) This directive inserts the PG footer and license.
+
+
+
+
+PG-RST Best Practices
+
+
+Images
+
+
+Specify a width option in images and a figwidth option in figures and
+express it in percent.
+
+If you don’t specify a width, the converter will calculate the width
+percentile for you, using the formula:
+
+    image_width / (980px * 0.8) * 100
+
+(980px is the approx. wide of a browser window with scrollbar on a
+1024px wide screen, 0.8 are 10% margins left and right.)
+
+Expressing the image size relative to the screen width is the best way
+to get images right on a wide variety of devices form iPhones to print.
+
+
+
+
+    .. toc−entry:: Richard and Drucilla Martin
+
+    .. figure:: images/cover.jpg
+       :align: center
+       :alt: Richard and Drucilla Martin
+
+       :lb:`Richard Martin was a slave in Memphis, Tennessee.
+       Drucilla Martin was a slave in Giles County, Tennessee.`
+
+       The legend consists of all elements after the caption.  Lorem
+       ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+       nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+       erat, sed diam voluptua. At vero eos et accusam et justo duo
+       dolores et ea rebum.
+
+[Illustration: Richard Martin was a slave in Memphis, Tennessee.
+Drucilla Martin was a slave in Giles County, Tennessee.]
+
+The legend consists of all elements after the caption.  Lorem ipsum
+dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+
+
+
+
+[pg!2]
+
+
+
+
+Tests and Examples
+
+
+
+
+Notice
+
+
+The rest of this file contains tests. You may look at the RST source to
+learn how things are done.
+
+
+
+
+A generated local table of contents:
+
+    Section 3.1
+    Section 3.2
+    Section 3.3
+
+A local table of contents as highlights:
+
+    Kingston — Instructive remarks on early English history —
+    Instructive observations on carved oak and life in general — Sad
+    case of Stivvings, junior — Musings on antiquity — I forget that
+    I am steering — Interesting result — Hampton Court Maze — Harris
+    as a guide.
+
+
+ÄÖÜ äöüß Æsop Œdipus cœr. Đ. †‡ ｳ. §2.1
+
+‘’ ‚‛ “ ” ‹› em — en –.
+
+“ ‘Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+est Lorem ipsum dolor sit amet.’ ”
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. [pg 3] At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+est Lorem ipsum dolor sit amet.
+
+                                  ――――
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet.
+
+[pg 4]
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet.
+
+  ‘Speak roughly to your little boy,
+    And beat him when he sneezes:
+  He only does it to annoy,
+    Because he knows it teases.’
+
+        CHORUS.
+
+(In which the cook and the baby joined):—
+
+      ‘Wow! wow! wow!’
+
+Summer wanes, the children are grown;
+  Fun and frolic no more he knows;
+Robert of Lincoln’s a humdrum crone;
+  Off he flies and we sing as he goes:
+    Bob-o’link, bob-o’-link,
+    Spink, spank, spink;
+When you can pipe that merry old strain,
+Robert of Lincoln, come back again.
+      Chee, chee, chee.
+
+And now a quote by Lorem Ipsum:
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+    diam nonumy eirmod tempor invidunt ut labore et dolore magna
+    aliquyam erat, sed diam voluptua. At vero eos et accusam et
+    justo duo dolores et ea rebum. Stet clita [pg 5] kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+    ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+    nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+    erat, sed diam voluptua. At vero eos et accusam et justo duo
+    dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+    sanctus est Lorem ipsum dolor sit amet.
+
+    ―― Lorem Ipsum
+
+[pg 7]
+
+
+
+Section 3.1
+
+
+    I pity the man who can travel from Dan to Beersheba, and say
+    “’Tis all barren;” and so is all the world to him who will not
+    cultivate the fruits it offers.
+
+    ―― Sterne: Sentimental Journey.
+
+
+Simple List with hyphens
+
+  - Wash left ear.
+  - Wash right ear.
+  - Brush teeth.
+
+Simple List with bullets
+
+  · Wash left ear.
+  · Wash right ear.
+  · Brush teeth.
+
+Nested List
+
+  1. Item 1.
+     a) Item 1a.
+     b) Item 1b.
+            I) Item 1.a.I
+           II) Item 1.a.II
+          III) Item 1.a.III
+           IV) Item 1.a.IV
+  2. A)     i) Item 2.A.i [pg 8]
+           ii) Item 2.A.ii
+     B)     i) Item 2.B.i
+           ii) Item 2.B.ii
+          iii) Item 2.B.iii
+     C) Item 2.C
+  3. Item 3.
+
+Definition List
+
+term   Definition.
+
+term 2 Definition 2
+
+       Definition 2 paragraph 2.
+
+long term 3
+       Definition 3
+
+Option List (not used by PG)
+
+-a
+,      command-line option "a"
+-1
+ [4m_file_[0m
+,
+--one
+=[4m_file_[0m
+,
+--two
+ [4m_file_[0m
+,      Multiple options with arguments.
+
+[pg 123]
+
+
+
+Section 3.2⁷
+
+
+    ⁷ This title contains a footnote reference. The footnote reference
+      will not show up in the TOC.
+
+Some text so this section isn’t empty.
+
+
+
+Section 3.3
+
+
+THE MAN WHO PLEASES.
+
+
+    _The dearest friend to me, the kindest man,_
+    _The best-conditioned and unwearied spirit_
+    _In doing courtesies._
+
+    _―― Merchant of Venice._
+
+
+    _He hath a daily beauty in his life._
+
+    _―― Othello._
+
+
+    _Such a man would win any woman in the world_
+    _if a’ could get her good will._
+
+    _―― Much Ado About Nothing._
+
+
+There are few subjects of deeper interest to men and women than that of
+personal fascination,
+
+    «Ora si comincia per quelli di fuori e per quelli di dentro a
+    far grandissima e crudel guerra.»
+
+                                                _Istorie pistolesi._
+
+
+_TABLE 8_ Types of Computers Used in the Systems Reported
+
+                   ──────────────────────────────────
+                   Type               Number
+                   ──────────────────────────────────
+                   ASI 210                 1
+                   ───────────────────────────   (3)
+                   ASI 2100                2
+                   ──────────────────────────────────
+                   CDC 160A                2
+                   ───────────────────────────   (3)
+                   CDC 3100                1
+                   ──────────────────────────────────
+
+
+    total computer cost                   0.22 ± 0.06 by averaging
+    −−−−−−−−−−−−−−−−−−−−−−−−  =  0.23 −>  separate ratios for each
+    cost of bare accelerator              system
+
+[pg!10]
+
+[pg 99]
+
+
+
+
+Transcriber’s Note
+
+
+Minor spelling errors have been silently corrected.
+
+Hyphenation has been made consistent.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE PROJECT GUTENBERG RST MANUAL ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
