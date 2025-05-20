@@ -46,7 +46,7 @@ class RAGSystem(object):
         return wrapper
     
     def webscraping(self, url: str) -> str:
-        
+        #NOTE: I HAVE SCRAPED AROUND 1000 BOOKS FROM THE GUTENBERG PROJECT
         FOLDER = "DATAFILES"
         if not os.path.exists(FOLDER):
             os.makedirs(FOLDER)
