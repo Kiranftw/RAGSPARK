@@ -9,6 +9,9 @@ import logging
 from dotenv import load_dotenv, find_dotenv
 from sentence_transformers import SentenceTransformer, util
 import google.generativeai as genai
+from pyspark.sql.types import StructType, StructField, StringType
+from delta import configure_spark_with_delta_pip
+from pyspark.sql import Row
 
 logging.basicConfig(
     level=logging.INFO,
@@ -19,7 +22,11 @@ logging.basicConfig(
 class RAGSystem(object):
     def __init__(self, modelname: str = "models/gemini-2.0-flash") -> None:
         load_dotenv(find_dotenv())
-        self.session = SparkSession.builder.appName("RAGSPARK").getOrCreate()
+        builder = SparkSession.builder \
+            .appName("ParagraphToDelta") \
+            .config("spark.sql.extensions", "io.delta.sql.DeltaSparkSessionExtension") \
+            .config("spark.sql.catalog.spark_catalog", "org.apache.spark.sql.delta.catalog.DeltaCatalog")
+        self.spark = configure_spark_with_delta_pip(builder).getOrCreate()
         self.DIR = os.path.dirname(os.path.abspath(__file__))
         self.API = os.getenv("GOOGLE_API_KEY")
         genai.configure(api_key=self.API)
@@ -36,8 +43,8 @@ class RAGSystem(object):
                 break
         if self.model is None:
             raise ValueError(f"Model {modelname} not found in available models.")
-        self.EmbeddingModel = SentenceTransformer("all-MiniLM-L6-v2")
-
+        self.EmbeddingModel = SentenceTransformer('paraphrase-MiniLM-L3-v2', device='cuda')
+        self.DATAFOLDER = "DATAFILES"
 
     @staticmethod
     def ExceptionHandelling(func):
@@ -72,4 +79,25 @@ class RAGSystem(object):
             logging.error(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
             return None
     
-    def dataTransformation(self): -> pyspark.sql.dataframe.DataFrame:
+    def data_transfromation(self):
+        ROWS: List[Row] = []
+        for sno, filename in enumerate(os.listdir(self.DATAFOLDER)):
+            filepath = os.path.join(self.DATAFOLDER, filename)
+            if not filename.endswith(".txt"):
+                continue
+            try:
+                with open(filepath, "r", encoding="utf-8") as file:
+                    content = file.read()
+                    cleanedData = " ".join([line.strip() for line in content.splitlines() if line.strip()])
+                    ROWS.append(Row(sno, filename, cleanedData))
+            except FileNotFoundError:
+                logging.error(f"File not found: {filepath}")
+            except Exception as e:
+                logging.error(f"Error reading file {filepath}: {e}")
+        
+        print(type(ROWS[1]))
+
+if __name__ == "__main__":
+    rag = RAGSystem()
+    rag.data_transfromation()
+
