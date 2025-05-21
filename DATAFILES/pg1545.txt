@@ -1,0 +1,3387 @@
+﻿The Project Gutenberg eBook of Mucedorus
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Mucedorus
+
+Author: Shakespeare
+
+Release date: November 1, 1998 [eBook #1545]
+                Most recently updated: May 19, 2023
+
+Language: English
+
+Credits: the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK MUCEDORUS ***
+
+
+
+
+A MOST PLEASANT COMEDY OF
+
+       MUCEDORUS
+
+THE KING’S SON OF VALENCIA, AND
+AMADINE, THE KING’S DAUGHTER OF ARAGON
+
+
+
+
+Contents
+
+ THE PROLOGUE
+ INDUCTION
+
+ ACT I
+ Scene I. Valencia. The Court
+ Scene II. A Forest in Aragon
+ Scene III. The same
+ Scene IV. Outskirts of the Forest
+
+ ACT II
+ Scene I. The Camp of the King of Aragon
+ Scene II. The same
+ Scene III. The Forest
+ Scene IV. Aragon. a Room of State in the Court
+
+ ACT III
+ Scene I. Grove near the Court
+ Scene II. The Court
+ Scene III. The Forest
+ Scene IV. The same
+ Scene V. The same
+
+ ACT IV
+ Scene I. Valencia. The Court
+ Scene II. The Forest
+ Scene III. The same
+ Scene IV. The Court
+
+ ACT V
+ Scene I. The Forest
+ Scene II. Open Place near the Court of the King of Aragon
+ EPILOGUE
+
+
+
+
+Dramatis Personæ
+
+Adrostus, the KING OF ARAGON
+AMADINE, the King’s daughter of Aragon
+ARIENA, Amadine’s maid,
+SEGASTO, a Nobleman of Aragon
+RUMBELO, a Nobleman of Aragon
+COLLEN, a Councillor
+TREMELIO, a Captain
+MOUSE, the Clown
+
+
+KING OF VALENCIA
+MUCEDORUS, the Prince of Valencia
+ANSELMO, his friend
+RODERIGO, Nobleman of Valencia
+BORACHIUS, Nobleman of Valencia
+BREMO, a wild man
+
+
+COMEDY
+ENVY
+An OLD WOMAN
+Noblemen, Councillors, a Messenger, a Boy
+
+
+
+
+THE PROLOGUE
+
+
+Most sacred Majesty, whose great deserts
+Thy subject England, nay, the world, admires:
+Which heaven grant still increase! O, may your praise
+Multiplying with your hours, your fame still raise!
+Embrace your council: love with faith them guide,
+That both, as one, bench by each other’s side.
+So may your life pass on, and run so even,
+That your firm zeal plant you a throne in heaven,
+Where smiling angels shall your guardians be
+From blemish’d traitors, stain’d with perjury.
+And as the night’s inferior to the day,
+So be all earthly regions to your sway!
+Be as the sun to day, the day to night,
+For from your beams Europe shall borrow light.
+Mirth drown your bosom, fair delight your mind,
+And may our pastime your contentment find.
+
+[_Exit Prologue._]
+
+
+
+
+INDUCTION
+
+
+Enter Comedy, joyfully, with a Garland of Bays on her head.
+
+COMEDY.
+Why so; thus do I hope to please:
+Music revives, and mirth is tolerable;
+Comedy, play thy part and please;
+Make merry them that comes to joy with thee.
+Joy then, good gentles; I hope to make you laugh.
+Sound forth Bellona’s silver-tuned strings;
+Time fits us well, the day and place is ours.
+
+Enter Envy, his arms naked, besmeared with blood.
+
+ENVY.
+Nay, stay, you minion, stay; there lies a block!
+What, all on mirth? I’ll interrupt your tale,
+And mix your music with a tragic end.
+
+COMEDY.
+What monstrous ugly hag is this,
+That dares control the pleasures of our will?
+Vaunt, churlish cur, besmear’d with gory blood,
+That seemst to check the blossoms of delight,
+And stifle the sound of sweet Bellona’s breath;
+Blush, monster, blush, and post away with shame,
+That seekest disturbance of a goddess’ deeds.
+
+ENVY.
+Post hence thyself, thou counterchecking trull;
+I will possess this habit, spite of thee,
+And gain the glory of thy wished sport.
+I’ll thunder music shall appal the nymphs,
+And make them shiver their clattering strings,
+Flying for succour to their dankish caves.
+
+[_Sound drums within, and cry, ‘Stab! Stab!’_]
+
+Hark, hearken, thou shalt hear a noise
+Shall fill the air with a shrilling sound,
+And thunder music to the gods above:
+Mars shall himself reach down
+A peerless crown upon brave Envy’s head,
+And raise his rival with a lasting fame.
+In this brave music Envy takes delight,
+Where I may see them wallow in their blood,
+And spurn at arms and legs quite shivered off,
+And hear the cries of many thousands slain.
+How lik’st thou this, my trull? ’tis sport alone for me!
+
+COMEDY.
+Vaunt, bloody cur, nurs’d up with tiger’s sap,
+That so dost seek to quail a woman’s mind!
+Comedy’s mild, gentle, willing for to please,
+And seeks to gain the love of all estates,
+Delights in mirth, mix’d all with lovely tales,
+And bringeth things with treble joy to pass.
+Thou bloody, envious ’sdainer of men’s joys,
+Whose name is fraught with bloody stratagems,
+Delights in nothing but in spoil and death,
+Where thou may’st trample in their lukewarm blood,
+And grasp their hearts within thy cursed paws.
+Yet veil thy mind; revenge thou not on me;
+A silly woman begs it at thy hands.
+Give me the leave to utter out my play;
+Forbear this place; I humbly crave thee, hence!
+And mix not death ’mongst pleasing comedies,
+That treat nought else but pleasure and delight.
+If any spark of human rests in thee,
+Forbear; begone; tender the suit of me.
+
+ENVY.
+Why, so I will; forbearance shall be such,
+As treble death shall cross thee with despite,
+And make thee mourn, where most thou joy’st,
+Turning thy mirth into a deadly dole,
+Whirling thy measures with a peal of death,
+And drench thy metres in a sea of blood.
+This will I do; thus shall I bear with thee;
+And more, to vex thee with a deeper spite,
+I will with threats of blood begin thy play,
+Favoring thee with envy and with hate.
+
+COMEDY.
+Then, ugly monster, do thy worst,
+I will defend them in despite of thee:
+And though thou think’st with tragic fumes
+To brave my play unto my deep disgrace,
+I force it not, I scorn what thou canst do;
+I’ll grace it so, thyself shall it confess,
+From tragic stuff to be a pleasant comedy.
+
+ENVY.
+Why then, Comedy, send thy actors forth,
+And I will cross the first steps of their tread,
+Making them fear the very dart of death.
+
+COMEDY.
+And I’ll defend them maugre all thy spite.
+So, ugly fiend, farewell, till time shall serve,
+That we may meet to parley for the best.
+
+ENVY.
+Content, Comedy, I’ll go spread my branch,
+And scattered blossoms from mine envious tree
+Shall prove to monsters, spoiling of their joys.
+
+[_Exeunt._]
+
+
+
+
+ACT I
+
+SCENE I. Valencia. The Court
+
+
+Sound. Enter Mucedorus and Anselmo his friend.
+
+MUCEDORUS.
+Anselmo!
+
+ANSELMO.
+My lord and friend.
+
+MUCEDORUS.
+True, my Anselmo, both thy lord and friend—
+
+ANSELMO.
+Whose dear affections bosom with my heart,
+And keep their domination in one orb,
+Whence ne’er disloyalty shall root it forth,
+But faith plant firmer in your choice respect.
+
+MUCEDORUS.
+Much blame were mine, if I should other deem,
+Nor can coy Fortune contrary allow.
+But, my Anselmo, loth I am to say,
+I must estrange that friendship;
+Misconstrue not, ’tis from the realm, not thee:
+Though lands part bodies, hearts keep company.
+Thou knowst that I imparted often have
+Private relations with my royal sire,
+Had as concerning beautious Amadine,
+Rich Aragon’s bright jewel, whose face (some say)
+That blooming lilies never shone so gay,
+Excelling, not excell’d; yet least report
+Does mangle verity, boasting of what is not,
+Wing’d with desire, thither I’ll straight repair,
+And be my fortunes, as my thoughts are, fair!
+
+ANSELMO.
+Will you forsake Valencia, leave the court,
+Absent you from the eye of sovereignty?
+Do not, sweet prince, adventure on that task,
+Since danger lurks each where; be won from it!
+
+MUCEDORUS.
+Desist dissuasion,
+My resolution brooks no battery.
+Therefore, if thou retain thy wonted form,
+Assist what I intend.
+
+ANSELMO.
+Your miss will breed a blemish in the court,
+And throw a frosty dew upon that beard,
+Whose front Valencia stoops to.
+
+MUCEDORUS.
+If thou my welfare tender, then no more;
+Let love’s strong magic charm thy trivial phrase,
+Wasted as vainly as to gripe the sun.
+Augment not then more answers; lock thy lips,
+Unless thy wisdom suit me with disguise,
+According to my purpose.
+
+ANSELMO.
+That action craves no counsel,
+Since what you rightly are will more command,
+Than best usurped shape.
+
+MUCEDORUS.
+Thou still art opposite in disposition;
+A more obscure servile habiliment
+Beseems this enterprise.
+
+ANSELMO.
+Then like a Florentine or mountebank!
+
+MUCEDORUS.
+’Tis much too tedious; I dislike thy judgement,
+My mind is grafted on an humbler stock.
+
+ANSELMO.
+Within my closet there does hang a cassock,
+Though base the weed is, ’twas a shepherd’s once,
+Which I presented in Lord Julio’s masque.
+
+MUCEDORUS.
+That, my Anselmo, and none else but that,
+Mask Mucedorus from the vulgar view.
+That habit suits my mind; fetch me that weed.
+
+[_Exit Anselmo._]
+
+Better than kings have not disdain’d that state,
+And much inferiour, to obtain their mate.
+
+Enter Anselmo with a Shepherd’s coat, which he gives to Mucedorus.
+
+MUCEDORUS.
+So!
+Let our respect command thy secrecy,
+And let us take at once a brief farewell;
+Delay to lovers is a second hell.
+
+[_Exit Mucedorus._]
+
+ANSELMO.
+Prosperity forerun thee; awkward chance
+Never be neighbour to thy wishes’ venture;
+Content and Fame advance thee; ever thrive,
+And glory thy mortality survive!
+
+[_Exit._]
+
+SCENE II. A Forest in Aragon
+
+Enter Mouse with a bottle of hay.
+
+MOUSE.
+O horrible, terrible! Was ever poor gentleman so scar’d out of his
+seven senses? A bear? Nay, sure it cannot be a bear, but some devil in
+a bear’s doublet; for a bear could never have had that agility to have
+frighted me. Well, I’ll see my father hanged before I’ll serve his
+horse any more. Well, I’ll carry home my bottle of hay, and for once
+make my father’s horse turn Puritan, and observe fasting-days, for he
+gets not a bit. But soft! this way she followed me; therefore I’ll take
+the other path, and because I’ll be sure to have an eye on her, I will
+shake hands with some foolish creditor, and make every step backward.
+
+[_As he goes backwards, the Bear comes in, and he tumbles over her, and
+runs away, and leaves his bottle of hay behind him_.]
+
+SCENE III. The same
+
+Enter Segasto running, and Amadine after him, being pursued with a
+bear.
+
+SEGASTO.
+Oh fly, madam, fly or else we are but dead!
+
+AMADINE.
+Help, sweet Segasto, help, or else I die!
+
+SEGASTO.
+Alas, madam! there is no way but flight;
+Then haste and save yourself.
+
+[_Segasto runs away._]
+
+AMADINE.
+Why then I die; ah! help me in distress!
+
+Enter Mucedorus, like a Shepherd, with a sword drawn, and a Bear’s head
+in his hand.
+
+MUCEDORUS.
+Stay, lady, stay; and be no more dismay’d.
+That cruel beast, most merciless and fell,
+Which hath bereaved thousands of their lives,
+Affrighted many with his hard pursuits,
+Prying from place to place to find his prey,
+Prolonging thus his life by others’ death,
+His carcass now lies headless, void of breath.
+
+AMADINE.
+That foul, deformed monster, is he dead?
+
+MUCEDORUS.
+Assure yourself thereof—behold his head;
+Which, if it please you, lady, to accept,
+With willing heart I yield it to your majesty.
+
+AMADINE.
+Thanks, worthy shepherd, thanks a thousand times;
+This gift, assure thyself, contents me more
+Than greatest bounty of a mighty prince,
+Although he were the monarch of the world.
+
+MUCEDORUS.
+Most gracious goddess, more than mortal wight—
+Your heavenly hue of right imports no less—
+Most glad am I, in that it was my chance
+To undertake this enterprise in hand,
+Which doth so greatly glad your princely mind.
+
+AMADINE.
+No goddess, shepherd, but a mortal wight,
+A mortal wight distressed as thou seest:
+My father here is King of Aragon,
+I, Amadine, his only daughter am,
+And after him sole heir unto the crown.
+And now, whereas it is my father’s will,
+To marry me unto Segasto, one,
+Whose wealth through’s father’s former usury
+Is known to be no less than wonderful,
+We both of custom oftentimes did use,
+Leaving the court, to walk within the fields
+For recreation, specially in spring,
+In that it yields great store of rare delights;
+And passing farther than our wonted walks,
+Scarce ent’red were within these luckless woods,
+But right before us down a steep-fall hill
+A monstrous ugly bear did hie him fast
+To meet us both—I faint to tell the rest,
+Good shepherd, but suppose the ghastly looks,
+The hideous fears, the hundred thousand woes,
+Which at this instant Amadine sustained.
+
+MUCEDORUS.
+Yet, worthy princess, let thy sorrow cease,
+And let this sight your former joys revive.
+
+AMADINE.
+Believe me, shepherd, so it doth, no less.
+
+MUCEDORUS.
+Long may they last unto your heart’s content.
+But tell me, lady, what is become of him,
+Segasto call’d, what’s become of him?
+
+AMADINE.
+I know not, I; that know the powers divine;
+But God grant this, that sweet Segasto live!
+
+MUCEDORUS.
+Yet was hard-hearted he, in such a case,
+So cowardly to save himself by flight,
+And leave so brave a princess to the spoil.
+
+AMADINE.
+Well, shepherd, for thy worthy valour tried,
+Endangering thyself to set me free,
+Unrecompensed, sure, thou shalt not be.
+In court thy courage shall be plainly known;
+Throughout the kingdom will I spread thy name,
+To thy renown and never-dying fame;
+And that thy courage may be better known,
+Bear thou the head of this most monstrous beast
+In open sight to every courtier’s view.
+So will the king, my father, thee reward.
+Come, let’s away and guard me to the court.
+
+MUCEDORUS.
+With all my heart.
+
+[_Exeunt._]
+
+SCENE IV. Outskirts of the Forest
+
+Enter Segasto solus.
+
+SEGASTO.
+When heaps of harms do hover over head,
+’Tis time as then, some say, to look about,
+And of ensuing harms to choose the least.
+But hard, yea hapless, is that wretch’s chance,
+Luckless his lot, and caytiff-like accurst.
+At whose proceedings fortune ever frowns.
+Myself, I mean, most subject unto thrall;
+For I, the more I seek to shun the worst,
+The more by proof I find myself accurs’d.
+Erewhiles assaulted with an ugly bear,
+With Amadine in company all alone,
+Forthwith by flight I thought to save myself,
+Leaving my Amadine unto her shifts;
+For death it was for to resist the bear,
+And death no less of Amadine’s harms to hear.
+Accursed I, in ling’ring life thus long!
+In living thus, each minute of an hour
+Doth pierce my heart with darts of thousand deaths.
+If she by flight her fury do escape,
+What will she think?
+Will she not say, yea, flatly to my face,
+Accusing me of mere disloyalty:
+A trusty friend is tried in time of need.
+But I, when she in danger was of death,
+And needed me, and cried, Segasto, help!
+I turn’d my back, and quickly ran away,
+Unworthy I to bear this vital breath!
+But what, what needs these plaints?
+If Amadine do live, then happy I:
+She will in time forgive and so forget.
+Amadine is merciful, not Juno-like,
+In harmful heart to harbour hatred long.
+
+Enter Mouse the Clown, running, crying, Clubs!
+
+MOUSE.
+Clubs, prongs, pitchforks, bills! O help! A bear, a bear, a bear, a
+bear!
+
+SEGASTO.
+Still bears, and nothing else but bears? Tell me, sirrah, where she is.
+
+MOUSE.
+O sir, she is run down the woods, I see her white head and her white
+belly.
+
+SEGASTO.
+Thou talkest of wonders, to tell me of white bears; but, sirrah, didst
+thou ever see any such?
+
+MOUSE.
+No, faith, I never saw any such; but I remember my father’s words, he
+bade me take heed I was not caught with a white bear.
+
+SEGASTO.
+A lamentable tale, no doubt.
+
+MOUSE.
+I tell you what, sir; as I was going a-field to serve my father’s great
+horse, and carried a bottle of hay upon my head—now, do you see, sir,
+I, fast hoodwinked, that I could see nothing, perceiving the bear
+coming, I threw my hay into the hedge and ran away.
+
+SEGASTO.
+What, from nothing?
+
+MOUSE.
+I warrant you, yes, I saw something; for there was two load of thorns
+besides my bottle of hay, and that made three.
+
+SEGASTO.
+But tell me, sirrah, the bear that thou didst see,
+Did she not bear a bucket on her arm?
+
+MOUSE.
+Ha, ha, ha! I never saw bear go a-milking in my life. But hark you,
+sir, I did not look so high as her arm, I saw nothing but her white
+head and her white belly.
+
+SEGASTO.
+But tell me, sirrah, where dost thou dwell?
+
+MOUSE.
+Why, do you not know me?
+
+SEGASTO.
+Why, no; how should I know thee?
+
+MOUSE.
+Why, then you know nobody, an you know not me. I tell you, sir, I am
+goodman Rat’s son, of the next parish over the hill.
+
+SEGASTO.
+Goodman Rat’s son; why, what’s thy name?
+
+MOUSE.
+Why, I am very near kin unto him.
+
+SEGASTO.
+I think so; but what’s thy name?
+
+MOUSE.
+My name? I have a very pretty name; I’ll tell you what my name is, my
+name is Mouse.
+
+SEGASTO.
+What, plain Mouse?
+
+MOUSE.
+Ay, plain Mouse without either welt or guard. But do you hear, sir, I
+am but a very young Mouse, for my tail is scarce grown out yet; look
+you here else.
+
+SEGASTO.
+But, I pray thee, who gave thee that name?
+
+MOUSE.
+Faith, sir, I know not that, but if you would fain know, ask my
+father’s great horse, for he hath been half a year longer with my
+father than I have.
+
+SEGASTO.
+[_Aside_.] This seems to be a merry fellow;
+I care not if I take him home with me.
+Mirth is a comfort to a troubled mind,
+A merry man a merry master makes.
+[_To Mouse_.] How say’st thou, sirrah, wilt thou dwell with me?
+
+MOUSE.
+Nay, soft, sir; two words to a bargain; pray you, what occupation are
+you?
+
+SEGASTO.
+No occupation, I live upon my lands.
+
+MOUSE.
+Your lands? Away, you are no master for me. Why, do you think that I am
+so mad to go seek my living in the lands amongst the stones, briars,
+and bushes, and tear my holiday-apparel? Not I, by your leave.
+
+SEGASTO.
+Why, I do not mean thou shalt.
+
+MOUSE.
+How then?
+
+SEGASTO.
+Why, thou shalt be my man, and wait upon me at the court.
+
+MOUSE.
+What’s that?
+
+SEGASTO.
+Where the king lies.
+
+MOUSE.
+What’s that same king, a man or woman?
+
+SEGASTO.
+A man as thou art.
+
+MOUSE.
+As I am? Hark you, sir, pray you, what kin is he to goodman King of our
+parish, the churchwarden?
+
+SEGASTO.
+No kin to him; he is the king of the whole land.
+
+MOUSE.
+King of the land? I never saw him.
+
+SEGASTO.
+If thou wilt dwell with me, thou shalt see him every day.
+
+MOUSE.
+Shall I go home again to be torn in pieces with bears? No, not I, I
+will go home and put on a clean shirt, and then go drown myself.
+
+SEGASTO.
+Thou shalt not need, if thou wilt dwell with me, thou shalt want
+nothing.
+
+MOUSE.
+Shall I not? Then here’s my hand, I’ll dwell with you. And hark you,
+sir! now you have entertained me, I will tell you what I can do. I can
+keep my tongue from picking and stealing, and my hands from lying and
+slandering, I warrant you, as well as ever you had man in all your
+life.
+
+SEGASTO.
+Now will I to court with sorrowful heart, rounded with doubts.
+If Amadine do live, then happy I:
+Yea happy I, if Amadine do live.
+
+[_Exeunt._]
+
+
+
+
+ACT II
+
+SCENE I. The Camp of the King of Aragon
+
+
+Enter the King with a young Prince prisoner, Amadine, Tremelio, with
+Collen and Councillors.
+
+KING OF ARAGON.
+Now, brave Lords, our wars are brought to end,
+Our foes to foil, and we in safety rest,
+It us behoves to use such clemency
+In peace, as valour in the wars. It is
+As great an honour to be bountiful
+At home, as to be conquerors in the field.
+Therefore, my lords, the more to my content,
+Your liking, and your country’s safeguard,
+We are dispos’d in marriage for to give
+Our daughter to Lord Segasto here,
+Who shall succeed the diadem after me,
+And reign hereafter as tofore I’ve done,
+Your sole and lawful King of Aragon.
+What say you, lordings, like you of my advice?
+
+COLLEN.
+An’t please your majesty, we do not only allow of your highness’
+pleasure, but also vow faithfully in what we may to further it.
+
+KING OF ARAGON.
+Thanks, good my lords, if long Adrostus live
+He will at full requite your courtesies.
+Tremelio,
+In recompense of thy late valour done,
+Take unto thee the Catalonian prince,
+Our prisoner, lately taken in the wars.
+Be thou his keeper, his ransom shall be thine;
+We’ll think of it, when leisure shall afford.
+Meanwhile, do use him well; his father is a king.
+
+TREMELIO.
+Thanks to your majesty, his usage shall be such,
+As he thereat shall think no cause to grutch.
+
+[_Exeunt Tremelio and Prince._]
+
+KING OF ARAGON.
+Then march we on to court, and rest our wearied limbs!
+But, Collen, I’ve a tale in secret kept for thee:
+When thou shalt hear a watchword from thy king,
+Think then some weighty matter is at hand,
+That highly shall concern our state,
+Then, Collen, look thou be not far from me,
+And for thy service thou tofore hast done,
+Thy truth and valour prov’d in every point,
+I shall with bounties thee enlarge therefore.
+So guard us to the court.
+
+COLLEN.
+What so my sovereign doth command me do,
+With willing mind I gladly yield consent.
+
+[_Exeunt._]
+
+SCENE II. The same
+
+Enter Segasto and the Clown, with weapons about him.
+
+SEGASTO.
+Tell me, sirrah, how do you like your weapons?
+
+MOUSE.
+O, very well, very well, they keep my sides warm.
+
+SEGASTO.
+They keep the dogs from your shins very well, do they not?
+
+MOUSE.
+How, keep the dogs from my shins? I would scorn but my shins could keep
+the dogs from them.
+
+SEGASTO.
+Well, sirrah, leaving idle talk, tell me, dost thou know Captain
+Tremelio’s chamber?
+
+MOUSE.
+Ay, very well, it hath a door.
+
+SEGASTO.
+I think so; for so hath every chamber. But dost thou know the man?
+
+MOUSE.
+Ay, forsooth, he hath a nose on his face.
+
+SEGASTO.
+Why, so hath every one.
+
+MOUSE.
+That’s more than I know.
+
+SEGASTO.
+But dost thou remember the captain that was here with the king even
+now, that brought the young prince prisoner?
+
+MOUSE.
+O, very well.
+
+SEGASTO.
+Go unto him, and bid him come to me. Tell him I have a matter in secret
+to impart to him.
+
+MOUSE.
+I will, master; master, what’s his name?
+
+SEGASTO.
+Why, Captain Tremelio, man
+
+MOUSE.
+O, the meal-man; I know him very well; he brings meal every Saturday;
+but hark you, master, must I bid him come to you, or must you come to
+him?
+
+SEGASTO.
+No, sirrah, he must come to me.
+
+MOUSE.
+Hark you, master; how, if he be not at home? What shall I do then?
+
+SEGASTO.
+Why, then leave word with some of his folks.
+
+MOUSE.
+O, master, if there be nobody within, I will leave word with his dog.
+
+SEGASTO.
+Why, can his dog speak?
+
+MOUSE.
+I cannot tell; wherefore doth he keep his chamber else?
+
+SEGASTO.
+To keep out such knaves as thou art.
+
+MOUSE.
+Nay, by’r Lady, then go yourself.
+
+SEGASTO.
+You will go, sir; will ye not?
+
+MOUSE.
+Yes, marry, will I. O, ’tis come to my head, an a be not within, I’ll
+bring his chamber to you.
+
+SEGASTO.
+What, wilt thou pluck down the king’s house?
+
+MOUSE.
+Nay, by’r Lady, I’ll know the price of it first. Master, it is such a
+hard name, I have forgotten it again. I pray you, tell me his name.
+
+SEGASTO.
+I tell thee, Captain Tremelio, knave.
+
+MOUSE.
+Oh, Captain Treble-knave, Captain Treble-knave.
+
+[_Calling._]
+
+Enter Tremelio.
+
+TREMELIO.
+How now, sirrah, dost thou call me?
+
+MOUSE.
+You must come to my master, Captain Treble-knave.
+
+TREMELIO.
+My lord Segasto, did you send for me?
+
+SEGASTO.
+I did, Tremelio. Sirrah, about your business!
+
+MOUSE.
+Ay, marry, what’s that, can you tell?
+
+SEGASTO.
+No, not well.
+
+MOUSE.
+Marry, then, I can; straight to the kitchen-dresser, to John the cook,
+and get me a good piece of beef and brewis; and then to the
+buttery-hatch, to Thomas the butler for a jack of beer, and there for
+an hour I’ll so belabour myself; and therefore, I pray you call me not
+till you think I have done, I pray you, good master.
+
+SEGASTO.
+Well, sir, away. Tremelio, this it is!
+
+[_Exit Mouse._]
+
+Thou know’st the valour of Segasto spread
+Through all the kingdom of great Aragon,
+Such as hath triumph found and favours, never
+Daunted at any time, but now a shepherd
+Admired is at in court for worthiness,
+And lord Segasto’s honour laid aside;
+My will therefore is this, that thou dost find
+Some means to work the shepherd’s death: I know
+Thy strength sufficient to perform my wish,
+Thy love no other than to ’venge my injuries.
+
+TREMELIO.
+’Tis not the shepherd’s frowns Tremelio fears,
+Therefore, ’count it accomplish’d what I take in hand.
+
+SEGASTO.
+Thanks, good Tremelio, and assure thyself,
+What I promise, that will I perform.
+
+TREMELIO.
+Thanks, my good lord, and in good time see where
+He cometh. Stand by awhile, and you shall see
+Me put in practice your intended drifts.
+
+Enter Mucedorus.
+
+Have at thee, swain, if that I hit thee right!
+
+MUCEDORUS.
+Vile coward, so without cause to strike a man—
+Turn, coward, turn; now strike, and do thy worst!
+
+[_Mucedorus kills him._]
+
+SEGASTO.
+Hold, shepherd, hold! O spare him, kill him not!
+Accursed villain, tell me, what thou’st done?
+Tremelio, ah, trusty Tremelio!
+I sorrow for thy death, and since that thou
+Living didst faithful prove unto Segasto,
+So now Segasto living with revenge
+Will honour th’ dead corpse of Tremelio.
+Bloodthirsty villain, born and bred to merciless murther,
+Tell me, how durst thou be so bold, as once
+To lay thy hands upon the least of mine?
+Assure thee, thou’lt be used according to the law!
+
+MUCEDORUS.
+Segasto, cease! these threats are needless.
+Accuse not me of murther, that have done
+Nothing but in mine own defence.
+
+SEGASTO.
+Nay, shepherd, reason not with me;
+I’ll manifest thy fact unto the King,
+Whose doom will be thy death, as thou deserv’st.
+What ho, Mouse, come away!
+
+Enter Mouse.
+
+MOUSE.
+Why, how now, what’s the matter? I thought you would be calling before
+I had done.
+
+SEGASTO.
+Come, help, away with my friend.
+
+MOUSE.
+Why, is he drunk? Cannot he stand on his feet?
+
+SEGASTO.
+No, he is not drunk, he is slain.
+
+MOUSE.
+Flain? No, by’r Lady, he is not flain.
+
+SEGASTO.
+He’s killed, I tell thee.
+
+MOUSE.
+What do you use to kill your friends? I will serve you no longer.
+
+SEGASTO.
+I tell thee, the shepherd killed him.
+
+MOUSE.
+O, did a so? But, master, I will have all his apparel, if I carry him
+away.
+
+SEGASTO.
+Why, so thou shalt.
+
+MOUSE.
+Come, then, I will help; mass, master, I think his mother song looby to
+him, he is so heavy.
+
+[_Exeunt Segasto and Mouse._]
+
+MUCEDORUS.
+Behold the fickle state of man,
+That’s always mutable, never at one!
+Sometimes we feed on fancies with the sweet
+Of our desires, sometimes again
+We feel the heat of extreme miseries.
+Now I’m in favour ’bout the court and country;
+Tomorrow will those favours turn to frowns.
+Today I live, revenged on my foe,
+Tomorrow I die, my foe reveng’d on me.
+
+[_Exit._]
+
+SCENE III. The Forest
+
+Enter Bremo, a wild man.
+
+BREMO.
+No passenger this morning? What, not one?
+A chance that seldom doth befall.
+What, not one? Then lie thou there,
+And rest thyself till I have further need.
+
+[_Lays down his club._]
+
+Now, Bremo, sit, thy leisure so affords,
+An needless thing. [_Sits down_.] Who knows not Bremo’s strength,
+That like a king commands within these woods?
+The bear, the boar dare not abide my sight,
+But haste away to save themselves by flight.
+The crystal waters in the bubbling brooks,
+When I come by, doth swiftly slide away,
+And clap themselves in closets under banks,
+Afraid to look bold Bremo in the face.
+The aged oaks at Bremo’s breath do bow,
+And all things else are still at my command.
+Else what would I?
+Rend them in pieces, pluck them from the earth,
+And each way else I would revenge myself.
+Why, who comes here with whom I dare not fight?
+Who fights with me and doth not die the death? Not one!
+What favour shows this sturdy stick to those,
+That here within these woods are combatants with me?
+Why, death, and nothing else but present death.
+With restless rage I wander through these woods,
+No creature here, but feareth Bremo’s force:
+Man, woman, child, and beast, and bird,
+And everything that doth approach my sight,
+Are forc’d to fall if Bremo once do frown.
+Come, cudgel, come, my partner in my spoils,
+For here I see this day it will not be;
+But when it falls that I encounter any,
+One pat sufficeth for to work my will.
+What, comes not one? Then let’s be gone;
+A time will serve, when we shall better speed.
+
+[_Exit._]
+
+SCENE IV. Aragon. a Room of State in the Court
+
+Enter the King, Segasto, the Shepherd, and the Clown with others.
+
+KING OF ARAGON.
+Shepherd, thou hast heard thine accusers; murther
+Is laid unto thy charge; what canst thou say?
+Thou hast deserved death.
+
+MUCEDORUS.
+Dread sovereign, I must needs confess,
+I slew this captain in mine own defence,
+Not of any malice, but by chance;
+But mine accuser hath a further meaning.
+
+SEGASTO.
+Words will not here prevail:
+I seek for justice, and justice craves his death.
+
+KING OF ARAGON.
+Shepherd, thine own confession hath condemned thee.
+Sirrah, take him away,
+And do him straight to execution.
+
+MOUSE.
+So he shall, I warrant him. But do you hear, master king, he is kin to
+a monkey; his neck is bigger than his head.
+
+SEGASTO.
+Sirrah, away with him, and hang him ’bout the middle.
+
+MOUSE.
+Yes, forsooth, I warrant you. Come on, sir; ah, so like a sheepbiter a
+looks.
+
+Enter Amadine and a boy with a Bear’s Head.
+
+AMADINE.
+Dread sovereign and well beloved sire,
+On benden knees I crave the life of this
+Condemned shepherd, which tofore preserved
+The life of thy sometime distressed daughter.
+
+KING OF ARAGON.
+Preserved the life of my sometime distressed daughter?
+How can that be? I never knew the time
+Wherein thou wast distress’d: I never knew the day
+But that I have maintained thy estate,
+As best beseem’d the daughter of a king;
+I never saw the shepherd until now.
+How comes it then, that he preserv’d thy life?
+
+AMADINE.
+Once walking with Segasto in the woods,
+Further than our accustom’d manner was,
+Aright before us down a steep-fall hill,
+A monstrous ugly bear did hie him fast,
+To meet us both: now whether this be true,
+I refer it to the credit of Segasto.
+
+SEGASTO.
+Most true, an’t like your majesty.
+
+KING OF ARAGON.
+How then?
+
+AMADINE.
+The bear being eager to obtain his prey,
+Made forward to us with an open mouth,
+As if he meant to swallow us both at once;
+The sight whereof did make us both to dread,
+But specially your daughter Amadine,
+Who—for I saw no succour incident
+But in Segasto’s valour—desperate grew,
+And he most coward-like began to flie,
+Left me distress’d to be devour’d of him—
+Segasto, how say you? Is it not true?
+
+KING OF ARAGON.
+His silence verifies it to be true. What then?
+
+AMADINE.
+Then I amaz’d, distressed, all alone,
+Did hie me fast to ’scape that ugly bear,
+But all in vain; for why, he reached after me,
+And oft I hardly did escape his paws,
+Till at the length this shepherd came and brought
+To me his head. Come hither, boy; lo, here it is,
+Which I present unto your majesty.
+
+[_The bear’s head presented to the king._]
+
+KING OF ARAGON.
+The slaughter of this bear deserves great fame.
+
+SEGASTO.
+The slaughter of a man deserves great blame.
+
+KING OF ARAGON.
+Indeed, occasion ofttimes so falls out.
+
+SEGASTO.
+Tremelio in the wars, O King, preserved thee.
+
+AMADINE.
+The shepherd in the woods, O King, preserved me.
+
+SEGASTO.
+Tremelio fought, when many men did yield.
+
+AMADINE.
+So would the shepherd, had he been in field.
+
+MOUSE.
+[_Aside_.] So would my master, had he not run away.
+
+SEGASTO.
+Tremelio’s force sav’d thousands from the foe.
+
+AMADINE.
+The shepherd’s force hath saved thousands more.
+
+MOUSE.
+[_Aside_.] Ay, shipsticks, nothing else.
+
+KING OF ARAGON.
+Segasto, cease the shepherd to accuse,
+His worthiness deserves a recompense,
+All we are bound to do the shepherd good.
+Shepherd,
+Whereas it was my sentence thou shouldst die,
+So shall my sentence stand, for thou shalt die.
+
+SEGASTO.
+Thanks to your majesty.
+
+KING OF ARAGON.
+[_To Segasto_.] But soft, Segasto, not for this offence.
+[_To Mucedorus_.] Long may’st thou live; [_to Segasto_.] and when the
+Sisters shall decree
+To cut in twain the twisted thread of life,
+Then let him die: for this I set thee free;
+[_To Mucedorus_.] And for thy valour I will honour thee.
+
+AMADINE.
+Thanks to your majesty.
+
+KING OF ARAGON.
+Come, daughter, let us now depart to honour
+The worthy valour of the shepherd with rewards.
+
+[_Exeunt._]
+
+MOUSE.
+O master, hear you, you have made a fresh hand now, I thought you
+would, beshrew you! Why, what will you do now? You have lost me a good
+occupation by the means. Faith, master, now I cannot hang the shepherd,
+I pray you, let me take the pains to hang you, it is but half an hour’s
+exercise.
+
+SEGASTO.
+You are still in your knavery, but sith
+I cannot have his life, I will procure
+His banishment for ever. Come one, sirrah.
+
+MOUSE.
+Yes, forsooth, I come. [_Aside_.] Laugh at him, I pray you.
+
+[_Exeunt._]
+
+
+
+
+ACT III
+
+SCENE I. Grove near the Court
+
+
+Enter Mucedorus solus.
+
+MUCEDORUS.
+From Amadine, and from her father’s court,
+With gold and silver, and with rich rewards,
+Flowing from the banks of golden treasuries.
+More may I boast, and say, but I,
+Was never shepherd in such dignity.
+
+Enter the Messenger and Mouse, the Clown.
+
+MESSENGER.
+All hail, worthy shepherd!
+
+MOUSE.
+All rain, lousy shepherd!
+
+MUCEDORUS.
+Welcome, my friends, from whence come you?
+
+MESSENGER.
+The King and Amadine do greet thee well.
+And after greeting done, bid thee depart the court.
+Shepherd, begone!
+
+MOUSE.
+Shepherd, take law-legs; fly away, shepherd.
+
+MUCEDORUS.
+Whose words are these? Come these from Amadine?
+
+MESSENGER.
+Ay, from Amadine.
+
+MOUSE.
+Ay, from Amadine.
+
+MUCEDORUS.
+Ah! luckless fortune, worse than Phaeton’s tale,
+My former bliss is now become my bale.
+
+MOUSE.
+What, wilt thou poison thyself?
+
+MUCEDORUS.
+My former heaven is now become my hell.
+
+MOUSE.
+The worst alehouse that I ever came in, in all my life.
+
+MUCEDORUS.
+What shall I do?
+
+MOUSE.
+Even go hang thyself half an hour.
+
+MUCEDORUS.
+Can Amadine so churlishly command,
+To banish th’ shepherd from her father’s court?
+
+MESSENGER.
+What should shepherds do in the court?
+
+MOUSE.
+What should shepherds do amongst us? Have we not lords enough o’er us
+in the court?
+
+MUCEDORUS.
+Why, shepherds are men, and kings are no more.
+
+MESSENGER.
+Shepherds are men, and masters o’er their flock.
+
+MOUSE.
+That’s a lie; who pays them their wages, then?
+
+MESSENGER.
+Well, you are always interrupting of me, but you are best look to him,
+lest you hang for him, when he is gone.
+
+[_Exit._]
+
+MOUSE.
+[_Sings._] _And you shall hang for company,
+For leaving me alone._
+Shepherd, stand forth, and hear thy sentence! Shepherd, begone within
+three days, on pain of my displeasure; shepherd, begone; shepherd,
+begone, begone, begone, begone; shepherd, shepherd, shepherd.
+
+[_Exit._]
+
+MUCEDORUS.
+And must I go? and must I needs depart?
+Ye goodly groves, partakers of my songs,
+In time tofore, when fortune did not frown,
+Pour forth your plaints, and wail a while with me.
+And thou bright sun, my comfort in the cold,
+Hide, hide thy face, and leave me comfortless;
+Ye wholesome herbs, and sweet-smelling savours,
+Yea, each thing else prolonging life of man,
+Change, change your wonted course that I,
+Wanting your aid, in woful sort may die.
+
+Enter Amadine and Ariena, her maid.
+
+AMADINE.
+Ariena,
+If any body ask for me, make some excuse,
+Till I return.
+
+ARIENA.
+What, an Segasto call?
+
+AMADINE.
+Do thou the like to him, I mean not to stay long.
+
+[_Exit Ariena._]
+
+MUCEDORUS.
+This voice so sweet my pining spirits revives.
+
+AMADINE.
+Shepherd, well met, pray, tell me how thou dost?
+
+MUCEDORUS.
+I linger life, yet wish for speedy death.
+
+AMADINE.
+Shepherd!
+Although thy banishment already be decreed,
+And all against my will, yet Amadine—
+
+MUCEDORUS.
+Ah, Amadine, to hear of banishment is death,
+Ay, double death to me, but since I must depart,
+One thing I crave—
+
+AMADINE.
+Say on, with all my heart.
+
+MUCEDORUS.
+That in my absence, either far or near,
+You honour me as servant to your name.
+
+AMADINE.
+Not so.
+
+MUCEDORUS.
+And why?
+
+AMADINE.
+I honour thee as sovereign of my heart.
+
+MUCEDORUS.
+A shepherd and a sovereign nothing like.
+
+AMADINE.
+Yet like enough, where there is no dislike.
+
+MUCEDORUS.
+Yet great dislike, or else no banishment.
+
+AMADINE.
+Shepherd, it only is
+Segasto that procures thy banishment.
+
+MUCEDORUS.
+Unworthy wights are most in jealousy.
+
+AMADINE.
+Would God, they would free thee from banishment,
+Or likewise banish me.
+
+MUCEDORUS.
+Amen, I say, to have your company.
+
+AMADINE.
+Well, shepherd, sith thou sufferest this for my sake,
+With thee in exile also let me live,
+On this condition, shepherd, thou canst love.
+
+MUCEDORUS.
+No longer love, no longer let me live.
+
+AMADINE.
+Of late I loved one indeed, now love I none but only thee.
+
+MUCEDORUS.
+Thanks, worthy princess,
+I burn likewise, yet smother up the blast,
+I dare not promise what I mayn’t perform.
+
+AMADINE.
+Well, shepherd, hark what I shall say,
+I will return unto my father’s court,
+For to provide me of such necessaries
+As for my journey I shall think most fit.
+This being done, I will return to thee;
+Do thou therefore appoint the place, where we may meet.
+
+MUCEDORUS.
+Down in the valley, where I slew the bear,
+And there doth grow a fair broad-branched beech,
+That overshades a well: so who comes first,
+Let them abide the happy meeting of us both.
+How like you this?
+
+AMADINE.
+I like it very well.
+
+MUCEDORUS.
+Now, if you please, you may appoint the time.
+
+AMADINE.
+Full three hours hence, God willing, I’ll return.
+
+MUCEDORUS.
+The thanks that Paris gave the Grecian queen,
+The like doth Mucedorus yield.
+
+AMADINE.
+Then, Mucedorus, for three hours farewell.
+
+[_Exit._]
+
+MUCEDORUS.
+Your ’parture, lady, breeds a privy pain.
+
+[_Exit._]
+
+SCENE II. The Court
+
+Enter Segasto solus.
+
+SEGASTO.
+’Tis well, Segasto, that thou hast thy will:
+Should such a shepherd, such a simple swain,
+Eclipse thy credit famous through the court?
+No, ply, Segasto, ply!
+And let it not be said in Aragon,
+A shepherd hath Segasto’s honour won.
+
+Enter Mouse, the Clown, calling his master.
+
+MOUSE.
+What ho! master, will you come away?
+
+SEGASTO.
+Will you come hither, I pray you, what is the matter?
+
+MOUSE.
+Why, is it not past eleven o’clock?
+
+SEGASTO.
+How then, sir?
+
+MOUSE.
+I pray you, come away to dinner.
+
+SEGASTO.
+I pray you, come hither.
+
+MOUSE.
+Here’s such a-do with you, will you never come?
+
+SEGASTO.
+I pray you, sir, what news of the message I sent you about?
+
+MOUSE.
+I tell you, all the messes be on the table already. There wants not so
+much as a mess of mustard half an hour ago.
+
+SEGASTO.
+Come, sir, your mind is all upon your belly,
+You have forgotten what I did bid you do.
+
+MOUSE.
+Faith, I know nothing, but you bade me go to breakfast.
+
+SEGASTO.
+Was that all?
+
+MOUSE.
+Faith, I have forgotten it, the very scent of the meat hath made me
+forget it quite.
+
+SEGASTO.
+You have forgotten the errand I bid you do?
+
+MOUSE.
+What arrant? an arrant knave, or an arrant whore?
+
+SEGASTO.
+Why, thou knave, did I not bid thee banish the shepherd, buzzard?
+
+MOUSE.
+O, the shepherd’s bastard.
+
+SEGASTO.
+I tell thee, the shepherd’s banishment.
+
+MOUSE.
+I tell you, the shepherd’s bastard shall be well kept; I’ll look to it
+myself. But I pray you, come away to dinner.
+
+SEGASTO.
+Then you will not tell me whether you have banished him, or no?
+
+MOUSE.
+Why, I cannot say _banishment_, an you would give me a thousand pounds
+to say so.
+
+SEGASTO.
+Why, you whoreson slave, have you forgotten that I sent you and another
+to drive away the shepherd?
+
+MOUSE.
+What an ass are you; here’s a stir indeed, here’s message, arrant,
+banishment, and I cannot tell what.
+
+SEGASTO.
+I pray you, sir, shall I know whether you have drove him away?
+
+MOUSE.
+Faith, I think I have; an you will not believe me, ask my staff.
+
+SEGASTO.
+Why, can thy staff tell?
+
+MOUSE.
+Why, he was with me too.
+
+SEGASTO.
+Then happy I, that have obtain’d my will.
+
+MOUSE.
+And happier I, if you would go to dinner.
+
+SEGASTO.
+Come, sirrah, follow me.
+
+MOUSE.
+I warrant you, I will not loose an inch of you, now you are going to
+dinner. [_Aside_.] I promise you, I thought it seven year, before I
+could get him away.
+
+[_Exeunt._]
+
+SCENE III. The Forest
+
+Enter Amadine sola.
+
+AMADINE.
+God grant my long delay procures no harm,
+Nor this my tarrying frustrate my pretence.
+My Mucedorus surely stays for me,
+And thinks me over-long. At length I come,
+My present promise to perform.
+Ah, what a thing is firm, unfeigned love!
+What is it which true love dares not attempt?
+My father, he may make, but I must match;
+Segasto loves, but Amadine must like,
+Where likes her best: compulsion is a thrall:
+No, no, the hearty choice is all in all,
+The shepherd’s virtue Amadine esteems.
+But what, methinks my shepherd is not come;
+I muse at that, the hour is sure at hand.
+Well, here I’ll rest, till Mucedorus come.
+
+[_She sits down._]
+
+Enter Bremo, looking about; hastily taketh hold of her.
+
+BREMO.
+A happy prey! now, Bremo, feed on flesh:
+Dainties, Bremo, dainties, thy hungry paunch to fill:
+Now glut thy greedy guts with lukewarm blood.
+Come, fight with me, I long to see thee dead.
+
+AMADINE.
+How can she fight, that weapons cannot wield?
+
+BREMO.
+What, canst not fight? Then lie thou down and die.
+
+AMADINE.
+What, must I die?
+
+BREMO.
+What needs these words? I thirst to suck thy blood.
+
+AMADINE.
+Yet pity me, and let me live a while!
+
+BREMO.
+No pity, I will feed upon thy flesh,
+And tear thy body piecemeal joint from joint.
+
+AMADINE.
+Ah, how I want my shepherd’s company!
+
+BREMO.
+I’ll crush thy bones betwixt two oaken trees.
+
+AMADINE.
+Haste, shepherd, haste, or else thou com’st too late.
+
+BREMO.
+I’ll suck the sweetness from thy marrow-bones.
+
+AMADINE.
+Ah spare, ah spare to shed my guiltless blood!
+
+BREMO.
+With this my bat will I beat out thy brains;
+Down, down, I say, prostrate thyself upon the ground.
+
+AMADINE.
+Then, Mucedorus, farewell, my hoped joys, farewell!
+Yea, farewell life, and welcome present death!
+
+[_She kneels._]
+
+To thee, O God, I yield my dying ghost.
+
+BREMO.
+Now, Bremo, play thy part.
+How now, what sudden change is this?
+My limbs do tremble, and my sinews shake,
+My weak’ned arms have lost their former force.
+Ah, Bremo, Bremo, what a foil hast thou,
+That yet at no time ever wast afraid
+To dare the greatest gods to fight with thee,
+
+[_He strikes._]
+
+And now wants strength for one down-driving blow?
+Ah, how my courage fails, when I should strike!
+Some new-come spirit abiding in my breast,
+Saith, _Spare her, Bremo, spare her, do not kill._
+Shall I spare her, which never spared any?
+To it, Bremo, to it; essay again.
+I cannot wield my weapon in my hand,
+Methinks I should not strike so fair a one,
+I think her beauty hath bewitch’d my force,
+Or else within me alter’d nature’s course.
+Ay, woman, wilt thou live i’ th’ woods with me?
+
+AMADINE.
+Fain would I live, yet loth to live in woods.
+
+BREMO.
+Thou shalt not choose, it shall be as I say,
+And therefore, follow me!
+
+[_Exeunt._]
+
+SCENE IV. The same
+
+Enter Mucedorus solus.
+
+MUCEDORUS.
+It was my will an hour ago and more,
+As was my promise for to make return;
+But other business hind’red my pretence:
+It is a world to see, when man appoints,
+And purposely one certain thing decrees,
+How many things may hinder his intent.
+What one would wish, the same is farthest off.
+But yet th’ appointed time cannot be past,
+Nor hath her presence yet prevented me.
+Well, here I will stay, and expect her coming.
+
+[_They cry within, ‘Hold him, stay him, hold!’_]
+
+Some one or other is pursued, no doubt,
+Perhaps some search for me; ’tis good
+To doubt the worst, therefore I’ll be gone.
+
+[_Exit._]
+
+SCENE V. The same
+
+Cry within ‘Hold him, hold him!’ Enter Mouse, the Clown, with a pot.
+
+MOUSE.
+Hold him, hold him, hold him! Here’s a stir indeed; here came hue after
+the crier, and I was set close at mother Nip’s house, and there I
+called for three pots of ale, as ’tis the manner of us courtiers. Now,
+sirrah, I had taken the maidenhead of two of them—now as I was lifting
+up the third to my mouth, there came: Hold him, hold him! Now I could
+not tell whom to catch hold on, but I am sure I caught one, perchance a
+may be in this pot. Well, I’ll see. Mass, I cannot see him yet; well,
+I’ll look a little further. Mass, he is a little slave, if a be here;
+why, here’s nobody. All this goes well yet; but if the old trot should
+come for her pot?—ay, marry, there’s the matter, but I care not, I’ll
+face her out, and call her old rusty, dusty, musty, fusty, crusty
+firebrand, and worse than all that, and so face her out of her pot. But
+soft! here she comes.
+
+Enter the Old Woman.
+
+OLD WOMAN.
+Come on, you knave; where’s my pot, you knave?
+
+MOUSE.
+Go look for your pot; come not to me for your pot, ’twere good for you.
+
+OLD WOMAN.
+Thou liest, thou knave, thou hast my pot.
+
+MOUSE.
+You lie, an you say it. I—your pot? I know what I’ll say.
+
+OLD WOMAN.
+Why, what wilt thou say?
+
+MOUSE.
+But say I have him, an thou dar’st.
+
+OLD WOMAN.
+Why, thou knave, thou hast not only my pot, but my drink unpaid for.
+
+MOUSE.
+You lie like an old—I will not say whore.
+
+OLD WOMAN.
+Dost thou call me whore? I’ll cap thee for my pot.
+
+MOUSE.
+Cap me, an thou dar’st; search me, whether I have it or no.
+
+[_She searcheth him, and he drinketh over her head, and casts down the
+pot; she stumbleth at it, then they fall together by the ears; she
+takes her pot and goes out._]
+
+Enter Segasto.
+
+SEGASTO.
+How now, sirrah, what’s the matter?
+
+MOUSE.
+Oh, flies, master, flies.
+
+SEGASTO.
+Flies? Where are they?
+
+MOUSE.
+Oh here, master, all about your face.
+
+SEGASTO.
+Why, thou liest; I think thou art mad.
+
+MOUSE.
+Why, master, I have kill’d a dungcartful at the least.
+
+SEGASTO.
+Go to, sirrah; leaving this idle talk, give ear to me.
+
+MOUSE.
+How, give you one of my ears? not, an you were ten masters.
+
+SEGASTO.
+Why, sir, I bade you give ear to my words.
+
+MOUSE.
+I tell you, I will not be made a curtal for no man’s pleasure.
+
+SEGASTO.
+I tell thee, attend what I say. Go thy ways straight, and rear the
+whole town.
+
+MOUSE.
+How, rear the town? Even go yourself; it is more than I can do. Why, do
+you think I can rear a town that can scarce rear a pot of ale to my
+head? I should rear a town, should I not?
+
+SEGASTO.
+Go to the constable, and make a privy search; for the shepherd is run
+away with the King’s daughter.
+
+MOUSE.
+How? is the shepherd run away with the King’s daughter, or is the
+King’s daughter run away with the shepherd?
+
+SEGASTO.
+I cannot tell, but they are both gone together.
+
+MOUSE.
+What a fool is she to run away with the shepherd! Why, I think I am a
+little handsomer man than the shepherd, myself; but tell me, master,
+must I make a privy search, or search in the privy?
+
+SEGASTO.
+Why, dost thou think they will be there?
+
+MOUSE.
+I cannot tell.
+
+SEGASTO.
+Well, then search everywhere; leave no place unsearched for them.
+
+[_Exit._]
+
+MOUSE.
+Oh, now am I in office, now will I to that old firebrand’s house, and
+will not leave one place unsearched. Nay, I’ll to her ale-stand and
+drink as long as I can stand; and when I have done, I’ll let out all
+the rest, to see if he be not hid in the barrel; an I find him not
+there, I’ll to the cupboard; I’ll not leave one corner of her house
+unsearched. I’ faith, ye old crust, I will be with you now.
+
+[_Exit._]
+
+
+
+
+ACT IV
+
+SCENE I. Valencia. The Court
+
+
+Sound Music. Enter the King of Valencia, Anselmo, Roderigo, Lord
+Borachius, with others.
+
+KING OF VALENCIA.
+Enough of music, it but adds to torment,
+Delights to vexed spirits are as dates
+Set to a sickly man, which rather cloy than comfort;
+Let me entreat you to repeat no more.
+
+RODERIGO.
+Let your strings sleep, have done there.
+
+[_Music ceases._]
+
+KING OF VALENCIA.
+Mirth to a soul disturb’d are embers turn’d
+Which sudden gleam with molestation,
+But sooner lose their light for it.
+’Tis gold bestow’d upon a rioter,
+Which not relieves but murders him; a drug
+Given to the healthful, which infects, not cures.
+How can a father that hath lost his son,
+A prince both virtuous, wise, and valiant,
+Take pleasure in the idle acts of time?
+No, no; till Mucedorus I shall see again,
+All joy is comfortless, all pleasure pain.
+
+ANSELMO.
+Your son, my lord, is well.
+
+KING OF VALENCIA.
+I prythee, speak that twice.
+
+ANSELMO.
+The prince, your son, is safe.
+
+KING OF VALENCIA.
+O where, Anselmo? Surfeit me with that!
+
+ANSELMO.
+In Aragon, my liege;
+And at his ’parture bound my secrecy,
+By his affection’s loss, not to disclose it.
+But care of him, and pity of your age,
+Makes my tongue blab what my breast vow’d—concealment.
+
+KING OF VALENCIA.
+Thou not deceivest me.
+I ever thought thee what I find thee now,
+An upright, loyal man.
+But what desire, or young-fed humour, nurs’d
+Within the brain, drew him so privately
+To Aragon?
+
+ANSELMO.
+A forcing adamant:
+Love, mix’d with fear and doubtful jealousy,
+Whether report gilded a worthless trunk,
+Or Amadine deserved her high extolment.
+
+KING OF VALENCIA.
+See, our provision be in readiness,
+Collect us followers of the comeliest hue
+For our chief guardians; we will thither wend.
+The crystal eye of heaven shall not thrice wink,
+Nor the green flood six times his shoulders turn,
+Till we salute the Aragonian king.
+Music, speak loudly now, the season’s apt,
+For former dolours are in pleasure wrapt.
+
+[_Music. Exeunt omnes._]
+
+SCENE II. The Forest
+
+Enter Mucedorus, to disguise himself.
+
+MUCEDORUS.
+Now, Mucedorus, whither wilt thou go?
+Home to thy father, to thy native soil,
+Or try some long abode within these woods?
+Well, I will hence depart, and hie me home.
+What, hie me home, said I? That may not be;
+In Amadine rests my felicity.
+Then, Mucedorus, do as thou didst decree,
+Attire thee hermit-like within these groves;
+Walk often to the beech and view the well;
+Make settles there, and seat thyself thereon,
+And when thou feel’st thyself to be athirst,
+Then drink a hearty draught to Amadine.
+No doubt, she thinks on thee,
+And will one day come pledge thee at this well.
+Come, habit, thou art fit for me.
+
+[_He disguiseth himself._]
+
+No shepherd now, a hermit I must be.
+Methinks this fits me very well;
+Now must I learn to bear a walking staff,
+And exercise some gravity withal.
+
+Enter the Clown.
+
+MOUSE.
+Here’s through the woods, and through the woods, to look out a shepherd
+and a stray king’s-daughter. But soft! Who have we here? What art thou?
+
+MUCEDORUS.
+I am a hermit.
+
+MOUSE.
+An emmet, I never saw such a big emmet in all my life before.
+
+MUCEDORUS.
+I tell you, sir, I am a hermit: one
+That leads a solitary life within these woods.
+
+MOUSE.
+Oh, I know thee now, thou art he that eats up all the hips and haws; we
+could not have one piece of fat bacon for thee all this year.
+
+MUCEDORUS.
+Thou dost mistake me, but I pray thee, tell me
+What dost thou seek for in these woods?
+
+MOUSE.
+What do I seek for? A stray king’s-daughter run away with a shepherd.
+
+MUCEDORUS.
+A stray king’s-daughter run away with a shepherd?
+Wherefore? Canst thou tell?
+
+MOUSE.
+Yes, that I can; ’tis this. My master and Amadine walking one day
+abroad, nearer to these woods than they were used, about what I can not
+tell; but toward them comes running a great bear. Now, my master, he
+played the man and ran away, and Amadine crying after him: now, sir,
+comes me a shepherd, and strikes off the bear’s head. Now, whether the
+bear were dead before or no, I cannot tell; for bring twenty bears
+before me, and bind their hands and feet, and I’ll kill them all. Now,
+ever since, Amadine hath been in love with the shepherd, and for
+goodwill, she’s even run away with the shepherd.
+
+MUCEDORUS.
+What manner of man was he? Canst thou describe him unto me?
+
+MOUSE.
+Scribe him? Ay, I warrant you, that I can; a was a little, low, broad,
+tall, narrow, big, well-favoured fellow, a jerkin of white cloth, and
+buttons of the same cloth.
+
+MUCEDORUS.
+Thou describest him well; but if I chance to see any such, pray you,
+where shall I find you, or what’s your name?
+
+MOUSE.
+My name is called Master Mouse.
+
+MUCEDORUS.
+O Master Mouse, I pray you what office might you bear in the court?
+
+MOUSE.
+Marry, sir, I am a rusher of the stable.
+
+MUCEDORUS.
+Oh, usher of the table.
+
+MOUSE.
+Nay, I say rusher, and I’ll prove my office good; for look, sir, when
+any comes from under the sea or so, and a dog chance to blow his nose
+backward, then with a whip I give him the good time of the day, and
+strow rushes presently. Therefore, I am a rusher, a high office, I
+promise ye.
+
+MUCEDORUS.
+But where shall I find you in the court?
+
+MOUSE.
+Why, where it is best being, either in the kitchen eating, or in the
+buttery drinking. But if you come, I will provide for thee a piece of
+beef and brewis knuckle-deep in fat; pray you, take pains, remember
+Master Mouse.
+
+[_Exit._]
+
+MUCEDORUS.
+Ay, sir, I warrant I will not forget you.
+Ah, Amadine! What should become of thee?
+Whither shouldst thou go so long unknown?
+With watch and ward each passage is beset,
+So that she cannot long escape unknown.
+Doubtless she’s lost herself within these woods,
+And wand’ring to and fro she seeks the well,
+Which yet she cannot find; therefore I’ll seek her out.
+
+[_Exit._]
+
+SCENE III. The same
+
+Enter Bremo and Amadine.
+
+BREMO.
+Amadine, how like you Bremo and his woods?
+
+AMADINE.
+As like the woods of Bremo’s cruelty.
+Though I were dumb, and could not answer him,
+The beasts themselves would with relenting tears
+Bewail thy savage and unhumane deeds.
+
+BREMO.
+My love, why dost thou murmur to thyself?
+Speak louder, for thy Bremo hears thee not.
+
+AMADINE.
+My Bremo? No, the shepherd is my love.
+
+BREMO.
+Have I not saved thee from sudden death,
+Giving thee leave to live, that thou mightst love,
+And dost thou whet me on to cruelty?
+Come, kiss me, sweet, for all my favours past.
+
+AMADINE.
+I may not, Bremo, and therefore pardon me.
+
+BREMO.
+See, how she flies away from me! I’ll follow
+And give attent to her. Deny my love!
+[_Aside_.] Ah, worm of beauty, I will chastice thee!
+Come, come, prepare thy head upon the block.
+
+AMADINE.
+Oh, spare me, Bremo, love should limit life,
+Not to be made a murderer of himself.
+If thou wilt glut thy loving heart with blood,
+Encounter with the lion or the bear,
+And like a wolf, prey not upon a lamb.
+
+BREMO.
+Why, then, dost thou repine at me?
+If thou wilt love me, thou shalt be my queen,
+I will crown thee with a chaplet made of ivy,
+And make the rose and lily wait on thee.
+I’ll rend the burly branches from the oak,
+To shadow thee from burning sun.
+The trees shall spread themselves where thou dost go,
+And as they spread, I’ll trace along with thee.
+
+AMADINE.
+[_Aside_.] You may, for who but you?
+
+BREMO.
+Thou shalt be fed with quails and partridges,
+With blackbirds, thrushes, larks and nightingales.
+Thy drink shall be goats’ milk and crystal water,
+Distill’d from th’ fountains and the clearest springs,
+And all the dainties that the woods afford.
+I’ll freely give thee to obtain thy love.
+
+AMADINE.
+[_Aside_.] You may, for who but you?
+
+BREMO.
+The day I’ll spend to recreate my love
+With all the pleasures that I can devise,
+And in the night I’ll be thy bed-fellow,
+And lovingly embrace thee in mine arms.
+
+AMADINE.
+[_Aside_.] One may, so may not you.
+
+BREMO.
+The satyrs and the wood-nymphs shall attend
+On thee and lull thee ’sleep with music’s sound,
+And in the morning, when thou dost awake,
+The lark shall sing good morrow to my queen,
+And whilst he sings, I’ll kiss my Amadine.
+
+AMADINE.
+[_Aside_.] You may, for who but you?
+
+BREMO.
+When thou art up, the wood-lanes shall be strew’d
+With violets, cowslips, and sweet marigolds,
+For thee to trample and to tread upon;
+And I will teach thee how to kill the deer,
+To chase the hart, and how to rouse the roe,
+If thou wilt live to love and honour me.
+
+AMADINE.
+[_Aside_.] You may, for who but you?
+
+Enter Mucedorus.
+
+BREMO.
+Welcome, sir!
+An hour ago I look’d for such a guest.
+Be merry, wench, we’ll have a frolic feast,
+Here’s flesh enough for to suffice us both,
+Stay, sirrah, wilt thou fight, or dost thou yield to die?
+
+MUCEDORUS.
+I want a weapon, how can I fight?
+
+BREMO.
+Thou want’st a weapon, then thou yield’st to die.
+
+MUCEDORUS.
+I say not so, I do not yield to die.
+
+BREMO.
+Thou shalt not choose. I long to see thee dead.
+
+AMADINE.
+Yet spare him, Bremo, spare him.
+
+BREMO.
+Away, I say, I will not spare him.
+
+MUCEDORUS.
+Yet give me leave to speak.
+
+BREMO.
+Thou shalt not speak.
+
+AMADINE.
+Yet give him leave to speak for my sake.
+
+BREMO.
+Speak on, but be not over-long.
+
+MUCEDORUS.
+In time of yore, when men like brutish beasts
+Did lead their lives in loathsome cells and woods,
+And wholly gave themselves to witless will,
+A rude unruly rout, then man to man
+Became a present prey, then might prevailed,
+The weakest went to wall.
+Right was unknown, for wrong was all in all.
+As men thus lived in this great outrage,
+Behold, one Orpheus came, as poets tell,
+And them from rudeness unto reason brought,
+Who led by reason, soon forsook the woods;
+Instead of caves, they built them castles strong;
+Cities and towns were founded by them then.
+Glad were they, that they found such ease,
+And in the end they grew to perfect amity.
+Weighing their former wickedness,
+They term’d the time wherein they lived then
+A golden age, a goodly golden age.
+Now, Bremo, for so I hear thee called,
+If men which lived tofore, as thou dost now,
+Wild in the woods, addicted all to spoil,
+Returned were by worthy Orpheus’ means,
+Let me, like Orpheus, cause thee to return
+From murder, bloodshed, and like cruelty.
+What, should we fight before we have a cause?
+No, let us live and love together faithfully.
+I’ll fight for thee—
+
+BREMO.
+Or fight for me, or die: or fight or else thou diest!
+
+AMADINE.
+Hold, Bremo, hold!
+
+BREMO.
+Away, I say, thou troublest me.
+
+AMADINE.
+You promised me to make me your queen.
+
+BREMO.
+I did, I mean no less.
+
+AMADINE.
+You promised that I should have my will.
+
+BREMO.
+I did, I mean no less.
+
+AMADINE.
+Then save this hermit’s life, for he may save us both.
+
+BREMO.
+At thy request I’ll spare him,
+But never any after him. Say, hermit,
+What canst thou do?
+
+MUCEDORUS.
+I’ll wait on thee, sometime upon the queen.
+[_Aside_.] Such service shalt thou shortly have; as Bremo never had.
+
+[_Exeunt._]
+
+SCENE IV. The Court
+
+Enter Segasto, the Clown and Rumbelo.
+
+SEGASTO.
+Come, sirs; what, shall I never have you find out Amadine and the
+shepherd?
+
+MOUSE.
+I have been through the woods and through the woods, and could see
+nothing but an emet.
+
+RUMBELO.
+Why, I see a thousand emets. Thou meanest a little one?
+
+MOUSE.
+Nay, that emet that I saw was bigger than thou art.
+
+RUMBELO.
+Bigger than I? [_To Segasto_.] What a fool have you to your man! I pray
+you, master, turn him away.
+
+SEGASTO.
+But dost thou hear, was he not a man?
+
+MOUSE.
+I think he was, for he said he did lead a saltseller’s life about the
+woods.
+
+SEGASTO.
+Thou wouldst say, a solitary life about the woods?
+
+MOUSE.
+I think it was so, indeed.
+
+RUMBELO.
+I thought what a fool thou art.
+
+MOUSE.
+Thou art a wise man! [_To Segasto_.] Why, he did nothing but sleep
+since he went.
+
+SEGASTO.
+But tell me, Mouse, how did he go?
+
+MOUSE.
+In a white gown, and a white hat on his head, and a staff in his hand.
+
+SEGASTO.
+I thought so; it was a hermit that walked a solitary life in the woods.
+Well, get you to dinner; and after never leave seeking, till you bring
+some news of them, or I’ll hang you both.
+
+[_Exit._]
+
+MOUSE.
+How now, Rumbelo, what shall we do now?
+
+RUMBELO.
+Faith, I’ll home to dinner, and afterward to sleep.
+
+MOUSE.
+Why, then, thou wilt be hanged.
+
+RUMBELO.
+Faith, I care not, for I know I shall never find them. Well, I’ll once
+more abroad, and if I cannot find them, I’ll never come home again.
+
+MOUSE.
+I tell thee what, Rumbelo; thou shalt go in at one end of the wood, and
+I at the other, and we will meet both together in the midst.
+
+RUMBELO.
+Content, let’s away to dinner.
+
+[_Exeunt._]
+
+
+
+
+ACT V
+
+SCENE I. The Forest
+
+
+Enter Mucedorus solus.
+
+MUCEDORUS.
+Unknown to any here within these woods,
+With bloody Bremo do I lead my life.
+The monster! he doth murther all he meets;
+He spareth none, and none doth him escape.
+Who would continue—who, but only I—
+In such a cruel cut-throat’s company?
+Yet Amadine is there, how can I choose?
+Ah, silly soul! how oftentimes she sits
+And sighs, and calls: _Come, shepherd, come,
+Sweet Mucedorus, come and set me free,_
+When Mucedorus present stands her by!
+But here she comes.
+
+Enter Amadine.
+
+What news, fair lady, as you walk these woods?
+
+AMADINE.
+Ah, hermit! none but bad and such as thou know’st.
+
+MUCEDORUS.
+How do you like your Bremo and his woods?
+
+AMADINE.
+Oh, not my Bremo, nor my Bremo’s woods.
+
+MUCEDORUS.
+And why not yours? Methinks he loves you well.
+
+AMADINE.
+I like him not, his love to me is nothing worth.
+
+MUCEDORUS.
+Lady, in this, methinks, you offer wrong,
+To hate the man that ever loves you best.
+
+AMADINE.
+Hermit, I take no pleasure in his love,
+Neither doth Bremo like me best.
+
+MUCEDORUS.
+Pardon my boldness, fair lady, sith we both
+May safely talk now out of Bremo’s sight,
+Unfold to me, if so you please, the full discourse
+How, when, and why you came into these woods,
+And fell into this bloody butcher’s hands.
+
+AMADINE.
+Hermit, I will;
+Of late a worthy shepherd I did love—
+
+MUCEDORUS.
+A shepherd, lady? Sure, a man unfit
+To match with you!
+
+AMADINE.
+Ay, hermit, this is true,
+And when we had—
+
+MUCEDORUS.
+Stay there, the wild man comes;
+Defer the rest until another time.
+
+Enter Bremo.
+
+BREMO.
+What secret tale is this? What whispering have we here?
+Villain, I charge thee tell thy tale again.
+
+MUCEDORUS.
+If needs I must, lo! here it is again:
+Whenas we both had lost the sight of thee,
+It griev’d us both, but specially thy queen,
+Who in thy absence ever fears the worst,
+Lest some mischance befall your royal grace.
+Shall my sweet Bremo wander through the woods,
+Toil to and fro for to redress my wants,
+Hazard his life and all to cherish me?
+I like not this, quoth she,
+And thereupon crav’d to know of me,
+If I could teach her handle weapons well.
+My answer was, I had small skill therein,
+But glad, most mighty king, to learn of thee.
+And this was all.
+
+BREMO.
+Was ’t so? None can dislike of this. I’ll teach
+You both to fight; but first, my queen, begin:
+Here, take this weapon; see how thou canst use it.
+
+AMADINE.
+This is too big, I cannot wield it in my arm.
+
+BREMO.
+Is’t so? We’ll have a knotty crabtree-staff
+For thee. [_To Mucedorus_.] But, sirrah, tell me, what say’st thou?
+
+MUCEDORUS.
+With all my heart I willing am to learn.
+
+BREMO.
+Then take my staff, and see how canst wield it.
+
+MUCEDORUS.
+First teach me how to hold it in my hand.
+
+[_Taking the staff._]
+
+BREMO.
+Thou holdst it well.
+[_To Amadine_.] Look how he doth, thou mayst the sooner learn.
+
+MUCEDORUS.
+Next tell me how and when ’tis best to strike.
+
+BREMO.
+[_Aside_.] ’Tis best to strike when time doth serve,
+’Tis best to lose no time.
+
+MUCEDORUS.
+[_Aside_.] Then now or never is my time to strike.
+
+BREMO.
+And when thou strikest, be sure thou hit the head.
+
+MUCEDORUS.
+The head?
+
+BREMO.
+The very head.
+
+MUCEDORUS.
+Then have at thine.
+
+[_He strikes him down dead._]
+
+So! lie there and die;
+A death, no doubt, according to desert,
+Or else a worse, as thou deservest a worse.
+
+AMADINE.
+It glads my heart, this tyrant’s death to see.
+
+MUCEDORUS.
+Now, lady, it remains in you
+To end the tale you lately had begun,
+Being interrupted by this wicked wight—
+You said you loved a shepherd?
+
+AMADINE.
+Ay, so I do, and none but only him;
+And will do still, as long as life shall last.
+
+MUCEDORUS.
+But tell me, lady, sith I set you free,
+What course of life do you intend to take?
+
+AMADINE.
+I will disguised wander through the world,
+Till I have found him out.
+
+MUCEDORUS.
+How, if you find your shepherd in these woods?
+
+AMADINE.
+Ah, none so happy then as Amadine.
+
+MUCEDORUS.
+In tract of time a man may alter much:
+Say, lady, do you know your shepherd well?
+
+[_He discloseth himself._]
+
+AMADINE.
+My Mucedorus, hath he set me free?
+
+MUCEDORUS.
+He hath set thee free.
+
+AMADINE.
+And lived so long unknown to Amadine?
+
+MUCEDORUS.
+Ay, that’s a question whereof you mayn’t be resolved.
+You know that I am banish’d from the court,
+I know likewise each passage is beset,
+So that we cannot long escape unknown,
+Therefore my will is this, that we return,
+Right through the thickets, to the wild man’s cave,
+And there a while live on’s provision,
+Until the search and narrow watch be past.
+This is my counsel, and I think it best.
+
+AMADINE.
+I think the very same.
+
+MUCEDORUS.
+Come, let’s be gone.
+
+Enter the Clown, who searches, and falls over the wild Man, and so
+carries him away.
+
+MOUSE.
+Nay, soft, sir, are you here? A bots on you! I was like to be hanged
+for not finding you; we would borrow a certain stray king’s-daughter of
+you; a wench, a wench, sir, we would have.
+
+MUCEDORUS.
+A wench of me? I’ll make thee eat my sword.
+
+MOUSE.
+Oh Lord, nay, an you are so lusty, I’ll call a cooling card for you.
+Ho, master, master, come away quickly!
+
+Enter Segasto.
+
+SEGASTO.
+What’s the matter?
+
+MOUSE.
+Look, master, Amadine and the shepherd! O brave!
+
+SEGASTO.
+What, minion, have I found you out?
+
+MOUSE.
+Nay, that’s a lie, I found her out myself.
+
+SEGASTO.
+Thou gadding huswife,
+What cause hadst thou to gad abroad,
+Whenas thou knowest our wedding-day so nigh?
+
+AMADINE.
+Not so, Segasto; no such thing in hand.
+Show your assurance, then I’ll answer you.
+
+SEGASTO.
+Thy father’s promise my assurance is.
+
+AMADINE.
+But what he promised, he hath not perform’d.
+
+SEGASTO.
+It rests in thee for to perform the same.
+
+AMADINE.
+Not I.
+
+SEGASTO.
+And why?
+
+AMADINE.
+So is my will, and therefore even so.
+
+MOUSE.
+Master, with a nonny, nonny, no!
+
+SEGASTO.
+Ah, wicked villain! art thou here?
+
+MUCEDORUS.
+What needs these words? We weigh them not.
+
+SEGASTO.
+We weigh them not! proud shepherd, I scorn thy company.
+
+MOUSE.
+We’ll not have a corner of thy company.
+
+MUCEDORUS.
+I scorn not thee, nor yet the least of thine.
+
+MOUSE.
+That’s a lie, a would have killed me with his pugsnando.
+
+SEGASTO.
+This stoutness, Amadine, contents me not.
+
+AMADINE.
+Then seek another, that may you better please.
+
+MUCEDORUS.
+Well, Amadine, it only rests in thee
+Without delay to make thy choice of three:
+There stands Segasto, here a shepherd stands,
+There stands the third: now make thy choice.
+
+MOUSE.
+A lord at the least I am.
+
+AMADINE.
+My choice is made, for I will none but thee.
+
+SEGASTO.
+A worthy mate, no doubt, for such a wife.
+
+MUCEDORUS.
+And, Amadine, why wilt thou none but me?
+I cannot keep thee as thy father did;
+I have no lands for to maintain thy state,
+Moreover if thou mean to be my wife,
+Commonly this must be thy use:
+To bed at midnight, up at four,
+Drudge all the day, and trudge from place to place,
+Whereby our daily victuals for to win:
+And last of all, which is the worst of all,
+No princess then, but plain a shepherd’s wife.
+
+MOUSE.
+[_Aside_.] Then God gi’ you good morrow, goody shepherd!
+
+AMADINE.
+It shall not need; if Amadine do live,
+Thou shalt be crowned king of Aragon.
+
+MOUSE.
+O master, laugh; when he’s king, then I’ll be a queen.
+
+MUCEDORUS.
+Then know that which never tofore was known,
+I am no shepherd, no Aragonian I,
+But born of royal blood:
+My father’s of Valencia king, my mother queen;
+Who for thy sacred sake took this hard task in hand.
+
+AMADINE.
+Ah, how I joy my fortune is so good!
+
+SEGASTO.
+Well, now I see Segasto shall not speed.
+But, Mucedorus, I as much do joy
+To see thee here within our court of Aragon,
+As if a kingdom had befallen me this time.
+I with my heart surrender it to thee.
+
+[_He giveth her to him._]
+
+And loose what right to Amadine I have.
+
+MOUSE.
+[_Aside_.] What, a barn’s door, and born where my father was constable?
+A bots on thee, how dost thou?
+
+MUCEDORUS.
+Thanks, good Segasto; but yet you levell’d at the crown.
+
+MOUSE.
+Master, bear this, and bear all.
+
+SEGASTO.
+Why so, sir?
+
+MOUSE.
+He says you take a goose by the crown.
+
+SEGASTO.
+Away, go to, sir; post you to the king,
+Whose heart is fraught with careful doubts,
+Gladden him up, and tell him these good news,
+And we will follow, as fast as we may.
+
+MOUSE.
+I go, master; I run, master.
+
+[_Exeunt severally._]
+
+SCENE II. Open Place near the Court of the King of Aragon
+
+Enter the King of Aragon and Collen.
+
+KING OF ARAGON.
+Break, heart, and end my pallid woes!
+My Amadine, the comfort of my life,
+How can I joy, except she were in sight?
+Her absence breeds sorrow to my soul
+And with a thunder breaks my heart in twain.
+
+COLLEN.
+Forbear those passions, gentle king,
+And you shall see ’twill turn unto the best,
+And bring your soul to quiet and to joy.
+
+KING OF ARAGON.
+Such joy as death, I do assure me that,
+And nought but death, unless of her I hear,
+And that with speed; I cannot sigh thus long—
+But what a tumult do I hear within?
+
+[_They cry within, ‘Joy and happiness.’_]
+
+COLLEN.
+I hear a noise of overpassing joy
+Within the court. My lord, be of good comfort,
+And here comes one in haste.
+
+Enter the Clown running.
+
+MOUSE.
+A king, a king, a king!
+
+COLLEN.
+Why, how now, sirrah? What’s the matter?
+
+MOUSE.
+Oh, ’tis news for a king, ’tis worth money.
+
+COLLEN.
+Why, sirrah, thou shalt have silver and gold, if it be good.
+
+MOUSE.
+O, ’tis good, ’tis good. Amadine—
+
+KING OF ARAGON.
+Oh, what of her? Tell me, and I will make thee a knight.
+
+MOUSE.
+How a sprite? No, by’r Lady, I will not be a sprite, masters. Get ye
+away, if I be a sprite, I shall be so lean, I shall make you all
+afraid.
+
+COLLEN.
+Thou sot, the King means to make thee a gentleman.
+
+MOUSE.
+Why, I shall want ’parel.
+
+KING OF ARAGON.
+Thou shalt want for nothing.
+
+MOUSE.
+Then stand away, trick up thyself, here they come.
+
+Enter Segasto, Mucedorus, and Amadine.
+
+AMADINE.
+My gratious father, pardon thy disloyal daughter.
+
+KING OF ARAGON.
+What, do mine eyes behold my daughter Amadine?
+Rise up, dear daughter, and let these my embracing arms
+Show thee some token of thy father’s joy,
+Which e’er since thy departure, hath languished in sorrow.
+
+AMADINE.
+Dear father,
+Ne’er were your sorrows greater than my griefs,
+Ne’er you so desolate, as I comfortless:
+Yet, ne’ertheless, acknowledging myself
+To be the cause of both, on bended knees,
+I humbly crave your pardon.
+
+[_Kneeling._]
+
+KING OF ARAGON.
+I’ll pardon thee, dear daughter;
+But as for him—
+
+AMADINE.
+Ah, father! what of him?
+
+KING OF ARAGON.
+As sure as I am a king, and wear the crown,
+I will revenge on that accursed wretch.
+
+MUCEDORUS.
+Yet, worthy prince, work not thy will in wrath,
+Show favour—
+
+KING OF ARAGON.
+Ay, such favour thou deserv’st.
+
+MUCEDORUS.
+I do deserve the daughter of a king.
+
+KING OF ARAGON.
+Oh, impudent! A shepherd and so insolent!
+
+MUCEDORUS.
+No shepherd am I, but a worthy prince.
+
+KING OF ARAGON.
+In fair conceit, not princely born.
+
+MUCEDORUS.
+Yes, princely born, my father is a king,
+My mother queen, and of Valencia both.
+
+[_Throwing off his disguise._]
+
+KING OF ARAGON.
+What, Mucedorus? Welcome to our court!
+What cause hadst thou to come to me disguis’d?
+
+MUCEDORUS.
+No cause to fear, I caused no offence, but this—
+Desiring thy daughter’s virtues for to see,
+Disguis’d myself from out my father’s court,
+Unknown to any, in secret I did rest,
+And passed many troubles near to death;
+So hath your daughter my partaker been,
+As you shall know hereafter more at large,
+Desiring you, you will give her to me,
+E’en as mine own, and sovereign of my life,
+Then shall I think my travels are well spent.
+
+KING OF ARAGON.
+With all my heart, but this—
+Segasto claims my promise made tofore,
+That he should have her as his only wife,
+Before my council, when we came from war.
+Segasto, may I crave thee, let it pass,
+And give Amadine as wife to Mucedorus.
+
+SEGASTO.
+With all my heart, were ’t far a greater thing;
+And what I may to furnish up their rites
+With pleasing sports and pastimes, you shall see.
+
+KING OF ARAGON.
+Thanks, good Segasto; I will think of this.
+
+MUCEDORUS.
+Thanks, good my lord; and while I live,
+Account of me in what I can or may.
+
+AMADINE.
+And, good Segasto, these great courtesies
+Shan’t be forgot.
+
+MOUSE.
+Why, hark you, master! bones, what have you done? What, given away the
+wench you made me take such pains for? You are wise indeed; mass, an I
+had known of that, I would have had her myself. Faith, master, now we
+may go to breakfast with a woodcock-pie.
+
+SEGASTO.
+Go, sir, you were best leave this knavery.
+
+KING OF ARAGON.
+Come on, my lords, let’s now to court,
+Where we may finish up the joyfullest day
+That ever happ’d to a distressed king.
+Were but thy father, the Valencia lord,
+Present in view of this combining knot.
+
+A shout within; enter a Messenger.
+
+What shout was that?
+
+MESSENGER.
+My lord, the great Valencia king,
+Newly arrived, entreats your presence.
+
+MUCEDORUS.
+My father?
+
+KING OF ARAGON.
+Prepared a welcome; give him entertainment;
+A happier planet never reign’d than that
+Which governs at this hour.
+
+Sound. Enter the  King of Valencia, Anselmo, Rodrigo, Borachius, with
+others; the King runs and embraces his son.
+
+KING OF VALENCIA.
+Rise honour of my age, food to my rest:
+Condemn not, mighty King of Aragon,
+My rude behaviour, so compell’d by nature,
+That manners stood unacknowledged.
+
+KING OF ARAGON.
+What we have to recite would tedious prove
+By declaration; therefore in and feast.
+Tomorrow the performance shall explain
+What words conceal: till then, drums speak, bells ring,
+Give plausive welcomes to our brother king.
+
+[_Sound drums and trumpets. Exeunt omnes._]
+
+
+
+
+EPILOGUE
+
+
+Enter Comedy and Envy.
+
+COMEDY.
+How now, Envy? What, blushest thou already?
+Peep forth, hide not thy head with shame,
+But with a courage praise a woman’s deeds.
+Thy threats were vain, thou couldst do me no hurt,
+Although thou seem’dst to cross me with despite,
+I overwhelm’d and turned upside down thy block
+And made thyself to stumble at the same.
+
+ENVY.
+Though stumbled, yet not overthrown,
+Thou canst not draw my heart to mildness,
+Yet must I needs confess, thou hast done well,
+And play’d thy part with mirth and pleasant glee.
+Say all this, yet canst thou not conquer me,
+Although this time thou’st got—yet not the conquest neither,
+A double revenge another time I’ll have.
+
+COMEDY.
+Envy, spit thy gall;
+Plot, work, contrive, create new fallacies,
+Teem from thy womb each minute a black traitor,
+Whose blood and thoughts have twins conception;
+Study to act deeds yet unchronicled,
+Cast native monsters in the moulds of men;
+Case vicious devils under sainted rochets;
+Unhasp the wicked where all perjuries roost,
+And swarm this ball with treasons, do thy worst,
+Thou canst not, hell-hound, cross my star tonight,
+Nor blind that glory, where I wish delight.
+
+ENVY.
+I can, I will.
+
+COMEDY.
+Nefarious hag, begin;
+And let us tug, till one the mastery win.
+
+ENVY.
+Comedy, thou art a shallow goose,
+I’ll overthrow thee in thine own intent,
+And make thy fall my comic merriment.
+
+COMEDY.
+Thy policy wants gravity, thou art
+Too weak. Speak, fiend, as how?
+
+ENVY.
+Why, thus.
+From my foul study will I hoist a wretch,
+A lean and hungry meager cannibal,
+Whose jaws swell to his eyes with chawing malice;
+And him I’ll make a poet.
+
+COMEDY.
+What’s that to the purpose?
+
+ENVY.
+This scrambling raven with his needy beard,
+Will I whet on to write a comedy;
+Wherein shall be compos’d dark sentences,
+Pleasing to factious brains:
+And every otherwhere place me a jest,
+Whose high abuse shall more torment than blows.
+Then I myself, quicker than lightning,
+Will fly me to a puissant magistrate,
+And waiting with a trencher at his back,
+In midst of jollity rehearse those galls,
+With some additions, so lately vented in your theatre:
+He upon this cannot but make complaint,
+To your great danger, or at least restraint.
+
+COMEDY.
+Ha, ha, ha! I laugh to hear thy folly;
+This is a trap for boys, not men, nor such,
+Especially desertful in their doings,
+Whose staid discretion rules their purposes.
+I and my faction do eschew those vices.
+But see, O see, the weary sun for rest
+Hath lain his golden compass to the west,
+Where he perpetual bide and ever shine,
+As David’s offspring in his happy clime.
+Stoop, Envy, stoop, bow to the earth with me,
+Let’s beg our pardon on our bended knee.
+
+[_They kneel._]
+
+ENVY.
+My power has lost her might, and Envy’s date’s expired,
+Yon splendant majesty hath ’fell’d my sting,
+And I amazed am.
+
+[_Fall down and quake._]
+
+COMEDY.
+Glorious and wise Arch-Cæsar on this earth,
+At whose appearance, Envy’s stricken dumb,
+And all bad things cease operation,
+Vouchsafe to pardon our unwilling error,
+So late presented to your gracious view,
+And we’ll endeavour with excess of pain,
+To please your senses in a choicer strain.
+Thus we commit you to the arms of night,
+Whose spangled darkness would, for your delight,
+Strive to excell the day: be blessed then,
+Who other wishes, let him never speak—
+
+ENVY.
+Amen!
+To Fame and Honour we commend your rest,
+Live still more happy, every hour more blest.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK MUCEDORUS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

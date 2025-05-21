@@ -1,0 +1,2248 @@
+﻿The Project Gutenberg eBook of Hiero
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Hiero
+
+Author: Xenophon
+
+Translator: Henry Graham Dakyns
+
+Release date: January 1, 1998 [eBook #1175]
+                Most recently updated: August 21, 2008
+
+Language: English
+
+Credits: Produced by John Bickers, and David Widger
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK HIERO ***
+
+
+
+
+Produced by John Bickers
+
+
+
+
+
+HIERO
+
+By Xenophon
+
+Translation by H. G. Dakyns
+
+
+     Xenophon the Athenian was born 431 B.C. He was a
+     pupil of Socrates. He marched with the Spartans,
+     and was exiled from Athens. Sparta gave him land
+     and property in Scillus, where he lived for many
+     years before having to move once more, to settle
+     in Corinth. He died in 354 B.C.
+
+
+
+
+PREPARER'S NOTE
+
+This was typed from Dakyns' series, "The Works of Xenophon," a
+four-volume set. The complete list of Xenophon's works (though there is
+doubt about some of these) is:
+
+     Work                                   Number of books
+
+     The Anabasis                                         7
+     The Hellenica                                        7
+     The Cyropaedia                                       8
+     The Memorabilia                                      4
+     The Symposium                                        1
+     The Economist                                        1
+     On Horsemanship                                      1
+     The Sportsman                                        1
+     The Cavalry General                                  1
+     The Apology                                          1
+     On Revenues                                          1
+     The Hiero                                            1
+     The Agesilaus                                        1
+     The Polity of the Athenians and the Lacedaemonians   2
+
+Text in brackets "{}" is my transliteration of Greek text into English
+using an Oxford English Dictionary alphabet table. The diacritical marks
+have been lost.
+
+
+HIERO
+
+The Hiero is an imaginary dialogue, c. 474 B.C., between Simonides of
+Ceos, the poet; and Hieron, of Syracuse and Gela, the despot.
+
+
+
+
+HIERO, or "THE TYRANT"
+
+A Discourse on Despotic Rule
+
+
+I
+
+Once upon a time Simonides the poet paid a visit to Hiero the "tyrant,"
+(1) and when both obtained the leisure requisite, Simonides began this
+conversation:
+
+ (1) Or, "came to the court of the despotic monarch Hiero." For the
+    "dramatis personae" see Dr. Holden's Introduction to the "Hieron"
+    of Xenophon.
+
+Would you be pleased to give me information, Hiero, upon certain
+matters, as to which it is likely you have greater knowledge than
+myself? (2)
+
+ (2) Or, "would you oblige me by explaining certain matters, as to
+    which your knowledge naturally transcends my own?"
+
+And pray, what sort of things may those be (answered Hiero), of which I
+can have greater knowledge than yourself, who are so wise a man?
+
+I know (replied the poet) that you were once a private person, (3) and
+are now a monarch. It is but likely, therefore, that having tested both
+conditions, (4) you should know better than myself, wherein the life of
+the despotic ruler differs from the life of any ordinary person, looking
+to the sum of joys and sorrows to which flesh is heir.
+
+ (3) Or, "a common citizen," "an ordinary mortal," "a private
+    individual."
+
+ (4) Or, "having experienced both lots in life, both forms of
+    existence."
+
+Would it not be simpler (Hiero replied) if you, on your side, (5) who
+are still to-day a private person, would refresh my memory by recalling
+the various circumstances of an ordinary mortal's life? With these
+before me, (6) I should be better able to describe the points of
+difference which exist between the one life and the other.
+
+ (5) Simonides is still in the chrysalis or grub condition of private
+    citizenship; he has not broken the shell as yet of ordinary
+    manhood.
+
+ (6) Lit. "in that case, I think I should best be able to point out the
+    'differentia' of either."
+
+Thus it was that Simonides spoke first: Well then, as to private
+persons, for my part I observe, (7) or seem to have observed, that
+we are liable to various pains and pleasures, in the shape of sights,
+sounds, odours, meats, and drinks, which are conveyed through certain
+avenues of sense--to wit, the eyes, ears, nostrils, mouth. And there
+are other pleasures, those named of Aphrodite, of which the channels are
+well known. While as to degree of heat and cold, things hard and
+soft, things light and heavy, the sense appealed to here, I venture
+to believe, is that of the whole body; (8) whereby we discern these
+opposites, and derive from them now pain, now pleasure. But with regard
+to things named good and evil, (9) it appears to me that sometimes the
+mind (or soul) itself is the sole instrument by which we register our
+pains and pleasures; whilst at other times such pains and pleasures
+are derived conjointly through both soul and body. (10) There are some
+pleasures, further, if I may trust my own sensations, which are conveyed
+in sleep, though how and by what means and when precisely, are matters
+as to which I am still more conscious of my ignorance. Nor is it to
+be wondered at perhaps, if the perceptions of waking life in some way
+strike more clearly on our senses than do those of sleep. (11)
+
+ (7) Or, "if I may trust my powers of observation I would say that
+    common men are capable of pains and pleasures conveyed through
+    certain avenues of sense, as sight through our eyes, sounds
+    through our ears, smells through our noses, and meats and drinks
+    through our mouths."
+
+ (8) Cf. Cic. "de N. D." ii. 56, S. 141.
+
+ (9) Reading {edesthai te kai lupeisthai...} or if with Breit
+    reading {ote d' au lupeisthai}, transl. "then as to good and evil
+    we are affected pleasurably or painfully, as the case may be:
+    sometimes, if I am right in my conclusion, through the mind itself
+    alone; at other times..."
+
+ (10) Or, "they are mental partly, partly physical."
+
+ (11) Lit. "the incidents of waking life present sensations of a more
+    vivid character."
+
+To this statement Hiero made answer: And I, for my part, O Simonides,
+would find it hard to state, outside the list of things which you have
+named yourself, in what respect the despot can have other channels of
+perception. (12) So that up to this point I do not see that the despotic
+life differs in any way at all from that of common people.
+
+ (12) i.e. "being like constituted, the autocratic person has no other
+    sources of perception: he has no claim to a wider gamut of
+    sensation, and consequently thus far there is not a pin to choose
+    between the life of the despot and that of a private person."
+
+Then Simonides: Only in this respect it surely differs, in that the
+pleasures which the "tyrant" enjoys through all these several avenues
+of sense are many times more numerous, and the pains he suffers are far
+fewer.
+
+To which Hiero: Nay, that is not so, Simonides, take my word for it; the
+fact is rather that the pleasures of the despot are far fewer than
+those of people in a humbler condition, and his pains not only far more
+numerous, but more intense.
+
+That sounds incredible (exclaimed Simonides); if it were really so, how
+do you explain the passionate desire commonly displayed to wield the
+tyrant's sceptre, and that too on the part of persons reputed to be the
+ablest of men? Why should all men envy the despotic monarch?
+
+For the all-sufficient reason (he replied) that they form conclusions on
+the matter without experience of the two conditions. And I will try
+to prove to you the truth of what I say, beginning with the faculty of
+vision, which, unless my memory betrays me, was your starting-point.
+
+Well then, when I come to reason (13) on the matter, first of all I find
+that, as regards the class of objects of which these orbs of vision are
+the channel, (14) the despot has the disadvantage. Every region of
+the world, each country on this fair earth, presents objects worthy of
+contemplation, in quest of which the ordinary citizen will visit, as the
+humour takes him, now some city (for the sake of spectacles), (15) or
+again, the great national assemblies, (16) where sights most fitted to
+entrance the gaze of multitudes would seem to be collected. (17) But the
+despot has neither part nor lot in these high festivals, (18) seeing it
+is not safe for him to go where he will find himself at the mercy of the
+assembled crowds; (19) nor are his home affairs in such security that he
+can leave them to the guardianship of others, whilst he visits foreign
+parts. A twofold apprehension haunts him: (20) he will be robbed of
+his throne, and at the same time be powerless to take vengeance on his
+wrongdoer. (21)
+
+ (13) {logizomenos}, "to apply my moral algebra."
+
+ (14) {en tois dia tes opseos theamasi}. See Hartman, "An. Xen. Nova,"
+    p. 246. {theamasi} = "spectacular effects," is perhaps a gloss on
+    "all objects apprehensible through vision." Holden (crit. app.)
+    would rather omit {dia tes opseos} with Schneid.
+
+ (15) The words are perhaps a gloss.
+
+ (16) e.g. the games at Olympia, or the great Dionysia at Athens, etc.
+
+ (17) Omitting {einai}, or if with Breit. {dokei einai...
+    sunageiresthai}, transl. "in which it is recognised that sights
+    are to be seen best fitted to enchain the eyes and congregate vast
+    masses." For other emendations see Holden, crit. app.; Hartm. op.
+    cit. p. 258.
+
+ (18) "Religious embassies"; it. "Theories." See Thuc. vi. 16; "Mem."
+    IV. viii. 2.
+
+ (19) Lit. "not stronger than those present."
+
+ (20) Or, "The dread oppresses him, he may be deprived of his empire
+    and yet be powerless."
+
+ (21) Cf. Plat. "Rep." ix. 579 B: "His soul is dainty and greedy; and
+    yet he only of all men is never allowed to go on a journey, or to
+    see things which other free men desire to see; but he lives in his
+    hole like a woman hidden in the house, and is jealous of any other
+    citizen who goes into foreign parts and sees things of interest"
+    (Jowett).
+
+Perhaps you will retort: "Why should he trouble to go abroad to seek for
+such things? They are sure to come to him, although he stops at home."
+Yes, Simonides, that is so far true; a small percentage of them no
+doubt will, and this scant moiety will be sold at so high a price to
+the despotic monarch, that the exhibitor of the merest trifle looks
+to receive from the imperial pocket, within the briefest interval, ten
+times more than he can hope to win from all the rest of mankind in a
+lifetime; and then he will be off. (22)
+
+ (22) Lit. "to get from the tyrant all in a moment many times more than
+    he will earn from all the rest of mankind in a whole lifetime, and
+    depart."
+
+To which Simonides: Well, granted you have the worst of it in sights and
+sightseeing; yet, you must admit you are large gainers through the sense
+of hearing; you who are never stinted of that sweetest of all sounds,
+(23) the voice of praise, since all around you are for ever praising
+everything you do and everything you say. Whilst, conversely, to that
+most harsh and grating of all sounds, the language of abuse, your ears
+are sealed, since no one cares to speak evil against a monarch to his
+face.
+
+ (23) Cf. Cic. "pro Arch." 20, "Themistoclem illum dixisse aiunt cum ex
+    eo quaereretur, 'quod acroama aut cujus vocem libentissime
+    audiret': 'ejus, a quo sua virtus optime praedicaretur.'"
+
+Then Hiero: And what pleasure do you suppose mere abstinence from evil
+words implies, when it is an open secret that those silent persons are
+cherishing all evil thoughts against the tyrant? (24) What mirth, do you
+imagine, is to be extracted from their panegyrics who are suspected of
+bestowing praise out of mere flattery?
+
+ (24) "One knows plainly that these dumb attendants stand there like
+    mutes, but harbour every evil thought against their autocratic
+    lord."
+
+Simonides made answer: Yes, I must indeed admit, I do concede to you,
+that praise alone is sweetest which is breathed from lips of free men
+absolutely free. But, look you, here is a point: you will find it hard
+to persuade another, that you despots, within the limits of those things
+whereby we one and all sustain our bodies, in respect, that is, of meats
+and drinks, have not a far wider range of pleasures.
+
+Yes, Simonides (he answered), and what is more, I know the explanation
+of the common verdict. The majority have come to the conclusion that we
+monarchs eat and drink with greater pleasure than do ordinary people,
+because they have got the notion, they themselves would make a better
+dinner off the viands served at our tables than their own. And doubtless
+some break in the monotony gives a fillip of pleasure. And that explains
+why folk in general look forward with pleasure to high days and holy
+days--mankind at large, but not the despot; his well-stocked table
+groaning from day to day under its weight of viands admits of no state
+occasions. So that, as far as this particular pleasure, to begin with,
+goes, the pleasure of anticipation, the monarch is at disadvantage
+compared with private people.
+
+And in the next place (he continued), I am sure your own experience will
+bear me out so far: the more viands set before a man at table (beyond
+what are sufficient), (25) the more quickly will satiety of eating
+overtake him. So that in actual duration of the pleasure, he with his
+many dishes has less to boast of than the moderate liver.
+
+ (25) {ta peritta ton ikanon}. These words Hartm. op. cit. p. 254,
+    regards as an excrescence.
+
+Yes, but good gracious! surely (broke in Simonides), during the actual
+time, (26) before the appetite is cloyed, the gastronomic pleasure
+derived from the costlier bill of fare far exceeds that of the cheaper
+dinner-table.
+
+ (26) Lit. "so long as the soul (i.e. the appetite) accepts with
+    pleasure the viands"; i.e. there's an interval, at any rate,
+    during which "such as my soul delights in" can still apply and for
+    so long.
+
+But, as a matter of plain logic (Hiero retorted), should you not
+say, the greater the pleasure a man feels in any business, the more
+enthusiastic his devotion to it?
+
+That is quite true (he answered).
+
+Hiero. Then have you ever noticed that crowned heads display more
+pleasure in attacking the bill of fare provided them, than private
+persons theirs?
+
+No, rather the reverse (the poet answered); if anything, they show a
+less degree of gusto, (27) unless they are vastly libelled.
+
+ (27) "No, not more pleasure, but exceptional fastidiousness, if what
+    people say is true." {agleukesteron}, said ap. Suid. to be a
+    Sicilian word = "more sourly."
+
+Well (Hiero continued), and all these wonderfully-made dishes which
+are set before the tyrant, or nine-tenths of them, perhaps you have
+observed, are combinations of things acid to the taste, or pungent, or
+astringent, or akin to these? (28)
+
+ (28) Lit. "and their congeners," "their analogues," e.g. "curries,
+    pickles, bitters, peppery condiments."
+
+To be sure they are (he answered), unnatural viands, one and all, in my
+opinion, most alien to ordinary palates. (29)
+
+ (29) Or, "unsuited to man's taste," "'caviare to the general' I name
+    them."
+
+Hiero. In fact, these condiments can only be regarded as the cravings
+(30) of a stomach weakened by luxurious living; since I am quite sure
+that keen appetites (and you, I fancy, know it well too) have not the
+slightest need for all these delicate made things.
+
+ (30) Cf. Plat. "Laws," 687 C; "Hipp." ii. 44. Lit. "can you in fact
+    regard these condiments as other than..." See Holden ad loc.
+    (ed. 1888); Hartm. op. cit. p. 259, suggests {enthumemata},
+    "inventions."
+
+It is true, at any rate (observed Simonides), about those costly
+perfumes, with which your persons are anointed, that your neighbours
+rather than yourselves extract enjoyment from them; just as the
+unpleasant odour of some meats is not so obvious to the eater as to
+those who come in contact with him.
+
+Hiero. Good, and on this principle we say of meats, that he who is
+provided with all sorts on all occasions brings no appetite to any of
+them. He rather to whom these things are rarities, that is the man who,
+when some unfamiliar thing is put before him, will take his fill of it
+with pleasure. (31)
+
+ (31) {meta kharas}. Cf. Aesch. Fr. 237, {stomatos en prote khara}, of
+    a hungry man; "Od." xvii. 603.
+
+It looks very much (interposed Simonides) as if the sole pleasure left
+you to explain the vulgar ambition to wear a crown, must be that named
+after Aphrodite. For in this field it is your privilege to consort with
+whatever fairest fair your eyes may light on.
+
+Hiero. Nay, now you have named that one thing of all others, take my
+word for it, in which we princes are worse off than lesser people. (32)
+
+ (32) Reading {saph' isthi}, or if as Cobet conj. {saphestata}, transl.
+    "are at a disadvantage most clearly by comparison with ordinary
+    folk."
+
+To name marriage first. I presume a marriage (33) which is contracted
+with some great family, superior in wealth and influence, bears away
+the palm, since it confers upon the bridegroom not pleasure only but
+distinction. (34) Next comes the marriage made with equals; and last,
+wedlock with inferiors, which is apt to be regarded as degrading and
+disserviceable.
+
+ (33) Cf. "Hunting," i. 9. Holden cf. Eur. "Rhes." 168; "Androm." 1255.
+
+ (34) Cf. Dem. "in Lept." S. 69, p. 499. See Plat. "Rep." 553 C.
+
+Now for the application: a despotic monarch, unless he weds some foreign
+bride, is forced to choose a wife from those beneath him, so that the
+height of satisfaction is denied him. (35)
+
+ (35) Al. "supreme content, the quintessential bliss, is quite unknown
+    to him."
+
+The tender service of the proudest-souled of women, wifely rendered, how
+superlatively charming! (36) and by contrast, how little welcome is
+such ministration where the wife is but a slave--when present, barely
+noticed; or if lacking, what fell pains and passions will it not
+engender!
+
+ (36) Or, "the gentle ministrations of loftiest-thoughted women and
+    fair wives possess a charm past telling, but from slaves, if
+    tendered, the reverse of welcome, or if not forthcoming..."
+
+And if we come to masculine attachments, still more than in those
+whose end is procreation, the tyrant finds himself defrauded of such
+mirthfulness, (37) poor monarch! Since all of us are well aware, I
+fancy, that for highest satisfaction, (38) amorous deeds need love's
+strong passion. (39)
+
+ (37) "Joys sacred to that goddess fair and free in Heaven yclept
+    Euphrosyne."
+
+ (38) For {polu diapherontos} cf. Browning ("Abt Vogler"), not indeed
+    of Aphrodisia conjoined with Eros, but of the musician's gift:
+
+        That out of three sounds he frame not a fourth sound, but a
+        star.
+
+ (39) i.e. "Eros, the Lord of Passion, must lend his hand." "But," he
+    proceeds, "the god is coy; he has little liking for the breasts of
+    kings. He is more likely to be found in the cottage of the peasant
+    than the king's palace."
+
+But least of all is true love's passion wont to lodge in the hearts of
+monarchs, for love delights not to swoop on ready prey; he needs the
+lure of expectation. (40)
+
+ (40) Or, "even on the heels of hoped-for bliss he follows."
+
+Well then, just as a man who has never tasted thirst can hardly be said
+to know the joy of drinking, (41) so he who has never tasted Passion is
+ignorant of Aphrodite's sweetest sweets.
+
+ (41) Reading with Holden (after H. Steph.) {osper oun an tis...} or
+    with Hartm. (op. cit. p. 259) {osper ouk an tis...}
+
+So Hiero ended.
+
+Simonides answered laughingly: How say you, Hiero? What is that? Love's
+strong passion for his soul's beloved incapable of springing up in any
+monarch's heart? What of your own passion for Dailochus, surnamed of men
+"most beautiful"?
+
+Hiero. That is easily explained, Simonides. What I most desire of him is
+no ready spoil, as men might reckon it, but rather what it is least of
+all the privilege of a tyrant to obtain. (42) I say it truly, I--the
+love I bear Dailochus is of this high sort. All that the constitution of
+our souls and bodies possibly compels a man to ask for at the hands of
+beauty, that my fantasy desires of him; but what my fantasy demands, I
+do most earnestly desire to obtain from willing hands and under seal of
+true affection. To clutch it forcibly were as far from my desire as to
+do myself some mortal mischief.
+
+ (42) Lit. "of tyrant to achieve," a met. from the chase. Cf.
+    "Hunting," xii. 22.
+
+Were he my enemy, to wrest some spoil from his unwilling hands would
+be an exquisite pleasure, to my thinking. But of all sweet favours the
+sweetest to my notion is the free-will offering of a man's beloved. For
+instance, how sweet the responsive glance of love for love; how sweet
+the questions and the answers; (43) and, most sweet of all, most
+love-enkindling, the battles and the strifes of faithful lovers. (44)
+But to enjoy (45) one's love perforce (he added) resembles more an act
+of robbery, in my judgment, than love's pastime. And, indeed, the robber
+derives some satisfaction from the spoils he wins and from the pain he
+causes to the man he hates. But to seek pleasure in the pain of one
+we love devoutly, to kiss and to be hated, to touch (46) and to be
+loathed--can one conceive a state of things more odious or more pitiful?
+For, it is a certainty, the ordinary person may accept at once each
+service rendered by the object of his love as a sign and token of
+kindliness inspired by affection, since he knows such ministry is free
+from all compulsion. Whilst to the tyrant, the confidence that he is
+loved is quite foreclosed. On the contrary, (47) we know for certain
+that service rendered through terror will stimulate as far as possible
+the ministrations of affection. And it is a fact, that plots and
+conspiracies against despotic rulers are oftenest hatched by those who
+most of all pretend to love them. (48)
+
+ (43) "The 'innere Unterhaltung'"; the {oarismos}. Cf. Milton, "P. L.":
+
+        With thee conversing, I forget all time.
+
+ (44) Cf. Ter. "Andr." iii. 3. 23, "amantium irae amoris
+    intergratiost."
+
+ (45) "To make booty of."
+
+ (46) For {aptesthai} L. & S. cf. Plat. "Laws," 840 A; Aristot. "H. A."
+    v. 14. 27; Ep. 1 Cor. vii. 1.
+
+ (47) Reading {au}. "If we do know anything it is this, that," etc.
+
+ (48) Or, "do oftenest issue from treacherous make-believe of warmest
+    friendship." Cf. Grote, "H. G." xi. 288; "Hell." VI. iv. 36.
+
+
+
+II
+
+To these arguments Simonides replied: Yes, but the topics you have named
+are to my thinking trifles; drops, as it were, in the wide ocean. How
+many men, I wonder, have I seen myself, men in the deepest sense, (1)
+true men, who choose to fare but ill in respect of meats and drinks and
+delicacies; ay, and what is more, they voluntarily abstain from sexual
+pleasures. No! it is in quite a different sphere, which I will name at
+once, that you so far transcend us private citizens. (2) It is in your
+vast designs, your swift achievements; it is in the overflowing wealth
+of your possessions; your horses, excellent for breed and mettle; the
+choice beauty of your arms; the exquisite finery of your wives; the
+gorgeous palaces in which you dwell, and these, too, furnished with
+the costliest works of art; add to which the throng of your retainers,
+courtiers, followers, not in number only but accomplishments a most
+princely retinue; and lastly, but not least of all, in your supreme
+ability at once to afflict your foes and benefit your friends.
+
+ (1) Lit. "many among those reputed to be men." Cf. "Cyrop." V. v. 33;
+    "Hell." i. 24, "their hero"; and below, viii. 3. Aristoph. "Ach."
+    78, {oi barbaroi gar andras egountai monous} | {tous pleista
+    dunamenous phagein te kai piein}: "To the Barbarians 'tis the test
+    of manhood: there the great drinkers are the greatest men"
+    (Frere); id. "Knights," 179; "Clouds," 823; so Latin "vir." See
+    Holden ad loc.
+
+ (2) "Us lesser mortals."
+
+To all which Hiero made answer: That the majority of men, Simonides,
+should be deluded by the glamour of a despotism in no respect astonishes
+me, since it is the very essence of the crowd, if I am not mistaken,
+to rush wildly to conjecture touching the happiness or wretchedness of
+people at first sight.
+
+Now the nature of a tyrrany is such: it presents, nay flaunts, a show
+of costliest possessions unfolded to the general gaze, which rivets the
+attention; (3) but the real troubles in the souls of monarchs it keeps
+concealed in those hid chambers where lie stowed away the happiness and
+the unhappiness of mankind.
+
+ (3) There is some redundancy in the phraseology.
+
+I repeat then, I little marvel that the multitude should be blinded in
+this matter. But that you others also, you who are held to see with
+the mind's eye more clearly than with the eye of sense the mass of
+circumstances, (4) should share its ignorance, does indeed excite my
+wonderment. Now, I know it all too plainly from my own experience,
+Simonides, and I assure you, the tyrant is one who has the smallest
+share of life's blessings, whilst of its greater miseries he possesses
+most.
+
+ (4) Lit. "the majority of things"; al. "the thousand details of a
+    thing."
+
+For instance, if peace is held to be a mighty blessing to mankind, then
+of peace despotic monarchs are scant sharers. Or is war a curse? If so,
+of this particular pest your monarch shares the largest moiety. For,
+look you, the private citizen, unless his city-state should chance to be
+engaged in some common war, (5) is free to travel wheresoe'er he chooses
+without fear of being done to death, whereas the tyrant cannot stir
+without setting his foot on hostile territory. At any rate, nothing will
+persuade him but he must go through life armed, and on all occasions
+drag about with him armed satellites. In the next place, the private
+citizen, even during an expedition into hostile territory, (6) can
+comfort himself in the reflection that as soon as he gets back home he
+will be safe from further peril. Whereas the tyrant knows precisely the
+reverse; as soon as he arrives in his own city, he will find himself
+in the centre of hostility at once. Or let us suppose that an invading
+army, superior in force, is marching against a city: however much the
+weaker population, whilst they are still outside their walls, may feel
+the stress of danger, yet once within their trenches one and all expect
+to find themselves in absolute security. But the tyrant is not out of
+danger, even when he has passed the portals of his palace. Nay! there
+of all places most, he feels, he must maintain the strictist watch. (7)
+Again, to the private citizen there will come eventually, either through
+truce or terms of peace, respite from war; but for the tyrant, the day
+of peace will never dawn. What peace can he have with those over whom
+he exercises his despotic sway? (8) Nor have the terms of truce been yet
+devised, on which the despotic ruler may rely with confidence. (9)
+
+ (5) {koinon}, i.e. making demands upon the energies of all the
+    citizens in common, as opposed to the personal character of war as
+    conducted by a despot = "public," "patriotic," "national" war. Al.
+    borne by the particular {polis} as member of a league, whether of
+    states united for the time being in a {summakhia}, or permanently
+    in a confederacy = a "federal" war.
+
+ (6) "Even if serving on a campaign in the enemy's country."
+
+ (7) Or, "he has to exercise the utmost vigilance."
+
+ (8) "With those who are 'absolutely governed,' not to say tyrannically
+    ruled."
+
+ (9) Or, "which the tyrant may accept in faith and go his way
+    rejoicing."
+
+Wars doubtless there are, (10) wars waged by states and wars waged by
+autocratic monarchs against those whom they have forcibly enslaved, and
+in respect of these wars there is no hardship which any member of the
+states at war (11) can suffer but the tyrant will feel it also. That
+is to say, both must alike be under arms, keep guard, run risks; and
+whatever the pains of defeat may be, they are equally sustained by both.
+Up to this point there is no distinction. The "bitters" are equal. But
+when we come to estimate the "sweets" derivable from warfare between
+states, (12) the parallel ceases. The tyrant, if he shared the pains
+before, no longer shares the pleasures now. What happens when a state
+has gained the mastery in battle over her antagonist? It would be hard
+(I take it) to describe the joy of that occurrence: joy in the rout,
+joy in the pursuit, joy in the slaughter of their enemies; and in what
+language shall I describe the exultation of these warriors at their
+feats of arms? With what assumption they bind on their brows
+the glittering wreath of glory; (13) with what mirth and jollity
+congratulate themselves on having raised their city to newer heights
+of fame. Each several citizen claims to have shared in the plan of the
+campaign, (14) and to have slain the largest number. Indeed it would
+be hard to find where false embellishment will not creep in, (15) the
+number stated to be the slain exceeding that of those that actually
+perished. So truly glorious a thing it seems to them to have won a great
+victory. (16)
+
+ (10) Lit. "and further, wars there are, waged against
+     forcibly-subjected populations whether by free states"--e.g.
+     of Olynthus, "Hell." V. ii. 23, or Athens against her
+     "subject allies" during the Pel. war--"or by despotic
+     rules"--Jason of Pherae ("Hell." VI.) Al. "wars waged by
+     free states against free states, and wars waged by tyrants
+     against enslaved peoples."
+
+ (11) Does {o en tais polesi} = "the citizen"? So some commentators; or
+    (sub. {polemos}) = "the war among states" (see Hartman, op. cit.
+    p. 248)? in which case transl. "all the hardships involved in
+    international war come home to the tyrant also." The same
+    obscurity attaches to {oi en tais polesi} below (the commonly
+    adopted emend. of the MS. {oi sunontes polesi}) = "the citizens,"
+    or else = "international wars."
+
+ (12) "The pleasures incidental to warfare between states"; al. "the
+    sweets which citizens engaged in warfare as against rival states
+    can count upon."
+
+ (13) Reading {analambanousin}, or, if after Cobet, etc.,
+    {lambanousin}, transl. "what brilliant honour, what bright credit
+    they assume."
+
+ (14) "To have played his part in counsel." See "Anab." passim, and M.
+    Taine, "Essais de Critique," "Xenophon," p. 128.
+
+ (15) Lit. "they do not indulge in false additions, pretending to have
+    put more enemies to death than actually fell."
+
+ (16) Cf. "Hipparch," viii. 11; "Cyrop." VIII. iii. 25; "Thuc." i. 49.
+
+But the tyrant, when he forebodes, or possibly perceives in actual fact,
+some opposition brewing, and puts the suspects (17) to the sword, knows
+he will not thereby promote the welfare of the state collectively. The
+cold clear fact is, he will have fewer subjects to rule over. (18) How
+can he show a cheerful countenance? (19) how magnify himself on his
+achievement? On the contrary, his desire is to lessen the proportions
+of what has taken place, as far as may be. He will apologise for what
+he does, even in the doing of it, letting it appear that what he has
+wrought at least was innocent; (20) so little does his conduct seem
+noble even to himself. And when those he dreaded are safely in their
+graves, he is not one whit more confident of spirit, but still more on
+his guard than heretofore. That is the kind of war with which the tyrant
+is beset from day to day continually, as I do prove. (21)
+
+ (17) See Hold. (crit. app.); Hartman, op. cit. p. 260.
+
+ (18) Cf. "Mem." I. ii. 38.
+
+ (19) Cf. "Anab." II. vi. 11; "Hell." VI. iv. 16.
+
+ (20) "Not of malice prepense."
+
+ (21) Or, "Such then, as I describe it, is the type of war," etc.
+
+
+
+III
+
+Turn now and contemplate the sort of friendship whereof it is given to
+tyrants to partake. And first, let us examine with ourselves and see if
+friendship is truly a great boon to mortal man.
+
+How fares it with the man who is beloved of friends? See with what
+gladness his friends and lovers hail his advent! delight to do him
+kindness! long for him when he is absent from them! (1) and welcome him
+most gladly on his return! (2) In any good which shall betide him they
+rejoice together; or if they see him overtaken by misfortune, they rush
+to his assistance as one man. (3)
+
+ (1) Reading {an ate}, or if {an apie}, transl. "have yearning hearts
+    when he must leave them."
+
+ (2) See Anton Rubinstein, "Die Musik and ihre Meister," p. 8, "Some
+    Remarks on Beethoven's Sonata Op. 81."
+
+ (3) Cf. "Cyrop." I. vi. 24 for a repetition of the sentiment and
+    phraseology.
+
+Nay! it has not escaped the observation of states and governments that
+friendship is the greatest boon, the sweetest happiness which men may
+taste. At any rate, the custom holds (4) in many states "to slay the
+adulterer" alone of all "with impunity," (5) for this reason clearly
+that such miscreants are held to be destroyers of that friendship (6)
+which binds the woman to the husband. Since where by some untoward
+chance a woman suffers violation of her chastity, (7) husbands do not
+the less honour them, as far as that goes, provided true affection still
+appear unsullied. (8)
+
+ (4) Lit. "many of the states have a law and custom to," etc. Cf. "Pol.
+    Lac." ii. 4.
+
+ (5) Cf. Plat. "Laws," 874 C, "if a man find his wife suffering
+    violence he may kill the violator and be guiltless in the eye of
+    the law." Dem. "in Aristocr." 53, {ean tis apokteine en athlois
+    akon... e epi damarti, k.t.l.... touton eneka me pheugein
+    kteinanta}.
+
+ (6) See Lys. "de caed Eratosth." S. 32 f., {outos, o andres, tous
+    biazomenous elattonos zemias axious egesato einai e tous
+    peithontas. ton men gar thanaton kategno, tois de diplen epoiese
+    ten blaben, egoumenos tous men diaprattomenous bia upo ton
+    biasthenton miseisthai, tous de peisantas outos aution tas psukhas
+    diaphtheirein ost' oikeioteras autois poiein tas allotrias
+    gunaikas e tois andrasi kai pasan ep' ekeinois ten oikian
+    gegonenai kai tous paidas adelous einai opoteron tugkhanousin
+    ontes, ton andron e ton moikhon. anth' on o ton nomon titheis
+    thanaton autois epoiese ten zemian}. Cf. "Cyrop." III. i. 39;
+    "Symp." viii. 20; Plut. "Sol." xxiii., {olos de pleisten ekhein
+    atopian oi peri ton gunaikon nomoi to Soloni dokousi. moikhon men
+    gar anelein tio labonti dedoken, ean d' arpase tis eleutheran
+    gunaika kai biasetai zemian ekaton drakhmas etaxe' kan proagogeue
+    drakhmas aikosi, plen osai pephasmenos polountai, legon de tas
+    etairas. autai gar emphanos phoitosi pros tous didontas}, "Solon's
+    laws in general about women are his strangest, for he permitted
+    any one to kill an adulterer that found him in the act; but if any
+    one forced a free woman, a hundred drachmas was the fine; if he
+    enticed her, twenty;--except those that sell themselves openly,
+    that is, harlots, who go openly to those that hire them" (Clough,
+    i. p. 190).
+
+ (7) Or, "fall a victim to passion through some calamity," "commit a
+    breach of chastity." Cf. Aristot. "H. A." VII. i. 9.
+
+ (8) Or, "if true affection still retain its virgin purity." As to this
+    extraordinary passage, see Hartman, op. cit. p. 242 foll.
+
+So sovereign a good do I, for my part, esteem it to be loved, that I do
+verily believe spontaneous blessings are outpoured from gods and men on
+one so favoured.
+
+This is that choice possession which, beyond all others, the monarch is
+deprived of.
+
+But if you require further evidence that what I say is true, look at the
+matter thus: No friendship, I presume, is sounder than that which binds
+parents to their children and children to their parents, brothers and
+sisters to each other, (9) wives to husbands, comrade to comrade.
+
+ (9) Or, "brothers to brothers."
+
+If, then, you will but thoughtfully consider it, you will discover it is
+the ordinary person who is chiefly blest in these relations. (10) While
+of tyrants, many have been murderers of their own children, many by
+their children murdered. Many brothers have been murderers of one
+another in contest for the crown; (11) many a monarch has been done to
+death by the wife of his bosom, (12) or even by his own familiar friend,
+by him of whose affection he was proudest. (13)
+
+ (10) Or, "that these more obvious affections are the sanctities of
+    private life."
+
+ (11) Or, "have caught at the throats of brothers"; lit. "been slain
+    with mutually-murderous hand." Cf. Pind. Fr. 137; Aesch. "Sept. c.
+    Theb." 931; "Ag." 1575, concerning Eteocles and Polynices.
+
+ (12) See Grote, "H. G." xi. 288, xii. 6; "Hell." VI. iv. 36; Isocr.
+    "On the Peace," 182; Plut. "Dem. Pol." iii. (Clough, v. p. 98);
+    Tac. "Hist." v. 8, about the family feuds of the kings of Judaea.
+
+ (13) "It was his own familiar friend who dealt the blow, the nearest
+    and dearest to his heart."
+
+How can you suppose, then, that being so hated by those whom nature
+predisposes and law compels to love him, the tyrant should be loved by
+any living soul beside?
+
+
+
+IV
+
+Again, without some moiety of faith and trust, (1) how can a man not
+feel to be defrauded of a mighty blessing? One may well ask: What
+fellowship, what converse, what society would be agreeable without
+confidence? What intercourse between man and wife be sweet apart
+from trustfulness? How should the "faithful esquire" whose faith is
+mistrusted still be lief and dear? (2)
+
+ (1) "How can he, whose faith's discredited, the moral bankrupt..."
+
+ (2) Or, "the trusty knight and serving-man." Cf. "Morte d'Arthur,"
+    xxi. 5, King Arthur and Sir Bedivere.
+
+Well, then, of this frank confidence in others the tyrant has the
+scantiest share. (3) Seeing his life is such, he cannot even trust
+his meats and drinks, but he must bid his serving-men before the feast
+begins, or ever the libation to the gods is poured, (4) to taste the
+viands, out of sheer mistrust there may be mischief lurking in the cup
+or platter. (5)
+
+ (3) Or, "from this... is almost absolutely debarred."
+
+ (4) "Or ever grace is said."
+
+ (5) Cf. "Cyrop." I. iii. 4.
+
+Once more, the rest of mankind find in their fatherland a treasure worth
+all else beside. The citizens form their own body-guard (6) without pay
+or service-money against slaves and against evil-doers. It is theirs
+to see that none of themselves, no citizen, shall perish by a violent
+death. And they have advanced so far along the path of guardianship (7)
+that in many cases they have framed a law to the effect that "not the
+associate even of one who is blood-guilty shall be accounted pure." So
+that, by reason of their fatherland, (8) each several citizen can live
+at quiet and secure.
+
+ (6) "Are their own 'satellites,' spear-bearers." Cf. Thuc. i. 130;
+    Herod. ii. 168; vii. 127.
+
+ (7) "Pushed so far the principle of mutual self-aid."
+
+ (8) "Thanks to the blessing of a fatherland each citizen may spend his
+    days in peace and safety."
+
+But for the tyrant it is again exactly the reverse. (9) Instead of
+aiding or avenging their despotic lord, cities bestow large honours
+on the slayer of a tyrant; ay, and in lieu of excommunicating the
+tyrannicide from sacred shrines, (10) as is the case with murderers of
+private citizens, they set up statues of the doers of such deeds (11) in
+temples.
+
+ (9) "Matters are once more reversed precisely," "it is all
+     'topsy-turvy.'"
+
+ (10) "And sacrifices." Cf. Dem. "c. Lept." 137, {en toinun tois peri
+    touton nomois o Drakon... katharon diorisen einai}. "Now in the
+    laws upon this subject, Draco, although he strove to make it
+    fearful and dreadful for a man to slay another, and ordained that
+    the homicide should be excluded from lustrations, cups, and
+    drink-offerings, from the temples and the market-place, specifying
+    everything by which he thought most effectually to restrain people
+    from such a practice, still did not abolish the rule of justice,
+    but laid down the cases in which it should be lawful to kill, and
+    declared that the killer under such circumstances should be deemed
+    pure" (C. R. Kennedy).
+
+ (11) e.g. Harmodius and Aristogeiton. See Dem. loc. cit. 138: "The
+    same rewards that you gave to Harmodius and Aristogiton,"
+    concerning whom Simonides himself wrote a votive couplet:
+
+        {'E meg' 'Athenaioisi phoos geneth' enik' 'Aristogeiton
+        'Ipparkhon kteine kai 'Armodios.}
+
+But if you imagine that the tyrant, because he has more possessions than
+the private person, does for that reason derive greater pleasure from
+them, this is not so either, Simonides, but it is with tyrants as with
+athletes. Just as the athlete feels no glow of satisfaction in asserting
+his superiority over amateurs, (12) but annoyance rather when he
+sustains defeat at the hands of any real antagonist; so, too, the tyrant
+finds little consolation in the fact (13) that he is evidently richer
+than the private citizen. What he feels is pain, when he reflects that
+he has less himself than other monarchs. These he holds to be his true
+antagonists; these are his rivals in the race for wealth.
+
+ (12) Or, "It gives no pleasure to the athlete to win victories over
+    amateurs." See "Mem." III. viii. 7.
+
+ (13) Or, "each time it is brought home to him that," etc.
+
+Nor does the tyrant attain the object of his heart's desire more quickly
+than do humbler mortals theirs. For consider, what are their objects of
+ambition? The private citizen has set his heart, it may be, on a house,
+a farm, a servant. The tyrant hankers after cities, or wide territory,
+or harbours, or formidable citadels, things far more troublesome and
+more perilous to achieve than are the pettier ambitions of lesser men.
+
+And hence it is, moreover, that you will find but few (14) private
+persons paupers by comparison with the large number of tyrants who
+deserve the title; (15) since the criterion of enough, or too much,
+is not fixed by mere arithmetic, but relatively to the needs of the
+individual. (16) In other words, whatever exceeds sufficiency is much,
+and what falls short of that is little. (17)
+
+ (14) Reading as vulg. {alla mentoi kai penetas opsei oukh outos
+    oligous ton idioton os pollous ton turannon}. Lit. "however that
+    may be, you will see not so few private persons in a state of
+    penury as many despots." Breitenbach del. {oukh}, and transl.,
+    "Daher weist du auch in dem Masse wenige Arme unter den
+    Privat-leuten finden, als viele unter den Tyrannen." Stob.,
+    {penetas opsei oligous ton idioton, pollous de ton
+    turannon}. Stob. MS. Par., {alla mentoi kai plousious opsei
+    oukh outos oligous ton idioton os penetas pollous ton
+    turannon}. See Holden ad loc. and crit. n.
+
+ (15) Cf. "Mem." IV. ii. 37.
+
+ (16) Or, "not by the number of things we have, but in reference to the
+    use we make of them." Cf. "Anab." VII. vii. 36.
+
+ (17) Dr. Holden aptly cf. Addison, "The Spectator," No. 574, on the
+    text "Non possidentem multa vocaveris recte beatum..."
+
+And on this principle the tyrant, with his multiplicity of goods, is
+less well provided to meet necessary expenses than the private person;
+since the latter can always cut down his expenditure to suit his daily
+needs in any way he chooses; but the tyrant cannot do so, seeing that
+the largest expenses of a monarch are also the most necessary, being
+devoted to various methods of safeguarding his life, and to cut down any
+of them would be little less than suicidal. (18)
+
+ (18) Or, "and to curtail these would seem to be self-slaughter."
+
+Or, to put it differently, why should any one expend compassion on a
+man, as if he were a beggar, who has it in his power to satisfy by
+just and honest means his every need? (19) Surely it would be more
+appropriate to call that man a wretched starveling beggar rather,
+who through lack of means is driven to live by ugly shifts and base
+contrivances.
+
+ (19) i.e. "to expend compassion on a man who, etc., were surely a
+    pathetic fallacy." Al. "Is not the man who has it in his power,
+    etc., far above being pitied?"
+
+Now it is your tyrant who is perpetually driven to iniquitous spoilation
+of temples and human beings, through chronic need of money wherewith to
+meet inevitable expenses, since he is forced to feed and support an army
+(even in times of peace) no less than if there were actual war, or else
+he signs his own death-warrant. (20)
+
+ (20) "A daily, hourly constraint is laid upon him to support an army
+    as in war time, or--write his epitaph!"
+
+
+
+V
+
+But there is yet another sore affliction to which the tyrant is liable,
+Sinmonides, which I will name to you. It is this. Tyrants no less than
+ordinary mortals can distinguish merit. The orderly, (1) the wise, the
+just and upright, they freely recognise; but instead of admiring them,
+they are afraid of them--the courageous, lest they should venture
+something for the sake of freedom; the wise, lest they invent some
+subtle mischief; (2) the just and upright, lest the multitude should
+take a fancy to be led by them.
+
+ (1) The same epithets occur in Aristoph. "Plut." 89:
+
+        {ego gar on meirakion epeiles' oti
+        os tous dikaious kai sophous kai kosmious
+        monous badioimen.}
+
+    Stob. gives for {kasmious} {alkimous}.
+
+ (2) Or, "for fear of machinations." But the word is suggestive of
+    mechanical inventions also, like those of Archimedes in connection
+    with a later Hiero (see Plut. "Marcel." xv. foll.); or of
+    Lionardo, or of Michael Angelo (Symonds, "Renaissance in Italy,"
+    "The Fine Arts," pp. 315, 393).
+
+And when he has secretly and silently made away with all such people
+through terror, whom has he to fall back upon to be of use to him, save
+only the unjust, the incontinent, and the slavish-natured? (3) Of these,
+the unjust can be trusted as sharing the tyrant's terror lest the cities
+should some day win their freedom and lay strong hands upon them;
+the incontinent, as satisfied with momentary license; and the
+slavish-natured, for the simple reason that they have not themselves the
+slightest aspiration after freedom. (4)
+
+ (3) Or, "the dishonest, the lascivious, and the servile."
+
+ (4) "They have no aspiration even to be free," "they are content to
+    wallow in the slough of despond." The {adikoi} (unjust) correspond
+    to the {dikaioi} (just), {akrateis} (incontinent) to the {sophoi}
+    (wise) (Breit. cf. "Mem." III. ix. 4, {sophian de kai sophrosunen
+    ou diorizen}), {andrapododeis} (servile) to the {kasmioi},
+    {andreioi} (orderly, courageous).
+
+This, then, I say, appears to me a sore affliction, that we should look
+upon the one set as good men, and yet be forced to lean upon the other.
+
+And further, even a tyrant cannot but be something of a patriot--a
+lover of that state, without which he can neither hope for safety nor
+prosperity. On the other hand, his tyrrany, the exigencies of despotic
+rule, compel him to incriminate his fatherland. (5) To train his
+citizens to soldiery, to render them brave warriors, and well armed,
+confers no pleasure on him; rather he will take delight to make his
+foreigners more formidable than those to whom the state belongs, and
+these foreigners he will depend on as his body-guard.
+
+ (5) Or, "depreciate the land which gave him birth." Holden cf.
+    "Cyrop." VII. ii. 22. See Sturz, s.v.
+
+Nay more, not even in the years of plenty, (6) when abundance of all
+blessings reigns, not even then may the tyrant's heart rejoice amid the
+general joy, for the greater the indigence of the community the humbler
+he will find them: that is his theory.
+
+ (6) "In good seasons," "seasons of prosperity." Cf. Aristot. "Pol." v.
+    6. 17.
+
+
+
+VI
+
+He continued: I desire to make known to you, Simonides, (1) those divers
+pleasures which were mine whilst I was still a private citizen, but
+of which to-day, nay, from the moment I became a tyrant, I find myself
+deprived. In those days I consorted with my friends and fellows, to our
+mutual delectation; (2) or, if I craved for quietude, (3) I chose myself
+for my companion. Gaily the hours flitted at our drinking-parties,
+ofttimes till we had drowned such cares and troubles as are common to
+the life of man in Lethe's bowl; (4) or ofttimes till we had steeped
+our souls in song and dance (5) and revelry; ofttimes till the flame of
+passion kindled in the breasts of my companions and my own. (6) But now,
+welladay, I am deprived of those who took delight in me, because I
+have slaves instead of friends as my companions; I am robbed of my
+once delightful intercourse with them, because I discern no vestige
+of goodwill towards me in their looks. And as to the wine-cup and
+slumber--these I guard against, even as a man might guard against an
+ambuscade. Think only! to dread a crowd, to dread solitude, to dread the
+absence of a guard, to dread the very guards that guard, to shrink from
+having those about one's self unarmed, and yet to hate the sight of
+armed attendants. Can you conceive a more troublesome circumstance? (7)
+But that is not all. To place more confidence in foreigners than in your
+fellow-citizens, nay, in barbarians than in Hellenes, to be consumed
+with a desire to keep freemen slaves and yet to be driven, will he
+nill he, to make slaves free, are not all these the symptoms of a mind
+distracted and amazed with terror?
+
+ (1) Or, "I wish I could disclose to you (he added) those heart-easing
+    joys." For {euphrosunas} cf. "Od." vi. 156; Aesch. "P. V." 540;
+    Eur. "Bacch." 376. A favourite word with our author; see "Ages."
+    ix. 4; "Cyrop." passim; "Mem." III. viii. 10; "Econ." ix. 12.
+
+ (2) Lit. "delighting I in them and they in me."
+
+ (3) Or, "when I sought tranquility I was my own companion."
+
+ (4) Or, "in sheer forgetfulness."
+
+ (5) Or, "absorbed our souls in song and festal cheer and dance." Cf.
+    "Od." viii. 248, 249, {aiei d' emin dais te phile kitharis te
+    khoroi te} | {eimata t' exemoiba loetra te therma kau eunai}, "and
+    dear to us ever is the banquet and the harp and the dance, and
+    changes of raiment, and the warm bath, and love and sleep"
+    (Butcher and Lang).
+
+ (6) Reading as vulg. {epithumias}. Breit. cf. "Mem." III. ix. 7; Plat.
+    "Phaed." 116 E, "he has eaten and drunk and enjoyed the society of
+    his beloved" (Jowett). See "Symp." the finale; or if, after Weiske
+    and Cobet, {euthumias}, transl. "to the general hilarity of myself
+    and the whole company" (cf. "Cyrop." I. iii. 12, IV. v. 7), but
+    this is surely a bathos rhetorically.
+
+ (7) Or, "a worse perplexity." See "Hell." VII. iii. 8.
+
+For terror, you know, not only is a source of pain indwelling in the
+breast itself, but, ever in close attendance, shadowing the path, (8)
+becomes the destroyer of all sweet joys.
+
+ (8) Reading {sumparakolouthon lumeon}. Stob. gives {sumparomarton
+    lumanter}. For the sentiment cf. "Cyrop." III. i. 25.
+
+And if you know anything of war, Simonides, and war's alarms; if it was
+your fortune ever to be posted close to the enemy's lines, (9) try to
+recall to mind what sort of meals you made at those times, with what
+sort of slumber you courted rest. Be assured, there are no pains you
+then experienced, no horrors to compare with those that crowd upon the
+despot, who sees or seems to see fierce eyes of enemies glare at him,
+not face to face alone, but from every side.
+
+ (9) Or, "in the van of battle, opposite the hostile lines."
+
+He had spoken so far, when Simonides took up the thread of the
+discourse, replying: Excellently put. A part I must admit, of what you
+say; since war is terrible. Yet, Hiero, you forget. When we, at any
+rate, are out campaigning, we have a custom; we place sentinels at the
+outposts, and when the watch is set, we take our suppers and turn in
+undauntedly.
+
+And Hiero answered: Yes, I can well believe you, for the laws are the
+true outposts, (10) who guard the sentinels, keeping their fears alive
+both for themselves and in behalf of you. Whereas the tyrant hires his
+guards for pay like harvest labourers. (11) Now of all functions, all
+abilities, none, I presume, is more required of a guard than that of
+faithfulness; and yet one faithful man is a commodity more hard to find
+than scores of workmen for any sort of work you like to name; (12) and
+the more so, when the guards in question are not forthcoming except for
+money's sake; (13) and when they have it in their power to get far more
+in far less time by murdering the despot than they can hope to earn by
+lengthened service in protecting him.
+
+ (10) Or, "beyond the sentinels themselves is set the outpost of the
+    laws, who watch the watch."
+
+ (11) Or, "ten-day labourers in harvest-time."
+
+ (12) Or, "but to discover one single faithful man is far more
+    difficult than scores of labourers in any field of work you
+    please."
+
+ (13) Or, "are merely hirelings for filthy lucre's sake."
+
+And as to that which roused your envy--our ability, as you call it, to
+benefit our friends most largely, and beyond all else, to triumph over
+our foes--here, again, matters are not as you suppose.
+
+How, for instance, can you hope to benefit your friends, when you may
+rest assured the very friend whom you have made most your debtor will be
+the happiest to quit your sight as fast as may be? since nobody believes
+that anything a tyrant gives him is indeed his own, until he is well
+beyond the donor's jurisdiction.
+
+So much for friends, and as to enemies conversely. How can you say "most
+power of triumphing over our enemies," when every tyrant knows full well
+they are all his enemies, every man of them, who are despotically ruled
+by him? And to put the whole of them to death or to imprison them is
+hardly possible; or who will be his subjects presently? Not so, but
+knowing they are his enemies, he must perform this dexterous feat: (14)
+he must keep them at arm's length, and yet be compelled to lean upon
+them.
+
+ (14) Lit. "he must at one and the same moment guard against them, and
+    yet be driven also to depend upon them."
+
+But be assured, Simonides, that when a tyrant fears any of his citizens,
+he is in a strait; it is ill work to see them living and ill work to put
+them to the death. Just as might happen with a horse; a noble beast, but
+there is that in him makes one fear he will do some mischief presently
+past curing. (15) His very virtue makes it hard to kill the creature,
+and yet to turn him to account alive is also hard; so careful must one
+be, he does not choose the thick of danger to work irreparable harm. And
+this, further, doubtless holds of all goods and chattels, which are at
+once a trouble and a benefit. If painful to their owners to possess,
+they are none the less a source of pain to part with.
+
+ (15) Lit. "good but fearful (i.e. he makes one fear), he will some day
+    do some desperate mischief."
+
+
+
+VII
+
+Now when he had heard these reasonings, Simonides replied: O Hiero,
+there is a potent force, it would appear, the name of which is honour,
+so attractive that human beings strain to grasp it, (1) and in the
+effort they will undergo all pains, endure all perils. It would further
+seem that even you, you tyrants, in spite of all that sea of trouble
+which a tyranny involves, rush headlong in pursuit of it. You must be
+honoured. All the world shall be your ministers; they shall carry out
+your every injunction with unhesitating zeal. (2) You shall be the
+cynosure of neighbouring eyes; men shall rise from their seats at your
+approach; they shall step aside to yield you passage in the streets. (3)
+All present shall at all times magnify you, (4) and shall pay homage to
+you both with words and deeds. Those, I take it, are ever the kind of
+things which subjects do to please the monarch, (5) and thus they treat
+each hero of the moment, whom they strive to honour. (6)
+
+ (1) Lit. "that human beings will abide all risks and undergo all pains
+    to clutch the bait."
+
+ (2) Cf. "Cyrop." II. iii. 8; VIII. i. 29.
+
+ (3) Cf. "Mem." II. iii. 16; "Cyrop." VII. v. 20.
+
+ (4) {gerairosi}, poetic. Cf. "Cyrop." VIII. i. 39; "Hell." I. vii. 33;
+    "Econ." iv. 8; "Herod." v. 67; Pind. "O." iii. 3, v. 11; "N." v.
+    15; "Od." xiv. 437, 441; "Il." vii. 321; Plat. "Rep." 468 D,
+    quoting "Il." vii. 321.
+
+ (5) Reading {tois turannois}, or if {tous turannous}, after Cobet,
+    "That is how they treat crowned heads."
+
+ (6) Cf. Tennyson, "Ode on the Death of the Duke of Wellington":
+
+        With honour, honour, honour to him,
+        Eternal honour to his name.
+
+Yes, Hiero, and herein precisely lies the difference between a man and
+other animals, in this outstretching after honour. (7) Since, it would
+seem, all living creatures alike take pleasure in meats and drinks, in
+sleep and sexual joys. Only the love of honour is implanted neither in
+unreasoning brutes (8) nor universally in man. But they in whose hearts
+the passion for honour and fair fame has fallen like a seed, these
+unmistakably (9) are separated most widely from the brutes. These may
+claim to be called men, (10) not human beings merely. So that, in my
+poor judgment, it is but reasonable you should submit to bear the pains
+and penalties of royalty, since you are honoured far beyond all other
+mortal men. And indeed no pleasure known to man would seem to be nearer
+that of gods than the delight (11) which centres in proud attributes.
+
+ (7) Or, "in this strong aspiration after honour." Holden aptly cf.
+    "Spectator," No. 467: "The love of praise is a passion deeply
+    fixed in the mind of every extraordinary person; and those who are
+    most affected with it seem most to partake of that particle of the
+    divinity which distinguishes mankind from the inferior creation."
+
+ (8) {alogous}, i.e. "without speech and reason"; cf. modern Greek {o
+    alogos} = the horse (sc. the animal par excellence). See
+    "Horsemanship," viii. 14.
+
+ (9) {ede}, "ipso facto."
+
+ (10) See "Anab." I. vii. 4; Frotscher ap. Breit. cf. Cic. "ad Fam." v.
+    17. 5, "ut et hominem te et virum esse meminisses."
+
+ (11) Or, "joyance."
+
+To these arguments Hiero replied: Nay, but, Simonides, the honours and
+proud attributes bestowed on tyrants have much in common with their
+love-makings, as I described them. Like honours like loves, the pair are
+of a piece.
+
+For just as the ministrations won from loveless hearts (12) are felt to
+be devoid of grace, and embraces forcibly procured are sweet no longer,
+so the obsequious cringings of alarm are hardly honours. Since how shall
+we assert that people who are forced to rise from their seats do really
+rise to honour those whom they regard as malefactors? or that these
+others who step aside to let their betters pass them in the street,
+desire thus to show respect to miscreants? (13) And as to gifts, it is
+notorious, people commonly bestow them largely upon those they hate, and
+that too when their fears are gravest, hoping to avert impending evil.
+Nay, these are nothing more nor less than acts of slavery, and they may
+fairly be set down as such.
+
+ (12) Or, "the compliance of cold lips where love is not reciprocated
+    is..."
+
+ (13) Or, "to rank injustice."
+
+But honours have a very different origin, (14) as different to my
+mind as are the sentiments to which they give expression. See how, for
+instance, men of common mould will single out a man, who is a man, (15)
+they feel, and competent to be their benefactor; one from whom they hope
+to reap rich blessings. His name lives upon their lips in praise. As
+they gaze at him, each one among them sees in him a private treasure.
+Spontaneously they yield him passage in the streets. They rise from
+their seats to do him honour, out of love not fear; they crown him for
+his public (16) virtue's sake and benefactions. They shower gifts upon
+him of their own free choice. These same are they who, if my definition
+holds, may well be said to render honour to their hero by such service,
+whilst he that is held worthy of these services is truly honoured. And
+for my part I can but offer my congratulations to him. "God bless him,"
+say I, perceiving that so far from being the butt of foul conspiracy, he
+is an object of anxiety to all, lest evil should betide him; and so he
+pursues the even tenour of his days in happiness exempt from fears
+and jealousy (17) and risk. But the current of the tyrant's life runs
+differently. Day and night, I do assure you, Simonides, he lives like
+one condemned by the general verdict of mankind to die for his iniquity.
+
+ (14) Lit. "Honours would seem to be the outcome and expression of
+    conditions utterly remote from these, in fact their very
+    opposites."
+
+ (15) Cf. Napoleon's accost of Goethe, "Vous etes un homme," and "as
+    Goethe left the room, Napoleon repeated to Berthier and Daru,
+    'Voila un homme!'" ("The Life of Goethe," Lewes, p. 500).
+
+ (16) Reading {koines}, which ought to mean "common to them and him";
+    if with Cobet {koine}, "in public crown him for his virtue's sake,
+    a benefactor."
+
+ (17) Or, "without reproach."
+
+Now when Simonides had listened to these reasonings to the end, (18)
+he answered: How is it, Hiero, if to play the tyrant is a thing so
+villainous, (19) and that is your final judgment, how comes it you are
+not quit of so monstrous an evil? Neither you, nor, for that matter, any
+monarch else I ever heard of, having once possessed the power, did ever
+of his own free will divest himself of sovereignty. How is that, Hiero?
+
+ (18) Cf. "Econ." xi. 1.
+
+ (19) Or, "if to monarchise and play the despot."
+
+For one simple reason (the tyrant answered), and herein lies the supreme
+misery of despotic power; it is not possible even to be quit of it. (20)
+How could the life of any single tyrant suffice to square the account?
+How should he pay in full to the last farthing all the moneys of all
+whom he has robbed? with what chains laid upon him make requital to all
+those he has thrust into felons' quarters? (21) how proffer lives enough
+to die in compensation of the dead men he has slain? how die a thousand
+deaths?
+
+ (20) Holden aptly cf. Plut. "Sol." 14, {kalon men einai ten torannida
+    khorion, ouk ekhein de apobasin}, "it was true a tyrrany was a
+    very fair spot, but it had no way down from it" (Clough, i. p.
+    181).
+
+ (21) Or, "how undergo in his own person the imprisonments he has
+    inflicted?" Reading {antipaskhoi}, or if {antiparaskhoi}, transl.
+    "how could he replace in his own person the exact number of
+    imprisonments which he has inflicted on others?"
+
+Ah, no! Simonides (he added), if to hang one's self outright be ever
+gainful to pour mortal soul, then, take my word for it, that is the
+tyrant's remedy: there's none better suited (22) to his case, since he
+alone of all men is in this dilemma, that neither to keep nor lay aside
+his troubles profits him.
+
+ (22) Or, "nought more profitable to meet the case." The author plays
+    on {lusitelei} according to his wont.
+
+
+
+VIII
+
+Here Simonides took up the thread of the discourse (1) as follows: That
+for the moment, Hiero, you should be out of heart regarding tyranny (2)
+I do not wonder, since you have a strong desire to be loved by human
+beings, and you are persuaded that it is your office which balks the
+realisation of your dream.
+
+ (1) Al. "took up the speaker thus."
+
+ (2) "In reference to despotic rule."
+
+Now, however, I am no less certain I can prove to you that government
+(3) implies no obstacle to being loved, but rather holds the advantage
+over private life so far. And whilst investigating if this be really so,
+let us not embarrass the inquiry by asking whether in proportion to his
+greater power the ruler is able to do kindness on a grander scale. But
+put it thus: Two human beings, the one in humble circumstances, (4) the
+other a despotic ruler, perform a common act; which of these twain will,
+under like conditions, (5) win the larger thanks? I will begin with
+the most trifling (6) examples; and first a simple friendly salutation,
+"Good day," "Good evening," dropped at sight of some one from the
+lips of here a ruler, there a private citizen. In such a case, whose
+salutation will sound the pleasanter to him accosted?
+
+ (3) {to arkhein}. Cf. "Cyrop." passim.
+
+ (4) "A private person."
+
+ (5) Lit. "by like expenditure of power."
+
+ (6) {arkhomai soi}. Lit. "I'll begin you with quite commonplace
+    examples." Holden cf. Shakesp. "Merry Wives," i. 4. 97, "I'll do
+    you your master what good I can"; "Much Ado," ii. 3. 115, "She
+    will sit you." For the distinction between {paradeigmaton} =
+    examples and {upodeigmata} = suggestions see "Horsem." ii. 2.
+
+Or again, (7) let us suppose that both should have occasion to pronounce
+a panegyric. Whose compliments will carry farther, in the way of
+delectation, think you? Or on occasion of a solemn sacrifice, suppose
+they do a friend the honour of an invitation. (8) In either case it is
+an honour, but which will be regarded with the greater gratitude, the
+monarch's or the lesser man's?
+
+ (7) "Come now."
+
+ (8) Cf. "Mem." II. iii. 11 as to "sacrifices as a means of social
+    enjoyment." Dr. Holden cf. Aristot. "Nic. Eth." VIII. ix. 160,
+    "And hence it is that these clan communities and hundreds solemnise
+    sacrifices, in connection with which they hold large gatherings,
+    and thereby not only pay honour to the gods, but also provide for
+    themselves holiday and amusement" (R. Williams). Thuc. ii. 38,
+    "And we have not forgotten to provide for our weary spirits many
+    relaxations from toil; we have regular games and sacrifices
+    throughout the year" (Jowett). Plut. "Them." v., {kai gar
+    philothuten onta kai lampron en tais peri tous xenous dapanais
+   ...} "For loving to sacrifice often, and to be splendid in his
+    entertainment of strangers, he required a plentiful revenue"
+    (Clough, i. 236). To which add Theophr. "Char." xv. 2, "The
+    Shameless Man": {eita thusas tois theois autos men deipnein par'
+    etero, ta de krea apotithenai alsi pasas, k.t.l.}, "then when he
+    has been sacrificing to the gods, he will put away the salted
+    remains, and will himself dine out" (Jebb).
+
+Or let a sick man be attended with a like solicitude by both. It is
+plain, the kind attentions of the mighty potentate (9) arouse in the
+patient's heart immense delight. (10)
+
+ (9) "Their mightinesses," or as we might say, "their serene
+    highnesses." Cf. Thuc. ii. 65.
+
+ (10) "The greatest jubilance."
+
+Or say, they are the givers of two gifts which shall be like in all
+respects. It is plain enough in this case also that "the gracious
+favour" of his royal highness, even if halved, would more than
+counterbalance the whole value of the commoner's "donation." (11)
+
+ (11) Or, "half the great man's 'bounty' more than outweighs the small
+    man's present." For {dorema} cf. Aristot. "N. E." I. ix. 2,
+    "happiness... a free gift of God to men."
+
+Nay, as it seems to me, an honour from the gods, a grace divine, is shed
+about the path of him the hero-ruler. (12) Not only does command itself
+ennoble manhood, but we gaze on him with other eyes and find the fair
+within him yet more fair who is to-day a prince and was but yesterday a
+private citizen. (13) Again, it is a prouder satisfaction doubtless
+to hold debate with those who are preferred to us in honour than with
+people on an equal footing with ourselves.
+
+ (12) Lit. "attends the footsteps of the princely ruler." Cf. "Cyrop."
+    II. i. 23, Plat. "Laws," 667 B, for a similar metaphorical use of
+    the word.
+
+ (13) {to arkhein}, "his princely power makes him more noble as a man,
+    and we behold him fairer exercising rule than when he functioned
+    as a common citizen." Reading {kallio}, or if {edion}, transl. "we
+    feast our eyes more greedily upon him."
+
+Why, the minion (with regard to whom you had the gravest fault to find
+with tyranny), the favourite of a ruler, is least apt to quarrel (14)
+with gray hairs: the very blemishes of one who is a prince soon cease to
+be discounted in their intercourse. (15)
+
+ (14) Lit. "feels least disgust at age"; i.e. his patron's years and
+    wrinkles.
+
+ (15) Cf. Plat. "Phaedr." 231 B.
+
+The fact is, to have reached the zenith of distinction in itself lends
+ornament, (16) nay, a lustre effacing what is harsh and featureless and
+rude, and making true beauty yet more splendid.
+
+ (16) Or, "The mere prestige of highest worship helps to adorn." See
+    Aristot. "N. E." xi. 17. As to {auto to tetimesthai m. s.} I think
+    it is the {arkhon} who is honoured by the rest of men, which
+    {time} helps to adorn him. Others seem to think it is the
+    {paidika} who is honoured by the {arkhon}. If so, transl.: "The
+    mere distinction, the privilege alone of being highly honoured,
+    lends embellishment," etc.
+
+Since then, by aid of equal ministrations, you are privileged to win not
+equal but far deeper gratitude: it would seem to follow, considering
+the vastly wider sphere of helpfulness which lies before you as
+administrators, and the far grander scale of your largesses, I say it
+naturally pertains to you to find yourselves much more beloved than
+ordinary mortals; or if not, why not?
+
+Hiero took up the challenge and without demur made answer: For this good
+reason, best of poets, necessity constrains us, far more than ordinary
+people, to be busybodies. We are forced to meddle with concerns which
+are the very fount and springhead of half the hatreds of mankind.
+
+We have moneys to exact if we would meet our necessary expenses. Guards
+must be impressed and sentinels posted wherever there is need of watch
+and ward. We have to chastise evil-doers; we must put a stop to those
+who would wax insolent. (17) And when the season for swift action comes,
+and it is imperative to expedite a force by land or sea, at such a
+crisis it will not do for us to entrust the affair to easy-goers.
+
+ (17) Or, "curb the over-proud in sap and blood."
+
+Further than that, the man who is a tyrant must have mercenaries, and of
+all the burdens which the citizens are called upon to bear there is none
+more onerous than this, since nothing will induce them to believe these
+people are supported by the tyrant to add to his and their prestige,
+(18) but rather for the sake of his own selfishness and greed.
+
+ (18) Reading with Breit. {eis timas}, or if the vulg. {isotimous},
+    transl. "as equal merely to themselves in privilege"; or if with
+    Schenkl (and Holden, ed. 3) {isotimias}, transl. "their firm
+    persuasion is these hirelings are not supported by the tyrant in
+    the interests of equality but of undue influence."
+
+
+
+IX
+
+To these arguments Simonides in turn made answer: Nay, Hiero, I am far
+from stating that you have not all these divers matters to attend to.
+They are serious duties, (1) I admit. But still, what strikes me is,
+if half these grave responsibilities do lend themselves undoubtedly to
+hatred, (2) the remaining half are altogether gratifying. Thus, to teach
+others (3) arts of highest virtue, and to praise and honour each
+most fair performance of the same, that is a type of duty not to be
+discharged save graciously. Whilst, on the other hand, to scold at
+people guilty of remissness, to drive and fine and chasten, these are
+proceedings doubtless which go hand in hand with hate and bitterness.
+
+ (1) Cf. "Econ." vii. 41.
+
+ (2) Or, "tend indisputably to enmity."
+
+ (3) Or, "people," "the learner."
+
+What I would say then to the hero-ruler is: Wherever force is needed,
+the duty of inflicting chastisement should be assigned to others, but
+the distribution of rewards and prizes must be kept in his own hands.
+(4)
+
+ (4) Cf. "Cyrop." VIII. ii. 27; ib. i. 18; "Hipparch," i. 26.
+
+Common experience attests the excellence of such a system. (5) Thus when
+we (6) wish to set on foot a competition between choruses, (7) it is the
+function of the archon (8) to offer prizes, whilst to the choregoi (9)
+is assigned the duty of assembling the members of the band; (10) and
+to others (11) that of teaching and applying force to those who come
+behindhand in their duties. There, then, you have the principle at once:
+The gracious and agreeable devolves on him who rules, the archon; the
+repellent counterpart (12) on others. What is there to prevent the
+application of the principle to matters politic in general? (13)
+
+ (5) Or, "current incidents bear witness to the beauty of the
+    principle."
+
+ (6) {emin}. The author makes Simonides talk as an Athenian.
+
+ (7) Lit. "when we wish our sacred choirs to compete."
+
+ (8) Or, "magistrate"; at Athens the Archon Eponymos. See Boeckh, "P.
+    E. A." p. 454 foll. Al. the {athlethetai}. See Pollux, viii. 93;
+    cf. Aeschin. "c. Ctes." 13.
+
+ (9) Or more correctly at Athens the choragoi = leaders of the chorus.
+
+ (10) i.e. the choreutai.
+
+ (11) Sc. the choro-didaskaloi, or chorus-masters.
+
+ (12) {ta antitupa}, "the repellent obverse," "the seamy side." Cf.
+    Theogn. 1244, {ethos ekhon solion pistios antitupon}. "Hell." VI.
+    iii. 11.
+
+ (13) Or, "Well then, what reason is there why other matters of
+    political concern--all other branches of our civic life, in
+    fact--should not be carried out on this same principle?"
+
+All states as units are divided into tribes ({thulas}), or regiments
+({moras}), or companies ({lokhous}), and there are officers
+({arkhontes}) appointed in command of each division. (14)
+
+ (14) e.g. Attica into ten phylae, Lacedaemon into six morae, Thebes
+    and Argos into lochi. See Aristot. "Pol." v. 8 (Jowett, i. 166);
+    "Hell." VI. iv. 13; VII. ii. 4.
+
+Well then, suppose that some one were to offer prizes (15) to these
+political departments on the pattern of the choric prizes just
+described; prizes for excellence of arms, or skill in tactics, or
+for discipline and so forth, or for skill in horsemanship; prizes
+for prowess (16) in the field of battle, bravery in war; prizes for
+uprightness (17) in fulfilment of engagements, contracts, covenants.
+If so, I say it is to be expected that these several matters, thanks to
+emulous ambition, will one and all be vigorously cultivated. Vigorously!
+why, yes, upon my soul, and what a rush there would be! How in the
+pursuit of honour they would tear along where duty called: with what
+promptitude pour in their money contributions (18) at a time of crisis.
+
+ (15) See "Revenues," iii. 3; A. Zurborg, "de. Xen. Lib. qui {Poroi}
+    inscribitur," p. 42.
+
+ (16) Cf. "Hell." III. iv. 16; IV. ii. 5 foll.
+
+ (17) "In reward for justice in, etc." See "Revenues," l.c.; and for
+    the evil in question, Thuc. i. 77; Plat. "Rep." 556.
+
+ (18) {eispheroien}, techn. of the war-tax at Athens. See "Revenues,"
+    iii. 7 foll.; iv. 34 foll.; Thuc. iii. 19; Boeckh, "P. E. A." pp.
+    470, 539. Cf. Aristot. "Pol." v. 11. 10, in illustration of the
+    tyrant's usual method of raising money.
+
+And that which of all arts is the most remunerative, albeit the least
+accustomed hitherto to be conducted on the principle of competition
+(19)--I mean agriculture--itself would make enormous strides, if some
+one were to offer prizes in the same way, "by farms and villages," to
+those who should perform the works of tillage in the fairest fashion.
+Whilst to those members of the state who should devote themselves
+with might and main to this pursuit, a thousand blessings would be the
+result. The revenues would be increased; and self-restraint be found
+far more than now, in close attendance on industrious habits. (20) Nay
+further, crimes and villainies take root and spring less freely among
+busy workers.
+
+ (19) Al. "and what will be the most repaying... being a department
+    of things least wont," etc.
+
+ (20) Or, "soundness of soul much more be found allied with
+    occupation."
+
+Once more, if commerce (21) is of any value to the state, then let the
+merchant who devotes himself to commerce on the grandest scale receive
+some high distinction, and his honours will draw on other traders in his
+wake.
+
+ (21) Cf. "Revenues," l.c.
+
+Or were it made apparent that the genius who discovers a new source of
+revenue, which will not be vexatious, will be honoured, by the state,
+a field of exploration will at once be opened, which will not long
+continue unproductive. (22)
+
+ (22) Lit. "that too is an inquiry which will not long lie fallow."
+
+And to speak compendiously, if it were obvious in each department
+that the introducer of any salutary measure whatsoever will not remain
+unhonoured, that in itself will stimulate a host of pople who will make
+it their business to discover some good thing or other for the state.
+Wherever matters of advantage to the state excite deep interest, of
+necessity discoveries are made more freely and more promptly perfected.
+But if you are afraid, O mighty prince, that through the multitude
+of prizes offered (23) under many heads, expenses also must be much
+increased, consider that no articles of commerce can be got more cheaply
+than those which people purchase in exchange for prizes. Note in the
+public contests (choral, equestrian, or gymnastic) (24) how small the
+prizes are and yet what vast expenditure of wealth and toil, and painful
+supervision these elicit. (25)
+
+ (23) Reading {protithemenon} with Cobet.
+
+ (24) Lit. "hippic, gymnic, and choregic contests."
+
+ (25) e.g. "in the choral dances (1) money on the part of the choragoi;
+    (2) pains on the part of the choreutai; (3) supervising care on
+    the part of the choro-didaskoi, and so mutatis mutandis of the
+    hippic and gymnic."
+
+
+
+X
+
+And Hiero replied: Thus far you reason prettily, methinks, Simonides;
+but about these mercenary troops have you aught to say? Can you suggest
+a means to avoid the hatred of which they are the cause? Or will you
+tell me that a ruler who has won the affection of his subjects has no
+need for body-guards?
+
+Nay, in good sooth (replied Simonides), distinctly he will need them
+none the less. I know it is with certain human beings as with horses,
+some trick of the blood they have, some inborn tendency; the more their
+wants are satisfied, the more their wantonness will out. Well then, to
+sober and chastise wild spirits, there is nothing like the terror of
+your men-at-arms. (1) And as to gentler natures, (2) I do not know by
+what means you could bestow so many benefits upon them as by means of
+mercenaries.
+
+ (1) Lit. "spear-bearers"; the title given to the body-guard of kings
+    and tyrants.
+
+ (2) Lit. "the beautiful and good," the {kalois kagathois}. See "Econ."
+    vi. 11 foll.
+
+Let me explain: You keep them, I presume, in the first instance, for
+yourself, as guards of your own person. But for masters, owners of
+estates and others, to be done to death with violence by their own
+slaves is no unheard-of thing. Supposing, then, the first and foremost
+duty laid on mercenary troops were this: they are the body-guards of the
+whole public, and bound as such to come to the assistance of all members
+of the state alike, in case they shall detect some mischief brewing (3)
+(and miscreants do spring up in the hearts of states, as we all know);
+I say then, if these mercenary troops were under orders to act as
+guardians of the citizens, (4) the latter would recognise to whom they
+were indebted.
+
+ (3) "If they become aware of anything of that sort." Is not this
+    modelled on the {krupteia}? See Pater, "Plato and Platonism," ch.
+    viii. "Lacedaemon," p. 186.
+
+ (4) Or, "as their police." {toutous}, sc. "the citizens"; al. "the
+    evil-doers." If so, transl. "to keep watch and ward on evil-doers;
+    the citizens would soon recognise the benefit they owe them for
+    that service."
+
+But in addition to these functions, such a body might with reason be
+expected to create a sense of courage and security, by which the country
+labourers with their flocks and herds would greatly benefit, a benefit
+not limited to your demesne, but shared by every farm throughout the
+rural district.
+
+Again, these mercenaries, if set to guard strategic points, (5) would
+leave the citizens full leisure to attend to matters of more private
+interest.
+
+ (5) Or, "as garrisons of critical positions," like Phyle or Decelia
+    near Athens.
+
+And again, a further function: Can you conceive a service better
+qualified to gain intelligence beforehand and to hinder the secret
+sudden onslaughts of a hostile force, than a set of troopers always
+under arms and fully organised? (6)
+
+ (6) Or, "trained to act as one man." See Sturz, s.v.
+
+Moreover, on an actual campaign, where will you find an arm of greater
+service to the citizens than these wage-earning troops? (7) than whom,
+it is likely, there will none be found more resolute to take the lion's
+share of toil or peril, or do outpost duty, keeping watch and ward while
+others sleep, brave mercenaries.
+
+ (7) The author is perhaps thinking of some personal experiences. He
+    works out his theory of a wage-earning militia for the protection
+    of the state in the "Cyropaedia." See esp. VII. v. 69 foll.
+
+And what will be the effect on the neighbour states conterminous with
+yours? (8) Will not this standing army lead them to desire peace beyond
+all other things? In fact, a compact force like this, so organised,
+will prove most potent to preserve the interests of their friends and to
+damage those of their opponents.
+
+ (8) Or, "that lie upon your borders," as Thebes and Megara were
+    "nigh-bordering" to Athens. Cf. Eur. "Rhes." 426; Soph. "Fr." 349.
+
+And when, finally, the citizens discover it is not the habit of these
+mercenaries to injure those who do no wrong, but their vocation rather
+is to hinder all attempts at evil-doing; whereby they exercise a kindly
+providence and bear the brunt of danger on behalf of the community,
+I say it must needs be, the citizens will rejoice to pay the expenses
+which the force entails. At any rate, it is for objects of far less
+importance that at present guards (9) are kept in private life.
+
+ (9) "Police or other."
+
+
+
+XI
+
+But, Hiero, you must not grudge to spend a portion of your private
+substance for the common weal. For myself, I hold to the opinion that
+the sums expended by the monarch on the state form items of disbursement
+more legitimate (1) than those expended on his personal account. But let
+us look into the question point by point.
+
+ (1) {eis to deon}. Holden cf. "Anab." I. iii. 8. Aristoph. "Clouds,"
+    859, {osper Periklees eis to deon apolesa}: "Like Pericles, for a
+    necessary purpose, I have lost them."
+
+First, the palace: do you imagine that a building, beautified in every
+way at an enormous cost, will afford you greater pride and ornament than
+a whole city ringed with walls and battlements, whose furniture consists
+of temples and pillared porticoes, (2) harbours, market-places?
+
+ (2) Reading {parastasi}, properly "pillasters" (Poll. i. 76. 10. 25) =
+    "antae," hence "templum in antis" (see Vitruv. iii. 2. 2); or more
+    widely the entrance of a temple or other building. (Possibly the
+    author is thinking of "the Propylea").Cf. Eur. "Phoen." 415; "I.
+    T." 1159. = {stathmoi}, Herod. i. 179; Hom. "Il." xiv. 167; "Od."
+    vii. 89, {stathmoi d' argureoi en khalkeo estasan oudio}.
+
+        The brazen thresholds both sides did enfold
+        Silver pilasters, hung with gates of gold (Chapman).
+
+    Al. {pastasi}, = colonnades.
+
+Next, as to armaments: Will you present a greater terror to the foe if
+you appear furnished yourself from head to foot with bright emlazonrie
+and horrent arms; (3) or rather by reason of the warlike aspect of a
+whole city perfectly equipped?
+
+ (3) Or, "with armour curiously wrought a wonder and a dread." {oplois
+    tois ekpaglotatois}, most magnificent, awe-inspiring, a poetical
+    word which appears only in this passage in prose (Holden). L. & S.
+    cf. Hom. "Il." i. 146, xxi. 589, of persons; "Od." xiv. 552, of
+    things. Pind. "Pyth." iv. 140; "Isth." 7 (6), 30.
+
+And now for ways and means: On which principle do you expect your
+revenues to flow more copiously--by keeping your own private capital (4)
+employed, or by means devised to make the resources of the entire state
+(5) productive?
+
+ (4) Reading {idia}, al. {idia}, = "your capital privately employed."
+
+ (5) Lit. "of all citizens alike," "every single member of the state."
+
+And next to speak of that which people hold to be the flower of
+institutions, a pursuit both noble in itself and best befitting a great
+man--I mean the art of breeding chariot-horses (6)--which would reflect
+the greater lustre on you, that you personally (7) should train and send
+to the great festal gatherings (8) more chariots than any Hellene else?
+or rather that your state should boast more racehorse-breeders than the
+rest of states, that from Syracuse the largest number should enter to
+contest the prize?
+
+ (6) Cf. Plat. "Laws," 834 B.
+
+ (7) Breit. cf. Pind. "Ol." i. 82; "Pyth." i. 173; ii. 101; iii. 96.
+
+ (8) "Our solemn festivals," e.g. those held at Olympia, Delphi, the
+    Isthmus, Nemea.
+
+Which would you deem the nobler conquest--to win a victory by virtue of
+a chariot, or to achieve a people's happiness, that state of which you
+are the head and chief? And for my part, I hold it ill becomes a tyrant
+to enter the lists with private citizens. For take the case he wins, he
+will not be admired, but be envied rather, when is is thought how many
+private fortunes go to swell the stream of his expenditure; while if he
+loses, he will become a laughing-stock to all mankind. (9)
+
+ (9) Or, "you will be mocked and jeered at past all precedence," as
+    historically was the fate of Dionysus, 388 or 384 B.C. (?); and
+    for the possible connection between that incident and this
+    treatise see Lys. "Olymp."; and Prof. Jebb's remarks on the
+    fragment, "Att. Or." i. p. 203 foll. Grote, "H. G." xi. 40 foll.;
+    "Plato," iii. 577.
+
+No, no! I tell you, Hiero, your battlefield, your true arena is with the
+champion presidents of rival states, above whose lesser heads be it your
+destiny to raise this state, of which you are the patron and supreme
+head, to some unprecedented height of fortune, which if you shall
+achieve, be certain you will be approved victorious in a contest the
+noblest and the most stupendous in the world.
+
+Since what follows? In the first place, you will by one swift stroke
+have brought about the very thing you have set your heart on, you will
+have won the affection of your subjects. Secondly, you will need no
+herald to proclaim your victory; not one man only, but all mankind,
+shall hymn your virtue.
+
+Wherever you set foot you shall be gazed upon, and not by individual
+citizens alone, but by a hundred states be warmly welcomed. You shall be
+a marvel, not in the private circle only, but in public in the sight of
+all.
+
+It shall be open to you, so far as safety is concerned, to take your
+journey where you will to see the games or other spectacles; or it shall
+be open to you to bide at home, and still attain your object.
+
+Before you shall be gathered daily an assembly, a great company of
+people willing to display whatever each may happen to possess of wisdom,
+worth, or beauty; (10) and another throng of persons eager to do you
+service. Present, regard them each and all as sworn allies; or absent,
+know that each and all have one desire, to set eyes on you.
+
+ (10) Or, "to display their wares of wisdom, beauty, excellence."
+
+The end will be, you shall not be loved alone, but passionately adored,
+by human beings. You will not need to woo the fair but to endure the
+enforcement of their loving suit.
+
+You shall not know what fear is for yourself; you shall transfer it to
+the hearts of others, fearing lest some evil overtake you. You will have
+about you faithful lieges, willing subjects, nimble servitors. You shall
+behold how, as a matter of free choice, they will display a providential
+care for you. And if danger threatens, you will find in them not simply
+fellow-warriors, but champions eager to defend you with their lives.
+(11)
+
+ (11) Not {summakhoi}, but {promakhoi}.
+
+Worthy of many gifts you shall be deemed, and yet be never at a loss for
+some well-wisher with whom to share them. You shall command a world-wide
+loyalty; a whole people shall rejoice with you at your good fortunes,
+a whole people battle for your interests, as if in very deed and truth
+their own. Your treasure-houses shall be coextensive with the garnered
+riches of your friends and lovers.
+
+Therefore be of good cheer, Hiero; enrich your friends, and you will
+thereby heap riches on yourself. Build up and aggrandise your city, for
+in so doing you will gird on power like a garment, and win allies for
+her. (12)
+
+ (12) Some commentators suspect a lacuna at this point.
+
+Esteem your fatherland as your estate, the citizens as comrades, your
+friends as your own children, and your sons even as your own soul. And
+study to excel them one and all in well-doing; for if you overcome your
+friends by kindness, your enemies shall nevermore prevail against you.
+
+Do all these things, and, you may rest assured, it will be yours to own
+the fairest and most blessed possession known to mortal man. You shall
+be fortunate and none shall envy you. (13)
+
+ (13) Al. "It shall be yours to be happy and yet to escape envy." The
+    concluding sentence is gnomic in character and metrical in form.
+    See "Pol. Lac." xv. 9.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK HIERO ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

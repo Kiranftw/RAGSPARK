@@ -1,0 +1,1222 @@
+﻿The Project Gutenberg eBook of The Path of the Law
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Path of the Law
+
+Author: Oliver Wendell Holmes
+
+Release date: February 26, 2006 [eBook #2373]
+
+Language: English
+
+Credits: Produced by Stuart E. Thiel and David Widger
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE PATH OF THE LAW ***
+
+
+
+
+Produced by Stuart E. Thiel and David Widger
+
+
+
+
+
+THE PATH OF THE LAW
+
+by Oliver Wendell Holmes, Jr.
+
+
+
+
+10 HARVARD LAW REVIEW 457 (1897)
+
+
+When we study law we are not studying a mystery but a well-known
+profession. We are studying what we shall want in order to appear before
+judges, or to advise people in such a way as to keep them out of court.
+The reason why it is a profession, why people will pay lawyers to argue
+for them or to advise them, is that in societies like ours the command
+of the public force is intrusted to the judges in certain cases, and the
+whole power of the state will be put forth, if necessary, to carry
+out their judgments and decrees. People want to know under what
+circumstances and how far they will run the risk of coming against what
+is so much stronger than themselves, and hence it becomes a business
+to find out when this danger is to be feared. The object of our study,
+then, is prediction, the prediction of the incidence of the public force
+through the instrumentality of the courts.
+
+The means of the study are a body of reports, of treatises, and of
+statutes, in this country and in England, extending back for six hundred
+years, and now increasing annually by hundreds. In these sibylline
+leaves are gathered the scattered prophecies of the past upon the cases
+in which the axe will fall. These are what properly have been called the
+oracles of the law. Far the most important and pretty nearly the whole
+meaning of every new effort of legal thought is to make these prophecies
+more precise, and to generalize them into a thoroughly connected system.
+The process is one, from a lawyer's statement of a case, eliminating
+as it does all the dramatic elements with which his client's story has
+clothed it, and retaining only the facts of legal import, up to the
+final analyses and abstract universals of theoretic jurisprudence. The
+reason why a lawyer does not mention that his client wore a white hat
+when he made a contract, while Mrs. Quickly would be sure to dwell upon
+it along with the parcel gilt goblet and the sea-coal fire, is that he
+foresees that the public force will act in the same way whatever his
+client had upon his head. It is to make the prophecies easier to be
+remembered and to be understood that the teachings of the decisions of
+the past are put into general propositions and gathered into textbooks,
+or that statutes are passed in a general form. The primary rights and
+duties with which jurisprudence busies itself again are nothing but
+prophecies. One of the many evil effects of the confusion between legal
+and moral ideas, about which I shall have something to say in a moment,
+is that theory is apt to get the cart before the horse, and consider the
+right or the duty as something existing apart from and independent of
+the consequences of its breach, to which certain sanctions are added
+afterward. But, as I shall try to show, a legal duty so called is
+nothing but a prediction that if a man does or omits certain things he
+will be made to suffer in this or that way by judgment of the court; and
+so of a legal right.
+
+The number of our predictions when generalized and reduced to a system
+is not unmanageably large. They present themselves as a finite body
+of dogma which may be mastered within a reasonable time. It is a great
+mistake to be frightened by the ever-increasing number of reports. The
+reports of a given jurisdiction in the course of a generation take up
+pretty much the whole body of the law, and restate it from the present
+point of view. We could reconstruct the corpus from them if all that
+went before were burned. The use of the earlier reports is mainly
+historical, a use about which I shall have something to say before I
+have finished.
+
+I wish, if I can, to lay down some first principles for the study of
+this body of dogma or systematized prediction which we call the law,
+for men who want to use it as the instrument of their business to enable
+them to prophesy in their turn, and, as bearing upon the study, I wish
+to point out an ideal which as yet our law has not attained.
+
+The first thing for a businesslike understanding of the matter is to
+understand its limits, and therefore I think it desirable at once
+to point out and dispel a confusion between morality and law, which
+sometimes rises to the height of conscious theory, and more often and
+indeed constantly is making trouble in detail without reaching the point
+of consciousness. You can see very plainly that a bad man has as much
+reason as a good one for wishing to avoid an encounter with the public
+force, and therefore you can see the practical importance of the
+distinction between morality and law. A man who cares nothing for an
+ethical rule which is believed and practised by his neighbors is likely
+nevertheless to care a good deal to avoid being made to pay money, and
+will want to keep out of jail if he can.
+
+I take it for granted that no hearer of mine will misinterpret what
+I have to say as the language of cynicism. The law is the witness and
+external deposit of our moral life. Its history is the history of the
+moral development of the race. The practice of it, in spite of popular
+jests, tends to make good citizens and good men. When I emphasize the
+difference between law and morals I do so with reference to a single
+end, that of learning and understanding the law. For that purpose you
+must definitely master its specific marks, and it is for that that I
+ask you for the moment to imagine yourselves indifferent to other and
+greater things.
+
+I do not say that there is not a wider point of view from which
+the distinction between law and morals becomes of secondary or no
+importance, as all mathematical distinctions vanish in presence of the
+infinite. But I do say that that distinction is of the first importance
+for the object which we are here to consider--a right study and mastery
+of the law as a business with well understood limits, a body of dogma
+enclosed within definite lines. I have just shown the practical reason
+for saying so. If you want to know the law and nothing else, you must
+look at it as a bad man, who cares only for the material consequences
+which such knowledge enables him to predict, not as a good one, who
+finds his reasons for conduct, whether inside the law or outside of it,
+in the vaguer sanctions of conscience. The theoretical importance of the
+distinction is no less, if you would reason on your subject aright. The
+law is full of phraseology drawn from morals, and by the mere force of
+language continually invites us to pass from one domain to the other
+without perceiving it, as we are sure to do unless we have the boundary
+constantly before our minds. The law talks about rights, and duties, and
+malice, and intent, and negligence, and so forth, and nothing is easier,
+or, I may say, more common in legal reasoning, than to take these words
+in their moral sense, at some state of the argument, and so to drop into
+fallacy. For instance, when we speak of the rights of man in a moral
+sense, we mean to mark the limits of interference with individual
+freedom which we think are prescribed by conscience, or by our ideal,
+however reached. Yet it is certain that many laws have been enforced
+in the past, and it is likely that some are enforced now, which are
+condemned by the most enlightened opinion of the time, or which at all
+events pass the limit of interference, as many consciences would draw
+it. Manifestly, therefore, nothing but confusion of thought can result
+from assuming that the rights of man in a moral sense are equally
+rights in the sense of the Constitution and the law. No doubt simple
+and extreme cases can be put of imaginable laws which the statute-making
+power would not dare to enact, even in the absence of written
+constitutional prohibitions, because the community would rise in
+rebellion and fight; and this gives some plausibility to the proposition
+that the law, if not a part of morality, is limited by it. But this
+limit of power is not coextensive with any system of morals. For the
+most part it falls far within the lines of any such system, and in some
+cases may extend beyond them, for reasons drawn from the habits of a
+particular people at a particular time. I once heard the late Professor
+Agassiz say that a German population would rise if you added two cents
+to the price of a glass of beer. A statute in such a case would be empty
+words, not because it was wrong, but because it could not be enforced.
+No one will deny that wrong statutes can be and are enforced, and we
+would not all agree as to which were the wrong ones.
+
+The confusion with which I am dealing besets confessedly legal
+conceptions. Take the fundamental question, What constitutes the
+law? You will find some text writers telling you that it is something
+different from what is decided by the courts of Massachusetts or
+England, that it is a system of reason, that it is a deduction from
+principles of ethics or admitted axioms or what not, which may or may
+not coincide with the decisions. But if we take the view of our friend
+the bad man we shall find that he does not care two straws for
+the axioms or deductions, but that he does want to know what the
+Massachusetts or English courts are likely to do in fact. I am much
+of this mind. The prophecies of what the courts will do in fact, and
+nothing more pretentious, are what I mean by the law.
+
+Take again a notion which as popularly understood is the widest
+conception which the law contains--the notion of legal duty, to which
+already I have referred. We fill the word with all the content which we
+draw from morals. But what does it mean to a bad man? Mainly, and in
+the first place, a prophecy that if he does certain things he will
+be subjected to disagreeable consequences by way of imprisonment or
+compulsory payment of money. But from his point of view, what is the
+difference between being fined and taxed a certain sum for doing a
+certain thing? That his point of view is the test of legal principles
+is proven by the many discussions which have arisen in the courts on the
+very question whether a given statutory liability is a penalty or a tax.
+On the answer to this question depends the decision whether conduct is
+legally wrong or right, and also whether a man is under compulsion
+or free. Leaving the criminal law on one side, what is the difference
+between the liability under the mill acts or statutes authorizing a
+taking by eminent domain and the liability for what we call a wrongful
+conversion of property where restoration is out of the question. In both
+cases the party taking another man's property has to pay its fair
+value as assessed by a jury, and no more. What significance is there in
+calling one taking right and another wrong from the point of view of the
+law? It does not matter, so far as the given consequence, the compulsory
+payment, is concerned, whether the act to which it is attached is
+described in terms of praise or in terms of blame, or whether the law
+purports to prohibit it or to allow it. If it matters at all, still
+speaking from the bad man's point of view, it must be because in one
+case and not in the other some further disadvantages, or at least some
+further consequences, are attached to the act by law. The only other
+disadvantages thus attached to it which I ever have been able to think
+of are to be found in two somewhat insignificant legal doctrines, both
+of which might be abolished without much disturbance. One is, that a
+contract to do a prohibited act is unlawful, and the other, that, if one
+of two or more joint wrongdoers has to pay all the damages, he cannot
+recover contribution from his fellows. And that I believe is all. You
+see how the vague circumference of the notion of duty shrinks and at the
+same time grows more precise when we wash it with cynical acid and expel
+everything except the object of our study, the operations of the law.
+
+Nowhere is the confusion between legal and moral ideas more manifest
+than in the law of contract. Among other things, here again the
+so-called primary rights and duties are invested with a mystic
+significance beyond what can be assigned and explained. The duty to keep
+a contract at common law means a prediction that you must pay damages
+if you do not keep it--and nothing else. If you commit a tort, you are
+liable to pay a compensatory sum. If you commit a contract, you are
+liable to pay a compensatory sum unless the promised event comes to
+pass, and that is all the difference. But such a mode of looking at the
+matter stinks in the nostrils of those who think it advantageous to get
+as much ethics into the law as they can. It was good enough for Lord
+Coke, however, and here, as in many others cases, I am content to abide
+with him. In Bromage v. Genning, a prohibition was sought in the
+Kings' Bench against a suit in the marches of Wales for the specific
+performance of a covenant to grant a lease, and Coke said that it would
+subvert the intention of the covenantor, since he intends it to be at
+his election either to lose the damages or to make the lease. Sergeant
+Harra for the plaintiff confessed that he moved the matter against his
+conscience, and a prohibition was granted. This goes further than we
+should go now, but it shows what I venture to say has been the common
+law point of view from the beginning, although Mr. Harriman, in his very
+able little book upon Contracts has been misled, as I humbly think, to a
+different conclusion.
+
+I have spoken only of the common law, because there are some cases
+in which a logical justification can be found for speaking of civil
+liabilities as imposing duties in an intelligible sense. These are
+the relatively few in which equity will grant an injunction, and will
+enforce it by putting the defendant in prison or otherwise punishing him
+unless he complies with the order of the court. But I hardly think it
+advisable to shape general theory from the exception, and I think it
+would be better to cease troubling ourselves about primary rights and
+sanctions altogether, than to describe our prophecies concerning the
+liabilities commonly imposed by the law in those inappropriate terms.
+
+I mentioned, as other examples of the use by the law of words drawn from
+morals, malice, intent, and negligence. It is enough to take malice as
+it is used in the law of civil liability for wrongs what we lawyers call
+the law of torts--to show that it means something different in law from
+what it means in morals, and also to show how the difference has been
+obscured by giving to principles which have little or nothing to do with
+each other the same name. Three hundred years ago a parson preached a
+sermon and told a story out of Fox's Book of Martyrs of a man who
+had assisted at the torture of one of the saints, and afterward died,
+suffering compensatory inward torment. It happened that Fox was wrong.
+The man was alive and chanced to hear the sermon, and thereupon he sued
+the parson. Chief Justice Wray instructed the jury that the defendant
+was not liable, because the story was told innocently, without malice.
+He took malice in the moral sense, as importing a malevolent motive. But
+nowadays no one doubts that a man may be liable, without any malevolent
+motive at all, for false statements manifestly calculated to inflict
+temporal damage. In stating the case in pleading, we still should call
+the defendant's conduct malicious; but, in my opinion at least, the
+word means nothing about motives, or even about the defendant's attitude
+toward the future, but only signifies that the tendency of his conduct
+under known circumstances was very plainly to cause the plaintiff
+temporal harm.
+
+In the law of contract the use of moral phraseology led to equal
+confusion, as I have shown in part already, but only in part. Morals
+deal with the actual internal state of the individual's mind, what he
+actually intends. From the time of the Romans down to now, this mode
+of dealing has affected the language of the law as to contract, and the
+language used has reacted upon the thought. We talk about a contract
+as a meeting of the minds of the parties, and thence it is inferred in
+various cases that there is no contract because their minds have not
+met; that is, because they have intended different things or because
+one party has not known of the assent of the other. Yet nothing is more
+certain than that parties may be bound by a contract to things which
+neither of them intended, and when one does not know of the other's
+assent. Suppose a contract is executed in due form and in writing to
+deliver a lecture, mentioning no time. One of the parties thinks that
+the promise will be construed to mean at once, within a week. The other
+thinks that it means when he is ready. The court says that it means
+within a reasonable time. The parties are bound by the contract as it
+is interpreted by the court, yet neither of them meant what the court
+declares that they have said. In my opinion no one will understand the
+true theory of contract or be able even to discuss some fundamental
+questions intelligently until he has understood that all contracts are
+formal, that the making of a contract depends not on the agreement of
+two minds in one intention, but on the agreement of two sets of external
+signs--not on the parties' having meant the same thing but on their
+having said the same thing. Furthermore, as the signs may be addressed
+to one sense or another--to sight or to hearing--on the nature of the
+sign will depend the moment when the contract is made. If the sign is
+tangible, for instance, a letter, the contract is made when the letter
+of acceptance is delivered. If it is necessary that the minds of the
+parties meet, there will be no contract until the acceptance can be
+read; none, for example, if the acceptance be snatched from the hand of
+the offerer by a third person.
+
+This is not the time to work out a theory in detail, or to answer many
+obvious doubts and questions which are suggested by these general views.
+I know of none which are not easy to answer, but what I am trying to do
+now is only by a series of hints to throw some light on the narrow path
+of legal doctrine, and upon two pitfalls which, as it seems to me, lie
+perilously near to it. Of the first of these I have said enough. I hope
+that my illustrations have shown the danger, both to speculation and
+to practice, of confounding morality with law, and the trap which legal
+language lays for us on that side of our way. For my own part, I often
+doubt whether it would not be a gain if every word of moral significance
+could be banished from the law altogether, and other words adopted which
+should convey legal ideas uncolored by anything outside the law. We
+should lose the fossil records of a good deal of history and the
+majesty got from ethical associations, but by ridding ourselves of an
+unnecessary confusion we should gain very much in the clearness of our
+thought.
+
+So much for the limits of the law. The next thing which I wish to
+consider is what are the forces which determine its content and its
+growth. You may assume, with Hobbes and Bentham and Austin, that all
+law emanates from the sovereign, even when the first human beings to
+enunciate it are the judges, or you may think that law is the voice of
+the Zeitgeist, or what you like. It is all one to my present purpose.
+Even if every decision required the sanction of an emperor with despotic
+power and a whimsical turn of mind, we should be interested none the
+less, still with a view to prediction, in discovering some order, some
+rational explanation, and some principle of growth for the rules which
+he laid down. In every system there are such explanations and principles
+to be found. It is with regard to them that a second fallacy comes in,
+which I think it important to expose.
+
+The fallacy to which I refer is the notion that the only force at work
+in the development of the law is logic. In the broadest sense, indeed,
+that notion would be true. The postulate on which we think about the
+universe is that there is a fixed quantitative relation between every
+phenomenon and its antecedents and consequents. If there is such a thing
+as a phenomenon without these fixed quantitative relations, it is
+a miracle. It is outside the law of cause and effect, and as such
+transcends our power of thought, or at least is something to or from
+which we cannot reason. The condition of our thinking about the universe
+is that it is capable of being thought about rationally, or, in other
+words, that every part of it is effect and cause in the same sense
+in which those parts are with which we are most familiar. So in the
+broadest sense it is true that the law is a logical development, like
+everything else. The danger of which I speak is not the admission that
+the principles governing other phenomena also govern the law, but the
+notion that a given system, ours, for instance, can be worked out like
+mathematics from some general axioms of conduct. This is the natural
+error of the schools, but it is not confined to them. I once heard a
+very eminent judge say that he never let a decision go until he was
+absolutely sure that it was right. So judicial dissent often is blamed,
+as if it meant simply that one side or the other were not doing their
+sums right, and if they would take more trouble, agreement inevitably
+would come.
+
+This mode of thinking is entirely natural. The training of lawyers is
+a training in logic. The processes of analogy, discrimination, and
+deduction are those in which they are most at home. The language of
+judicial decision is mainly the language of logic. And the logical
+method and form flatter that longing for certainty and for repose which
+is in every human mind. But certainty generally is illusion, and repose
+is not the destiny of man. Behind the logical form lies a judgment as
+to the relative worth and importance of competing legislative grounds,
+often an inarticulate and unconscious judgment, it is true, and yet the
+very root and nerve of the whole proceeding. You can give any conclusion
+a logical form. You always can imply a condition in a contract. But why
+do you imply it? It is because of some belief as to the practice of the
+community or of a class, or because of some opinion as to policy, or,
+in short, because of some attitude of yours upon a matter not capable
+of exact quantitative measurement, and therefore not capable of founding
+exact logical conclusions. Such matters really are battle grounds where
+the means do not exist for the determinations that shall be good for all
+time, and where the decision can do no more than embody the preference
+of a given body in a given time and place. We do not realize how large
+a part of our law is open to reconsideration upon a slight change in the
+habit of the public mind. No concrete proposition is self evident, no
+matter how ready we may be to accept it, not even Mr. Herbert Spencer's
+"Every man has a right to do what he wills, provided he interferes not
+with a like right on the part of his neighbors."
+
+Why is a false and injurious statement privileged, if it is made
+honestly in giving information about a servant? It is because it has
+been thought more important that information should be given freely,
+than that a man should be protected from what under other circumstances
+would be an actionable wrong. Why is a man at liberty to set up a
+business which he knows will ruin his neighborhood? It is because
+the public good is supposed to be best subserved by free competition.
+Obviously such judgments of relative importance may vary in different
+times and places. Why does a judge instruct a jury that an employer is
+not liable to an employee for an injury received in the course of his
+employment unless he is negligent, and why do the jury generally find
+for the plaintiff if the case is allowed to go to them? It is because
+the traditional policy of our law is to confine liability to cases where
+a prudent man might have foreseen the injury, or at least the danger,
+while the inclination of a very large part of the community is to make
+certain classes of persons insure the safety of those with whom they
+deal. Since the last words were written, I have seen the requirement
+of such insurance put forth as part of the programme of one of the best
+known labor organizations. There is a concealed, half conscious battle
+on the question of legislative policy, and if any one thinks that it can
+be settled deductively, or once for all, I only can say that I think he
+is theoretically wrong, and that I am certain that his conclusion will
+not be accepted in practice semper ubique et ab omnibus.
+
+Indeed, I think that even now our theory upon this matter is open to
+reconsideration, although I am not prepared to say how I should decide
+if a reconsideration were proposed. Our law of torts comes from the
+old days of isolated, ungeneralized wrongs, assaults, slanders, and the
+like, where the damages might be taken to lie where they fell by legal
+judgment. But the torts with which our courts are kept busy today are
+mainly the incidents of certain well known businesses. They are injuries
+to person or property by railroads, factories, and the like. The
+liability for them is estimated, and sooner or later goes into the price
+paid by the public. The public really pays the damages, and the question
+of liability, if pressed far enough, is really a question how far it is
+desirable that the public should insure the safety of one whose work it
+uses. It might be said that in such cases the chance of a jury finding
+for the defendant is merely a chance, once in a while rather arbitrarily
+interrupting the regular course of recovery, most likely in the case
+of an unusually conscientious plaintiff, and therefore better done
+away with. On the other hand, the economic value even of a life to the
+community can be estimated, and no recovery, it may be said, ought to go
+beyond that amount. It is conceivable that some day in certain cases we
+may find ourselves imitating, on a higher plane, the tariff for life and
+limb which we see in the Leges Barbarorum.
+
+I think that the judges themselves have failed adequately to recognize
+their duty of weighing considerations of social advantage. The duty is
+inevitable, and the result of the often proclaimed judicial aversion
+to deal with such considerations is simply to leave the very ground and
+foundation of judgments inarticulate, and often unconscious, as I have
+said. When socialism first began to be talked about, the comfortable
+classes of the community were a good deal frightened. I suspect that
+this fear has influenced judicial action both here and in England, yet
+it is certain that it is not a conscious factor in the decisions to
+which I refer. I think that something similar has led people who
+no longer hope to control the legislatures to look to the courts as
+expounders of the constitutions, and that in some courts new principles
+have been discovered outside the bodies of those instruments, which may
+be generalized into acceptance of the economic doctrines which prevailed
+about fifty years ago, and a wholesale prohibition of what a tribunal
+of lawyers does not think about right. I cannot but believe that if the
+training of lawyers led them habitually to consider more definitely and
+explicitly the social advantage on which the rule they lay down must be
+justified, they sometimes would hesitate where now they are confident,
+and see that really they were taking sides upon debatable and often
+burning questions.
+
+So much for the fallacy of logical form. Now let us consider the present
+condition of the law as a subject for study, and the ideal toward which
+it tends. We still are far from the point of view which I desire to see
+reached. No one has reached it or can reach it as yet. We are only at
+the beginning of a philosophical reaction, and of a reconsideration
+of the worth of doctrines which for the most part still are taken for
+granted without any deliberate, conscious, and systematic questioning
+of their grounds. The development of our law has gone on for nearly a
+thousand years, like the development of a plant, each generation taking
+the inevitable next step, mind, like matter, simply obeying a law of
+spontaneous growth. It is perfectly natural and right that it should
+have been so. Imitation is a necessity of human nature, as has been
+illustrated by a remarkable French writer, M. Tard, in an admirable
+book, Les Lois de l'Imitation. Most of the things we do, we do for no
+better reason than that our fathers have done them or that our neighbors
+do them, and the same is true of a larger part than we suspect of what
+we think. The reason is a good one, because our short life gives us no
+time for a better, but it is not the best. It does not follow, because
+we all are compelled to take on faith at second hand most of the rules
+on which we base our action and our thought, that each of us may not try
+to set some corner of his world in the order of reason, or that all of
+us collectively should not aspire to carry reason as far as it will go
+throughout the whole domain. In regard to the law, it is true, no doubt,
+that an evolutionist will hesitate to affirm universal validity for his
+social ideals, or for the principles which he thinks should be embodied
+in legislation. He is content if he can prove them best for here and
+now. He may be ready to admit that he knows nothing about an absolute
+best in the cosmos, and even that he knows next to nothing about a
+permanent best for men. Still it is true that a body of law is more
+rational and more civilized when every rule it contains is referred
+articulately and definitely to an end which it subserves, and when the
+grounds for desiring that end are stated or are ready to be stated in
+words.
+
+At present, in very many cases, if we want to know why a rule of law has
+taken its particular shape, and more or less if we want to know why it
+exists at all, we go to tradition. We follow it into the Year Books, and
+perhaps beyond them to the customs of the Salian Franks, and somewhere
+in the past, in the German forests, in the needs of Norman kings, in the
+assumptions of a dominant class, in the absence of generalized ideas, we
+find out the practical motive for what now best is justified by the mere
+fact of its acceptance and that men are accustomed to it. The rational
+study of law is still to a large extent the study of history. History
+must be a part of the study, because without it we cannot know the
+precise scope of rules which it is our business to know. It is a part of
+the rational study, because it is the first step toward an enlightened
+scepticism, that is, towards a deliberate reconsideration of the worth
+of those rules. When you get the dragon out of his cave on to the plain
+and in the daylight, you can count his teeth and claws, and see just
+what is his strength. But to get him out is only the first step. The
+next is either to kill him, or to tame him and make him a useful animal.
+For the rational study of the law the blackletter man may be the man of
+the present, but the man of the future is the man of statistics and the
+master of economics. It is revolting to have no better reason for a
+rule of law than that so it was laid down in the time of Henry IV. It
+is still more revolting if the grounds upon which it was laid down have
+vanished long since, and the rule simply persists from blind imitation
+of the past. I am thinking of the technical rule as to trespass ab
+initio, as it is called, which I attempted to explain in a recent
+Massachusetts case.
+
+Let me take an illustration, which can be stated in a few words, to show
+how the social end which is aimed at by a rule of law is obscured and
+only partially attained in consequence of the fact that the rule owes
+its form to a gradual historical development, instead of being reshaped
+as a whole, with conscious articulate reference to the end in view. We
+think it desirable to prevent one man's property being misappropriated
+by another, and so we make larceny a crime. The evil is the same whether
+the misappropriation is made by a man into whose hands the owner has put
+the property, or by one who wrongfully takes it away. But primitive law
+in its weakness did not get much beyond an effort to prevent violence,
+and very naturally made a wrongful taking, a trespass, part of its
+definition of the crime. In modern times the judges enlarged the
+definition a little by holding that, if the wrong-doer gets possession
+by a trick or device, the crime is committed. This really was giving
+up the requirement of trespass, and it would have been more logical,
+as well as truer to the present object of the law, to abandon the
+requirement altogether. That, however, would have seemed too bold, and
+was left to statute. Statutes were passed making embezzlement a crime.
+But the force of tradition caused the crime of embezzlement to be
+regarded as so far distinct from larceny that to this day, in some
+jurisdictions at least, a slip corner is kept open for thieves to
+contend, if indicted for larceny, that they should have been indicted
+for embezzlement, and if indicted for embezzlement, that they should
+have been indicted for larceny, and to escape on that ground.
+
+Far more fundamental questions still await a better answer than that we
+do as our fathers have done. What have we better than a blind guess to
+show that the criminal law in its present form does more good than
+harm? I do not stop to refer to the effect which it has had in degrading
+prisoners and in plunging them further into crime, or to the question
+whether fine and imprisonment do not fall more heavily on a criminal's
+wife and children than on himself. I have in mind more far-reaching
+questions. Does punishment deter? Do we deal with criminals on proper
+principles? A modern school of Continental criminalists plumes itself on
+the formula, first suggested, it is said, by Gall, that we must consider
+the criminal rather than the crime. The formula does not carry us very
+far, but the inquiries which have been started look toward an answer
+of my questions based on science for the first time. If the typical
+criminal is a degenerate, bound to swindle or to murder by as deep
+seated an organic necessity as that which makes the rattlesnake bite,
+it is idle to talk of deterring him by the classical method of
+imprisonment. He must be got rid of; he cannot be improved, or
+frightened out of his structural reaction. If, on the other hand, crime,
+like normal human conduct, is mainly a matter of imitation, punishment
+fairly may be expected to help to keep it out of fashion. The study of
+criminals has been thought by some well known men of science to sustain
+the former hypothesis. The statistics of the relative increase of crime
+in crowded places like large cities, where example has the greatest
+chance to work, and in less populated parts, where the contagion spreads
+more slowly, have been used with great force in favor of the latter
+view. But there is weighty authority for the belief that, however this
+may be, "not the nature of the crime, but the dangerousness of the
+criminal, constitutes the only reasonable legal criterion to guide the
+inevitable social reaction against the criminal."
+
+The impediments to rational generalization, which I illustrated from the
+law of larceny, are shown in the other branches of the law, as well as
+in that of crime. Take the law of tort or civil liability for damages
+apart from contract and the like. Is there any general theory of such
+liability, or are the cases in which it exists simply to be enumerated,
+and to be explained each on its special ground, as is easy to believe
+from the fact that the right of action for certain well known classes of
+wrongs like trespass or slander has its special history for each class?
+I think that the law regards the infliction of temporal damage by a
+responsible person as actionable, if under the circumstances known to
+him the danger of his act is manifest according to common experience,
+or according to his own experience if it is more than common, except in
+cases where upon special grounds of policy the law refuses to protect
+the plaintiff or grants a privilege to the defendant. I think that
+commonly malice, intent, and negligence mean only that the danger was
+manifest to a greater or less degree, under the circumstances known to
+the actor, although in some cases of privilege malice may mean an
+actual malevolent motive, and such a motive may take away a permission
+knowingly to inflict harm, which otherwise would be granted on this or
+that ground of dominant public good. But when I stated my view to a very
+eminent English judge the other day, he said, "You are discussing what
+the law ought to be; as the law is, you must show a right. A man is not
+liable for negligence unless he is subject to a duty." If our difference
+was more than a difference in words, or with regard to the proportion
+between the exceptions and the rule, then, in his opinion, liability for
+an act cannot be referred to the manifest tendency of the act to cause
+temporal damage in general as a sufficient explanation, but must be
+referred to the special nature of the damage, or must be derived from
+some special circumstances outside of the tendency of the act, for which
+no generalized explanation exists. I think that such a view is wrong,
+but it is familiar, and I dare say generally is accepted in England.
+
+Everywhere the basis of principle is tradition, to such an extent that
+we even are in danger of making the role of history more important than
+it is. The other day Professor Ames wrote a learned article to show,
+among other things, that the common law did not recognize the defence of
+fraud in actions upon specialties, and the moral might seem to be that
+the personal character of that defence is due to its equitable origin.
+But if, as I said, all contracts are formal, the difference is not
+merely historical, but theoretic, between defects of form which prevent
+a contract from being made, and mistaken motives which manifestly could
+not be considered in any system that we should call rational except
+against one who was privy to those motives. It is not confined to
+specialties, but is of universal application. I ought to add that I do
+not suppose that Mr. Ames would disagree with what I suggest.
+
+However, if we consider the law of contract, we find it full of history.
+The distinctions between debt, covenant, and assumpsit are merely
+historical. The classification of certain obligations to pay money,
+imposed by the law irrespective of any bargain as quasi contracts, is
+merely historical. The doctrine of consideration is merely historical.
+The effect given to a seal is to be explained by history alone.
+Consideration is a mere form. Is it a useful form? If so, why should
+it not be required in all contracts? A seal is a mere form, and is
+vanishing in the scroll and in enactments that a consideration must be
+given, seal or no seal. Why should any merely historical distinction be
+allowed to affect the rights and obligations of business men?
+
+Since I wrote this discourse I have come on a very good example of the
+way in which tradition not only overrides rational policy, but overrides
+it after first having been misunderstood and having been given a new and
+broader scope than it had when it had a meaning. It is the settled law
+of England that a material alteration of a written contract by a party
+avoids it as against him. The doctrine is contrary to the general
+tendency of the law. We do not tell a jury that if a man ever has lied
+in one particular he is to be presumed to lie in all. Even if a man has
+tried to defraud, it seems no sufficient reason for preventing him
+from proving the truth. Objections of like nature in general go to the
+weight, not to the admissibility, of evidence. Moreover, this rule is
+irrespective of fraud, and is not confined to evidence. It is not merely
+that you cannot use the writing, but that the contract is at an end.
+What does this mean? The existence of a written contract depends on
+the fact that the offerer and offeree have interchanged their written
+expressions, not on the continued existence of those expressions. But in
+the case of a bond, the primitive notion was different. The contract was
+inseparable from the parchment. If a stranger destroyed it, or tore off
+the seal, or altered it, the obligee count not recover, however free
+from fault, because the defendant's contract, that is, the actual
+tangible bond which he had sealed, could not be produced in the form in
+which it bound him. About a hundred years ago Lord Kenyon undertook to
+use his reason on the tradition, as he sometimes did to the detriment of
+the law, and, not understanding it, said he could see no reason why what
+was true of a bond should not be true of other contracts. His decision
+happened to be right, as it concerned a promissory note, where again the
+common law regarded the contract as inseparable from the paper on which
+it was written, but the reasoning was general, and soon was extended to
+other written contracts, and various absurd and unreal grounds of policy
+were invented to account for the enlarged rule.
+
+I trust that no one will understand me to be speaking with disrespect
+of the law, because I criticise it so freely. I venerate the law, and
+especially our system of law, as one of the vastest products of the
+human mind. No one knows better than I do the countless number of
+great intellects that have spent themselves in making some addition or
+improvement, the greatest of which is trifling when compared with the
+mighty whole. It has the final title to respect that it exists, that
+it is not a Hegelian dream, but a part of the lives of men. But one may
+criticise even what one reveres. Law is the business to which my life is
+devoted, and I should show less than devotion if I did not do what in me
+lies to improve it, and, when I perceive what seems to me the ideal of
+its future, if I hesitated to point it out and to press toward it with
+all my heart.
+
+Perhaps I have said enough to show the part which the study of history
+necessarily plays in the intelligent study of the law as it is today. In
+the teaching of this school and at Cambridge it is in no danger of being
+undervalued. Mr. Bigelow here and Mr. Ames and Mr. Thayer there have
+made important contributions which will not be forgotten, and in England
+the recent history of early English law by Sir Frederick Pollock and Mr.
+Maitland has lent the subject an almost deceptive charm. We must
+beware of the pitfall of antiquarianism, and must remember that for our
+purposes our only interest in the past is for the light it throws upon
+the present. I look forward to a time when the part played by history in
+the explanation of dogma shall be very small, and instead of ingenious
+research we shall spend our energy on a study of the ends sought to be
+attained and the reasons for desiring them. As a step toward that ideal
+it seems to me that every lawyer ought to seek an understanding of
+economics. The present divorce between the schools of political economy
+and law seems to me an evidence of how much progress in philosophical
+study still remains to be made. In the present state of political
+economy, indeed, we come again upon history on a larger scale, but there
+we are called on to consider and weigh the ends of legislation, the
+means of attaining them, and the cost. We learn that for everything we
+have we give up something else, and we are taught to set the advantage
+we gain against the other advantage we lose, and to know what we are
+doing when we elect.
+
+There is another study which sometimes is undervalued by the practical
+minded, for which I wish to say a good word, although I think a good
+deal of pretty poor stuff goes under that name. I mean the study of what
+is called jurisprudence. Jurisprudence, as I look at it, is simply law
+in its most generalized part. Every effort to reduce a case to a rule
+is an effort of jurisprudence, although the name as used in English is
+confined to the broadest rules and most fundamental conceptions. One
+mark of a great lawyer is that he sees the application of the broadest
+rules. There is a story of a Vermont justice of the peace before whom a
+suit was brought by one farmer against another for breaking a churn. The
+justice took time to consider, and then said that he has looked through
+the statutes and could find nothing about churns, and gave judgment for
+the defendant. The same state of mind is shown in all our common digests
+and textbooks. Applications of rudimentary rules of contract or tort
+are tucked away under the head of Railroads or Telegraphs or go to swell
+treatises on historical subdivisions, such as Shipping or Equity, or are
+gathered under an arbitrary title which is thought likely to appeal to
+the practical mind, such as Mercantile Law. If a man goes into law
+it pays to be a master of it, and to be a master of it means to look
+straight through all the dramatic incidents and to discern the true
+basis for prophecy. Therefore, it is well to have an accurate notion
+of what you mean by law, by a right, by a duty, by malice, intent, and
+negligence, by ownership, by possession, and so forth. I have in my mind
+cases in which the highest courts seem to me to have floundered because
+they had no clear ideas on some of these themes. I have illustrated
+their importance already. If a further illustration is wished, it may be
+found by reading the Appendix to Sir James Stephen's Criminal Law on
+the subject of possession, and then turning to Pollock and Wright's
+enlightened book. Sir James Stephen is not the only writer whose
+attempts to analyze legal ideas have been confused by striving for a
+useless quintessence of all systems, instead of an accurate anatomy of
+one. The trouble with Austin was that he did not know enough English
+law. But still it is a practical advantage to master Austin, and his
+predecessors, Hobbes and Bentham, and his worthy successors, Holland and
+Pollock. Sir Frederick Pollock's recent little book is touched with
+the felicity which marks all his works, and is wholly free from the
+perverting influence of Roman models.
+
+The advice of the elders to young men is very apt to be as unreal as
+a list of the hundred best books. At least in my day I had my share of
+such counsels, and high among the unrealities I place the recommendation
+to study the Roman law. I assume that such advice means more than
+collecting a few Latin maxims with which to ornament the discourse--the
+purpose for which Lord Coke recommended Bracton. If that is all that
+is wanted, the title De Regulis Juris Antiqui can be read in an hour. I
+assume that, if it is well to study the Roman Law, it is well to study
+it as a working system. That means mastering a set of technicalities
+more difficult and less understood than our own, and studying another
+course of history by which even more than our own the Roman law must
+explained. If any one doubts me, let him read Keller's Der Romische
+Civil Process und die Actionen, a treatise on the praetor's edict,
+Muirhead's most interesting Historical Introduction to the Private Law
+of Rome, and, to give him the best chance, Sohn's admirable Institutes.
+No. The way to gain a liberal view of your subject is not to read
+something else, but to get to the bottom of the subject itself. The
+means of doing that are, in the first place, to follow the existing body
+of dogma into its highest generalizations by the help of jurisprudence;
+next, to discover from history how it has come to be what it is; and
+finally, so far as you can, to consider the ends which the several rules
+seek to accomplish, the reasons why those ends are desired, what is
+given up to gain them, and whether they are worth the price.
+
+We have too little theory in the law rather than too much, especially on
+this final branch of study. When I was speaking of history, I mentioned
+larceny as an example to show how the law suffered from not having
+embodied in a clear form a rule which will accomplish its manifest
+purpose. In that case the trouble was due to the survival of forms
+coming from a time when a more limited purpose was entertained. Let me
+now give an example to show the practical importance, for the decision
+of actual cases, of understanding the reasons of the law, by taking an
+example from rules which, so far as I know, never have been explained or
+theorized about in any adequate way. I refer to statutes of limitation
+and the law of prescription. The end of such rules is obvious, but what
+is the justification for depriving a man of his rights, a pure evil as
+far as it goes, in consequence of the lapse of time? Sometimes the loss
+of evidence is referred to, but that is a secondary matter. Sometimes
+the desirability of peace, but why is peace more desirable after twenty
+years than before? It is increasingly likely to come without the aid of
+legislation. Sometimes it is said that, if a man neglects to enforce
+his rights, he cannot complain if, after a while, the law follows his
+example. Now if this is all that can be said about it, you probably will
+decide a case I am going to put, for the plaintiff; if you take the view
+which I shall suggest, you possibly will decide it for the defendant. A
+man is sued for trespass upon land, and justifies under a right of
+way. He proves that he has used the way openly and adversely for twenty
+years, but it turns out that the plaintiff had granted a license to a
+person whom he reasonably supposed to be the defendant's agent, although
+not so in fact, and therefore had assumed that the use of the way was
+permissive, in which case no right would be gained. Has the defendant
+gained a right or not? If his gaining it stands on the fault and
+neglect of the landowner in the ordinary sense, as seems commonly to be
+supposed, there has been no such neglect, and the right of way has not
+been acquired. But if I were the defendant's counsel, I should suggest
+that the foundation of the acquisition of rights by lapse of time is to
+be looked for in the position of the person who gains them, not in that
+of the loser. Sir Henry Maine has made it fashionable to connect the
+archaic notion of property with prescription. But the connection is
+further back than the first recorded history. It is in the nature of
+man's mind. A thing which you have enjoyed and used as your own for a
+long time, whether property or an opinion, takes root in your being and
+cannot be torn away without your resenting the act and trying to
+defend yourself, however you came by it. The law can ask no better
+justification than the deepest instincts of man. It is only by way of
+reply to the suggestion that you are disappointing the former owner,
+that you refer to his neglect having allowed the gradual dissociation
+between himself and what he claims, and the gradual association of it
+with another. If he knows that another is doing acts which on their face
+show that he is on the way toward establishing such an association, I
+should argue that in justice to that other he was bound at his peril to
+find out whether the other was acting under his permission, to see that
+he was warned, and, if necessary, stopped.
+
+I have been speaking about the study of the law, and I have said
+next to nothing about what commonly is talked about in that
+connection--text-books and the case system, and all the machinery with
+which a student comes most immediately in contact. Nor shall I say
+anything about them. Theory is my subject, not practical details.
+The modes of teaching have been improved since my time, no doubt, but
+ability and industry will master the raw material with any mode. Theory
+is the most important part of the dogma of the law, as the architect is
+the most important man who takes part in the building of a house.
+The most important improvements of the last twenty-five years are
+improvements in theory. It is not to be feared as unpractical, for, to
+the competent, it simply means going to the bottom of the subject.
+For the incompetent, it sometimes is true, as has been said, that an
+interest in general ideas means an absence of particular knowledge. I
+remember in army days reading of a youth who, being examined for the
+lowest grade and being asked a question about squadron drill, answered
+that he never had considered the evolutions of less than ten thousand
+men. But the weak and foolish must be left to their folly. The danger
+is that the able and practical minded should look with indifference
+or distrust upon ideas the connection of which with their business is
+remote. I heard a story, the other day, of a man who had a valet to
+whom he paid high wages, subject to deduction for faults. One of his
+deductions was, "For lack of imagination, five dollars." The lack is not
+confined to valets. The object of ambition, power, generally presents
+itself nowadays in the form of money alone. Money is the most immediate
+form, and is a proper object of desire. "The fortune," said Rachel, "is
+the measure of intelligence." That is a good text to waken people out
+of a fool's paradise. But, as Hegel says, "It is in the end not the
+appetite, but the opinion, which has to be satisfied." To an imagination
+of any scope the most far-reaching form of power is not money, it is the
+command of ideas. If you want great examples, read Mr. Leslie Stephen's
+History of English Thought in the Eighteenth Century, and see how a
+hundred years after his death the abstract speculations of Descartes had
+become a practical force controlling the conduct of men. Read the works
+of the great German jurists, and see how much more the world is governed
+today by Kant than by Bonaparte. We cannot all be Descartes or Kant, but
+we all want happiness. And happiness, I am sure from having known
+many successful men, cannot be won simply by being counsel for great
+corporations and having an income of fifty thousand dollars. An
+intellect great enough to win the prize needs other food besides
+success. The remoter and more general aspects of the law are those which
+give it universal interest. It is through them that you not only become
+a great master in your calling, but connect your subject with
+the universe and catch an echo of the infinite, a glimpse of its
+unfathomable process, a hint of the universal law.
+
+
+
+
+
+End of Project Gutenberg's The Path of the Law, by Oliver Wendell Holmes, Jr.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE PATH OF THE LAW ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

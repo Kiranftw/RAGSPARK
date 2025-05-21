@@ -1,0 +1,3266 @@
+﻿The Project Gutenberg eBook of Los Bombardeos Atomicos de Hiroshima y Nagasaki
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Los Bombardeos Atomicos de Hiroshima y Nagasaki
+
+Author: United States. Army. Corps of Engineers. Manhattan District
+
+Release date: October 1, 2000 [eBook #2367]
+                Most recently updated: October 6, 2024
+
+Language: Spanish
+
+Original publication: Manhattan Engineer District of the United States Army, 1946
+
+Credits: Kristen Eschman
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LOS BOMBARDEOS ATOMICOS DE HIROSHIMA Y NAGASAKI ***
+Los Bombardeos Atomicos de Hiroshima y Nagasaki
+
+por El Distrito de Ingenieros de Manhattan
+
+
+
+Los Bombardeos Atómicos de Hiroshima y Nagasaki
+
+por El Distrito de Ingenieros de Manhattan
+
+29 de junio de 1946
+
+
+
+
+INDICE
+
+PREFACIO
+
+INTRODUCCIÓN
+
+EL GRUPO INVESTIGADOR DEL PROYECTO MANHATTAN
+
+PROPAGANDA
+
+SUMARIO DE DAÑOS Y LESIONES
+
+CONCLUSIONES FUNDAMENTALES
+
+LA SELECCIÓN DEL OBJETIVO
+
+DESCRIPCIÓN DE LAS CIUDADES ANTES DE LOS BOMBARDEOS
+
+LOS ATAQUES
+
+COMPARACIÓN GENERAL DE HIROSHIMA Y NAGASAKI
+
+DESCRIPCIÓN GENERAL DEL DAÑO A CAUSA DE LAS BOMBAS ATÓMICAS
+
+LOS CALCULOS DE PRESIÓN DE CRESTA DE LA ONDA DEL ESTALLIDO
+
+DAÑO DEL ESTALLIDO DE LARGO ALCANCE
+
+CHOQUE DE TIERRA
+
+ESCUDO DE LA EXPLOSIÓN
+
+QUEMADURA DE RÁFAGA
+
+CARACTERÍSTICAS DE HERIDOS A PERSONAS
+
+QUEMADURAS
+
+DAÑOS MECÁNICOS
+
+DAÑOS DEL ESTALLIDO
+
+DAÑOS A CAUSA DE LA RADIACIÓN
+
+ESCUDO DE LA RADIACIÓN
+
+EFECTOS DE LOS BOMBARDEOS ATÓMICOS SOBRE LOS HABITANTES DE LAS CIUDADES
+
+APÉNDICE: cuenta al testigo ocular de Padre Siemes
+
+
+
+
+PREFACIO
+
+
+Este reporte describe los efectos de las bombas atómicas que
+bombardearon las ciudades de Hiroshima y Nagasaki el 6 y el 9 de agosto
+de 1945, respectivamente. Resume toda la información que está
+disponible sobre daño hecho a estructuras, heridas a personal,
+consecuencias morales, etcétera, que puede ser dado al público sin
+perjudicar la seguridad de los Estados Unidos.
+
+Este reporte ha hecho referencia al Distrito de Ingenieros de Manhattan
+del Ejército de los Estados Unidos bajo la dirección del Mayor General
+Leslie R. Groves. Reconocimiento especial a ellos cuyo trabajo
+contribuyó grandemente a este reporte:
+
+El Grupo Investigador Del Distrito Especial de Ingenieros de Manhattan
+
+La Inspección Estratégica De Bombardeo De Los Estados Unidos
+
+La Misión Británica al Japón, y
+
+El Grupo Investigador Unido (Médico) De La Bomba Atómica, y
+particularmente a los individuos siguientes:
+
+Coronel Stafford L. Warren, Cuerpo Médico, Ejército De Los Estados
+Unidos, para su evaluación de datos médicos,
+
+Cap. Henry L. Barnett, Cuerpo Médico, Ejército De Los Estados Unidos,
+para su evaluación de datos médicos,
+
+Dr. R. Serber, por su comentario al sujeto de quemadura de ráfaga,
+
+Dr. Hans Bethe, Cornell University, por su información sobre las
+características de las explosiones atómicas,
+
+Mayores Noland Varley y Walter C. Youngs, Cuerpo de Ingenieros,
+Ejercito De Los Estados Unidos, por su evaluación de daño físico a
+estructuras,
+
+J.O. Hirschfelder, J.L. Magee, M. Hull, y S.T. Cohen, del Laboratorio
+de los Alamos, por sus datos sobre explosiones nucleares,
+
+Tnte. Coronel David B. Parker, Cuerpo de Ingenieros, Ejército de los
+Estados Unidos, por repasar este reporte.
+
+
+
+
+INTRODUCCION
+
+
+Declaración del Presidente de los Estados Unidos: Hace dieciséis horas
+un avión lanzó una bomba sobre Hiroshima, Japón, y destruyó su utilidad
+para el enemigo. Esa bomba tuvo más poder que 20.000 toneladas de
+T.N.T. Tuvo más de dos mil veces el poder de la British Grand Slam, que
+es la bomba más grande que fue jamás usada en la historia de la guerra.
+
+Estas palabras fatales del Presidente el 6 de agosto de 1945, señaló el
+primer anuncio público de la realización científica la más grande en
+historia. La bomba atómica, que fue examinada por la primera vez en
+Nuevo México el 16 de julio de 1945, acaba de ser usada contra un
+objetivo militar.
+
+El 6 de agosto de 1945, a las 8:15 a.m., hora japonés, un B-29
+bombardero pesado que volaba a una altitud muy alta lanzó la primera
+bomba atómica sobre Hiroshima. Más de 4 millas cuadradas fueron
+devastadas instantáneamente y completamente. 66.000 personas fueron
+asesinadas, y 69.000 fueron lesionadas.
+
+El 9 de agosto, tres días después, a las 11:02 a.m., otro B-29 lanzó la
+segunda bomba sobre la sección industrial de la ciudad de Nagasaki, que
+destruyó 1 1/2 millas cuadradas de la ciudad totalmente, mató a 39.000
+personas, y lesionó 25.000 otros.
+
+El 10 de agosto, el día después del bombardeo de Nagasaki, el gobierno
+japonés pidió que Japón fuera autorizado a rendirse bajo las
+condiciones de la declaración Potsdam del 26 de julio que rechazó
+previamente.
+
+
+
+
+EL GRUPO INVESTIGADOR DE LA BOMBA ATÓMICA DEL PROYECTO MANHATTAN
+
+
+El 11 de agosto de 1945, dos días después del bombardeo de Nagasaki, un
+mensaje fue despachado al general de brigada Thomas F. Farrell, de
+parte del Mayor Leslie R. Groves que fue su jefe de trabajo de la bomba
+atómica y que le representó en operaciones en el Pacifico, le indicó
+que organizara un Grupo Investigador Especial de la Bomba Atómica del
+Proyecto Manhattan.
+
+Este grupo fue para asegurar información secreta científica, técnica, y
+médica en el campo de la bomba atómica dentro Japón tan pronto como fue
+posible, después que pasaron las hostilidades. La misión tuvo que
+consistir con tres grupos:
+
+1. Grupo para Hiroshima
+
+2. Grupo para Nagasaki
+
+3. Grupo para asegurar información que concierne a actividades
+generales japonesas en el campo de bombas atómicas.
+
+Los primeros dos grupos fueron organizados para acompañar las primeras
+tropas americanas a Hiroshima y Nagasaki.
+
+Los propósitos principales de la misión fueron los siguientes:
+
+1. Estar seguro de que no hubiera peligros no comunes en las ciudades
+bombardeadas.
+
+2. Asegurar toda información posible que concierne los efectos de las
+bombas, tanto usual como inusual, y particularmente con respecto a
+efectos radioactivos, si los hay, en los objetivos o en otra parte.
+
+General Groves declaró además que todo personal especialistas que
+estuvieran disponibles serían enviados de los Estados Unidos, y que el
+jefe supremo aliado en el Pacífico sería informado sobre la
+organización de la excursión.
+
+El mismo día, el 11 de agosto, el personal especial que formaron la
+parte del grupo investigador que sería enviado de los Estados Unidos
+fueron seleccionados y ordenados a California con instrucciones de
+cruzar el océano inmediatamente para realizar los propósitos declarados
+en el mensaje a General Farrell. El grupo principal partió de Campo
+Hamilton, California, la mañana del 13 de agosto y llegó en las
+Marianas el 15 de agosto.
+
+El 12 de agosto el jefe del estado mayor envió el mensaje siguiente al
+Comandante:
+
+PARA MACARTHUR, FIRMADO MARSHALL:
+
+GROVES HA ORDENADO A FARRELL A TINIAN QUE ORGANIZE UN GRUPO CIENTÍFICO
+DE TRES SECCIONES PARA USO POTENCIAL EN JAPÓN SI TAL USO SERÍA DESEADO.
+EL PRIMER GRUPO ES PARA HIROSHIMA, SEGUNDO PARA NAGASAKI, Y EL TERCER
+PARA EL PROPÓSITO DE ASEGURAR INFORMACIÓN QUE CONCIERNE A ACTIVIDADES
+JAPONESAS GENERALES EN EL CAMPO DE ARMAS ATÓMICAS. LOS GRUPOS PARA
+HIROSHIMA Y PARA NAGASAKI DEBEN ENTRAR ESAS CIUDADES CON LAS PRIMERAS
+TROPAS AMERICANAS PARA QUE ESTAS TROPAS NO SEAN SUJETAS A CUALQUIER
+EFECTO POSIBLE QUE SEA TÓXICO AUNQUE NO TENEMOS CAUSA QUE CREER QUE TAL
+EFECTO EXISTE VERDADMENTE. FARRELL Y SU ORGANIZACIÓN TIENEN TODA LA
+INFORMACIÓN DISPONIBLE SOBRE ESTE SUJETO.
+
+General Farrell llegó a Yokohama el 30 de agosto, con el comandante en
+general del octavo ejército; Coronel Warren, que fue el Jefe de la
+División Radiologica del Distrito, llegó el 7 de septiembre. El cuerpo
+principal del grupo investigador llegó más tarde. Inspecciones
+preliminares de Hiroshima y de Nagasaki fueron hechas los días 8 y 9 de
+septiembre y los días 13 y 14 de septiembre, respectivamente. Miembros
+de la prensa fueron autorizados a seguir al General Farrell a
+Hiroshima.
+
+Los grupos especiales pasaron 16 días en Nagasaki y 4 días en
+Hiroshima, durante los cuales coleccionaron tanta información que fue
+posible bajo sus ordenes que demandaban un reporte pronto. Después que
+General Farrell volvió a los Estados Unidos para hacer su reporte
+preliminar, los grupos fueron dirigidos por el General de Brigada J.B.
+Newman, Hijo. Exámenes más extensivos han sido hechos desde ese tiempo
+por otras agencias que tuvieron más tiempo y personal disponible para
+el propósito, y mucho de sus datos adicionales revelaron más los
+efectos de los bombardeos. Estos datos han sido debidamente
+considerados para hacer este reporte.
+
+
+
+
+PROPAGANDA
+
+
+El día después del ataque de Hiroshima, General Farrell recibió
+instrucciones del Ministerio de Guerra que participe en una campaña de
+propaganda contra el Imperio Japonés en conexión con el nuevo proyectil
+y su uso contra Hiroshima. La campana tenía que incluir folletos y
+cualquier otra propaganda considerada apropiada. Con la cooperación
+completa de CINCPAC de la armada y de las Fuerzas Aéreas Estratégicas
+de los Estados Unidos, el inició rápidamente una campaña que incluyó la
+preparación y distribución de folletos, radiando por vía onda corta
+cada 15 minutos sobre radio Saipan y también usó la imprenta de Saipan
+para distribuir sobre el Imperio Japonés periódicos con fotografías y
+descripciones del ataque de Hiroshima.
+
+La campaña propuso:
+
+1. Distribución de 16.000.000 de folletos en un espacio de tiempo de 9
+días en 47 ciudades japonesas con una población de más de 100.000.
+Estas ciudades representaron más de 40% de la población total.
+
+2. Radiodifusión de propaganda a intervalos regulares sobre radio
+Saipan.
+
+3. Distribución de 500.000 periódicos en japonés incluyendo cuentos y
+fotografías de los ataques de bombas.
+
+La campana continuó hasta que los japoneses comenzaron sus
+negociaciones de rendición. Al mismo tiempo 6.000.000 de folletos y un
+gran número de periódicos se tiraran sobre las ciudades. Las
+radiodifusiones en japonés estaban realizadas a intervalos regulares de
+15 minutos.
+
+RESUMEN DE DAÑOS Y LESIONES
+
+Las dos bombas atómicas de Hiroshima y de Nagasaki mostraron efectos
+similares.
+
+Los daños a estructuras hechas por el hombre y a otros objetos
+inanimados en las dos ciudades fueron el resultado de los efectos
+siguientes de la explosión:
+
+A. Estallido o onda de presión similar con ése de explosiones normales.
+
+B. Incendios primarios, es decir, esos incendios que comenzaron
+instantáneamente por el calor que la explosión atómica soltó.
+
+C. Incendios secundarios, es decir, esos incendios que resultaron del
+desplome de edificios, daño a sistemas eléctricos, el vuelco de
+estufas, y otros efectos primarios del estallido.
+
+D. Difusión de incendios originales (B y C) a otras estructuras. Las
+casualidades sufridas por los habitantes de las dos ciudades fueron a
+causa de:
+
+A. Quemaduras de ráfaga, causadas directamente por la radiación casi
+instantánea de calor y de luz al momento de la explosión.
+
+B. Quemaduras que resultaron de incendios causados por la explosión.
+
+C. Daños mecánicos causados por el vuelco de edificios, escombro
+volando, y personas tiradas por las ondas de presión.
+
+D. Daños de radiación causados por la radiación instantánea que penetró
+(en muchos conceptos similar a la exposición excesiva de los rayos X)
+de la explosión nuclear; todas estas radiaciones efectivas ocurrieron
+durante el primer minuto después de la iniciación de la explosión, y
+casi todas ocurrieron durante el primer segundo de la explosión.
+
+Ningunas casualidades fueron sufridas a causa de radioactividad
+persistente de productos de fisión de la bomba, o cualquiera
+radioactividad inducida de objetos cercas de la explosión. Las
+radiaciones gamma emitidas por la explosión nuclear no causaron, por
+supuesto, ningún daño a las estructuras.
+
+El número de casualidades que resultó solamente por el efecto del
+estallido (es decir a causa de presión simple) fue probablemente
+insignificante comparado con lo que fue causado por otros efectos.
+
+Las porciones centrales de las ciudades debajo de las explosiones
+sufrieron casi destrucción completa. Los únicos objetos que
+sobrevivieron fueron las estructuras de un pequeño número de edificios
+fuertes de concreto reforzado que no fueron derrumbadas por el
+estallido. La mayoría de estos edificios sufrieron daño extensivo a
+causa de los incendios interiores, y sus ventanas, puertas, y
+particiones fueron abofeteadas, y todas otras fijaciones que no fueron
+partes integrales de las estructuras de concreto reforzado fueron
+consumidas por el incendio o se fueron llevada; las casualidades de
+tales edificios cercas del centro de la explosión fueron casi 100%. En
+Hiroshima incendios aparecieron simultáneamente por todo el terreno
+central vasto y llano de la ciudad; estos incendios combinaron pronto
+para crear una tormenta de incendio (vientos fuertes que soplan hacia
+el centro de una conflagración grande) similar con ésas causadas por
+ataques incendiarios masivos; la conflagración resultante terrífica se
+quemó por completo casi todo que no fue ya destruido por el estallido
+en una área aproximadamente circular de 4.4 millas cuadradas a la
+redonda del punto exactamente bajo la explosión (este punto se asignará
+como X en lo sucesivo). Incendios similares comenzaron en Nagasaki,
+pero no resultó una tormenta de incendios como en Hiroshima a causa de
+la forma irregular de la ciudad.
+
+En las dos ciudades el estallido destruyó todo completamente adentro de
+un radio de 1 milla del centro de la explosión, aparte de estructuras
+de concreto reforzado como se nota arriba. La explosión atómica
+destruyó casi completamente la identidad de Hiroshima como una ciudad.
+Más de un cuarto de la población fue matada de un solo golpe y un
+cuarto adicional fue lastimada gravemente, de modo que aun cuando no
+había daño a estructuras o a instalaciones la vida urbana normal había
+estado completamente destrozada. Casi todo fue dañado fuertemente hasta
+un radio de 3 millas a causa del estallido, y más lejos de este daño de
+distancia, aunque comparativamente ligero, daño extendió para algunas
+más millas. Vidrio fue roto hasta 12 millas.
+
+En Nagasaki, un terreno más pequeño de la ciudad fue destruido
+actualmente que en Hiroshima, porque las colinas que cercaron la área
+del objetivo limitó la extensión del estallido enorme; pero examinación
+prudente de los efectos de la explosión dieron testimonio de los
+efectos del estallido más grandemente que en Hiroshima. Destrucción
+total esparzo por una área de 3 millas cuadradas. Más de un tercio de
+los 50.000 edificios en la área del objetivo de Nagasaki fueron
+destruidos o seriamente dañados. La destrucción total de las obras
+enormes de acero y de la fábrica de torpedos fue especialmente
+impresionante. Las estructuras de acero de todos los edificios a una
+milla de la explosión fueron alejadas, como por una mano enorme, del
+punto de detonación. La área quemada severamente extendió por 3 millas
+de longitud. Las laderas hasta un radio de 8.000 pies fueron tostadas,
+dañándolas una apariencia otoñal.
+
+
+
+
+CONCLUSIONES PRINCIPALES
+
+
+Los siguientes son las conclusiones principales de una examinación
+acabada de los efectos de las bombas lanzadas sobre Hiroshima y
+Nagasaki:
+
+1. Cantidades peligrosas de radioactividad persistente no fueron
+presentes después de la explosión así fue determinado por:
+
+A. Medidas de la intensidad de radioactividad al tiempo de la
+investigación; y
+
+B. Falta de evidencia clínica de personas dañadas por radioactividad
+persistente.
+
+Los efectos de las bombas atómicas sobre humanos fueron de tres tipos
+principales:
+
+A. Quemaduras, notables para (1) la gran área de tierra por la que
+fueron infligidas y (2) la frecuencia de quemaduras de ráfaga causadas
+por la radiación instantánea de calor.
+
+B. Daños mecánicos, notables también para la vasta área en la que
+fueron sufridos.
+
+C. Efectos resultantes de radiación gamma penetrante. Los efectos de
+radiación fueron a causa de descargo instantánea de radiación al
+momento de la explosión y no fueron a causa de radioactividad
+persistente (de productos de fisión o otras substancias cuya
+radioactividad podría estar causada por proximidad a las explosiones).
+
+Los efectos de las bombas atómicas sobre estructuras e instalaciones
+fueron de dos tipos:
+
+A. Destrucción causada por la grande presión del estallido; y
+
+B. Destrucción causada por los incendios, comenzados directamente por
+la inmensa radiación de calor, o indirectamente por el derrumbo de
+edificios, de instalación alambica, etcétera.
+
+4. El tonelaje actual de T.N.T. que habría causado el mismo daño de
+estallido fue aproximadamente de la clase de 20,000 toneladas.
+
+5. Con respecto a su altura de explosión, las bombas ejecutaron
+exactamente conforme a su diseño.
+
+6. Las bombas fueron puestas en tales posiciones que no podrían haber
+hecho más daño en un punto alternativo de explosión a cualquiera de las
+dos ciudades.
+
+7. Las alturas de explosión fueron seleccionadas correctamente con
+referencia al tipo de destrucción que fue seleccionada para causar.
+
+8. La información colegida permitiría una predicción razonablemente
+precisa del daño del estallido que probablemente estará causada en
+cualquiera ciudad adonde una explosión atómica podría estar ejecutada.
+
+
+
+
+LA SELECCIÓN DEL OBJETIVO
+
+
+Algunas de las preguntas más frecuentes que conciernen a las bombas
+atómicas son ésas que se refieren a la selección de los objetivos y la
+decisión de cuando las bombas serían usadas.
+
+La fecha aproximada para el primer uso de la bomba fue decidida en el
+otoño de 1942 después que el ejército había asumido la dirección de
+responsabilidad para el proyecto de la bomba atómica. A ese tiempo,
+bajo las asunciones científicas que fueron correctas, el verano de 1945
+fue citado como la fecha más probable cuando producción suficiente
+habría estado realizada para hacer lo posible construir y usar una
+bomba atómica. Fue esencial desarrollar la técnica para construir y
+detonar la bomba antes de ese tiempo y hacer un número infinito de
+desarrollos y exámenes científicos y de ingeniería. Entre el otoño de
+1942 y junio de 1945, las probabilidades estimadas de suceso habían
+escalado de cerca de 60% a más de 90%. Sin embargo, no fue hasta el 16
+de julio de 1945 (la fecha del primer examen de escala entera que pasó
+en Nuevo México), cuando fue probado conclusivamente que las teorías,
+cálculos, e ingeniería fueron correctas y que la bomba sería exitosa.
+
+El examen en Nuevo México fue 6 días después de que llegó el material
+suficiente para la primera bomba. La bomba para Hiroshima estuvo lista
+esperando mejor tiempo el 31 de julio, y la bomba de Nagasaki fue usada
+tan pronto que usaron la de Hiroshima y fue practicable completar la
+segunda misión.
+
+El trabajo en la selección actual de los objetivos para la bomba
+atómica comenzó en el otoño de 1945. Esto fue hecho con la cooperación
+detenida del General Comandante, Fuerzas Aéreas del Ejército, y sus
+Cuarteles Generales. Un número de expertos de varios terrenos ayudaron
+en hacer el estudio. Estos incluyeron matemáticos, físicos teoréticos,
+expertos sobre los efectos del estallido de bombas, consultantes de
+tiempo, y otros especialistas. Algunas de las consideraciones
+importantes fueron:
+
+A. El alcance del avión que llevaría la bomba.
+
+B. La calidad deseable de bombardeo visual para asegurar el uso más
+efectivo de la bomba.
+
+C. Condiciones probables de tiempo en las áreas de objetivo.
+
+D. Importancia de tener un objetivo principal y dos objetivos
+secundarios para cada excursión, para que si las condiciones del tiempo
+prohibieran el bombardeo del objetivo habría por lo menos dos
+substitutos.
+
+E. Selección de objetivos para producir el efecto máximo militar sobre
+el pueblo japonés y por eso más efectivamente acortando la guerra.
+
+F. El efecto moral del enemigo.
+
+Estas resultaron en las siguientes:
+
+A. Como la bomba atómica fue creada para producir la cantidad más
+grande de daño por efecto de estallido principal, y próximo más grande
+por incendios, los objetivos deben contener un porcentaje grande de
+edificios de estructuras construidos-contiguamente y otra construcción
+que sería más susceptible a daño por estallido y por incendio.
+
+B. El efecto máximo de estallido de la bomba fue calculado para
+extenderse sobre un área de aproximadamente 1 milla en radio; por eso,
+los objetivos seleccionados debían contener una área construida
+densamente de esta dimensión a menos.
+
+C. Los objetivos seleccionados debían tener un valor estratégico y
+militar alto.
+
+D. El primer objetivo debía estar relativamente intacto por bombardeo
+previo, para que el efecto de una única bomba pudiera estar
+determinado.
+
+Los documentos del tiempo mostraron que por cinco años no habían jamás
+dos buenos días consecutivos para el bombardeo visual sobre Tokio,
+indicando lo que podría ser esperado para otros objetivos en las islas.
+El peor mes del año para bombardeo visual fue creído ser junio, pero el
+tiempo se mejora un poco durante julio y agosto y entonces se empeora
+otra vez en septiembre. Como condiciones buenas para bombardear
+ocurrirían raramente, planos más intensos y preparaciones fueron
+necesarios para asegurar pronósticos exactos de tiempo y para disponer
+uso total de cualquier tiempo bueno que podría ocurrir. Fue también muy
+deseado comenzar ataques antes de septiembre.
+
+
+
+
+DESCRIPCIÓN DE LAS CIUDADES ANTES DE LOS BOMBARDEOS
+
+
+HIROSHIMA
+
+La ciudad de Hiroshima está sobre la delta amplia y llana del Río Ota,
+que tiene 7 salidas de cauce que dividen la ciudad en 6 islas y que
+proyectan en la Bahía Hiroshima. La ciudad está llana casi
+completamente y solamente un poco sobre el nivel del mar; al noroeste y
+al nordeste de la ciudad algunas colinas suben a 700 pies. Solo una
+única colina en la parte oriental de la ciudad que es casi 1/2 milla en
+longitud y 221 pies en altura interrumpió hasta cierto punto la
+extensión del daño del estallido; sin embargo la ciudad fue totalmente
+expuesta a la bomba. De una área de ciudad de más de 26 millas
+cuadradas, solamente 7 millas fueron completamente desarrolladas. No
+había una separación pronunciada de zonas comerciales, industriales, y
+residenciales. 75% de la población fue concentrada en la área
+densamente desarrollada al centro de la ciudad.
+
+Hiroshima fue una ciudad de considerable importancia militar. Contenía
+el Cuartel General del Segundo Ejército, que comandaba la defensa de
+todo el sur de Japón. La ciudad fue un centro de comunicaciones, un
+punto de almacenamiento, y una área de toque de llamada para tropas.
+Para citar un reporte japonés, Probablemente más de mil veces desde el
+comienzo de la guerra los ciudadanos de Hiroshima fueron a despedir a
+las tropas que salían del puerto con gritos de Banzai.
+
+El centro de la ciudad contenía edificios de concreto reforzado así
+como estructuras menos pesadas. Afuera del centro, la área fue
+aglomerada por una colección densa de pequeños obradores y de madera
+puesta entre casas japonesas; pocas plantas industriales más grandes
+estaban cerca de los arrabales de la ciudad. Las casas fueron de
+construcción de madera con techos de teja. Muchos de los edificios
+industriales fueron también de estructuras de madera. La ciudad en
+conjunto fue sumamente susceptible a daños por incendio.
+
+Algunos de los edificios de concreto reforzado fueron construidos mucho
+más fuertemente que se requiere según las normas de los Estados Unidos,
+por causa del peligro de terremotos en Japón. Esta construcción
+excepcionalmente fuerte sin duda dio razón para que el armazón de
+algunos de los edificios que estaban bastante cerca al centro del daño
+en la ciudad no se derrumbaran.
+
+La población de Hiroshima llegó a un pico de más de 380.000 personas
+más temprano en la guerra, pero antes del bombardeo atómico la
+población disminuía por causa de la evacuación sistemática ordenada por
+el gobierno japonés. Al tiempo del ataque la población fue
+aproximadamente 255.000. Esta cifra se basa en la población registrada,
+usada por los japoneses para computar cantidades de ración, y los
+estimados de trabajadores y tropas adicionales que fueron traídos a la
+ciudad; puede que no sea muy precisa. Hiroshima, así, tuvo
+aproximadamente el mismo número de personas que la ciudad de
+Providence, Rhode Island o de Dallas, Tex.
+
+NAGASAKI
+
+Nagasaki está a la cabeza de una bahía larga que forma el mejor puerto
+natural en la isla Kyushu al sur de Japón. La área comercial y
+residencial principal de la ciudad está sobre un pequeño llano cerca
+del final de la bahía. Los ríos divides por una estribación de montaña
+forman los dos valles principales en los cuales está la ciudad. Esta
+estribación de montaña y el arreglo irregular de la ciudad redujo
+enormemente la área de destrucción, de modo que a primera vista
+Nagasaki apareció estar menos devastado que Hiroshima.
+
+La área fuertemente desarrollada de la ciudad es confinada por el
+terreno a menos de 4 millas cuadradas de un total de casi 35 millas
+cuadradas en la ciudad completa.
+
+La ciudad de Nagasaki fue uno de los puertos marítimos más grandes en
+el sur de Japón y fue de gran importancia durante la guerra por sus
+industrias varias, incluyendo la producción de pertrechos militares,
+barcos, equipo militar, y otros materiales de guerra. La faja angosta y
+larga que fue atacada era de importancia particular por sus industrias.
+
+Contrario a muchos aspectos modernos de Nagasaki, las residencias casi
+sin excepción de ninguna fueron construidas débilmente, típico de las
+construcciones japonesas, consistió en madera o edificios con
+estructuras de madera, con paredes de madera con o sin emplasto, y
+techos de teja. Muchas de las industrias y empresas más pequeñas fueron
+también hechas en edificios de madera o edificios de albañilería
+construidos débilmente. A Nagasaki se le permitió crecer por muchos
+años sin estar conforme con ninguna planificación municipal por zonas,
+y principal misión y por lo tanto las residencias fueron construidas al
+lado de fábricas tan cerca como fue posible construirlas a través el
+valle industrial entero.
+
+HIROSHIMA
+
+Hiroshima fue el objetivo primario de la primera excursión de la bomba
+atómica. La excursión fue exitosa en todo aspecto. El tiempo era bueno,
+y la tripulación y el equipo funcionaron perfectamente. En cada
+detalle, el ataque fue llevado a cabo exactamente como fue diseñado, y
+la bomba ejecutó exactamente como era esperado.
+
+La bomba detonó sobre Hiroshima a las 8:15 de la mañana del 6 de agosto
+de 1945. Aproximadamente una hora más temprano, la red del radar
+japonés para aviso cercano notó el acercamiento de algunos vehículos
+aéreos americanos que se dirigieron a la parte sur de Japón. El aviso
+fue dado y la radiodifusión se suspendió en muchas ciudades, entre
+ellas Hiroshima. Los aviones se acercaron a la costa a una altitud muy
+alta. Cerca de las 8:00 de la mañana, el operador de radar a Hiroshima
+determinó que el número de aviones que venía fue pequeño -
+probablemente no más de tres - y el aviso de ataque aéreo fue relevado.
+El aviso normal de radiodifusión fue dado al pueblo que sería
+recomendable ir a un refugio si se ven algunos B-29s, pero nadie esperó
+un ataque más allá que cualquier clase de reconocimiento. A las 8:15 de
+la mañana, la bomba detonó con una ráfaga deslumbradora en el cielo, y
+una ráfaga grande de aire y un retumbo fuerte de ruido se extendió por
+muchas millas a través de la ciudad. La primera explosión fue pronto
+seguida por los sonidos de edificios que se caían y de incendios que
+crecían, y una nube enorme de polvo y de humo comenzó a echar un manto
+de obscuridad que cubrió la ciudad.
+
+A las 8:16 de la mañana, el operador de control de la Corporación de
+Transmisión de Tokio notó que la estación de Hiroshima no transmitía.
+Trató de usar otra línea de teléfono para restablecer su programa, pero
+falló también. Casi veinte minutos más tarde el centro de telegrafía
+ferroviario notó que la línea principal del telegrafíe paró de
+funcionar cerca del norte de Hiroshima. De algunas pequeñas paradas
+férreas a diez millas de la ciudad vinieron reportes extraoficiales y
+confundidos sobre una explosión terrible en Hiroshima. Todos estos
+reportes fueron transmitidos al Cuartel General del Estado Mayor
+Japonés.
+
+Los cuarteles generales trataron repetidamente de llamar la Estación de
+Control del Ejército en Hiroshima. El silencio completo de esa ciudad
+confundió los hombres al Cuartel General. Ellos sabían que un ataque
+por sorpresa del enemigo podía haber ocurrido, y ellos sabían que no
+había suficiente explosivos en Hiroshima en ese tiempo. Un oficial
+joven del Estado Mayor Japonés fue instruido que vuele inmediatamente a
+Hiroshima, que aterrice, que examine el daño, y que vuelva a Tokio con
+información veraz para el estado. Fue creído generalmente al Cuartel
+General que nada seroso tuvo lugar, y que todo era un rumor terrible
+que empezó como chisme.
+
+El oficial de estado mayor fue al aeropuerto y despegó por el sudoeste.
+Después de volar durante casi tres horas, mientras estando a casi 100
+millas de Hiroshima, él y su piloto vieron una nube de humo de la
+bomba. En la tarde brillante, los residuos de Hiroshima se quemaban.
+
+Su avión pronto llegó a la ciudad, alrededor la que ellos llegaron a la
+ciudad que circundaban en descreimiento. Una gran cicatriz en la
+tierra, todavía quemándose, cubierta por una nube densa de humo, fue
+todo lo que quedó de la grande ciudad. Ellos aterrizaron al sur de la
+ciudad, y el oficial de estado mayor comenzó a organizar inmediatamente
+medidas de ayuda, después de relatar lo sucedido a Tokio.
+
+El primer conocimiento que tuvo Tokio de lo que causó el desastre vino
+de un anuncio público de la Casa Blanca dieciséis horas después que
+Hiroshima había sido golpeado por la bomba atómica.
+
+Nagasaki no fue jamás expuesto a un bombardeo de tal escala antes de la
+explosión de esa bomba atómica. El 1 de agosto de 1945, sin embargo, un
+número de bombas fuertemente explosivas fueron lanzadas sobre la
+ciudad. Unas cuantas de estas bombas depositaron en los astilleros y
+áreas de diques en la parte sudoeste de la ciudad. Varias bombas
+golpearon las Fábricas de Acero y Armas de Mitsubishi y seis bombas
+cavaron en la Escuela Médica y el Hospital de Nagasaki, con tres golpes
+directos. El daño de estas pocas bombas fue relativamente
+insignificante, creó bastante inquietud en Nagasaki y un número de
+gente, niños de la escuela principalmente, fueron evacuados a las áreas
+rurales para seguridad y reducir la población de la ciudad durante el
+tiempo de ataque atómico.
+
+En la mañana del 9 de agosto de 1945, cerca de las 7:50 de la mañana,
+tiempo japonés, un aviso de ataque aéreo sonó en Nagasaki, pero la
+señal fuera de peligro fue dada a las 8:30. Cuando solamente dos super
+fortalezas volantes B-29s fueron vistas a las 10:53 los japoneses
+asumieron aparentemente que los aviones fueron solamente vuelos de
+reconocimiento y no dieron más avisos de ataque aéreo. Algunos momentos
+más tarde, a las 11:00, el B-29 de observación lanzó instrumentos
+atados a tres paracaídas y a las 11:02 el otro avión lanzó la bomba
+atómica.
+
+La bomba detonó altamente sobre el valle industrial de Nagasaki, casi
+equidistante de las Fábricas de Acero y Armas de Mitsubishi en el sur,
+y los Trabajos de Pertrechos Militares de Mitsubishi-Urakami (Fábricas
+de Torpedos), en el norte, los dos objetivos principales de la ciudad.
+
+A pesar de la gran importancia de estas bombas, la primera tarea de
+bombardeo sobre Hiroshima era casi rutina. La segunda tarea no fue tan
+placida. Otra vez la tripulación fue especialmente entrenada y
+seleccionada; pero el mal tiempo introdujo algunas complicaciones
+graves. Estas complicaciones son mejor descritas en la cuenta breve del
+especialista de armas de la tarea, Comandante, ahora Capitán, F.L.
+Ashworth, (U.S.N.), que estuvo al mando técnico de la bomba y fue
+cargado con la responsabilidad de asegurar que la bomba fuera lanzada
+con éxito al tiempo apropiado y sobre el objetivo designado. Su
+narrativa va como sigue:
+
+La noche de nuestro despegue fue una de ráfagas de lluvia tropical, y
+relámpagos apuñalaron la obscuridad con regularidad desconcertante. El
+pronostico de tiempo nos dijo de tormentas de las Marianas hasta el
+Imperio. Nuestro lugar de reunión estaba fuera de la costa de Kyushu,
+algunas 1500 millas de distancia. Allí nos teníamos que juntar con
+nuestros dos B-29s de compañerismo y de observación que despegaron
+algunos minutos después de nosotros. Los pilotos hábiles y los expertos
+navegantes nos trajeron al lugar de reunión sin incidente.
+
+Casi cinco minutos después de nuestra llegada, nuestro primero b-29 se
+unió. El segundo, sin embargo, no llegó, aparentemente se salió de
+rumbo por las tormentas de la noche. Esperamos 30 minutos y entonces
+procedimos sin el segundo avión hacia la área del objetivo.
+
+Durante el acercamiento al objetivo, los instrumentos especiales
+instalados en el avión nos dijeron que la bomba estaba lista para
+funcionar. Estabamos preparados para lanzar la segunda bomba atómica
+sobre Japón. Pero la fortuna fue contra nosotros, porque el objetivo
+fue completamente cubierto por humo y neblina. Tres veces intentamos
+bombardear, pero sin éxito. Entonces con fuego antiaéreo explotando
+alrededor de nosotros y con un número de combatientes del enemigo
+viniendo en busca de nosotros, nos dirigimos hacia nuestro segundo
+objetivo, Nagasaki.
+
+La bomba detonó con un golpe deslumbrador y una columna enorme de humo
+negro remolineó hacia nosotros. Dentro de esta columna de humo un
+champiñón enorme remolinando hervía de humo gris y luminoso con fuego
+rojo y llameando, que extendió a 40,000 pies en menos de ocho minutos.
+Abajo a través de las nubes pudimos ver el manto de humo negro rondado
+con fuego que cubrió lo que ha sido la área industrial de Nagasaki.
+
+A esta hora nuestro surtido de combustible fue peligrosamente bajo, así
+que después de un circulo rápido alrededor de Nagasaki, nos dirigimos
+directamente hacia Okinawa para un aterrizaje forzoso y reabastecer los
+aviones.
+
+
+
+
+COMPARACIÓN GENERAL DE HIROSHIMA Y NAGASAKI
+
+
+A primera vista no fue aparente a observadores educados que visitaron
+las dos ciudades japonesas cual de las dos bombas fue más efectiva.
+
+En algunos aspectos, Hiroshima se vio peor que Nagasaki. El daño de
+incendio en Hiroshima fue mucho más grande; el centro de la ciudad fue
+golpeado y todo aparte de los edificios de concreto reforzado había
+desaparecido virtualmente. Un desierto completo de restos carbonizados,
+con solo algunas estructuras fuertes que quedaron, fue una vista
+aterrorizaste.
+
+En Nagasaki no había edificios directamente debajo de la explosión. El
+daño a la Fábrica de Armas de Mitsubishi y los Trabajos de Torpedos fue
+terrible, pero no fue abrumador. Había algo que ver, y los contornos
+principales de algunos edificios fueron ya regular.
+
+Un observador podía estar en pie en el centro de Hiroshima y ver la
+mayoría de la ciudad; las colinas impidieron una vista total similar en
+Nagasaki. Hiroshima se fijó en la mente como un espacio vasto de
+desolación; pero nada tan vivo quedó en la memoria de alguien de
+Nagasaki.
+
+Cuando los observadores comenzaron a notar los detalles, diferencias
+sorprendentes entre las dos ciudades aparecieron. Arboles fueron
+derrumbados en las dos ciudades, pero los arboles grandes que cayeron
+en Hiroshima fueron desarraigados, mientras que ésos en Nagasaki fueron
+rotos en dos con un chasquido. Pocos edificios de concreto reforzado
+fueron destrozados en el centro de Hiroshima, pero en Nagasaki un daño
+igualmente fuerte podía encontrarse a 2,300 pies de X. En el estudio de
+objetos que dieron indicios definidos sobre la presión del estallido,
+como destructores destrozados, letreros cóncavos, postes curvados o
+rotos en dos, etcétera, fue evidente rápidamente que la bomba de
+Nagasaki fue mucha más efectiva que la de Hiroshima. En la descripción
+de daño que sigue, será notado que el radio para la cantidad de daño
+fue más grande en Nagasaki que en Hiroshima.
+
+Cuando se considera la devastación de las dos ciudades, se debe
+recordar que las diferencias en la forma y
+
+topografía de las ciudades resultaron en diferencias grandes de los
+daños. Hiroshima estaba todo sobre tierra baja y llana, y era como
+circular en forma; Nagasaki estaba construida sobre colinas y
+espolones, sin regularidad de forma.
+
+En Hiroshima casi todo aproximadamente a una milla de X fue
+completamente destruido, a excepción de un número pequeño (cerca de 50)
+de edificios de concreto fuertemente reforzado, la mayoría de los
+cuales fueron designados especialmente para sufrir el golpe de un
+terremoto, no fueron deplomados; los interiores de la mayoría de estos
+edificios fueron destruidos completamente, y todas las ventanas,
+puertas, bastidores y estructuras fueron arrancadas. En Nagasaki casi
+todo a 1/2 milla de la explosión fue destruido, incluyendo las
+estructuras pesadas. Todas las casas japonesas fueron destruidas a 1
+1/2 millas de X.
+
+Refugios antiaéreos subterráneos con los techos de tierra
+inmediatamente debajo de la explosión se les derrumbaron los techos;
+pero después de 1/2 milla de X no sufrieron daño.
+
+En Nagasaki, 1.500 pies de X edificios con estructuras de acero de alta
+calidad no fueron derrumbados, pero los edificios enteros sufrieron
+distorsión en masa y todos los paneles y los techos fueron volados.
+
+En Nagasaki, 2.000 pies de X, edificios de concreto reforzado con
+paredes de 10 y pisos de 6 fueron derrumbados; edificios de concreto
+reforzado con paredes y techos de 4 eran parados, pero eran dañados
+increíblemente. A 2.000 pies algunas paredes concretas de 9 fueron
+destruidas completamente.
+
+En Nagasaki, 3.500 pies de X, iglesias con paredes de ladrillos de 18
+fueron completamente destruidas. Las paredes de ladrillos de 12 fueron
+rotas severamente tan lejos como 5.000 pies de distancia.
+
+En Hiroshima, 4.400 pies de X, edificios de varios pisos, de ladrillos,
+fueron completamente demolidos. En Nagasaki, edificios similares fueron
+destruidos a 5.300 pies de distancia.
+
+En Hiroshima, tejados fueron burbujeados (fundidos) por el calor de
+ráfaga a una distancia de 4.000 pies de X; en Nagasaki, el mismo efecto
+fue observado a 6.500 pies de distancia.
+
+En Hiroshima, edificios con estructuras de acero fueron destruidos a
+4.200 pies de X, y a 4.800 pies en Nagasaki.
+
+En las dos ciudades, la distorsión pesada de edificios grandes de acero
+fue observada hasta 4.500 pies de X.
+
+En Nagasaki, las chimeneas de concreto reforzado con paredes de 8 que
+fueron diseñados especialmente para sufrir sacudidas de terremotos,
+fueron vuelcas hasta 4.000 pies de X.
+
+En Hiroshima, los edificios con estructuras de acero sufrieron daños
+estructurales serios hasta 5.700 pies de X, y en Nagasaki el mismo daño
+fue sufrido tan lejos como 6.000 pies de distancia.
+
+En Nagasaki, paredes de ladrillos de 9 fueron rotas pesadamente a 5.000
+pies, fueron rotas moderadamente a 6.000 pies, y rotas ligeramente a
+8.000 pies. En las dos ciudades, edificios ligeros de concreto
+derrumbaron hasta 4.700 pies.
+
+En Hiroshima, edificios de varios pisos de ladrillos sufrieron daños
+estructurales hasta 6.600 pies, y en Nagasaki hasta 6.500 pies de X.
+
+En las dos ciudades instalaciones eléctricas superiores fueron
+destruidas hasta 5.500 pies de distancia; y tranvías eléctricos fueron
+destruidos hasta 5.500 pies de distancia, y dañados hasta 10.500 pies
+de distancia.
+
+El material seco y combustible se prendía y fue observado tan lejos
+como 6.400 pies de X en Hiroshima, y en Nagasaki tan lejos como 10.000
+pies de X.
+
+Daño serio a gasómetros ocurrió hasta 6.500 pies en las dos ciudades.
+
+Todas las casas japonesas fueron dañadas seriamente hasta 6.500 pies en
+Hiroshima, y hasta 8.000 pies en Nagasaki. La mayoría de casas
+japonesas fueron dañadas hasta 8.000 pies en Hiroshima y hasta 10.500
+pies en Nagasaki.
+
+Las laderas en Nagasaki fueron abrasadas por la radiación instantánea
+del calor tan lejos como 8.000 pies de X; esta quemada dio la
+apariencia de otoño prematuro.
+
+En Nagasaki, daño grave de emplasto fue observado en muchos edificios
+hasta 9.000 pies; daño moderado fue sustentado tan lejos como 12.000
+pies de distancia, y daño ligero hasta 15.000 pies de distancia.
+
+La carbonización de ráfaga de postes telegráficos de madera fue
+observada hasta 9.500 pies de X en Hiroshima, y a 11.000 pies de
+distancia en Nagasaki; algunos relatos indican quemaduras de ráfaga tan
+lejos como 13.000 pies de X en los dos lugares.
+
+Un serio desalojamiento de tejados fue observado hasta 8.000 pies de
+distancia en Hiroshima y hasta 10.000 pies de distancia en Nagasaki.
+
+En Nagasaki, daño muy grave a cercos de ventanas y a puertas fue
+observado hasta 8.000 pies de distancia, y daño ligero hasta 12.000
+pies de distancia.
+
+Los techos y las cubiertas de las paredes sobre edificios con
+estructuras de acero fueron destruidos hasta 11.000 pies de distancia.
+
+Aunque las causas de muchos incendios fueron difíciles para reconstruir
+exactamente, es creído que los incendios se iniciaron por radiación
+primaria de calor tan lejos como 15.000 pies de X.
+
+El daño de techos se extendió tan lejos como 16.000 pies de X en
+Hiroshima y en Nagasaki.
+
+La destrucción de edificios fue observado a un alcance extrema de
+23.000 pies de X en Nagasaki.
+
+Aunque daño completo de ventanas fue observado solamente hasta 12.000
+pies de X, algún daño de ventanas ocurrió en Nagasaki hasta 40.000 pies
+de distancia, y se observó vidrio roto hasta 60.000 pies de distancia.
+
+Daño grave por incendios fue sustentado en una área circular en
+Hiroshima con un radio medio cerca de 6.000 pies y un radio máximo
+cerca de 11.000 pies; daño grave similar ocurrió en Nagasaki al sur de
+X hasta 10.000 pies de distancia, adonde se detuvo por la corriente de
+un río.
+
+En Hiroshima más de 60.000 de 90.000 edificios fueron destruidos o
+dañados severamente por la bomba atómica; esta cifra representa más de
+67% de las estructuras de la ciudad.
+
+En Nagasaki 14.000 o 27% de 52.000 residencias fueron destruidas
+completamente y 5.400 o 10% tuvieron daño parcial. Solamente 12% quedó
+sin daño. Esta destrucción fue limitada por el diseño de la ciudad. El
+siguiente es un sumario del daño a edificios en Nagasaki como se
+determina de un estudio de tierra establecido por los Japoneses:
+
+Destrucción de Edificios y Casas Número Porcentaje
+
+(compilado por la Municipalidad de Nagasaki)
+
+Total a Nagasaki (antes de la explosión atómica) 50.000 100,00
+
+Volado (no quemados) 2.652 5,3
+
+Volado y quemados 11.494 23,0
+
+Volado y/o quemados 14.146 28,3
+
+Parcialmente quemado o volado 5.441 10,9
+
+Total de edificios y casas destruidos 19.587 39,2
+
+Indemne 30.413 60,8
+
+
+
+
+En Hiroshima, todos las utilidades y servicios de transportación fueron
+interrumpidos por vario tiempo. En general, sin embargo, los servicios
+fueron restaurados tan rápidamente para poder ser usados por la
+población disminuida. Servicio de ferrocarril fue reparado en Hiroshima
+el 8 de agosto, y la electricidad estuvo disponible en la mayoría de
+las partes sobrevivientes el 7 de agosto, el día después del bombardeo.
+El tanque de la ciudad no se dañó, estando cerca 2 millas de X. Sin
+embargo, 70.000 rupturas en tubos de agua en edificios y residencias
+fueron causadas por el estallido y efectos de incendio. El transporte
+de tierra sufrió un daño extensivo. El daño al tranvía de los
+ferrocarriles , y de los caminos fue comparativamente poco. Sin
+embargo, la transmisión de poder eléctrico y sistemas de distribución
+fueron arruinados gravemente. El sistema de teléfono fue
+aproximadamente dañado hasta el 80%, y el servicio no fue restaurado
+hasta el 15 de agosto.
+
+A pesar de la falta usual de atención japonesa a medidas sanitarias, no
+estalló ninguna gran epidemia en las ciudades bombardeadas. Este hecho
+es sorprendente cuando se piensa en las condiciones siguiente el
+bombardeo, pero la experiencia de otras ciudades bombardeadas en
+Alemania y Japón muestran que Hiroshima y Nagasaki no son casos
+aislados.
+
+La explosión atómica sobre Nagasaki afectó una área total de
+aproximadamente 42,9 millas cuadradas de las que 8,5 millas cuadradas
+fueron agua y solamente cerca de 9,8 millas cuadradas fueron
+desarrolladas. El residuo cayó parcialmente. Aproximadamente 36% de las
+áreas desarrolladas fueron dañadas gravemente. La área que fue más
+gravemente dañada tuvo un radio de casi una milla, y cubrió cerca 2,9
+millas cuadradas de las que 2,4 fueron desarrolladas.
+
+En Nagasaki, edificios con estructuras de acero, principalmente en la
+Planta Mitsubishi tan lejos como 6.000 pies de X fueron gravemente
+dañados; estos edificios fueron típicos de la construcción de molinos
+en la época de guerra de América y Gran Bretaña, solo que algunas de
+las estructuras fueron en cierto modo menos fuertes. El daño consistió
+de ventanas rotas, bastidores de acero arrancados o doblados, techos de
+metal corrugado o de asbesto corrugado y tablas de forro fueron
+arrancados, techos doblados o destruidos, armazones de techos fueron
+derrumbados, columnas dobladas y agrietadas, y fundamentos girados de
+concreto para columnas. El daño a los edificios con estructuras de
+acero fue más grave donde los edificios recibieron el golpe del
+estallido en sus lados que donde el estallido golpeó las extremidades
+de los edificios, porque los edificios tuvieron más tiesura
+(resistencia a momento negativo a las cimas de columnas) en una
+dirección longitudinal. Muchos de los edificios con estructuras de
+acero que fueron construidos ligeramente se derrumbaron completamente
+mientras que algunos de los que fueron construidos fuertemente (para
+llevar la pesa de grúas pesadas y cargas) fueron desarmados de techo y
+de tablas de forro, pero las estructuras fueron solamente parcialmente
+dañadas.
+
+La área siguiente donde se vio daño en Nagasaki está fuera de las 2,9
+millas cuadradas que se acaba de describir, y consiste de
+aproximadamente 4,2 millas cuadradas de las que 29% fueron
+desarrolladas. El daño del estallido e incendio fue moderado aquí, pero
+en algunas secciones (porciones de los centros comerciales principales)
+muchos incendios secundarios comenzaron y se extendieron rápidamente,
+lo cual resultó casi en destrucción total así como en las áreas muchas
+más cerca a X.
+
+Una área de daño parcial por estallido e incendio está allí mismo
+afuera de la que se acaba de describir y comprende aproximadamente de
+35,8 millas cuadradas. De esta área, aproximadamente 1/6 fue
+desarrollada y 1/4 fue agua. El grado de daño varió de grave (daño
+severo a techos y ventanas en la sección comercial principal de
+Nagasaki, 2,5 millas de X), a menor (ventanas rotas o rotas de vez en
+cuando a una distancia de 7 millas sudoeste de X).
+
+Como fue a propósito, la bomba fue detonada en un sitio casi ideal
+sobre Nagasaki para hacer el daño máximo a la industria, incluyendo las
+Fábricas de Acero y Armas de Mitsubishi, los Trabajos de Pertrechos
+Militares de Mitsubishi-Urakami (Fábricas de Torpedos), y otras
+fábricas, escuelas de enseñanza de fabricas, y otros establecimientos
+industriales numerosos, con una destrucción mínima de residencias y en
+consecuencia la cantidad mínima de casualidades. Si la bomba habría
+estado lanzada más hacia el sur, los Trabajos de Pertrechos Militares
+de Mitsubishi-Urakami no habrían estado tan dañado, pero el centro
+comercial y los distritos residenciales de Nagasaki habrían sustentado
+casualidades de daños mucho mayores.
+
+Cálculos muestran que el acero estructural y las estructuras de
+concreto reforzado que sobrevivieron el estallido moderadamente cerca a
+X no pudieron sufrir las presiones de cresta que fueron estimadas
+contra áreas totales presentados por los lados y techos de los
+edificios. La supervivencia de estas estructuras se debe al hecho que
+ellas no fueron diseñadas para aguantar la presión de cresta porque las
+ventanas fueron golpeadas rápidamente y techos y tablas de forro fueron
+desarmados con éste reduciendo el área total y soltando presión.
+Mientras éste salvó la estructura, causó daño severo al interior y a
+los ocupantes del edificio. Edificios sin aperturas grandes de tablero
+por las que la presión pudo disipar fueron destrozados completamente,
+aun cuando sus estructuras fueron tan fuertes como ésas que
+sobrevivieron.
+
+El daño que aguantaron los edificios de concreto reforzado dependió de
+ambos la proximidad a X y el tipo y la fuerza de la construcción del
+concreto reforzado. Algunos de los edificios con estructuras de
+concreto reforzado tuvieron también paredes, cielos rasos, y
+particiones de concreto reforzado, mientras que otros tuvieron paredes
+de ladrillos o tela de concreto cubierto o por emplaste o por piedra
+ornamental, con particiones de metal, vidrio, y emplaste. A excepción
+de la Facultad de Medicina y Grupo del Hospital de Nagasaki, que fue
+diseñada para sufrir terremotos y por lo tanto fue de construcción más
+fuerte que la mayoría de estructuras americanas, la mayoría de las
+estructuras de concreto reforzado pudieron estar clasificadas como
+adecuadas, con concreto de fuerza y densidad baja, con muchas de las
+columnas, vigas, y rebanadas gruesas designadas de menos o reforzadas
+impropiamente. Estos hechos dan razón de algunas de las faltas
+estructurales que ocurrieron.
+
+Por lo general, la explosión de la bomba atómica dañó la mayoría de los
+bastidores de acero de ventanas y puertas, arrancó puertas de bisagras,
+y dañó todos los cielos rasos suspendidos de madera, metal, y emplaste.
+El choque del estallido causó también un gran daño a equipos por
+derrumbes y golpes. Incendios generalmente de origen secundario
+consumieron prácticamente toda el material combustible, causaron
+roturas en el emplaste, quemaron toda la guarnición de madera,
+cubiertas de escaleras, estructuras de madera de cielos rasos
+suspendidos, camas, colchones, alfombras, y vidrio, arruinó toda
+instalación eléctrica, plomería, y causó astillas de columnas de
+concreto y de vigas en muchos de los cuartos.
+
+Casi sin excepción, edificios de albañilería, de ladrillos o de piedra
+adentro de los límites afectados por el estallido fueron dañados
+severamente de modo que la mayoría de ellos fueron allanados o
+reducidos a piedra. Los despojos de una iglesia, aproximadamente a
+1.800 pies al este de X en Nagasaki, fue uno de los pocos edificios de
+albañilería todavía reconocible y solamente porciones de las paredes de
+esta estructura fueron rectas. Estas paredes fueron extremamente
+gruesas (cerca 2 pies). Los dos domos de la iglesia tuvieron
+estructuras de concreto reforzado y aunque fueron derribados, se
+mantuvieron juntos como unidades.
+
+Prácticamente cada edificio de madera o edificio con estructura de
+maderamen adentro 2,0 millas de X fue o completamente destruido o
+dañado gravemente, y daño significante en Nagasaki resultó tan lejos
+como a 3 millas de X. Casi todos los edificios se derrumbaron y un
+número muy grande fueron consumidos por el incendio.
+
+Una referencia analizó varias fotografías que describieron el daño, y
+mostró que aunque la mayoría de los edificios adentro de los límites
+del estallido fueron totalmente destruidos o dañados gravemente, un
+gran número de chimeneas aun cerca a X quedaron rectas, aparentemente
+ilesos por el sacudimiento. Una explicación es que chimeneas de
+concreto son aproximadamente cilíndricas en forma y por siguiente
+ofrecen menos resistencia al viento que superficies llanas como
+edificios. Otra explicación es que como las ciudades fueron
+subordinadas a tifones las chimeneas más modernas fueron probablemente
+designadas para sufrir vientos de velocidad alta. Es probable que la
+mayoría de las chimeneas construidas recientemente así como los
+edificios más modernos fueron construidos para sufrir la aceleración de
+terremotos rigurosos. Como las bombas fueron detonadas alto en el aire,
+chimeneas relativamente cercas a X fueron sujetadas a una presión más
+descendente que lateral, y en consecuencia el momento volcando fue
+mucho menos que habría estado esperado.
+
+Aunque el estallido dañó muchos puentes hasta cierto punto, daño a
+puentes fue escaso comparado con ése que sufrieron los edificios. El
+daño varió de solamente barreras dañadas de destrucción completa de la
+superestructura. Algunos de los puentes fueron náufragos y las traumas
+fueron detrasacadas de sus machones y al lecho debajo por la fuerza del
+estallido. Ningunas de las faltas observadas pudieron estar atribuidas
+a designo inadecuado o a debilidad estructural.
+
+Los caminos, y red de vías del ferrocarril y del ferrocarril para
+trafico ligero (o tranvía) no sustentaron daño primario a causa de la
+explosión. La mayoría del daño a los ferrocarriles ocurrió por causas
+secundarias, aquellas que incendios y daño a puentes o otras
+estructuras. Tren rodante, así como automóviles, troles y buces fueron
+destruidos y incendiaron a una distancia considerable de X. Las calles
+fueron impasibles por algún tiempo a causa del escombro, pero no fueron
+dañadas. La altitud de la explosión de la bomba explica probablemente
+la ausencia del daño directo a ferrocarriles y a caminos.
+
+Una parte grande del suministro eléctrico fue interrumpida por el
+estallido de la bomba principalmente por daño a substaciones eléctricas
+y a sistemas superiores de transmisión. Los dos de gas en Nagasaki
+fueron dañados gravemente por la bomba. Estos trabajos habrían
+necesitado 6-7 meses para estar en funcionamiento. Por añadidura el
+daño sustentado por los sistemas eléctricos y de gas, y daño grave al
+sistema de abastecimiento de agua fue relatado por el gobierno japonés;
+el daño principal fue un número de rupturas en canarias grandes de
+acueducto y en casi todos los tubos distributivos en las áreas que
+fueron afectadas por el estallido Nagasaki sufrió todavía de una
+insuficiencia de agua dentro de la ciudad seis semanas después del
+ataque atómico.
+
+El reportaje Prefectural describe vívidamente los efectos de la bomba
+sobre la ciudad y sus habitantes:
+
+En un radio de 1 kilometro de X, hombres y animales murieron casi
+instantáneamente del grande estallido y calor pero la grande mayoría
+fueron heridos gravemente o superficialmente. Casas y otras estructuras
+fueron completamente destruidas mientras incendios comenzaron por todo.
+Arboles fueron arrancados y marchitados por el calor.
+
+Fuera de un radio de 2 kilómetros y en un radio de 4 kilómetros de X,
+hombres y animales sufrieron varios grados de heridos de vidrio de
+ventanas y otros fragmentos esparcidos por el estallido y muchos fueron
+quemados por el calor intenso. Residencias y otras estructuras fueron
+la mitad dañados por el estallido.
+
+Fuera de un radio de 4 kilómetros y adentro un radio de 8 kilómetros
+seres vivientes fueron heridos por materiales desplazados por el
+estallido; la mayoría fueron solamente heridos superficialmente. Casas
+fueron solamente medio o parcialmente dañadas.
+
+Una misión Británica a Japón interpretó sus observaciones de la
+destrucción de edificios para aplicarlos a construcción similar de que
+les pertenece como sigue:
+
+Una bomba similar que detonaba en similar modo produciría los efectos
+siguientes a casas normales británicas:
+
+Hasta 1.000 yardas de X causaría desplome completo.
+
+Hasta 1 milla de X dañaría las casas allende reparación.
+
+Hasta 1,5 millas de X las haría inhabitables hasta sin reparaciones
+extensivas, particularmente a maderámenes de techos.
+
+Hasta 2,5 millas de X las haría inhabitables hasta que reparaciones de
+primeros auxilios han estado completas.
+
+El daño de incendio en las dos ciudades fue tremendo, pero fue más
+completo en Hiroshima que en Nagasaki. El efecto de los incendios fue
+el cambio profundo de la apariencia de la ciudad. Dejó de la parte
+central vacía, aparte de algunas estructuras de concreto reforzado o de
+acero y objetos aquellos que cajas fuertes, humeros de chimeneas, y
+piezas de lamina metálica torcidas. El daño de incendio resultó más de
+las propiedades de las ciudades mismas que ésas de las bombas.
+
+La conflagración en Hiroshima causó vientos fuertes como el aire fue
+succionado hacia el centro de la área que se quemaba, creando una
+tempestad de incendio. La velocidad del viento en la ciudad fue menos
+de 5 millas por hora antes del bombardeo, pero el incendio-viento
+alcanzó una velocidad de 30-40 millas por hora. Estos grandes vientos
+limitaron el perímetro del incendio pero añadieron mucho al daño de la
+conflagración adentro el perímetro y causaron las casualidades de mucha
+gente que habrían escapado. En Nagasaki, daño muy grave fue causado por
+incendios, pero una tempestad de incendio no sorbió la ciudad. En las
+dos ciudades, algunos de los incendios cercas a X fueron sin duda
+comenzados por la ignición de material muy combustible aquellos que
+papel, paja, y paño seco, por la radiación instantánea de calor de la
+explosión nuclear. La presencia de cantidades grandes de materiales
+combustibles no quemadas cerca X, sin embargo, señaló que aunque el
+calor del estallido fue muy intenso, su duración fue insuficiente para
+elevar la temperatura de muchos materiales al punto de encendimiento
+salvo casos donde las condiciones fueron ideales. La mayoría de los
+incendios fueron de origen secundario comenzando de los cortocircuitos
+eléctricos regulares, tuberías rotas de gas, estufas vuelcas, fuegos
+abiertos, braceras de carbón de leña, lámparas, etcétera, siguiente
+desplome o daño grave del estallido directo.
+
+Unidades de bomberos y de ayuda fueron vaciadas de hombres y equipo.
+Casi 30 horas pasaron antes que algunas partidas de salvamento fueron
+observables. En Hiroshima solamente un puñado de ingenieros de incendio
+fueron disponibles para pelear los incendios resultantes, y ninguno de
+éstos fue de primera clase. En todo caso, sin embargo, no es probable
+que algún equipo de bomberos o personal o organización podría efectuar
+alguna reducción significante de la cantidad de daño causado por la
+conflagración tremenda.
+
+Un estudio de numerosas fotografías aéreas hechas antes de los
+bombardeos atómicos señalaron que entre el 10 de junio y el 9 de
+agosto, 1945, los Japoneses construyeron cortafuegos en áreas
+específicas de las ciudades para controlar incendios en gran escala.
+Por lo general estos cortafuegos no fueron efectivos porque incendios
+comenzaron en lugares numerosos simultáneamente. Aparecen, sin embargo,
+haber ayudado a impedir incendios que tendían más lejano al este a las
+secciones comerciales, principales, y residenciales de Nagasaki.
+
+CASUALIDADES TOTALES
+
+Era muy difícil aproximar las casualidades totales en las ciudades
+japonesas como resultado del bombardeo atómico. La destrucción
+extensiva de instalaciones civiles (hospitales, jefaturas de policía,
+servicio de incendios, y agencias gubernamentales), el estado de
+confusión que siguió la explosión inmediatamente, y la incertidumbre
+con respecto a la población, contribuyen a la dificultad de hacer
+estimados de casualidades. Finalmente, los incendios enormes que
+bramaron en cada ciudad consumieron muchos cuerpos.
+
+El número total de casualidades ha estado estimado a varios tiempos
+desde los bombardeos con discrepancias extensas. Las mejores cifras que
+son disponibles del Distrito de Ingenieros de Manhattan son:
+
+TABLA A
+
+Cálculos de Casualidades
+
+Hiroshima Nagasaki
+
+Población antes del ataque inesperado 255.000 195.000
+
+Muertos 66.000 39.000
+
+Dañados 69.000 25.000
+
+Casualidades Totales 135.000 64.000
+
+La relación de casualidades totales a la distancia de X, el centro del
+daño y punto directamente debajo de la derroche de aire causado por la
+explosión de la bomba, es de importancia grande para hallar el valor
+numérico del efecto de producir casualidades de las bombas. Esta
+correspondencia para la población total de Nagasaki se muestra en la
+tabla de abajo, basada en las cifras de casualidades del Distrito:
+
+
+
+
+TABLA B
+
+Relación de Casualidades Totales a la Distancia de X
+
+Distancia Total de Asesinados por
+
+de X, pies Asesinados Dañados Desaparecidos Bajas milla cuadrada
+
+0 1.640 7.505 960 1.127 9.592 24.700
+
+1.640 3.300 3.688 1.478 1.799 6.965 4.040
+
+3.300 4.900 8.678 17.137 3.597 29.412 5.710
+
+4.900 6.550 221 11.958 28 12.207 125
+
+6.550 9.850 112 9.460 17 9.598 20
+
+No había una cifra disponible para la población total antes del ataque
+inesperado a estas distancias diferentes. Tales cifras serían
+necesarias para computar la mortalidad por ciento. Un cálculo hecho por
+la Misión Británica al Japón y basado en un análisis preliminar del
+estudio de La Comisión Investigador de la Bomba Médico-Atómica Junta da
+las valores calculadas siguientes para mortalidad por ciento a
+distancias que aumentan de X:
+
+TABLA C
+
+Mortalidad Por Ciento a Distancias Varias
+
+Distancia de X, Mortalidad Por Ciento
+
+en pies
+
+0 - 1000 93,0%
+
+1000 - 2000 92,0
+
+2000 - 3000 86,0
+
+3000 - 4000 69,0
+
+4000 - 5000 49,0
+
+5000 - 6000 31,5
+
+6000 - 7000 12,5
+
+7000 - 8000 1,3
+
+8000 - 9000 0,5
+
+9000 10.000 0,0
+
+Aparece casi seguro según los varios reportes que el número total más
+grande de casualidades fueron ésas que ocurrieron inmediatamente
+después del bombardeo. Las causas de muchas de las casualidades pueden
+ser solamente conjeturadas, y por supuesto muchas personas cercas del
+centro de la explosión sufrieron daños fatales a causa de más que uno
+de los efectos de las bombas. El orden propio de importancia para
+causas posibles de muerte es: quemaduras, daños mecánicos, y radiación
+gamma. Cálculos tempranos por los Japoneses se muestran en D :
+
+TABLA D
+
+Causa de Casualidades Inmediatas
+
+Ciudad Causa de Muerte Por Ciento del Total
+
+Hiroshima Quemaduras 60%
+
+Escombro cayendo 30
+
+Otro 10
+
+Nagasaki Quemaduras 95%
+
+Escombro cayendo 9
+
+Vidrio volando 7
+
+Otro 7
+
+EL CARÁCTER DE UNA EXPLOSIÓN ATÓMICA
+
+La diferencia más impresionante entre la explosión de una bomba atómica
+y ésa de una bomba ordinaria de TNT naturalmente, es la magnitud; como
+el Presidente anunció después del ataque de Hiroshima, la energía
+explosiva de cada de las bombas atómicas fue equivalente a casi 20,000
+toneladas de TNT.
+
+Pero por añadidura a su poder sumamente más grande, una explosión
+atómica tiene otras varias características especiales. Explosión
+regular es una reacción química en la que energía es soltada por el
+reordenamiento de átomos del material explosivo. En una explosión
+atómica la identidad de los átomos, no simplemente su ordenamiento, es
+cambiada. Una fracción considerable de la masa de la carga explosiva,
+que podría ser uranio 235 o plutonio, es transformada a energía. La
+ecuación de Einstenio, E=mc^2, muestra que materia que es transformada
+a energía puede producir una energía total equivalente a la masa
+multiplicada por el cuadrado de la velocidad de luz. La significación
+de la ecuación es fácilmente vista cuando alguien recuerda que la
+velocidad de luz es 186.000 millas por segunda. La energía soltada
+cuando una libra de TNT detona, si era convertido totalmente a calor,
+elevaría la temperatura de 36 libras de agua de temperatura congelante
+(32 grados F) a temperatura hirviente (212 grados F). La fisión nuclear
+de una libra de uranio produciría una elevación de temperatura igual
+para más de 200 millones de libras de agua.
+
+El efecto explosivo de un material regular aquellos que T.N.T. es
+derivado de la conversión rápida de T.N.T. sólido al gas, que ocupa el
+mismo volumen que el sólido inicialmente; ejerce presiones intensas
+sobre el volumen circundante. Una onda de presión fuerte mueve hacia
+afuera del centro de la explosión y es la causa de mayor daño de
+explosivos altos regulares. Una bomba atómica genera también una onda
+de presión alta que es de presión mucha más fuerte que la de
+explosiones regulares; y esta onda es otra vez la causa mayor de daño a
+edificios y a otras estructuras. Difiere de la onda de presión de una
+bomba de demolición en el tamaño de área sobre lo que presiones altas
+son generadas. Difiere también en la duración de la pulsación de
+presión a cualquier punto dado: la presión de una bomba de demolición
+dura pocos millisegundos (un millisegundo es un milésimo de un segundo)
+solamente, ésa de la bomba atómica para casi un segundo. Fue sentido
+por observadores en Japón y en Nuevo México a la vez como un viento muy
+fuerte que pasaba.
+
+La segunda diferencia más grande entre la bomba atómica y la explosión
+de T.N.T. es el hecho que la bomba atómica emite cantidades más grandes
+de radiación. La mayoría de esta radiación es luz de alguna longitud de
+onda que deambula de las radiaciones de calor así-llamadas de longitud
+de onda muy larga a los rayos asi-llamados gamma que tienen longitudes
+de onda más cortas que los rayos X que se usan en medicina. Todas estas
+radiaciones viajan a la misma velocidad; ésta, la velocidad de luz, es
+186.000 millas por segundo. Las radiaciones son bastante intensas para
+matar personas adentro de una distancia apreciable de la explosión, y
+son en facto la causa mayor de casualidades y daños aparte de daños
+mecánicos. El número más grande de daños de radiación fue probablemente
+debido a los rayos ultravioletas que tienen una longitud de onda un
+poco más corta que luz visible y que causaron quemadura de ráfaga
+comparable a quemadura de sol severa. Después de éstos, los rayos gamma
+de longitud de onda extracorta son las más importantes; éstas causan
+daños similares a ésas de dosis excesivas de rayos X.
+
+El origen de los rayos gamma es diferente que ése de la mayor parte de
+la radiación: Este ultimo es causado por las temperaturas extremamente
+altas en la bomba, en la misma moda que luz es emitida de la superficie
+calor del sol o de los alambres de una lámpara incandescente. Los rayos
+gamma por otra parte son emitidos por los núcleos atómicos ellos mismos
+cuando ellos son transformados en el proceso de fisión. Los rayos gamma
+son por siguiente específicos a la bomba atómica y son completamente
+ausentes de explosiones de T.N.T. La luz de longitud de onda más larga
+(visible y ultravioleta) es emitida también por una explosión de
+T.N.T., pero con una intensidad menos que por una bomba atómica, que lo
+hace insignificante que daño es interesado.
+
+Una grande fracción de rayos gamma es emitida durante las primeras
+millisegundos (milésimas de segundo) de la explosión atómica, juntos
+con neutrones que son producidos en la fisión nuclear. Los neutrones
+tienen un efecto de un daño mucho menos que rayos gamma porque tienen
+una intensidad menos y también porque son absorbidos en aire y por lo
+tanto pueden penetrar solamente a distancias relativamente pequeñas de
+la explosión: a una milla yardas la intensidad del neutrón es
+insignificante. Después de la emisión nuclear, radiación gamma fuerte
+continua viniendo de la bomba detonada. Esté genera de los productos de
+fisión y continua durante casi un minuto hasta que todos los productos
+de la explosión han elevado a una altitud a la que la intensidad
+recibida sobre la tierra es insignificante. Un número grande de rayos
+beta son emitidos también durante este tiempo, pero son poco
+importantes porque su radio de acción no es muy grande, solamente pocos
+pies. El radio de acción de partículas alfa de la material activo no
+usada y material fisionable de la bomba es hasta más pequeño.
+
+Aparte de la radiación gamma, la luz regular es emitida, alguna de la
+que es visible y alguna de la que son rayos ultravioletas
+principalmente responsable de quemaduras de ráfaga. La emisión de luz
+comienza pocos millisegundos después de la explosión nuclear cuando la
+energía de la explosión extiende al aire que encierra la bomba. El
+observador entonces ve un globo de fuego que aumenta rápidamente en
+tamaño. Durante la mayoría del tiempo temprano, el globo de fuego
+extiende tan lejos como la onda de presión alta. Como el globo de fuego
+aumenta su temperatura y luminosidad disminuyen. Diversos segundos
+después de la iniciación de la explosión, la luminosidad del globo pasa
+por un mínimo, entonces se vuelve un poco más luminosa y queda por
+orden de unas cuantas veces la luminosidad del sol durante un periodo
+de 10 a 15 segundos para un observador a seis millas de distancia. La
+mayoría de la radiación es emitida después de este punto de luminosidad
+máxima. También después de este máximo, las ondas de presión corren
+adelante del globo de fuego.
+
+El globo de fuego se extiende rápidamente del tamaño de la bomba a un
+radio de algunos cientos de pies un segundo después de la explosión.
+Después de este el aspecto más impresionante es la ascensión del globo
+de fuego a un rato de cerca 30 yardas por segundo. Entretanto continua
+también aumentando por mezclar con el aire más frío que lo encierra. Al
+fin del primer minuto el globo se ha extendido a un radio de algunas
+cientos yardas y ha ascendido a una altitud de casi una milla. La onda
+de choque ha alcanzado ahora un radio de 15 millas y su presión bajo a
+menos de 1/10 de una libra por pulgada cuadrada. El globo ahora pierde
+su luminosidad y aparece como una nube grande de humo: la material
+pulverizada de la bomba. Esta nube continua ascendiendo verticalmente y
+finalmente toma forma de honga a una altitud de casi 25.000 pies
+dependiente de condiciones meteorológicas. La nube alarga una altitud
+máxima de entre 50.000 pies y 70.000 pies en un espacio de tiempo de
+más de 30 minutos.
+
+Es interesante notar que el Dr. Hans Bethe, a ese tiempo un miembro del
+Distrito de Ingenieros de Manhattan prestado de la Universidad Cornell,
+precedió la existencia y las características de este globo de fuego
+meses antes que el primero examen había estado hecho.
+
+Para resumir, la radiación viene en dos estallidos - uno que es
+extremamente intenso que dura solamente 3 millisegundos y uno menos
+intenso de una duración mucha más larga que dura algunos segundos. El
+segundo estallido contiene por mucho la fracción más grande de energía
+total de luz, mas de 90%. Pero la primera ráfaga es especialmente
+grande en radiación ultravioleta que es más efectiva biológicamente.
+Además, porque el calor de esta ráfaga viene durante un tiempo tan
+corto, no hay tiempo para ningún enfriamiento, y la temperatura de la
+piel de alguien puede elevarse 50 grados centígrados por la ráfaga de
+rayos visibles y ultravioletas durante el primer millisegundo a una
+distancia de 4.000 yardas. Gente pueden ser heridos por quemaduras de
+ráfaga misma a distancias más largas. El peligro de radiación gamma no
+extiende cerca tan lejos y radiación de neutrón es aun más limitada.
+
+Las altas temperaturas de piel resultaron de la primera ráfaga de
+radiación de fuerte intensidad
+
+y son probablemente tan significantes para los heridos como dosises
+totales que vienen principalmente del segundo estallido más sustentado
+de radiación. La combinación del aumento de temperatura de piel y flujo
+ultravioleta adentro 4.000 yardas es dañina en todos casos a personal
+expuestos. Allende este punto podría existir casos de herido,
+dependiente en sensibilidad individual. El dosis infrarrojo es
+probablemente menos importante a causa de su intensidad más pequeño.
+
+CARACTERISTICAS DEL DAÑO CAUSADO POR LAS BOMBAS ATÓMICAS
+
+El daño a las estructuras hechas por hombre causado por las bombas fue
+debido a dos causas distintas: primero el estallido o onda de presión,
+que emana del centro de la explosión, y, segundo, los incendios que
+fueron causados o por el calor de la explosión misma o por el desplome
+de edificios que contienen estufas, fijaciones eléctricas, o algún otro
+equipo que puede producir lo que es sabido como un incendio secundario,
+y la extensión subsecuente de estos incendios.
+
+El estallido producido por la bomba atómica ya fue declarado de ser
+equivalente a ése de 20.000 tonelajes de T.N.T. Teniendo en cuenta esta
+cifra, puede calcular las presiones de cresta en el aire, a distancias
+varias del centro de la explosión, que ocurrieron siguiente la
+detonación de la bomba. Las presiones de cresta que fueron calculadas
+antes que las bombas fueron lanzadas estuvieron de acuerdo muy
+cercanamente con ésas que fueron observadas actualmente en las ciudades
+durante el ataque como es computado por expertos Aliados en un número
+de modas ingenias después de la ocupación de Japón.
+
+El estallido de presión de las bombas atómicas difirió de ése de bombas
+muy explosivas regulares de tres maneras principales:
+
+A. Empuje descendente. Porque las explosiones fueron altas en el aire,
+mucho del daño resultó de presión descendente. Esta presión
+naturalmente efectuó más gravemente techos llanos. Postes telegráficos
+y otros postes inmediatamente debajo de la explosión quedaron rectos
+mientras éstos a distancias más grandes del centro de daño, que fueron
+más gravemente expuesto a una empuje horizontal de ondas de presión del
+estallido, fueron vuelcos o inclinados. Arboles debajo la explosión
+quedaron rectos pero sus ramas fueron rotas descendente.
+
+B. Distorsión pesada de los edificios. Una bomba regular puede dañar
+solamente una parte de un edificio grande, que se puede entonces
+derrumbar más debajo la acción de gravedad. Pero la onda del estallido
+de una bomba atómica es tan grande que puede consumir edificios
+completos, no importa cuanto grande está su tamaño, voltearlos como si
+una mano gigante los ha dado un empujón.
+
+C. La duración larga de pulsación de presión y el efecto pequeño
+consecuente de la presión negativa, o fase de succión. En cualquiera
+explosión, la presión positiva aplicada por el estallido dura para un
+espacio de tiempo (regularmente una fracción pequeña de un segundo) y
+es entonces seguida por un espacio más largo de tiempo de presión
+negativa o succión. La presión negativa es siempre mucho mas débil que
+la positiva, pero en explosiones regulares la duración corta de la
+pulsación positiva resulta en muchas estructuras que no tienen el
+tiempo para fallar durante esa fase, mientras fueron capaces de fallar
+debajo la presión más extendida, pero más débil. Pero la duración de la
+pulsación positiva es aproximadamente proporcional a 1/3 la fuerza del
+tamaño de la carga explosiva. Así, si la relación era valida por todo
+el radio de acción en cuestión, una explosión de 10 tonelajes de T.N.T.
+tendría una pulsación positiva para casi 1/14 la duración de ésa de una
+explosión de 20.000 tonelajes. En consecuencia, las explosiones
+atómicas tuvieron pulsaciones positivas para periodos muchos más largos
+que ésas de explosiones regulares que casi todas faltas ocurrieron
+probablemente durante esta fase, y muy poco daño podría estar atribuido
+a la succión que siguió.
+
+Otra característica interesante fue la combinación de ignición de
+ráfaga y onda comparativa de presión lenta. Algunos objetos, como
+tablillas secas y finas de madera, fueron encendidas por la ráfaga
+radiada de calor, y entonces sus incendios fueron extinguidos algún
+tiempo más tarde (dependiente en su distancia de X) por el estallido de
+presión que siguió la ráfaga de radiación.
+
+CÁLCULOS DE PRESIÓN DE CRESTA DE LA ONDA DEL ESTALLIDO
+
+Varios métodos ingeniosos fueron usados por los varios investigadores
+para determinar, visitando las ciudades destruidas, las que fueron
+actualmente las presiones de cresta ejercitas por los estallidos
+atómicos. Estas presiones fueron computadas para varias distancias de
+X, y entonces curvas fueron marcadas que fueron verificadas contra las
+predicciones teoréticas de las que podrían ser las presiones. Una
+verificación más amplia fue dada de las medidas obtenidas por
+instrumentos para medir que fueron lanzados por paracaídas a cada
+ataque atómico. Las cifras de presión de cresta dieron un indicio
+directo al equivalente de tonelaje de T.N.T. de las bombas atómicas,
+como las presiones desarrolladas por cualquier cantidad dado de T.N.T.
+pueden ser calculadas fácilmente.
+
+Uno de los métodos más simples de estimar la presión de cresta es
+apretar bidones de petróleo, vasos de gasolina, o cualquiera otra
+vasija de metal fin con una apertura pequeña. La suposición hecha es
+que la onda de presión del estallido viene instantáneamente, la presión
+resultante sobre la vasija es más que la caja puede sufrir, y las
+paredes se desploman hacia dentro. El aire adentro es comprimido
+adiabaticalmente a tal punto que la presión adentro es menos para una
+cantidad especifica que la presión a fuera; esta cantidad es la
+diferencia entre la presión a fuera y adentro que las paredes pueden
+sobrevivir en su condición arrugada. Las incertidumbres implicadas son,
+primero, que algún aire entra precipitadamente por cualquiera apertura
+que tiene la vasija, y así ayuda a intensificarse la presión adentro; y
+segundo, que como la presión a fuera cae, el aire adentro no puede
+escapar suficientemente rápidamente para evitar que las paredes de la
+vasija sean voladas otra vez hasta cierto punto. Estas incertidumbres
+son que estimados de presión basadas en este método son bastantes
+bajas, es decir, son pocas estimadas.
+
+Un otro método de calcular la presión de cresta es por doblar mástiles
+banderas de acero o pararrayos, lejos de la explosión. Es posible
+calcular el marco inferior de una caja de moldear de un polo o vara en
+una corriente de aire de una densidad y una velocidad ciertas; por
+conectando este marco inferior de una caja de moldear con la fuerza del
+polo en cuestión, una determinación de la onda de presión puede ser
+obtenida.
+
+Ya otro método de estimar la presión de cresta es por el vuelco de
+piedras memoriales, de las que hay una grande cantidad en Japón. Las
+dimensiones de las piedras pueden ser usadas conjuntamente con datos
+conocidos sobre la presión emitida por viento contra superficies
+llanas, para calcular la cifra deseada.
+
+
+
+
+DAÑO DEL ESTALLIDO DE LARGO ALCANCE
+
+
+No había consistencia en el daño del estallido de largo alcance.
+Observadores pensaban frecuentemente que habían encontrado el límite, y
+entonces 2.000 pies más lejano encontrarían más evidencia de daño.
+
+El daño el más impresionante de largo alcance fue el desplome de
+algunas barracas de cuartel en Kamigo, 23.000 pies al sur de X en
+Nagasaki. Fue notable ver algunos edificios intactos a los últimos
+detalles, incluyendo el techo y hasta las ventanas, y todavía al lado
+de ellos un edificio similar derrumbado al nivel de la tierra.
+
+El radio limitativo para desalojamiento grave de tejados en Nagasaki
+fue cerca 10.000 pies aunque casos aislados fueron encontrados hasta
+16.000 pies. En Hiroshima el radio general limitativo fue casi 8.000
+pies; sin embargo, mismo a una distancia de 26.000 pies de X en
+Hiroshima, algunos tejados fueron desalojados.
+
+En Mogi, 7 millas de X en Nagasaki, por encima de colinas empinadas más
+de 600 pies alta, casi 10% del vidrio se cayó. A localidades más cercas
+y solitarias, no había daño de ningún tipo. Un efecto interesante fue
+notado en Mogi; testigos oculares dijeron que pensaban que un ataque
+pasara a un lugar; una ráfaga grande fue vista, entonces un rugido
+fuerte, siguió a varias intervalos de segundos por la mitad de una
+docena otros reportajes ruidosos, de todas direcciones. Estos relatos
+sucesivos fueron obviamente reverberaciones de las colinas que
+encierran Mogi.
+
+
+
+
+CHOQUE DE TIERRA
+
+
+El choque de tierra en la mayoría de las ciudades fue muy ligero.
+Tuberías de agua traían ya agua y donde fugas fueron visibles
+estuvieron principalmente sobre tierra. Virtualmente todo del daño a
+utilidades subterráneas fue causado por el derrumbo de edificios más
+bien que por cualquier empleo directo de la presión del estallido. Este
+hecho naturalmente resultó porque las bombas fueron detonadas altas en
+el aire.
+
+
+
+
+ESCUDO O PROTECCIÓN CONTRA EL ESTALLIDO
+
+
+En cualquier explosión una cantidad cierta de protección del estallido
+puede ser ganada por tener algún objeto grande y sustancial entre el
+objeto protegido y el centro de la explosión. Este efecto de escudo fue
+notable en las explosiones atómicas, lo mismo que en casos regulares,
+aunque la magnitud de las explosiones y el hecho que ocurrieron a una
+altitud considerable en el aire causaron diferencias marcadas del
+escudo que habrían estado caracterizadas explosiones de bombas.
+
+El ejemplo distinguido de escudo fue ése proveído de las colinas en la
+ciudad de Nagasaki; fue el escudo de estas colinas que resultó en una
+área más pequeña de devastación en Nagasaki despecho el facto que la
+bomba usada no fue menos poderosa. Las colinas formaron un escudo
+efectivo solamente a tales distancias del centro de la explosión a las
+que la presión del estallido llevó a ser critica - es decir, fue
+solamente apenas suficiente para causar derrumbo - para la estructura.
+Las casas construidas dentro de barrancas que punteaban lejos del
+centro de la explosión sobrevivieron sin daño, pero otras a distancias
+similares dentro de barrancas puntadas hacia el centro de la explosión
+fueron dañadas gravemente. En el norte de Nagasaki había una aldehuela
+pequeña a cerca 8.000 pies del centro de la explosión; alguien podía
+ver variación distintiva de la intensidad de daño a través de la
+aldehuela, correspondiente a las sombras que hace una colina muy aguda.
+El ejemplo mayor de escudo por una colina fue sudoeste del centro de la
+explosión en Nagasaki. El daño a 8.000 pies de X consistió en daño
+ligero de emplasto y destrucción de casi la mitad de las ventanas.
+Estos edificios fueron de tipo europeo y estaban al otro lado de una
+colina empinada. A la misma distancia al sur-sudoeste el daño fue
+considerablemente más grave, es decir, todos estructuras y cercos, y
+puertas, fueron dañados y daño de emplaste muy grave y grietas en la
+obra de ladrillos aparecieron también. El contraste puede ser ilustrado
+por el hecho que a 10.800 pies a la oficina Prefectural de Nagasaki el
+daño no fue bastante malo para que el edificio fuera evacuado, mientras
+que a la Escuela Normal de Nagasaki a la que la oficina Prefectural ha
+estado movida, a la misma distancia, el daño fue comparativamente
+ligero.
+
+A causa de la altitud de los estallidos nadie esperó que el escudo de
+un edificio por un otro, a menos hasta un radio considerable. Era
+difícil en hecho esconder alguna evidencia a cualquiera distancia de
+tal escudo. Aparecía que había poco escudo al edificio detrás del
+Edificio de Administración de los Trabajos de Torpedos en Nagasaki,
+pero los beneficios fueron pocos. Había también alguna evidencia que el
+grupo de edificios comprometedores a la Facultad de Medicina en
+Nagasaki se ofrecieron protección. En general, sin embargo, escudo de
+un edificio por un otro no fue notable.
+
+Había un otro tipo peculiar de escudo exhibido mejor por las casas de
+los trabajadores al norte de la planta de torpedos en Nagasaki. Estos
+estaban 6.000 a 7.000 pies norte de X. El daño a estas casas no fue tan
+malo como a ésas más que una milla pies más lejano del centro de la
+explosión. Pareció como la grande destrucción causada en la planta de
+torpedos se ha debilitado el estallido un poquito, y la fuerza completa
+no fue restaurada para 1.000 pies más lejano o más.
+
+
+
+
+QUEMADURA DE RÁFAGA
+
+
+Como fue ya establecido, una característica distintiva de la bomba
+atómica, que es considerablemente extraña a los explosivos regulares,
+es que una fracción apreciable de la energía emitida se transmite en
+calores y luz radiantes. Para tener una explosión suficientemente
+grande, la quemadura de ráfaga producida por esta energía radiada va a
+ser la causa dominante de daño, como la área de daño de quemadura
+aumentará en proporción con la energía emitida, mientras que la área de
+daño del estallido aumenta solamente con la dos-terceros fuerza de
+energía. Aunque tal inversión del mecanismo de daño no fue realizada en
+las bombas de Hiroshima y Nagasaki, los efectos de la ráfaga fueron,
+sin embargo, muy evidentes y muchas casualidades resultaron de
+quemaduras de ráfaga. Una discusión de las casualidades causadas por
+las quemaduras de ráfaga será dada más tarde; en esta sección los otros
+efectos de ráfaga que fueron observados en las dos ciudades serán
+descritos.
+
+La duración de la radiación del calor causada por la bomba es tan
+corta, solamente un milésimo de un segundo, que no hay tiempo para
+energía que cae sobre una superficie para ser disipada por difusión
+térmica; la quemadura de ráfaga es típicamente un efecto superficial.
+En otras palabras, la superficie de una persona o de un objeto
+expuestos a la ráfaga es elevada a una temperatura muy alta mientras
+inmediatamente debajo de la superficie poca elevación de temperatura
+ocurre.
+
+La quemadura de ráfaga de la superficie de objetos, particularmente
+objetos de madera, ocurrió en Hiroshima hasta un radio de 9.500 pies de
+X; en Nagasaki quemaduras fueron visibles hasta 11.000 pies de X. La
+carbonización y ennegreción de todos postes telefónicos, arboles, y
+postes de madera en las áreas no destruidas por el incendio general
+ocurrieron solamente al lado que estaba enfrente del centro de la
+explosión y no fue a las vueltas de las esquinas de edificios o de
+colinas. La posición exacta de la explosión fue determinada exactamente
+por tomar un número de vistas de varios objetos que habían estado
+quemados de ráfaga en un lado solamente.
+
+Para ilustrar los efectos de la quemadura de ráfaga, lo siguiente
+describe un número de ejemplos encontrados por un observador moviendo
+hacia norte del centro de la explosión en Nagasaki. Primero había una
+línea de postes al borde norte de la colina de prisión, a 0,3 millas de
+X. La cima y la parte superior de estos postes fueron carbonizadas
+gravemente. La carbonización sobre los frentes de los postes fue
+limitada severamente por la sombra de la pared. Esta pared fue sin
+embargo completamente demolida por el estallido, que llegó naturalmente
+algún tiempo después de la ráfaga. Al borde norte de los Trabajos de
+Torpedos, 1,05 millas de X, postes telefónicos fueron carbonizados a
+una profundidad de casi 0,5 milímetros. Una pieza ligera de madera
+similar al lado llano de una canasta para naranjas, fue escondida
+apoyándose contra unos de los postes telefónicos. Su superficie de
+frente fue carbonizada en el mismo modo que el poste, pero fue evidente
+que había estado encendida actualmente. La madera fue ennegrecida por
+un par de grietas y agujeros de clavos, y alrededor de las bordes
+encima de la superficie posterior. Apareció probable que esta pieza de
+madera ha encendido bajo la ráfaga durante algunos segundos antes que
+la llama fue soplada por el viento del estallido. Más lejano, entre
+1,05 y 1,5 millas de la explosión, había muchos arboles y postes que
+mostraban carbonización. Algunos de los postes tuvieron plataformas
+cercas de la encima. Las sombras hechas por las plataformas fueron
+claramente visibles y mostraron que la bomba ha detonado a una altitud
+considerable. La línea de postes volvió norte y cruzó la cordillera de
+la montaña; la quemadura de ráfaga fue claramente visible hasta la
+punta de la cordillera, la quemadura la más lejos a una distancia de
+2,0 millas de X.
+
+Otro efecto impresionante de la quemadura de ráfaga fue la apariencia
+otoñal de la cuenca formada por las colinas sobre tres lados del punto
+de la explosión. Las cordilleras están casi 1,5 millas de X. Por toda
+la cuenca el follaje cambió a amarilla, aunque al otro lado de las
+cordilleras el ambiente rural fue bastante verde. Esta apariencia
+otoñal de los arboles extendió a casi 8.000 pies de X.
+
+No obstante, arbustos y plantas pequeñas bastantes cercas al centro de
+la explosión en Hiroshima, aunque desnudas de hojas, obviamente no
+murieron. Muchos produjeron yemas nuevas cuando observadores visitaron
+la ciudad.
+
+Hay dos otros efectos notables del calor radiado de la explosión de la
+bomba. El primero de estos es la manera en que el calor se endureció a
+la superficie de granito pulido, que retuvo su pulimento solamente
+donde fue escudado del calor radiado que viaje en líneas rectas de la
+explosión. Este endurecimiento por calor radiado causada por la
+expansión desigual de los cristales constitutivos de la piedra; para
+cristales de granito la temperatura de fundir es cerca 600 grados
+centígrado. Por siguiente, la profundidad de endurecimiento y la escama
+ultima de la superficie de granito señaló la profundidad a la que esta
+temperatura ocurrió y ayudó a determinar las temperaturas medias de
+tierra durante el instante siguiente la explosión. Este efecto fue
+notado para distancias casi 1 1/2 veces más grande en Nagasaki que en
+Hiroshima.
+
+El segundo efecto notable fue que las tejas burbujearon. El tamaño de
+las burbujas y su grado fueron proporcionales con su proximidad al
+centro de la explosión y dependieron de cuanto la teja estaba enfrente
+hacia la explosión. La razón de distancia de este efecto entre Nagasaki
+y Hiroshima fue casi lo mismo como para la escama de granito pulido.
+
+Otros efectos causados por el calor radiado fueron notados, incluyendo
+la iluminación de superficies de caminos de asfalto en lugares que no
+estaban protegidos del calor radiado por cualquier otro objeto como ése
+de una persona caminando por el camino. Varias otras superficies fueron
+descoloras de modas diferentes por el calor radiado.
+
+Como ya fue mencionado, el hecho que el calor radiante viajó solamente
+en líneas rectas del centro de la explosión capacitó a observadores que
+determinar la dirección hacia el centro de la explosión de un número de
+puntos diferentes, por observar sombras que fueron hechas por objetos
+intermedios donde escudaron la superficie en otras circunstancias
+expuesta de algún objeto. Así el centro de explosión estuvo situado con
+exactitud considerable. En un número de casos estas sombras dieron
+también una indicación de la altitud del estallido de la bomba y de vez
+en cuando una penumbra distinta fue escondida que capacitó a
+observadores de calcular el diámetro del globo de fuego al instante que
+emitió el efecto máximo de carbonización y quemadura.
+
+Una otra característica relacionada con radiación de calor fue la
+carbonización de tejido a grados diferentes dependiente del color del
+tejido. Un número de instancias fueron anotados en las que personas que
+traían ropa de varios colores recibieron quemaduras variantes mucha en
+grado, el grado de quemadura dependiente en el color del tejido sobre
+la piel en cuestión. Por ejemplo una camisa con rayas alternas de gris
+claras y oscuras, cada raya casi 1/8 de una pulgada de ancho, las rayas
+oscuras fueron completamente quemadas pero las rayas claras fueron
+indemnes; y una tira de papel japonesa expuesto a casi 1 1/2 millas de
+X tuvo caracteres que fueron escritos en tinta negra quemadas
+perfectamente.
+
+CARACTERISTICAS DE LAS HERIDAS A PERSONAS
+
+Heridas a personas que resultaron de las explosiones atómicas fueron de
+los tipos siguientes:
+
+A. Quemaduras, de
+
+1. radiación de calor de ráfaga
+
+2. incendios comenzados por las explosiones.
+
+B. Heridas mecánicas a causa del derrumbo de edificios, escombro
+volando, etcétera
+
+C. Efectos directos de presión fuerte del estallido, es decir
+compresión directa.
+
+D. Heridas a causa de radiación, de la emisión instantánea de rayos
+gamma y neutrones.
+
+No es posible asignar porcentajes exactos de casualidades a cada tipo
+de herida, porque tantas víctimas fueron lesionadas por más que un
+efecto de las explosiones. Sin embargo, es cierto que la parte más
+grande de las casualidades resultó por quemaduras y heridas mecánicas.
+Cor. Warren, uno de los radiólogos principales de América, declaró que
+es probable que 7 por ciento o menos de las casualidades resultaron
+primariamente de enfermedad de radiación.
+
+El factor singular más grande que influyó la ocurrencia de casualidades
+fue la distancia de la persona afectada del centro de la explosión.
+
+Cuentas basadas en el estudio de un grupo seleccionado de 900 pacientes
+señaló que las casualidades totales ocurrieron tan lejos como 14.000
+pies en Nagasaki y 12.000 pies en Hiroshima.
+
+Se sufrieron quemaduras a una distancia considerablemente más larga de
+X que cualquier otro tipo de herida, y heridas mecánicas más lejanos
+que efectos de radiación.
+
+Descubrimientos médicos muestran que ninguna persona fue herida por
+radioactividad que no fue expuesta a la explosión actual de las bombas.
+No resultaron lesiones de radioactividad persistente de ninguna manera.
+
+
+
+
+QUEMADURAS
+
+
+Dos clases de quemaduras fueron observadas. Son distinguidas como
+quemaduras de fuego o llama y quemaduras de ráfaga, así llamada.
+
+La apariencia próxima de una quemadura de llama como reportada por los
+Japoneses, y la apariencia más tarde como observada, no fue inusual.
+
+La quemadura de ráfaga presentó varias características distintas. Rojez
+pronunciada de las áreas de piel afectadas apareció casi
+inmediatamente, según los Japoneses, con cambios progresivos de la piel
+que ocurrieron durante un espacio de tiempo de algunas horas. Cuando
+vista después de 50 días, la característica más distinta de estas
+quemaduras fue su limitación clara a áreas de piel expuestas que
+estuvieron enfrente del centro de la explosión. Por ejemplo, un enfermo
+que caminaba a la dirección de angulas rectas a una línea ilustrada
+entre él y la explosión, y cuyos brazos estaban colgando, podría tener
+quemaduras solamente al exterior del brazo más cercano al centro y
+adentro del otro brazo.
+
+Generalmente, cualquier tipo de escudo protegió la piel contra
+quemaduras de ráfaga, aunque quemaduras a través de uno, y muy
+raramente más, estratos de ropa, ocurrió a pacientes cercas al centro.
+En tales casos, no fue inusual encontrar quemaduras a través de ropa
+negra pero no a través de ropa blanca, sobre el mismo paciente.
+Quemaduras de ráfaga tuvieron el efecto de envolver áreas donde la ropa
+fue estrecha sobre la piel, por ejemplo sobre codos o hombros.
+
+Los Japoneses reportan la incidencia de quemaduras para pacientes que
+sobrevivieron más que algunas horas después de la explosión, y buscando
+atención medica, tan frecuente como 95%. Las mortalidades totales
+debidas a quemaduras únicas no pueden ser estimadas con cualquier grado
+de exactitud. Como fue ya mencionado, es creído que la mayoría de todas
+las casualidades ocurrieron inmediatamente. De éstas, los Japoneses
+estiman que 75%, y la mayoría de los reportes estiman que más de 50%,
+de las casualidades fueron debidas a quemaduras.
+
+En general, la incidencia de quemaduras fue en proporción directa con
+la distancia de X. No obstante, irregularidades ciertas en esta
+correspondencia resultan en estudios médicos a causa de variaciones en
+la cantidad de escudo de quemadura de ráfaga, y a causa de la falta de
+datos completos sobre personas cercas a X que murieron
+instantáneamente.
+
+La distancia máxima de X a la que quemaduras de ráfaga fueron
+observadas es de interés máximo. Fue estimado que pacientes con
+quemaduras en Hiroshima estuvieron todos menos de 7.500 pies del centro
+de la explosión al tiempo del bombardeo. En Nagasaki, pacientes con
+quemaduras fueron observados a la distancia notable de 13.800 pies.
+
+LESIONES MECANICAS
+
+Las lesiones mecánicas incluyeron roturas, laceraciones, contusiones,
+abrasiones, y otros efectos que son esperados de techos cayendosos,
+paredes desmenuzadas, escombro y vidrio volando, y otros efectos
+indirectos del estallido. La apariencia de estos varios tipos de
+lesiones mecánicas no fue notable según las autoridades que la estudió.
+
+Fue estimado que pacientes con laceraciones en Hiroshima estuvieron
+menos de 10.600 pies de X, mientras que en Nagasaki extendieron tan
+lejos como 12.200 pies.
+
+La resistencia tremenda del viento, misma tan lejos como 1 milla de X,
+debió resultar en muchas lesiones y casualidades. Algunas piezas
+grandes de una pared de prisión, por ejemplo, fueron lanzadas 80 pies,
+y muchas han ido 30 pies antes de caer. La misma fortuna debió
+acontecer a mucha gente, y las posibilidades que un ser humano
+sobreviviría tal trato son probablemente pequeñas.
+
+LESIONES DE ESTALLIDO
+
+Ninguna aproximación del número de casualidades o de síntomas primarias
+debidas a la presión del estallido puede ser hecha. Las presiones
+desarrolladas sobre la tierra debajo de las explosiones no fueron
+suficientes para matar a más que estas personas que estuvieron muy
+cercas del centro de daño (adentro de algunos cientos pies a lo más).
+Muy pocos casos de tímpanos quebrados fueron notados, y es el
+sentimiento general de las autoridades médicas que los efectos directos
+del estallido no fueron significantes. Muchos de los reportes
+japoneses, que son creídos de ser falsos, describen efectos inmediatos
+como abdómenes herniados con intestinos y ojos salientes, pero tales
+resultados no fueron actualmente señalados al efecto de presión de aire
+únicamente.
+
+LESIONES DE RADIACIÓN
+
+Como se fue señalado en otra sección de este reporte las radiaciones de
+las explosiones nucleares que causaron lesiones a personas fueron
+primariamente ésas sentidas durante el primer segundo después de la
+explosión; pocas ocurrieron más tarde, pero todas ocurrieron durante el
+primer minuto. Los dos otros tipos generales de radiación, a saber,
+radiación de productos esparcidos de fisión y radioactividad inducida
+de objetos cercas al centro de la explosión, fueron aprobados
+claramente de no causar ningunas casualidades.
+
+La designación apropiada de lesiones de radiación es un poco difícil.
+Las dos designaciones las más directas son probablemente lesión de
+radiación y lesión de rayos gamma. El termino precedente no es
+enteramente adecuado en que no define el tipo de radiación como
+ionizando y permite confusión con otros tipos de radiación (por ejemplo
+infrarrojo). La objeción al termino más reciente es que limite la
+radiación ionizanda a rayos gamma, que fueron sin dudo los más
+importantes; pero la contribución posible de rayos de neutrón y rayos
+beta a los efectos biológicos no puede ser enteramente rechazada.
+Lesión de radiación tiene la ventana de costumbre, como es entendida
+generalmente en el campo de medicina que se refiere a los efectos de
+rayos X a diferencia de los efectos de radiación actinica. En
+conformidad, lesión de radiación es usada en este reporte para
+significar lesión debida solamente a radiación ionizanda.
+
+Según observaciones japonesas, los síntomas primarios de los pacientes
+que sufrieron de lesión de radiación parecieron mucho a los síntomas
+observados de pacientes que reciben roentgenoterapia, así como también
+ésas observadas en animales experimentales que reciben dosises grandes
+de rayos X. Los síntomas importantes que fueron reportados por los
+Japoneses y observados por las autoridades americanas fueron depilación
+(perdida de pelo), Petequias (flujo de sangre en la piel), y otras
+menafastaciones de hemorragia, lesiones orofaringeas (inflamación de la
+boca y garganta), vomitando, diarrea, y fiebre.
+
+Depilación fue uno de los descubrimientos más obvia y espectacular. La
+apariencia del paciente depilado fue típica. La corona fue implicada
+más que los lados, y en muchas instancias la semejanza a una tonsura de
+un monje fue impresionante. En casos extremos el pelo fue perdido
+totalmente. En algunos casos, recrecimiento de pelo comenzó 50 días
+después de los bombardeos. Curiosamente, depilación de pelo otro que el
+pelo sobre el cuerocabelludo fue extremamente inusual.
+
+Petequias y otras manifestaciones de hemorragia fueron descubrimientos
+impresionantes. El flujo de sangre comenzó regularmente en las ensillas
+y fue evidente pronto de todas fuentes posibles en los que fueron
+afectados más gravemente. Petequias aparecieron sobre extremidades y
+sobre puntos de compresión. Equimosises grandes (hemorragias debajo la
+piel) se desarrollaron alrededor de punciones de agujas, y lesiones
+sanadas parcialmente se debilitaron y sangraron mucho. Hemorragias
+retinas ocurrieron en muchos pacientes. El tiempo para sangradura y
+coagulación fue prolongado. Las plaquetas (coagulación de sangre)
+fueron característicamente reducidas en números.
+
+Nausea y vómito aparecieron dentro de algunas horas después de la
+explosión fueron reportados frecuentemente por los Japoneses.
+Regularmente subsidió por la mañana siguiente, aunque a veces duró para
+dos o tres días. Vomitando no fue reportado infrecuentemente y fue
+observado durante el transcurso de síntomas más tardes, aunque a estos
+tiempos aparentemente en relación con la otra manifestación de
+reacciones sistemáticas asociadas con infección.
+
+Diarrea de grados variantes de severidad fue reportada y observada. En
+los casos más graves, fue frecuentemente sangrienta. Por razones que no
+son claras, la diarrea en algunos casos fue muy persistente.
+
+Lesiones de las encías, y de la membrana oral mucosa, y de la garganta
+fueron observadas. Las áreas afectadas encrecieron rojo fuerte,
+entonces violácea en color; y en muchas instancias ulceraciones y
+necrosis (colapso de tejido) siguieron. Recuentos sanguíneos hechos y
+ordenados de nuevo por los Japoneses, así como recuentos hechos por el
+Grupo del Distrito de Ingenieros de Manhattan, de estos pacientes
+mostraron regularmente leucopenia (recuento sanguíneo bajo de glóbulos
+blancos). En casos extremos el recuento sanguíneo de glóbulos blancos
+fue bajo 1.000 (recuento regular es cerca 7.000). En conexión con la
+leucopenia y las lesiones orofaringeas, una variedad de otros procesos
+infectos fue vista. Lesiones y quemaduras que sanaron adecuadamente
+supuraron y grave necrosis ocurrió. Al mismo tiempo, ulceraciones
+similares fueron observadas a la faringe, tripas, y en el caso de
+hembras, los genitales. Fiebre acompañó estas lesiones usualmente.
+
+Lesiones en los ojos producidas por los bombardeos atómicos en las dos
+ciudades fueron el sujeto de investigaciones especiales. Los tipos
+regulares de lesiones mecánicos fueron vistos. Por añadidura, lesiones
+consistentes en hemorragia retinal y exudación fueron observadas y 75%
+de los pacientes que las mostraron tuvieron otras muestras de lesión de
+radiación.
+
+El progreso de enfermedad de radiación de varios grados de severidad se
+muestra en la tabla siguiente:
+
+
+
+
+_SUMARIO DE LESION DE RADIACIÓN_
+
+
+_SINTOMAS CLINICAS Y DESCUBRIMIENTOS_
+
+Día
+
+después
+
+de la
+
+Explosión Más Grave Moderadamente Grave Benigno
+
+1. 1. Nausea y vomitando 1.Nausea y vomitando
+
+2. después de 1 o 2 horas. después de 1 o 2 horas.
+
+3. NO HAY SÍNTOMAS DEFINIDAS
+
+4.
+
+5. 2. Diarrea
+
+6. 3. Vómito NO HAY SÍNTOMAS DEFINIDAS
+
+7. 4. Inflamación de la
+
+boca y la garganta
+
+8. 5. Fiebre
+
+9. 6. Enflaquecimiento Rápido
+
+10. Muerte NO HAY SÍNTOMAS DEFINIDAS
+
+11. (Mortalidad probablemente 2.Depilación comienza.
+
+12. 100%)
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18. 3. Perdida de Apetito
+
+19. y Malestar General 1. Depilación
+
+20. 4. Fiebre 2. Perdida de Apetito
+
+21. 5. Inflamación Grave y Malestar
+
+22. de la boca y la garganta 3. Garganta Adolorada
+
+23. 4. Palidez
+
+24. 5. Petequias
+
+25. 6. Diarrea
+
+26. 7. Enflaquecimiento Moderado
+
+
+
+
+27. 6. Palidez
+
+28. 7. Petequias, diarrea
+
+29. y hemorragias nasales (Recuperación salvo los que son
+
+30. complicados por mal de salud o
+
+31. 8. Enflaquecimiento Rápido lesiones o infección superpuestas)
+
+Muerte
+
+(Mortalidad probablemente 50 %)
+
+La conclusión fue que las personas expuestas a las bombas al tiempo de
+la detonación mostraron efectos de radiación ionizanda y que algunos de
+estos pacientes, no lesionados de otra manera, murieron. Casualidades
+de radiación comenzaron casi una semana después de exposición y
+llevaron a cabo en 3 a 4 semanas. Casi dejó de suceder en 7 a 8
+semanas.
+
+Tratamiento de las quemaduras y otras lesiones físicas fue hecho por
+los Japoneses por métodos ortodoxos. Tratamiento de los efectos de
+radiación incluyeron medidas generales sustentadores aquellos que
+descansó y regímenes alimenticios caloríficos y con muchas vitaminas.
+Preparaciones de calcio y de hígado administradas por inyección y
+transfusiones de sangre fueron usadas para combatir hemorragia.
+Preparaciones especiales de vitaminas y drogas especiales usadas en el
+tratamiento de condiciones médicas similares fueron usadas por los
+oficiales del Servicio de Sanidad del Ejército Americano después de su
+llegada. Aunque las medidas generales puestas en efecto fueron de algún
+beneficio, un efecto definido de cualquiera de las medidas especificas
+durante el curso de la enfermedad no podía ser demostrado. El uso de
+drogas de sulfamidas por los Japoneses y particularmente de penicilina
+por los médicos americanos después de su llegada sin dudo ayudó a
+controlar las infecciones y aparece que fuera el tipo único importante
+de tratamiento que pudiera cambiar el curso más temprano de estos
+pacientes.
+
+Una de las tareas más importantes asignadas a la misión que se
+investigó fueron los efectos del bombardeo fue ésta de determinar si
+los efectos de la radiación fueran debidos a las descargas instantáneas
+al tiempo de la explosión, o si gente fuera dañada por añadidura de
+radioactividad persistente. La cuestión fue investigada de dos puntos
+de vista. Medidas directas de radioactividad persistente fueron hechas
+al tiempo de la investigación. De estas medidas, cálculos fueron hechos
+de los dosises escalonados de radiación, es decir , la cantidad total
+de radiación podía estar absorbido por cualquier persona. Estos
+cálculos mostraron que el dosis más fuerte que habría estado recibido
+de radioactividad persistente en Hiroshima fue entre 6 y 25 roentgenes
+de radiación gamma; el más fuerte en la área Nagasaki fue entre 30 y
+110 roentgenes de radiación gamma. La cifra más reciente no refiere a
+la ciudad misma, pero a una área localizada en el Distrito Nishiyama.
+Para interpretar eses encuentros tiene que entender que para obtener
+estos dosises, alguien tendría que quedar al punto de radioactividad
+más fuerte para 6 semanas continuamente, desde la primera hora después
+del bombardeo. Es aparente en consecuencia que en cuanto a podría estar
+determinado en Hiroshima y Nagasaki, la radiación residual sola no
+podía estar dañina a la salud de personas que entraron y vivieron en
+las áreas bombardeadas después de la explosión.
+
+El segundo enfoque a esta cuestión fue para determinar si cualquier
+persona que no estuvo en
+
+la ciudad al tiempo de la explosión, pero que vinieron inmediatamente
+después mostraron cualquiera síntomas o encuentros que podían estar
+debidos a radiación inducida de persistencia. A la hora de la llegada
+del Grupo de Ingenieros del Distrito de Manhattan, muchos estudios
+japoneses fueron hechos con tales personas. Ningunas de las personas
+examinadas en cualquier de estos estudios mostraron cualquier síntomas
+que podían estar atribuidas a radiación, y sus recuentos sanguíneos
+actuales fueron consistentemente a dentro de los límites normales.
+Durante todo el periodo de la investigación del Distrito de Ingenieros
+de Manhattan, médicos japoneses y pacientes fueron pedidos
+repetidamente que traer cualquier pacientes al Grupo que ellos pensaban
+podrían ser ejemplos de personas dañadas de radioactividad persistente.
+Tales sujetos no fueron encontrados.
+
+Por siguiente la conclusión, como resulta de estos descubrimientos y
+falta de descubrimientos, es que aunque una cantidad medida de
+radioactividad inducida fue encontrada, no fue suficiente para causar
+ningún herida a personas que vivían en las dos ciudades después de los
+bombardeos.
+
+
+
+
+ESCUDO DE RADIACIÓN
+
+
+Cifras exactas sobre el grueso de ciertas sustancias para proveer
+protección completa o parcial de los efectos de radiación con relación
+a la distancia del centro de la explosión no pueden estar dadas a este
+tiempo. Estudios de datos coleccionados son ya en camino. Puede ser
+declarado, no obstante, que a una distancia razonable, casi 1/2 milla
+del centro de la explosión protección para personas contra lesión de
+radiación no puede ser dada por un estrato de concreto o otro material
+cuyo grueso no evita construcción razonable.
+
+Radiación causó últimamente la muerte de pocas personas que no fueron
+agotadas por otros efectos y que fueron completamente expuestas a las
+bombas hasta una distancia de casi 1/2 milla de X. La Misión Británica
+estimó que gente al aire libre tuvieron una posibilidad de 50% de
+sobrevivir los efectos de radiación a 3/4 de una milla de X.
+
+
+
+
+EFECTOS DE LOS BOMBARDEOS
+
+
+ATÓMICOS SOBRE LOS HABITANTES
+
+DE LAS CIUDADES BOMBARDEADAS
+
+A ambas Hiroshima y Nagasaki la escala tremenda de desastre destruyó
+extensamente las ciudades como entidades. Mismo el peor de todos
+ataques previos de bombardeo sobre Alemania y Japón, así como ataques
+incendiarios sobre Hamburg en 1943 y sobre Tokio en 1945, no fue
+comparable al efecto paralizando de las bombas atómicas. Además del
+número enorme de personas que fueron matados o lesionados para que sus
+servicios en rehabilitación no fueran disponibles, una huida de la
+población ocurrió de ambas ciudades inmediatamente siguiente las
+explosiones atómicas a causa de pánico. Reconstrucción significante o
+trabajo de reparación no fue realizado a causa del regreso lento de la
+población; al fin de noviembre de 1945 cada una de las ciudades tuvo
+solamente casi 140.000 gente. Aunque el termino de la guerra casi
+inmediatamente después de los bombardeos atómicos destruyó mucho del
+incentivo de la gente japonesa que concierne reconstrucción inmediata
+de sus perdidas, su parálisis fue ya extraordinaria. Mismo el despejo
+de ruinas y la quemadura de muchos cuerpos atrapados adentro no fueron
+bien organizados algunas semanas después de los bombardeos. Como la
+Misión Británica declaró , la impresión que causan las dos ciudades es
+que bajaron, en un instante y sin lucha, al grado más primitivo.
+
+Además de lesión física y daño, el efecto el más significante de las
+bombas atómicas fue que sobrecogió de terror a los pueblos de las dos
+ciudades bombardeadas. Este terror, resultante en actividad inmediata
+histérica y evacuación de las dos ciudades, tuvo un efecto
+especialmente pronunciado: personas que han encarecido acostumbradas a
+ataques aéreos masivos no pusieron atención a aviones únicos o pequeños
+grupos de aviones, pero después de los bombardeos atómicos la
+apariencia de un avión único causó más terror y disrupción de la vida
+normal que la apariencia de muchos cientos aviones podía causar antes
+de los bombardeos. El efecto de este miedo terrible del peligro
+potencial que hasta un avión del enemigo sobre las vidas de los pueblos
+del mundo en caso de cualquier guerra del futuro puede estar fácilmente
+conjeturado.
+
+La bomba atómica no ganó la guerra sin ayuda, pero la terminó
+indudablemente, salvando algunas mil personas que habrían muerto en
+cualquier invasión de combata de Japón.
+
+
+
+
+TESTIGO OCULAR
+
+Hiroshima el 6 de agosto de 1945
+
+por Padre John A. Siemes, Profesor de Filosofía a la Universidad
+Católica de Tokio
+
+
+
+
+Hasta el 6 de agosto, bombas infrecuentes, que no hicieron grande daño,
+cayeron sobre Hiroshima. Muchas ciudades tortuosas, una tras otra,
+fueron destruidas, pero Hiroshima quedaba protegida. Había aviones de
+observación casi diario sobre la ciudad pero ninguno lanzó una bomba.
+Los ciudadanos se maravillaron de que ellos mismos quedaron serenos
+durante un espacio de tiempo tan largo. Había rumores fantásticos que
+el enemigo tuvo pensado especial para la ciudad, pero nadie sonó que el
+fin vendría en tal modo como la mañana del 6 de agosto.
+
+El 6 de agosto comenzó con una mañana de verano calor y brillante. A
+ése de las siete, había un aviso de ataque aéreo que nosotros hemos
+oído casi cada día y algunos aviones aparecieron sobre la ciudad. Nadie
+puso atención y a cerca las ocho, la señal de que había pasado el
+peligro fue sonada. Yo estoy sentando en mi cuarto al Noviciado de la
+Sociedad de Jesús en Nagatsuke; durante la mitad pasada del año, la
+sección filosófica y teológica de nuestra Misión ha estado evacuada a
+este lugar de Tokio. El Noviciado está situado aproximadamente dos
+kilómetros de Hiroshima, en el medio de un valle arriba que extiende de
+la ciudad al nivel del mar a esta región alejada montañosa, y por la
+que un río recorre. De mi ventana, tengo una vista maravillosa por el
+valle a la fuera de la ciudad.
+
+De repente,--- la hora es aproximadamente 8:14 - toda el valle llenó
+con una luz deslumbrante que se parece a la luz de magnesio que se usa
+para fotografía, y yo tengo consciencia de una onda de calor. Yo salto
+a la ventana para enterarme de la causa de este fenómeno, pero yo no
+voy más que esa luz brillante y amarilla. Como yo voy hacia la puerta,
+no me ocurre que la luz podría tener que ver con aviones del enemigo.
+De camino de la ventana, yo oigo una explosión moderadamente fuerte que
+parece que viene desde lejos y, al mismo tiempo, las ventanas rompen
+con un estallido fuerte. Había un intervalo de quizá diez segundas
+desde la ráfaga de luz. Yo estoy cubierto por fragmentos de vidrio. El
+cerco entero de la ventana fue introducido por fuerza en el cuarto. Yo
+me doy cuenta de que una bomba detonara y tengo la impresión de que
+detonó directamente arriba de nuestra casa o en la vecindad cercana.
+
+Yo sangro por heridas de las manos y la cabeza. Yo intento salir por la
+puerta. Ha sido arrancada por la presión del aire y ha encarecido
+apretada. Yo fuerzo una apertura en la puerta por medio de bofetadas y
+golpes de pie y vengo a un corredor ancho del que desemboca en los
+varios cuartos. Todo está en estado de confusión. Todas las ventanas
+están rotas y todas las puertas forzadas hacia dentro. Las estanterías
+en el corredor se han derrumbado. No noto una segunda explosión y los
+aviadores parecen que estar en funcionamiento. La mayoría de mis
+colegas han estado lesionadas por fragmentos de vidrio. Algunos sangran
+pero ninguno ha estado lesionado gravemente. Todos nosotros hemos sido
+afortunados como ahora es aparente que la pared de mi cuarto frente de
+la ventana ha sido lacerada por fragmentos largos de vidrio.
+
+Nosotros procedemos al frente de la casa para ver donde la bomba ha
+aterrizado. No hay evidencia, sin embargo, de un embudo; pero la
+sección sudoeste de la casa es dañada severamente. No queda ni una
+ventana ni una puerta. La ventolera de aire ha penetrado la casa entera
+del sudoeste, pero la casa ya está recta. Es construida al estilo
+japonés con un armazón de madera, pero es grandemente fortalecida por
+la labor de Compadre Gropper como se hace frecuentemente en casas
+japonesas. Solamente por la frente de la capilla que junta la casa,
+tres soportes han cedidos (fue construido de un templo japonés,
+enteramente de madera.)
+
+Abajo en el valle, quizá un kilometro hacia la ciudad de nosotros,
+algunas casas de campesinos están ardiendo y los bosques al otro lado
+del valle están en llamas. Algunos de nosotros vamos allí para ayudar a
+controlar las llamas. Mientras tratamos de ordenar todo, una tempestad
+viene y comienza a llover. Sobre la ciudad, nubes de humo ascienden y
+oigo algunas pequeñas explosiones. Yo concluyo que una bomba
+incendiaria con una acción explosiva especialmente fuerte ha detonado
+en el valle. Algunos de nosotros vimos tres aviones a una altitud
+enorme sobre la ciudad al tiempo de la explosión. Yo mismo no vi ningún
+vehículo aéreo.
+
+Quizá una media hora después de la explosión, una procesión de gente
+comienza a venir por el valle de la ciudad. La multitud se vuelve más
+numerosa continuamente. Algunos vienen por el camino a nuestra casa.
+Nosotros les damos primeros auxilios y los traemos dentro de la
+capilla, que hemos limpiado y hemos removido despojos en el tiempo
+medio, y los situamos a las esteras de paja que constituyen los pisos
+de casas japonesas para que puedan descansarse. Algunos tienen heridas
+horribles sobre las extremidades y la espalda. Las pequeñas cantidades
+de grasa que poseímos durante este tiempo de guerra fueron agotadas
+pronto para cuidar a las quemaduras. Padre Rektor que, antes de tomar
+sus ordenes sacerdotales, ha estudiado medicina, suministra a las
+personas lesionadas, pero nuestros vendajes y drogas son agotados
+pronto. Tenemos que estar contentos de depurar las heridas.
+
+Más y más personas lesionadas nos vienen. Las personas menos lesionadas
+arrastran las que son lesionadas más gravemente. Hay soldados
+lesionados, y madres que traen niños quemados en sus brazos. De las
+casas de los granjeros en el valle vienen noticias: Nuestras casas son
+llenas de personas lesionadas y moribundas. ¿Pueden ayudar, a menos por
+tomar los casos peores?. Las personas lesionadas vienen de las
+secciones a la fuera de la ciudad. Vieron la luz brillante, sus casas
+se derrumbaron y enterraron las residentes en sus cuartos. Ellos que
+estuvieron al aire libre sufrieron de quemaduras instantáneamente,
+particularmente sobre las partes de cuerpo que fueron vestidas
+ligeramente o desvestidas. Numerosos incendios comenzaron que
+consumieron pronto el distrito entero. Concluimos ahora que el
+epicentro de la explosión estuvo a la fuera de la ciudad cerca de la
+Estación de Jokogawa, tres kilómetros de distancia de nosotros. Nos
+ocupamos de Padre Kopp que este mañana misma fue para celebrar misa a
+las Hermanas de los Pobres, que tienen una casa para niños a la fuera
+de la ciudad. No ya ha vuelto.
+
+Cerca al mediodía, nuestra gran capilla y biblioteca son llenas de
+personas gravemente lesionadas. La procesión de refugiados de la ciudad
+continua. Finalmente, a casi una hora, Padre Kopp vuelve, junto con las
+Hermanas. Su casa y el distrito entero donde viven fue consumido por el
+fuego a la tierra. Padre Kopp sangra de la cabeza y el cuello, y tiene
+una grande quemadura sobre su palma derecha. Estuvo de pie delante del
+convento de monjas listo para ir a su casa. De repente, se dio cuenta
+de la luz, sintió la onda de calor y una grande ampolla formó sobre su
+mano. Las ventanas fueron arrancadas por la explosión en su vecindad
+cercana. El convento de monjas, también una estructura de madera hecha
+por nuestro Compadre Gropper, quedó ya pero pronto es notado que la
+casa está prácticamente destruida porque el incendio, que ha comenzado
+a muchos puntos en el barrio, viene más y más cerca, y no hay agua. Hay
+ya tiempo para rescatar ciertas cosas de la casa y para enterrarlas en
+un sitio libre. Entonces la casa es consumida por llama, y ellos luchan
+para volver a nosotros por la libera del río y por las calles
+ardientes.
+
+Pronto vienen las noticias que la ciudad entera ha sido destruida por
+la explosión y que está ardiente. ¿Que han sido del Padre Superior y
+los otros tres padres que estuvieron al centro de la ciudad a la Misión
+Central y la Casa Parroquial? No hemos pensado en ellos hasta este
+tiempo porque no creímos que los efectos de la bomba circundaban la
+ciudad entera. También, no quisimos ir a la ciudad salvo si fuera
+extremamente necesario, porque pensamos que la población era
+grandemente perturbada y que podría vengarse a cualquier extranjero que
+ellos podrían considerar como espectadores maliciosos de su infortunio,
+o hasta espías.
+
+Padre Stolte y Padre Erlinghagen van por el camino que está ya lleno de
+refugios y traen los que son gravemente lesionados que se han hundido
+cerca del borde del camino a la estación provisional en la escuela
+aldeana. Allí yodo es aplicado a las heridas pero son dejadas impuras.
+Ni ungüentos ni otros agentes terapéuticos son disponibles. Esos que
+fueron traídos a la casa se acostaban sobre el piso y nadie puede
+darlos mas atención. ¿Que podría hacer cuando nos faltan todas medidas?
+Bajo esas circunstancias, es casi inepto traerlos a la casa. Entre los
+transeúntes, hay muchos que están ilesos. En una manera insensata y
+vaga, perturbado por la magnitud del desastre la mayoría de ellos
+corren por todas partes y nadie conceptúa el pensado de organizar ayuda
+por iniciativa propia. Se ocupan del bienestar de sus familias propias.
+Se hizo claro a nosotros durante estos días que los Japoneses mostraron
+poco iniciativo, preparación, y destreza de organización por preparando
+para catástrofes que siguen su curso. Cuando nosotros los estimulamos a
+tomar parte en el trabajo de salvamento, hicieron todo gustosamente,
+pero hicieron poco por iniciativa propia.
+
+A cerca de cuatro horas en la tarde, un estudiante de teología y dos
+niños a la edad de kindergarten que vivían a la Casa Parroquial y
+edificios colindantes que han encendido, entraron y dijeron que Padre
+Superior La Salle y Padre Schiffer han estado dañados gravemente y que
+se refugiaron en el Parque Asaro a la ribera. Es obvio que tenemos que
+admitirlos en nuestra casa porque están demasiado débiles para venir
+aquí a pie.
+
+Apresuradamente, obtenemos dos estridores y siete de nosotros corremos
+de prisa hacia la ciudad. Padre Rektor pasa con comida y medicina. Como
+acercamos a la ciudad, hay más y más evidencia de destrucción y es más
+difícil avanzarnos. Las casas a la fuera de la ciudad están dañadas
+severamente. Muchas se han derrumbado o se han reducido a cenizas. Mas
+hacia el centro, casi todas las residencias han estado dañadas por
+fuego. Donde la ciudad estaba, hay una enorme cicatriz quemada.
+Avanzamos por el camino sobre la ribera entre los escombros que
+quemaban y ahumaban. Dos veces somos forzados al río mismo por el calor
+y el humo al nivel de la calle.
+
+Personas quemadas terriblemente hacen senas a nosotros. De camino, hay
+muchos muertos y moribundos. Sobre el Puente Misasi, que llega a la
+sección central, una procesión larga de soldados que han sufrido de
+quemaduras nos juntó. Se arrastran con la ayuda de estacas o son
+traídos por sus camaradas menos dañadas...una procesión de infortunados
+continua.
+
+Abandonado sobre la puente hay un número de caballos con cabezas
+subidas y grandes quemaduras sobre sus costados. Al lado extremo, la
+estructura de cemento del hospital local es el único edificio que queda
+recto. Su interior, no obstante, ha estado quemado. Actúa como un mojón
+para encaminarnos.
+
+Finalmente llegamos a la entrada del parque. Una grande porción de la
+población se ha refugiado allí, pero mismo los arboles del parque
+ardiendo en algunos lugares. Caminos y puentes están cerrados por los
+troncos de arboles caídos y están casi impasibles. Nos dijeron que un
+viento fuerte, que podría resultar de la ciudad ardiente, había
+arrancado grandes arboles. Ahora es muy obscuro. Solamente los
+incendios, que están ya violentos en algunos lugares a una distancia,
+emiten un poquito de luz.
+
+A la esquina extrema del parque, sobre la ribera misma, reunimos con
+nuestras colegas. Padre Schiffer está tan pálido como una fantasma.
+Tiene una herida incisa y profunda detrás de su oído y ha perdido tanto
+sangre que nos preocupamos de sus chances para supervivencia. El Padre
+Superior ha sufrido de una herida profunda de la parte baja de su
+pierna. Padre Cieslik y Padre Kleinsorge tienen lesiones menores pero
+están completamente agotados.
+
+Mientras que comen la comida que hemos traído con nosotros, nos dicen
+de sus experiencias. Estuvieron en sus cuartos a la Casa
+Parroquial--fue un cuarto después de las ocho, exactamente el tiempo
+cuando oímos la explosión en Nagatsuke--cuando vinieron luz intensa y
+el sonido de ventanas que rompieron inmediatamente después. Fueron
+cubiertos por astillas de vidrio y fragmentos de despojos. Padre
+Schiffer fue enterrado debajo de una porción de una pared y sufrió de
+una lesión severa de la cabeza. El Padre Superior recibió la mayoría de
+sus astillas en su espalda y su extremidad más baja de la que sangró
+copiosamente. Todo fue agitado en los cuartos mismos, pero el armazón
+de madera quedó intacto. La solidez de la estructura que fue el trabajo
+de Compadre Gropper brilló otra vez.
+
+Tenían la misma impresión que teníamos en Nagatsuke: que la bomba
+detonó en su vecindad cercana. La iglesia, la escuela, y todos los
+edificios en la vecindad inmediata se han derrumbado. Debajo de las
+ruinas de la escuela, niños gritaban para auxilio. Fueron librados con
+esfuerzo grande. Algunos otros fueron salvados también de las ruinas
+por residencias cercanas. Mismo Padre Superior y Padre Schiffer,
+despecho sus heridas, prestaron ayuda a otros y perdieron un montón de
+sangre en el proceso.
+
+Durante el tiempo medio, incendios que comenzaron a una distancia lejos
+vienen más cerca. Fue obvio que todo fue a ser consumido por el fuego.
+Algunos objetos fueron salvados de la Casa Parroquial y fueron
+enterrados en el claro delante de la Iglesia, pero no podría encontrar
+ciertos objetos de valor y necesidades que fueron conservadas en caso
+de fuego a causa de la confusión. Es la hora de huir, como las llamas
+que se aproximan no dejan un camino. Fukai, el secretario de la Misión,
+está fuera de juicio. No quiere abandonar la casa y explica que no
+quiere sobrevivir la destrucción de su patria. Está completamente
+ileso. Padre Kleinsorge le arrastra por la casa sobre su espalda y es
+llevado vigorosamente.
+
+Debajo de los despojos de las casas de camino, muchos están atrapados y
+gritan para estar salvados de las llamas que se vienen. Tienen que
+estar abandonadas a su suerte. El camino al lugar al que quiere huir no
+está claro y tiene que avanzar por el Parque Asano. Fukai no quiere
+avanzarse y se queda. (No hemos oído de él desde ése.) En el parque,
+nos refugiamos sobre la ribera del río. Ahora un torbellino muy
+violento comienza a arrancar grandes arboles, y los eleva muy alta en
+el aire. Mientras llega al agua, un pico de manguera forma que es
+aproximadamente 100 metros de altura. La violencia de la tempestad pasa
+por suerte. A una distancia, sin embargo, donde muchos refugiados se
+han abrigado, muchos son soplados al río. Casi todos en la vecindad
+están lesionados y han perdido parientes que fueron inmovilizados
+debajo de los despojos o que fueron perdidos durante la evacuación. No
+hay ayuda para las heridas y algunos mueren. Nadie presta atención al
+hombre muerto que está cerca.
+
+La transportación de nuestros heridos es difícil. No es posible curar
+sus heridas correctamente en la obscuridad, y sangran otra vez cuando
+los movimos. Mientras les llevamos sobre literas temblorosas en la
+obscuridad sobre los arboles caídos del parque, sufrieron dolor
+intolerable como resultado del movimiento, y pierden cantidades
+peligrosas de sangre. Nuestro ángel de salvamento en este situación
+difícil es un pastor japonés y protestante. Ha llevado un barco y
+ofrece traer nuestros heridos río arriba a un lugar donde progreso es
+más fácil. Antes de todo bajamos la litera que contiene Padre Schiffer
+en el barco y dos de nosotros lo acompañamos. Nos proponemos revolver
+el barco para el Padre Superior. El barco vuelve casi una media hora
+después y el pastor pide que algunos de nosotros ayudemos para salvar
+dos niños que hemos visto en el río. Los salvamos. Tienen quemaduras
+severas. Pronto toman frío y mueren en el parque.
+
+El Padre Superior es transportado en el barco de la misma moda que
+Padre Schiffer. El estudiante de teología y yo lo acompañamos. Padre
+Cieslik se considera tan fuerte para avanzar a pie a Nagatsuke con los
+demás de nosotros, pero Padre Kleinsorge no puede caminar tan lejos y
+lo dejamos y prometemos de volver para él y la ama de casa mañana. Del
+otro lado del río viene un relincho de caballos que son amenazados por
+el fuego. Bajamos sobre un banco de arena que se proyecta de la ribera.
+Está lleno de heridos que se han refugiado allá. Gritan para ayuda
+porque tienen miedo de que el río pueda elevar con el mar, y que cubra
+el banco de arena. Ellos mismos están demasiado débiles para moverse.
+No obstante, tenemos que avanzar de prisa y finalmente llegamos al
+sitio donde el grupo que incluye Padre Schiffer espera.
+
+Aquí una partida de salvamento ha traído una grande caja de pasteles de
+arroz frescos pero no hay nadie para disribuirlos a los heridos
+numerosos que están. Los distribuimos a ellos que están cerca y nos
+servimos. Los heridos llaman para agua y venimos para ayudar a algunos.
+Gritos para ayuda son oídos de una distancia, pero no podemos
+acercarnos a los despojos de los que vienen. Un grupo de soldados viene
+por el camino y su oficial nota que hablamos una lengua extraña.
+Inmediatamente saca una espada, demanda estridentemente quien somos, y
+amenaza cortarnos. Padre Laures, Hijo, toma su brazo y explica que
+somos alemanes. Le aquietamos finalmente. Pensaba que seamos Americanos
+que han saltado con paracaídas. Rumores de paracaidistas están en boca
+de todos los ciudadanos. El Padre Superior que fue vestido solamente en
+una camisa y pantalones, se queja de sentirse congelante, despecho la
+noche cálida del verano y el calor de una ciudad ardiente. El único
+hombre que tiene un abrigo se lo da a él y, por añadidura, le doy mi
+camisa propia. Para mi, parece más confortable sin la camisa en el
+calor.
+
+Ahora es medianoche. Como no hay suficiente de nosotros para tripular
+las dos literas con cuatro portadores fuertes, determinamos traer Padre
+Schiffer a las afueras de la ciudad. De allí otro grupo de portadores
+tiene que hacerse cargo a Nagatsuke; los otros tienen que volver para
+salvar el Padre Superior. Soy uno de los portadores. El estudiante de
+teología va en frente de nosotros para avisarnos de alambres, vigas, y
+fragmentos de despojos numerosos que cierren el paso y que son
+imposible que ver en la obscuridad. Despecho todas precauciones,
+nuestro progreso está desatinado y nuestros pies se enmararan en el
+alambre. Padre Kruer cae y lleva la litera consigo. Padre Schiffer está
+mitad consciente a causa de la caída y vomita. Pasamos un hombre herido
+que se siente solo entre los despojos calores y que hemos visto
+previamente de camino.
+
+Sobre el Puente Misasa, reunimos con Padre Tappe y Padre Luhmer, que
+han venido de Nagatsuke para encontrarse con nosotros. Han roturado un
+familia de los despojos de su casa derrumbada cerca de cincuenta metros
+fuera del camino. El padre de la familia fue ya muerto. Han arrastrado
+dos niñas y les han situado por el lado del camino. Su madre fue ya
+atrapada debajo de algunas vigas. Ellos se han propongo completar el
+salvamento y entonces avanzar de prisa para encontrarse con nosotros. A
+las afueras de la ciudad, suprimimos la litera y dejamos dos hombres
+para esperar hasta que ellos que van a venir de Nagatsuke aparecen. Los
+demás de nosotros volvemos atrás para ir a traer el Padre Superior.
+
+La mayoría de los despojos son consumidos por el fuego. La obscuridad
+esconde amablemente las varias formas que están sobre la tierra. Oímos
+llamadas para auxilio solamente de vez en cuando durante nuestro rápido
+progreso. Uno de nosotros nota que el olor quemado notable le hace
+acordar de cadáveres incinerados. La figura recta y acuclillando que
+hemos pasado previamente ya está.
+
+Transportación sobre la litera, que fue construida de tablas, tiene que
+ser muy doloroso para el Padre Superior, cuya espalda está
+completamente llena de fragmentos de vidrio. En un paso estrecho a la
+fuera de la ciudad, un carro nos fuerza a la fuera del camino. Los
+portadores de literas al lado izquierda caen a una zanja de dos metros
+de profundidad que no podrían ver en la obscuridad. Padre Superior
+esconde su dolor con un chiste seco, pero la litera que no está en una
+pieza no puede estar llevada más lejos. Decidimos de esperar hasta que
+Kinjo puede traer un carro de mano de Nagatsuke. Revuelve pronto con
+uno que ha requisado de una casa derrumbada. Ponemos Padre Superior
+sobre el carro y le transporta en carretilla por lo demás del camino,
+evitando tanto como sea posible los hoyos en el camino.
+
+A cerca de las cuatro y media de la mañana, llegamos finalmente al
+Noviciado. Nuestra expedición de salvamento ha durado casi doce horas.
+Regularmente, podría ir de detrás para adelante a la ciudad en dos
+horas. Nuestros dos heridos fueron, por la primera vez, vestidos
+propiamente. Duermo por dos horas sobre el piso; alguna otra persona ha
+tomado mi cama. Entonces leo una misa en gratiarum actionem, como es el
+7 de agosto, el aniversario de la fundación de nuestra sociedad.
+Entonces nos incitamos a traer Padre Kleinsorge y otros conocimientos
+(fuera de la ciudad).
+
+Quitamos otra vez con el carro de mano. El día brillante ahora revela
+el cuadro espantoso que la obscuridad de la noche pasada ha escondido
+parcialmente. Donde la ciudad estaba todo, tan lejos como podía ver, es
+un desierto de desechos y cenizas. Solamente algunos armazones de
+edificios que están quemados en el interior quedan. Las riberas son
+cubiertas con los muertos y los heridos, y el río ascendente ha
+escondido algunos cadáveres. Por la calle ancha en el distrito
+Hakushima, cadáveres desnudos y quemados son particularmente numerosos.
+Entre ellos están los heridos que están ya vivientes. Algunos se
+metieron debajo de autos y vagonetas quemados. Figuras heridas
+espantosamente nos hacen señas y entonces se caen. Una vieja mujer y
+una niña que ella tira caen a nuestros pies. Les ponemos sobre nuestro
+carro y les transportan en carretilla a la hospital a la entrada de la
+que hay un puesto de primero auxilio. Aquí los heridos están sobre el
+piso duro, fila después fila. Solamente las heridas las más grandes son
+curadas. Transportamos un otro soldado y una vieja mujer al lugar pero
+no podemos mover todas las personas que son expuestas al sol. Sería
+incesante y es cuestionable si los que podemos traer al puesto de
+primer auxilio puedan salir vivientes, porque mismo aquí nada que es
+eficaz puede ser hecho. Más tarde, nos cercioramos de que los heridos
+están en los corredores quemados de la hospital y allí murieron.
+
+Tenemos que avanzar a nuestra meta en el parque y somos forzados de
+dejar los heridos a su destino. Avanzamos al lugar donde nuestra
+iglesia estaba y desenterramos esas pocas pertinencias que hemos
+enterrado ayer. Las encontramos intactos. Toda más ha quemado
+completamente. En los despojos, encontramos pocos remanentes de
+recipientes. En el parque, ponemos la ama de casa y una madre con sus
+dos niños sobre el carro. Padre Kleinsorge se siente tan fuerte, con la
+ayuda de Compadre Nobuhara, para avanzar a la casa a pie. El camino nos
+toma pasando los muertos y los heridos en Hakushima otra vez. Partidos
+de salvamento no están a la vista. Al puente Misasa está ya la familia
+que ha salvado Padre Tappe y Padre Luhmer ayer de los despojos. Una
+pieza de estaño ha estado situado sobre ellos para protegerles del sol.
+No podemos traerles porque nuestro carro está lleno. Les da a ellos y a
+otros cercanos agua para beber y decidimos de salvarles más tarde. A
+las tres de la tarde, estamos otra vez a Nagatsuka.
+
+Después de comer pocas golondrinas y un poquita de comida, Padres
+Stolte, Luhmer, Erlinghagen y yo partimos otra vez y traemos la familia
+a la casa. Padre Kleinsorge pide que salvamos también dos niños que han
+perdido su madre y que estaban cerca de él en el parque. De camino,
+fueron saludados por desconocidos que han notado que estaban en una
+misión de compasión y que alabaron nuestros esfuerzos. Ahora nos
+encontramos con grupos de individuos que traían los heridos sobre
+literas. Cuando llegamos al Puente Misasa, la familia que ha estado
+allá no está más. Podrían llevarse en el tiempo medio. Había un grupo
+de soldados que trabajaban y ellos tomaron los que habían muerto ayer.
+
+Más de treinta horas habían pasado antes que la primera partida de
+salvamento llegó. Encontramos los dos niños y los llevamos afuera del
+parque: un niño de seis años fue indemne, y una niña de doce años que
+estuvo quemada por la cabeza, las manos, y las pierna, y que estuvo en
+el parque por treinta horas sin ayuda. El lado izquierdo de su cara y
+su ojo izquierdo fueron cubierto completamente con pus, de modo que
+pensamos que había perdido el ojo. Más tarde cuando la herida fue
+lavada, notamos que el ojo fue intacto y que los párpados han estado
+unidos. Camino de nuestro domicilio, llevamos otro grupo de tres
+refugios con nosotros. Ellos querían saber antes, sin embargo, de que
+nacionalidad fuimos. Ellos, también tenían miedo de que podíamos ser
+americanos que se lanzaron en paracaídas. Cuando llegamos en Nagatsuka,
+acabó de anochecer.
+
+Tomamos bajo nuestro cuidado un grupo de cincuenta personas que han
+perdido todo. La mayoría de ellos estuvieron heridos y varios tuvieron
+quemadas peligrosas. Padre Rektor atendió a las heridas tan bien como
+podía con los pocos medicamentos que podíamos, con esfuerza, recoger.
+Tuvo que limitarse en general a purificar las heridas de materia
+purulenta. Hasta ellos con los quemados más pequeños están muy débiles
+y todos sufren de diarrea. En las alquerías en la vecindad, casi por
+todo, hay heridos también. Padre Rektor hacía visitas sucesivas y actuó
+en calidad de un médico esmerado y fue un Samaritano excelente. Nuestro
+trabajo fue, a juicio de la gente, un empuje para Cristiandad más
+grande que todo de nuestro trabajo durante los largos años precedentes.
+
+Tres de los que fueron gravemente quemados en nuestra casa murieron
+dentro los próximos días. Repentinamente el pulso y respiraciones
+cesaron. Es ciertamente una indicación de nuestro cuidado bueno que tan
+pocos murieron. En las estaciones de auxilio oficiales en hospitales,
+un tercero o una mitad de ellos que fueron llevados murieron. Ellos
+reparten golpes a diestra y siniestra casi sin cuidado, y un por ciento
+alto sucumbieron. Todo faltaba: médicos, asistentes, vendajes, drogas,
+etcétera. En una estación de auxilio en una escuela de una aldea
+cercana, un grupo de soldados hizo únicamente traer y cremar los
+muertos detrás de la escuela.
+
+Durante los días siguientes, procesiones pasaron por nuestra casa de
+mañana hasta noche, y trajeron los muertos a un pequeño valle cercano.
+Allí, en seis lugares, los muertos fueron quemados. La gente trajeron
+su propia madera y hicieron la cremación ellos mismos. Padre Luhmer y
+Padre Laures encontraron un hombre muerto en una casa cercana que fue
+ya hinchado y emitió un olor espantoso.
+
+Trataron sistemáticamente de encontrar nuestros conocidos y las
+familias de refugios que habíamos asilado. Frecuentemente, después del
+transcurso de varias semanas, alguien fue encontrado en una aldea
+cercana o en un hospital pero no se encontraron muchos, y éstos fueron
+aparentemente muertos. Tuvimos la suerte de encontrar la madre de los
+dos niños que encontramos en el parque. Después de tres semanas, ella
+vio a sus niños una vez más. Mientras la reunión fue alegre, había
+lágrimas para ellos que no veremos otra vez.
+
+La magnitud del desastre que sucedió en Hiroshima el 6 de agosto fue
+reconstruido lentamente a la mente. Yo sobreviví la catástrofe y la
+veía en partes, que fueron fusionadas gradualmente para darme una
+imagen completa. Lo que pasó en la ciudad simultáneamente es como
+sigue: Como resulta de la explosión de la bomba a las 8:15, casi la
+ciudad entera fue destruida de un solo golpe. Solamente distritos
+pequeños y remotos en las partes del sur y las partes orientales de la
+ciudad escaparon destrucción total. La bomba detonó sobre el centro de
+la ciudad. Como resultado del estallido, las casas japonesas pequeñas
+en un diámetro de cinco kilómetros, que comprimió 99% de la ciudad, se
+derrumbaron o fueron explosionadas. Ellos que estaban en las casas
+fueron enterrados en las ruinas. Ellos que estaban en el aire libre
+tuvieron quemadas como resulta de contacto con la substancia o los
+rayos emitidos por la bomba. Donde la substancia golpeó en cantidad,
+incendios comenzaron. Estos crecieron rápidamente.
+
+El calor que se levantó del centro creó un torbellino que extendió
+incendios por toda la ciudad. Ellos que fueron atrapados debajo las
+ruinas no podían ser librados rápidamente, y ellos que fueron en las
+llamas fueron casualidades. Tanto como seis kilómetros del centro de la
+explosión, todas las casas fueron dañadas y muchas se derrumbaron y
+prendieron fuego. Mismo a quince kilómetros, vidrios fueron rotos. Se
+rumoreaba que aviadores del enemigo esparcieron una materia explosiva e
+incendiaria por la ciudad y pues crearon la explosión y ignición.
+Algunos mantuvieron que ellos vieron una paracaídas lanzada por los
+aviones que traía algo que detonó a una altura de 1.000 metros. Los
+periódicos llamaron la bomba una bomba atómica y notaron que la fuerza
+del estallido resultó de la explosión de átomos de uranio, y que rayos
+gamma fueron emitidos como resulta de éste, pero nadie sabía por cierto
+algo que concernía la natura de la bomba.
+
+¿Cuantas personas fueron sacrificios a esta bomba? Ellos que
+sobrevivieron la catástrofe dijeron que el número de muertos fue a
+menos 100.000. Hiroshima tuvo una población de 400.000. Datos
+estadísticos oficiales mostraron que el número que murieron hasta el 1
+de septiembre fue 70.000, sin incluir los desaparecidos.y 130,000
+estaban heridos, entre ellos 43.500 estaban heridos gravemente.
+Cálculos que hicimos nosotros mismos a base de grupos conocidos a
+nosotros indican que el número de 100.000 no es demasiado alto. Cerca
+de nosotros hay dos cuarteles, y en cada vinieron cuarenta trabajadores
+coreanos. El día de la explosión, ellos trabajaron en las calles de
+Hiroshima. Cuatro personas volvieron a un cuartel y dieciséis al otro.
+600 estudiantes de la escuela de niñas protestantes trabajaron en una
+fábrica, de las cuales solamente treinta o cuarenta volvieron. La
+mayoría de las familias de campesinos en la vecindad perdieron uno o
+más de sus miembros que trabajaron en fábricas en la ciudad. Nuestro
+vecino, Tamuro, perdió dos niños y sufrió de una quemadura grande como
+estuvo en la ciudad este día. La familia de nuestra lector perdió dos
+miembros, padre y hijo; así, una familia de cinco sufrió la perdida de
+dos a menos, incluyendo solamente los muertos y los que estaban heridos
+gravemente. Allí el alcalde murió, y también el Presidente del Distrito
+de Japón, el Comandante de la ciudad, un príncipe coreano que estuvo en
+Hiroshima en calidad de oficial, y varios otros oficiales de alto
+rango. Treinta y dos de los profesores de la Universidad fueron
+asesinados o heridos gravemente. Los soldados estaban severamente
+afectados. El Regimiento de Zapadores fue casi totalmente extirpado.
+Los cuarteles estaban cerca del centro de la explosión.
+
+Miles de heridos podrían estar salvados si habían recibido trato o
+cuidado propios, pero nadie previo salvamento en una catástrofe de esta
+magnitud; como la ciudad entera fue destruida de un solo golpe, todo lo
+que fue ya preparado para emergencias fue destruido, y no había
+preparaciones para los distritos remotos. Varios heridos murieron
+porque sufrieron de desnutrición y en consecuencia no tenían la fuerza
+para recobrar. Ellos que tenían su fuerza y recibieron cuidado sanaron
+sus quemaduras. Había casos también, sin embargo, cuyo pronóstico
+aparecieron bien, y murieron repentinamente. Había algunos también que
+tenían solamente heridas pequeñas y murieron dentro de una semana,
+después que inflamación de la faringe y de la cavidad oral tuvo lugar.
+En primer lugar pensamos que fue el resultado de inhalación de la
+sustancia de la bomba. Más tarde, una comisión estableció la tesis que
+rayos gamma fueron emitidos al tiempo de la explosión, siguiente lo que
+los órganos internos fueron heridos a la manera de irradiación de
+Roentgen. Este produce una disminución de corpúsculos blancos.
+
+Estoy enterado personalmente de varios casos en los cuales individuos
+que no tenían quemaduras murieron más tarde. Catorce días después de la
+explosión, Padre Kleinsorge y Padre Cieslik, que no tenían quemaduras
+pero estaban cerca del centro de la explosión, se debilitaron. Hasta
+este tiempo, los heridos sanaron normalmente, pero después los heridos
+que fueron ya incicatrizados se empeoraron y están hasta la fecha (en
+septiembre) cicatrizados incompletamente. El médico lo diagnosticó como
+leucopenia. Así, parece como es verdad que la radiación afectó la
+sangre. Yo soy de la opinión, sin embargo, de que su condición
+debilitada fue parcialmente la causa de estos veredictos. Se rumoreaba
+que las ruinas de la ciudad emitieron rayos mortíferos y que
+trabajadores que fueron allí para ayudar a limpiarlo murieron, y que el
+distrito central sería inhabitable por mucho tiempo. Dudo que ésta sea
+la verdad como yo y otros que trabajaron en la área destruida poco
+después de la explosión no sufrimos de estos efectos malsanos.
+
+En esa época ninguno de nosotros oyó un arranque contra los americanos
+de parte de los japoneses. No había ningún aparecido vengativo. Los
+japoneses sufrieron de estos golpes como una parte de las fortunas de
+guerraalgo que tienen que aguantar sin quejarse. Durante esta guerra
+noté poco odio hacia los aliados de parte de la gente ellos mismo,
+aunque la prensa trató de fomentar estos sentimientos. Después de las
+victorias al comienzo de la guerra, se tenía al enemigo a menos, pero
+cuando la ofensiva aliada obtuvieron ímpetu y especialmente después de
+la llegada de los B-29s majestuosos, la habilidad técnica de América
+llegó a ser un objeto de maravilla y admiración.
+
+La anécdota siguiente indica el espíritu de los japoneses: Algunos días
+después del bombardeo atómico, el secretario de la universidad nos vino
+para sostener que los japoneses estuvieron listos para destruir San
+Francisco por medio de una bomba igualmente efectiva. Es dudoso que él
+creyó lo que nos dijo. Quería solamente convencernos de que los
+japoneses fueron capaces de descubrimientos similares. En su orgullo
+nacionalista se indujo a creerlo. Los japoneses insinuaron también que
+el principio de la nueva bomba fue un descubrimiento japonés. Fue
+solamente la falta de materias primas, ellos dijeron, que impidió su
+construcción. En el tiempo medio, se rumoreaba que los alemanes
+mejoraron el secreto y fueron listos para iniciar tal bombardeo. Se
+decía que los americanos aprendieron el secreto de los alemanes, y que
+ellos entonces terminaron su fabricación industrial.
+
+Discutimos entre nosotros las éticas del uso de la bomba. Algunos lo
+consideran en la misma categoría que gas tóxico y fueron contra su uso
+sobre una población civil. Otros pensaban que en guerra total, como
+pasaba en Japón, no había ninguna diferencia entre civiles y soldados,
+y que la bomba misma tuvo el efecto de terminar el derramamiento de
+sangre, como avisó a los japoneses que se rindiera para evitar
+destrucción total. Me parece lógico que él que sustenta guerra total en
+principio no puede quejarse de guerra contra civiles. El enigma del
+asunto es si guerra total en su forma presente sea justificable, hasta
+cuando sirve para un caso justo. ¿Es malo material y espiritual una
+consecuencia que podría exceder el bueno que resulta? ¿Cuando nos darán
+los moralistas a nosotros una solución a esta problema?
+
+EL FIN DEL TEXTO DEL PROYECTO GUTENBERG DEL BOMBARDEO ATÓMICO DE
+HIROSHIMA Y NAGASAKI
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK LOS BOMBARDEOS ATOMICOS DE HIROSHIMA Y NAGASAKI ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

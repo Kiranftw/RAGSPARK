@@ -1,0 +1,4453 @@
+﻿The Project Gutenberg eBook of The Double-Dealer: A Comedy
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Double-Dealer: A Comedy
+
+Author: William Congreve
+
+Editor: G. S. Street
+
+Release date: February 1, 1998 [eBook #1191]
+                Most recently updated: January 7, 2008
+
+Language: English
+
+Credits: Transcribed from the 1895 Methuen and Co. edition by David Price
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE DOUBLE-DEALER: A COMEDY ***
+
+
+Transcribed from the 1895 Methuen and Co. edition by David Price, email
+ccx074@pglaf.org
+
+
+
+
+THE DOUBLE-DEALER
+A COMEDY
+
+
+   _Interdum tamen et vocem Comoedia tollit_.--HOR. _Ar. Po._
+
+   _Huic equidem consilio palmam do_: _hic me magnifice_
+   _effero_, _qui vim tantam in me et potestatem habeam_
+   _tantae astutiae_, _vera dicendo ut eos ambos fallam_.
+
+   SYR. in TERENT. _Heaut_.
+
+
+
+
+TO THE
+RIGHT HONOURABLE CHARLES MONTAGUE,
+ONE OF THE LORDS OF THE TREASURY.
+
+
+Sir,--I heartily wish this play were as perfect as I intended it, that it
+might be more worthy your acceptance, and that my dedication of it to you
+might be more becoming that honour and esteem which I, with everybody who
+is so fortunate as to know you, have for you.  It had your countenance
+when yet unknown; and now it is made public, it wants your protection.
+
+I would not have anybody imagine that I think this play without its
+faults, for I am conscious of several.  I confess I designed (whatever
+vanity or ambition occasioned that design) to have written a true and
+regular comedy, but I found it an undertaking which put me in mind of
+_Sudet multum_, _frustraque laboret ausus idem_.  And now, to make amends
+for the vanity of such a design, I do confess both the attempt and the
+imperfect performance.  Yet I must take the boldness to say I have not
+miscarried in the whole, for the mechanical part of it is regular.  That
+I may say with as little vanity as a builder may say he has built a house
+according to the model laid down before him, or a gardener that he has
+set his flowers in a knot of such or such a figure.  I designed the moral
+first, and to that moral I invented the fable, and do not know that I
+have borrowed one hint of it anywhere.  I made the plot as strong as I
+could because it was single, and I made it single because I would avoid
+confusion, and was resolved to preserve the three unities of the drama.
+Sir, this discourse is very impertinent to you, whose judgment much
+better can discern the faults than I can excuse them; and whose good
+nature, like that of a lover, will find out those hidden beauties (if
+there are any such) which it would be great immodesty for me to discover.
+I think I don't speak improperly when I call you a _lover_ of poetry; for
+it is very well known she has been a very kind mistress to you: she has
+not denied you the last favour, and she has been fruitful to you in a
+most beautiful issue.  If I break off abruptly here, I hope everybody
+will understand that it is to avoid a commendation which, as it is your
+due, would be most easy for me to pay, and too troublesome for you to
+receive.
+
+I have since the acting of this play harkened after the objections which
+have been made to it, for I was conscious where a true critic might have
+put me upon my defence.  I was prepared for the attack, and am pretty
+confident I could have vindicated some parts and excused others; and
+where there were any plain miscarriages, I would most ingenuously have
+confessed 'em.  But I have not heard anything said sufficient to provoke
+an answer.  That which looks most like an objection does not relate in
+particular to this play, but to all or most that ever have been written,
+and that is soliloquy.  Therefore I will answer it, not only for my own
+sake, but to save others the trouble, to whom it may hereafter be
+objected.
+
+I grant that for a man to talk to himself appears absurd and unnatural,
+and indeed it is so in most cases; but the circumstances which may attend
+the occasion make great alteration.  It oftentimes happens to a man to
+have designs which require him to himself, and in their nature cannot
+admit of a confidant.  Such for certain is all villainy, and other less
+mischievous intentions may be very improper to be communicated to a
+second person.  In such a case, therefore, the audience must observe
+whether the person upon the stage takes any notice of them at all or no.
+For if he supposes any one to be by when he talks to himself, it is
+monstrous and ridiculous to the last degree.  Nay, not only in this case,
+but in any part of a play, if there is expressed any knowledge of an
+audience, it is insufferable.  But otherwise, when a man in soliloquy
+reasons with himself, and _pro's_ and _con's_, and weighs all his
+designs, we ought not to imagine that this man either talks to us or to
+himself; he is only thinking, and thinking such matter as were
+inexcusable folly in him to speak.  But because we are concealed
+spectators of the plot in agitation, and the poet finds it necessary to
+let us know the whole mystery of his contrivance, he is willing to inform
+us of this person's thoughts; and to that end is forced to make use of
+the expedient of speech, no other better way being yet invented for the
+communication of thought.
+
+Another very wrong objection has been made by some who have not taken
+leisure to distinguish the characters.  The hero of the play, as they are
+pleased to call him (meaning Mellefont), is a gull, and made a fool, and
+cheated.  Is every man a gull and a fool that is deceived?  At that rate
+I'm afraid the two classes of men will be reduced to one, and the knaves
+themselves be at a loss to justify their title.  But if an open-hearted
+honest man, who has an entire confidence in one whom he takes to be his
+friend, and whom he has obliged to be so, and who, to confirm him in his
+opinion, in all appearance and upon several trials has been so: if this
+man be deceived by the treachery of the other, must he of necessity
+commence fool immediately, only because the other has proved a villain?
+Ay, but there was caution given to Mellefont in the first act by his
+friend Careless.  Of what nature was that caution?  Only to give the
+audience some light into the character of Maskwell before his appearance,
+and not to convince Mellefont of his treachery; for that was more than
+Careless was then able to do: he never knew Maskwell guilty of any
+villainy; he was only a sort of man which he did not like.  As for his
+suspecting his familiarity with my Lady Touchwood, let 'em examine the
+answer that Mellefont makes him, and compare it with the conduct of
+Maskwell's character through the play.
+
+I would beg 'em again to look into the character of Maskwell before they
+accuse Mellefont of weakness for being deceived by him.  For upon summing
+up the enquiry into this objection, it may be found they have mistaken
+cunning in one character for folly in another.
+
+But there is one thing at which I am more concerned than all the false
+criticisms that are made upon me, and that is, some of the ladies are
+offended.  I am heartily sorry for it, for I declare I would rather
+disoblige all the critics in the world than one of the fair sex.  They
+are concerned that I have represented some women vicious and affected.
+How can I help it?  It is the business of a comic poet to paint the vices
+and follies of humankind; and there are but two sexes, male and female,
+_men_ and _women_, which have a title to humanity, and if I leave one
+half of them out, the work will be imperfect.  I should be very glad of
+an opportunity to make my compliment to those ladies who are offended;
+but they can no more expect it in a comedy than to be tickled by a
+surgeon when he's letting 'em blood.  They who are virtuous or discreet
+should not be offended, for such characters as these distinguish _them_,
+and make their beauties more shining and observed; and they who are of
+the other kind may nevertheless pass for such, by seeming not to be
+displeased or touched with the satire of this _comedy_.  Thus have they
+also wrongfully accused me of doing them a prejudice, when I have in
+reality done them a service.
+
+You will pardon me, sir, for the freedom I take of making answers to
+other people in an epistle which ought wholly to be sacred to you; but
+since I intend the play to be so too, I hope I may take the more liberty
+of justifying it where it is in the right.
+
+I must now, sir, declare to the world how kind you have been to my
+endeavours; for in regard of what was well meant, you have excused what
+was ill performed.  I beg you would continue the same method in your
+acceptance of this dedication.  I know no other way of making a return to
+that humanity you shewed, in protecting an infant, but by enrolling it in
+your service, now that it is of age and come into the world.  Therefore
+be pleased to accept of this as an acknowledgment of the favour you have
+shewn me, and an earnest of the real service and gratitude of,
+
+Sir, your most obliged, humble servant,
+
+WILLIAM CONGREVE.
+
+
+
+
+TO MY DEAR FRIEND MR. CONGREVE,
+ON HIS COMEDY CALLED
+THE DOUBLE-DEALER.
+
+
+Well then, the promised hour is come at last;
+The present age of wit obscures the past.
+Strong were our sires; and as they fought they writ,
+Conqu'ring with force of arms and dint of wit.
+Theirs was the giant race, before the flood;
+And thus, when Charles returned, our empire stood.
+Like Janus he the stubborn soil manured,
+With rules of husbandry the rankness cured,
+Tamed us to manners, when the stage was rude,
+And boist'rous English wit with art indued.
+Our age was cultivated thus at length;
+But what we gained in skill we lost in strength.
+Our builders were with want of genius curst;
+The second temple was not like the first:
+Till you, the best Vitruvius, come at length,
+Our beauties equal, but excel our strength.
+Firm Doric pillars found your solid base,
+The fair Corinthian crowns the higher space;
+Thus all below is strength, and all above is grace.
+In easy dialogue is Fletcher's praise:
+He moved the mind, but had no power to raise.
+Great Johnson did by strength of judgment please
+Yet doubling Fletcher's force, he wants ease.
+In diff'ring talents both adorned their age;
+One for the study, t'other for the stage.
+But both to Congreve justly shall submit,
+One matched in judgment, both o'er-matched in wit.
+In him all beauties of this age we see,
+Etherege his courtship, Southern's purity,
+The satire, wit, and strength of manly Wycherly.
+All this in blooming youth you have achieved,
+Nor are your foiled contemporaries grieved;
+So much the sweetness of your manners move,
+We cannot envy you, because we love.
+Fabius might joy in Scipio, when he saw
+A beardless consul made against the law,
+And join his suffrage to the votes of Rome;
+Though he with Hannibal was overcome.
+Thus old Romano bowed to Raphael's fame,
+And scholar to the youth he taught became.
+
+O that your brows my laurel had sustained,
+Well had I been deposed if you had reigned!
+The father had descended for the son,
+For only you are lineal to the throne.
+Thus when the state one Edward did depose,
+A greater Edward in his room arose.
+But now, not I, but poetry is cursed;
+For Tom the Second reigns like Tom the First.
+But let 'em not mistake my patron's part,
+Nor call his charity their own desert.
+Yet this I prophesy: Thou shalt be seen
+(Though with some short parenthesis between)
+High on the throne of wit; and seated there,
+Not mine (that's little) but thy laurel wear.
+Thy first attempt an early promise made;
+That early promise this has more than paid.
+So bold, yet so judiciously you dare,
+That your least praise is to be regular.
+Time, place, and action may with pains be wrought,
+But genius must be born, and never can be taught.
+This is your portion, this your native store,
+Heav'n, that but once was prodigal before,
+To Shakespeare gave as much; she could not give him more.
+
+Maintain your post: that's all the fame you need;
+For 'tis impossible you should proceed.
+Already I am worn with cares and age,
+And just abandoning th' ungrateful stage:
+Unprofitably kept at heav'n's expense,
+I live a rent-charge on his providence.
+But you, whom every muse and grace adorn,
+Whom I foresee to better fortune born,
+Be kind to my remains; and oh, defend,
+Against your judgment, your departed friend!
+Let not th' insulting foe my fame pursue;
+But shade those laurels which descend to you:
+And take for tribute what these lines express:
+You merit more; nor could my love do less.
+
+JOHN DRYDEN.
+
+
+
+
+PROLOGUE
+Spoken by MRS. BRACEGIRDLE.
+
+
+Moors have this way (as story tells) to know
+Whether their brats are truly got or no;
+Into the sea the new-born babe is thrown,
+There, as instinct directs, to swim or drown.
+A barbarous device, to try if spouse
+Has kept religiously her nuptial vows.
+
+Such are the trials poets make of plays,
+Only they trust to more inconstant seas;
+So does our author, this his child commit
+To the tempestuous mercy of the pit,
+To know if it be truly born of wit.
+
+Critics avaunt, for you are fish of prey,
+And feed, like sharks, upon an infant play.
+Be ev'ry monster of the deep away;
+Let's have a fair trial and a clear sea.
+
+Let nature work, and do not damn too soon,
+For life will struggle long e'er it sink down:
+And will at least rise thrice before it drown.
+Let us consider, had it been our fate,
+Thus hardly to be proved legitimate:
+I will not say, we'd all in danger been,
+Were each to suffer for his mother's sin:
+But by my troth I cannot avoid thinking,
+How nearly some good men might have 'scaped sinking.
+But, heav'n be praised, this custom is confined
+Alone to th' offspring of the muses kind:
+Our Christian cuckolds are more bent to pity;
+I know not one Moor-husband in the city.
+I' th' good man's arms the chopping bastard thrives,
+For he thinks all his own that is his wives'.
+
+Whatever fate is for this play designed,
+The poet's sure he shall some comfort find:
+For if his muse has played him false, the worst
+That can befall him, is, to be divorced:
+You husbands judge, if that be to be cursed.
+
+
+
+
+DRAMATIS PERSONAE.
+
+
+MEN.
+
+
+MASKWELL, a villain; pretended friend to Mellefont, gallant to Lady
+Touchwood, and in love with Cynthia,--_Mr. Betterton_.
+
+LORD TOUCHWOOD, uncle to Mellefont,--_Mr. Kynaston_.
+
+MELLEFONT, promised to, and in love with Cynthia,--_Mr. Williams_.
+
+CARELESS, his friend,--_Mr. Verbruggen_.
+
+LORD FROTH, a solemn coxcomb,--_Mr. Bowman_.
+
+BRISK, a pert coxcomb,--_Mr. Powell_.
+
+SIR PAUL PLYANT, an uxorious, foolish old knight; brother to Lady
+Touchwood, and father to Cynthia,--_Mr. Dogget_.
+
+
+
+WOMEN.
+
+
+LADY TOUCHWOOD, in love with Mellefont,--_Mrs. Barry_.
+
+CYNTHIA, daughter to Sir Paul by a former wife, promised to
+Mellefont,--_Mrs. Bracegirdle_.
+
+LADY FROTH, a great coquette; pretender to poetry, wit, and
+learning,--_Mrs. Mountfort_.
+
+LADY PLYANT, insolent to her husband, and easy to any pretender,--_Mrs.
+Leigh_.
+
+CHAPLAIN, BOY, FOOTMEN, AND ATTENDANTS.
+
+THE SCENE: A gallery in the Lord Touchwood's house, with chambers
+adjoining.
+
+
+
+
+ACT I.
+
+
+SCENE I.
+
+
+_A gallery in the Lord Touchwood's home_, _with chambers adjoining_.
+
+_Enter_ CARELESS, _crossing the stage_, _with his hat_, _gloves_, _and
+sword in his hands_; _as just risen from table_: MELLEFONT _following
+him_.
+
+MEL.  Ned, Ned, whither so fast?  What, turned flincher!  Why, you wo'
+not leave us?
+
+CARE.  Where are the women?  I'm weary of guzzling, and begin to think
+them the better company.
+
+MEL.  Then thy reason staggers, and thou'rt almost drunk.
+
+CARE.  No, faith, but your fools grow noisy; and if a man must endure the
+noise of words without sense, I think the women have more musical voices,
+and become nonsense better.
+
+MEL.  Why, they are at the end of the gallery; retired to their tea and
+scandal, according to their ancient custom, after dinner.  But I made a
+pretence to follow you, because I had something to say to you in private,
+and I am not like to have many opportunities this evening.
+
+CARE.  And here's this coxcomb most critically come to interrupt you.
+
+
+
+SCENE II.
+
+
+[_To them_] BRISK.
+
+BRISK.  Boys, boys, lads, where are you?  What, do you give ground?
+Mortgage for a bottle, ha?  Careless, this is your trick; you're always
+spoiling company by leaving it.
+
+CARE.  And thou art always spoiling company by coming in o't.
+
+BRISK.  Pooh, ha, ha, ha, I know you envy me.  Spite, proud spite, by the
+gods! and burning envy.  I'll be judged by Mellefont here, who gives and
+takes raillery better than you or I.  Pshaw, man, when I say you spoil
+company by leaving it, I mean you leave nobody for the company to laugh
+at.  I think there I was with you.  Ha, Mellefont?
+
+MEL.  O' my word, Brisk, that was a home thrust; you have silenced him.
+
+BRISK.  Oh, my dear Mellefont, let me perish if thou art not the soul of
+conversation, the very essence of wit and spirit of wine.  The deuce take
+me if there were three good things said, or one understood, since thy
+amputation from the body of our society.  He, I think that's pretty and
+metaphorical enough; i'gad I could not have said it out of thy company.
+Careless, ha?
+
+CARE.  Hum, ay, what is't?
+
+BRISK.  _O mon coeur_!  What is't!  Nay, gad, I'll punish you for want of
+apprehension.  The deuce take me if I tell you.
+
+MEL.  No, no, hang him, he has no taste.  But, dear Brisk, excuse me, I
+have a little business.
+
+CARE.  Prithee get thee gone; thou seest we are serious.
+
+MEL.  We'll come immediately, if you'll but go in and keep up good humour
+and sense in the company.  Prithee do, they'll fall asleep else.
+
+BRISK.  I'gad, so they will.  Well, I will, I will; gad, you shall
+command me from the Zenith to the Nadir.  But the deuce take me if I say
+a good thing till you come.  But prithee, dear rogue, make haste, prithee
+make haste, I shall burst else.  And yonder your uncle, my Lord
+Touchwood, swears he'll disinherit you, and Sir Paul Plyant threatens to
+disclaim you for a son-in-law, and my Lord Froth won't dance at your
+wedding to-morrow; nor, the deuce take me, I won't write your
+Epithalamium--and see what a condition you're like to be brought to.
+
+MEL.  Well, I'll speak but three words, and follow you.
+
+BRISK.  Enough, enough.  Careless, bring your apprehension along with
+you.
+
+
+
+SCENE III.
+
+
+MELLEFONT, CARELESS.
+
+CARE.  Pert coxcomb.
+
+MEL.  Faith, 'tis a good-natured coxcomb, and has very entertaining
+follies.  You must be more humane to him; at this juncture it will do me
+service.  I'll tell you, I would have mirth continued this day at any
+rate; though patience purchase folly, and attention be paid with noise,
+there are times when sense may be unseasonable as well as truth.  Prithee
+do thou wear none to-day, but allow Brisk to have wit, that thou may'st
+seem a fool.
+
+CARE.  Why, how now, why this extravagant proposition?
+
+MEL.  Oh, I would have no room for serious design, for I am jealous of a
+plot.  I would have noise and impertinence keep my Lady Touchwood's head
+from working: for hell is not more busy than her brain, nor contains more
+devils than that imaginations.
+
+CARE.  I thought your fear of her had been over.  Is not to-morrow
+appointed for your marriage with Cynthia, and her father, Sir Paul
+Plyant, come to settle the writings this day on purpose?
+
+MEL.  True; but you shall judge whether I have not reason to be alarmed.
+None besides you and Maskwell are acquainted with the secret of my Aunt
+Touchwood's violent passion for me.  Since my first refusal of her
+addresses she has endeavoured to do me all ill offices with my uncle, yet
+has managed 'em with that subtilty, that to him they have borne the face
+of kindness; while her malice, like a dark lanthorn, only shone upon me
+where it was directed.  Still, it gave me less perplexity to prevent the
+success of her displeasure than to avoid the importunities of her love,
+and of two evils I thought myself favoured in her aversion.  But whether
+urged by her despair and the short prospect of time she saw to accomplish
+her designs; whether the hopes of revenge, or of her love, terminated in
+the view of this my marriage with Cynthia, I know not, but this morning
+she surprised me in my bed.
+
+CARE.  Was there ever such a fury!  'Tis well nature has not put it into
+her sex's power to ravish.  Well, bless us, proceed.  What followed?
+
+MEL.  What at first amazed me--for I looked to have seen her in all the
+transports of a slighted and revengeful woman--but when I expected
+thunder from her voice, and lightning in her eyes, I saw her melted into
+tears and hushed into a sigh.  It was long before either of us spoke:
+passion had tied her tongue, and amazement mine.  In short, the
+consequence was thus, she omitted nothing that the most violent love
+could urge, or tender words express; which when she saw had no effect,
+but still I pleaded honour and nearness of blood to my uncle, then came
+the storm I feared at first, for, starting from my bed-side like a fury,
+she flew to my sword, and with much ado I prevented her doing me or
+herself a mischief.  Having disarmed her, in a gust of passion she left
+me, and in a resolution, confirmed by a thousand curses, not to close her
+eyes till they had seen my ruin.
+
+CARE.  Exquisite woman!  But what the devil, does she think thou hast no
+more sense than to get an heir upon her body to disinherit thyself? for
+as I take it this settlement upon you is, with a proviso, that your uncle
+have no children.
+
+MEL.  It is so.  Well, the service you are to do me will be a pleasure to
+yourself: I must get you to engage my Lady Plyant all this evening, that
+my pious aunt may not work her to her interest.  And if you chance to
+secure her to yourself, you may incline her to mine.  She's handsome, and
+knows it; is very silly, and thinks she has sense, and has an old fond
+husband.
+
+CARE.  I confess, a very fair foundation for a lover to build upon.
+
+MEL.  For my Lord Froth, he and his wife will be sufficiently taken up
+with admiring one another and Brisk's gallantry, as they call it.  I'll
+observe my uncle myself, and Jack Maskwell has promised me to watch my
+aunt narrowly, and give me notice upon any suspicion.  As for Sir Paul,
+my wise father-in-law that is to be, my dear Cynthia has such a share in
+his fatherly fondness, he would scarce make her a moment uneasy to have
+her happy hereafter.
+
+CARE.  So you have manned your works; but I wish you may not have the
+weakest guard where the enemy is strongest.
+
+MEL.  Maskwell, you mean; prithee why should you suspect him?
+
+CARE.  Faith I cannot help it; you know I never liked him: I am a little
+superstitious in physiognomy.
+
+MEL.  He has obligations of gratitude to bind him to me: his dependence
+upon my uncle is through my means.
+
+CARE.  Upon your aunt, you mean.
+
+MEL.  My aunt!
+
+CARE.  I'm mistaken if there be not a familiarity between them you do not
+suspect, notwithstanding her passion for you.
+
+MEL.  Pooh, pooh! nothing in the world but his design to do me service;
+and he endeavours to be well in her esteem, that he may be able to effect
+it.
+
+CARE.  Well, I shall be glad to be mistaken; but your aunt's aversion in
+her revenge cannot be any way so effectually shown as in bringing forth a
+child to disinherit you.  She is handsome and cunning and naturally
+wanton.  Maskwell is flesh and blood at best, and opportunities between
+them are frequent.  His affection to you, you have confessed, is grounded
+upon his interest, that you have transplanted; and should it take root in
+my lady, I don't see what you can expect from the fruit.
+
+MEL.  I confess the consequence is visible, were your suspicions just.
+But see, the company is broke up, let's meet 'em.
+
+
+
+SCENE IV.
+
+
+[_To them_] LORD TOUCHWOOD, LORD FROTH, SIR PAUL PLYANT, _and_ BRISK.
+
+LORD TOUCH.  Out upon't, nephew.  Leave your father-in-law and me to
+maintain our ground against young people!
+
+MEL.  I beg your lordship's pardon.  We were just returning.
+
+SIR PAUL.  Were you, son?  Gadsbud, much better as it is.  Good, strange!
+I swear I'm almost tipsy; t'other bottle would have been too powerful for
+me,--as sure as can be it would.  We wanted your company, but Mr.
+Brisk--where is he?  I swear and vow he's a most facetious person, and
+the best company.  And, my Lord Froth, your lordship is so merry a man,
+he, he, he.
+
+LORD FROTH.  Oh, foy, Sir Paul, what do you mean?  Merry!  Oh, barbarous!
+I'd as lieve you called me fool.
+
+SIR PAUL.  Nay, I protest and vow now, 'tis true; when Mr. Brisk jokes,
+your lordship's laugh does so become you, he, he, he.
+
+LORD FROTH.  Ridiculous!  Sir Paul, you're strangely mistaken, I find
+champagne is powerful.  I assure you, Sir Paul, I laugh at nobody's jest
+but my own, or a lady's, I assure you, Sir Paul.
+
+BRISK.  How? how, my lord? what, affront my wit!  Let me perish, do I
+never say anything worthy to be laughed at?
+
+LORD FROTH.  Oh, foy, don't misapprehend me; I don't say so, for I often
+smile at your conceptions.  But there is nothing more unbecoming a man of
+quality than to laugh; 'tis such a vulgar expression of the passion;
+everybody can laugh.  Then especially to laugh at the jest of an inferior
+person, or when anybody else of the same quality does not laugh with
+one--ridiculous!  To be pleased with what pleases the crowd!  Now when I
+laugh, I always laugh alone.
+
+BRISK.  I suppose that's because you laugh at your own jests, i'gad, ha,
+ha, ha.
+
+LORD FROTH.  He, he, I swear though, your raillery provokes me to a
+smile.
+
+BRISK.  Ay, my lord, it's a sign I hit you in the teeth, if you show 'em.
+
+LORD FROTH.  He, he, he, I swear that's so very pretty, I can't forbear.
+
+CARE.  I find a quibble bears more sway in your lordship's face than a
+jest.
+
+LORD TOUCH.  Sir Paul, if you please we'll retire to the ladies, and
+drink a dish of tea to settle our heads.
+
+SIR PAUL.  With all my heart.  Mr. Brisk, you'll come to us, or call me
+when you joke; I'll be ready to laugh incontinently.
+
+
+
+SCENE V.
+
+
+MELLEFONT, CARELESS, LORD FROTH, BRISK.
+
+MEL.  But does your lordship never see comedies?
+
+LORD FROTH.  Oh yes, sometimes; but I never laugh.
+
+MEL.  No?
+
+LORD FROTH.  Oh no; never laugh indeed, sir.
+
+CARE.  No! why, what d'ye go there for?
+
+LORD FROTH.  To distinguish myself from the commonalty and mortify the
+poets; the fellows grow so conceited, when any of their foolish wit
+prevails upon the side-boxes.  I swear,--he, he, he, I have often
+constrained my inclinations to laugh,--he, he, he, to avoid giving them
+encouragement.
+
+MEL.  You are cruel to yourself, my lord, as well as malicious to them.
+
+LORD FROTH.  I confess I did myself some violence at first, but now I
+think I have conquered it.
+
+BRISK.  Let me perish, my lord, but there is something very particular in
+the humour; 'tis true it makes against wit, and I'm sorry for some
+friends of mine that write; but, i'gad, I love to be malicious.  Nay,
+deuce take me, there's wit in't, too.  And wit must be foiled by wit; cut
+a diamond with a diamond, no other way, i'gad.
+
+LORD FROTH.  Oh, I thought you would not be long before you found out the
+wit.
+
+CARE.  Wit!  In what?  Where the devil's the wit in not laughing when a
+man has a mind to't?
+
+BRISK.  O Lord, why can't you find it out?  Why, there 'tis, in the not
+laughing.  Don't you apprehend me?  My lord, Careless is a very honest
+fellow, but harkee, you understand me, somewhat heavy, a little shallow,
+or so.  Why, I'll tell you now, suppose now you come up to me--nay,
+prithee, Careless, be instructed.  Suppose, as I was saying, you come up
+to me holding your sides, and laughing as if you would--well--I look
+grave, and ask the cause of this immoderate mirth.  You laugh on still,
+and are not able to tell me, still I look grave, not so much as smile.
+
+CARE.  Smile, no, what the devil should you smile at, when you suppose I
+can't tell you!
+
+BRISK.  Pshaw, pshaw, prithee don't interrupt me.  But I tell you, you
+shall tell me at last, but it shall be a great while first.
+
+CARE.  Well, but prithee don't let it be a great while, because I long to
+have it over.
+
+BRISK.  Well then, you tell me some good jest or some very witty thing,
+laughing all the while as if you were ready to die, and I hear it, and
+look thus.  Would not you be disappointed?
+
+CARE.  No; for if it were a witty thing I should not expect you to
+understand it.
+
+LORD FROTH.  Oh, foy, Mr. Careless, all the world allows Mr. Brisk to
+have wit; my wife says he has a great deal.  I hope you think her a
+judge.
+
+BRISK.  Pooh, my lord, his voice goes for nothing; I can't tell how to
+make him apprehend.  Take it t'other way.  Suppose I say a witty thing to
+you?
+
+CARE.  Then I shall be disappointed indeed.
+
+MEL.  Let him alone, Brisk, he is obstinately bent not to be instructed.
+
+BRISK.  I'm sorry for him, the deuce take me.
+
+MEL.  Shall we go to the ladies, my lord?
+
+LORD FROTH.  With all my heart; methinks we are a solitude without 'em.
+
+MEL.  Or what say you to another bottle of champagne?
+
+LORD FROTH.  Oh, for the universe not a drop more, I beseech you.  Oh,
+intemperate!  I have a flushing in my face already.  [_Takes out a pocket-
+glass and looks in it_.]
+
+BRISK.  Let me see, let me see, my lord, I broke my glass that was in the
+lid of my snuff-box.  Hum!  Deuce take me, I have encouraged a pimple
+here too.  [_Takes the glass and looks_.]
+
+LORD FROTH.  Then you must mortify him with a patch; my wife shall supply
+you.  Come, gentlemen, _allons_, here is company coming.
+
+
+
+SCENE VI.
+
+
+LADY TOUCHWOOD _and_ MASKWELL.
+
+LADY TOUCH.  I'll hear no more.  You are false and ungrateful; come, I
+know you false.
+
+MASK.  I have been frail, I confess, madam, for your ladyship's service.
+
+LADY TOUCH.  That I should trust a man whom I had known betray his
+friend!
+
+MASK.  What friend have I betrayed? or to whom?
+
+LADY TOUCH.  Your fond friend Mellefont, and to me; can you deny it?
+
+MASK.  I do not.
+
+LADY TOUCH.  Have you not wronged my lord, who has been a father to you
+in your wants, and given you being?  Have you not wronged him in the
+highest manner, in his bed?
+
+MASK.  With your ladyship's help, and for your service, as I told you
+before.  I can't deny that neither.  Anything more, madam?
+
+LADY TOUCH.  More!  Audacious villain!  Oh, what's more, is most my
+shame.  Have you not dishonoured me?
+
+MASK.  No, that I deny; for I never told in all my life: so that
+accusation's answered; on to the next.
+
+LADY TOUCH.  Death, do you dally with my passion?  Insolent devil!  But
+have a care,--provoke me not; for, by the eternal fire, you shall not
+'scape my vengeance.  Calm villain!  How unconcerned he stands,
+confessing treachery and ingratitude!  Is there a vice more black?  Oh, I
+have excuses thousands for my faults; fire in my temper, passions in my
+soul, apt to ev'ry provocation, oppressed at once with love, and with
+despair.  But a sedate, a thinking villain, whose black blood runs
+temperately bad, what excuse can clear?
+
+MASK.  Will you be in temper, madam?  I would not talk not to be heard.  I
+have been [_she walks about disordered_] a very great rogue for your
+sake, and you reproach me with it; I am ready to be a rogue still, to do
+you service; and you are flinging conscience and honour in my face, to
+rebate my inclinations.  How am I to behave myself?  You know I am your
+creature, my life and fortune in your power; to disoblige you brings me
+certain ruin.  Allow it I would betray you, I would not be a traitor to
+myself: I don't pretend to honesty, because you know I am a rascal; but I
+would convince you from the necessity of my being firm to you.
+
+LADY TOUCH.  Necessity, impudence!  Can no gratitude incline you, no
+obligations touch you?  Have not my fortune and my person been subjected
+to your pleasure?  Were you not in the nature of a servant, and have not
+I in effect made you lord of all, of me, and of my lord?  Where is that
+humble love, the languishing, that adoration, which once was paid me, and
+everlastingly engaged?
+
+MASK.  Fixt, rooted in my heart, whence nothing can remove 'em, yet you--
+
+LADY TOUCH.  Yet, what yet?
+
+MASK.  Nay, misconceive me not, madam, when I say I have had a gen'rous
+and a faithful passion, which you had never favoured, but through revenge
+and policy.
+
+LADY TOUCH.  Ha!
+
+MASK.  Look you, madam, we are alone,--pray contain yourself and hear me.
+You know you loved your nephew when I first sighed for you; I quickly
+found it: an argument that I loved, for with that art you veiled your
+passion 'twas imperceptible to all but jealous eyes.  This discovery made
+me bold; I confess it; for by it I thought you in my power.  Your
+nephew's scorn of you added to my hopes; I watched the occasion, and took
+you, just repulsed by him, warm at once with love and indignation; your
+disposition, my arguments, and happy opportunity accomplished my design;
+I pressed the yielding minute, and was blest.  How I have loved you
+since, words have not shown, then how should words express?
+
+LADY TOUCH.  Well, mollifying devil!  And have I not met your love with
+forward fire?
+
+MASK.  Your zeal, I grant, was ardent, but misplaced; there was revenge
+in view; that woman's idol had defiled the temple of the god, and love
+was made a mock-worship.  A son and heir would have edged young Mellefont
+upon the brink of ruin, and left him none but you to catch at for
+prevention.
+
+LADY TOUCH.  Again provoke me!  Do you wind me like a larum, only to
+rouse my own stilled soul for your diversion?  Confusion!
+
+MASK.  Nay, madam, I'm gone, if you relapse.  What needs this?  I say
+nothing but what you yourself, in open hours of love, have told me.  Why
+should you deny it?  Nay, how can you?  Is not all this present heat
+owing to the same fire?  Do you not love him still?  How have I this day
+offended you, but in not breaking off his match with Cynthia? which, ere
+to-morrow, shall be done, had you but patience.
+
+LADY TOUCH.  How, what said you, Maskwell?  Another caprice to unwind my
+temper?
+
+MASK.  By heav'n, no; I am your slave, the slave of all your pleasures;
+and will not rest till I have given you peace, would you suffer me.
+
+LADY TOUCH.  O Maskwell! in vain I do disguise me from thee, thou know'st
+me, knowest the very inmost windings and recesses of my soul.  O
+Mellefont!  I burn; married to morrow!  Despair strikes me.  Yet my soul
+knows I hate him too: let him but once be mine, and next immediate ruin
+seize him.
+
+MASK.  Compose yourself, you shall possess and ruin him too,--will that
+please you?
+
+LADY TOUCH.  How, how?  Thou dear, thou precious villain, how?
+
+MASK.  You have already been tampering with my Lady Plyant.
+
+LADY TOUCH.  I have: she is ready for any impression I think fit.
+
+MASK.  She must be throughly persuaded that Mellefont loves her.
+
+LADY TOUCH.  She is so credulous that way naturally, and likes him so
+well, that she will believe it faster than I can persuade her.  But I
+don't see what you can propose from such a trifling design, for her first
+conversing with Mellefont will convince her of the contrary.
+
+MASK.  I know it.  I don't depend upon it.  But it will prepare something
+else, and gain us leisure to lay a stronger plot.  If I gain a little
+time, I shall not want contrivance.
+
+One minute gives invention to destroy,
+
+What to rebuild will a whole age employ.
+
+
+
+
+ACT II.
+
+
+SCENE I.
+
+
+LADY FROTH _and_ CYNTHIA.
+
+CYNT.  Indeed, madam!  Is it possible your ladyship could have been so
+much in love?
+
+LADY FROTH.  I could not sleep; I did not sleep one wink for three weeks
+together.
+
+CYNT.  Prodigious!  I wonder want of sleep, and so much love and so much
+wit as your ladyship has, did not turn your brain.
+
+LADY FROTH.  Oh, my dear Cynthia, you must not rally your friend.  But
+really, as you say, I wonder too.  But then I had a way.  For, between
+you and I, I had whimsies and vapours, but I gave them vent.
+
+CYNT.  How, pray, madam?
+
+LADY FROTH.  Oh, I writ, writ abundantly.  Do you never write?
+
+CYNT.  Write what?
+
+LADY FROTH.  Songs, elegies, satires, encomiums, panegyrics, lampoons,
+plays, or heroic poems?
+
+CYNT.  O Lord, not I, madam; I'm content to be a courteous reader.
+
+LADY FROTH.  Oh, inconsistent!  In love and not write!  If my lord and I
+had been both of your temper, we had never come together.  Oh, bless me!
+What a sad thing would that have been, if my lord and I should never have
+met!
+
+CYNT.  Then neither my lord nor you would ever have met with your match,
+on my conscience.
+
+LADY FROTH.  O' my conscience, no more we should; thou say'st right.  For
+sure my Lord Froth is as fine a gentleman and as much a man of quality!
+Ah! nothing at all of the common air.  I think I may say he wants nothing
+but a blue ribbon and a star to make him shine, the very phosphorus of
+our hemisphere.  Do you understand those two hard words?  If you don't,
+I'll explain 'em to you.
+
+CYNT.  Yes, yes, madam, I'm not so ignorant.--At least I won't own it, to
+be troubled with your instructions.  [_Aside_.]
+
+LADY FROTH.  Nay, I beg your pardon; but being derived from the Greek, I
+thought you might have escaped the etymology.  But I'm the more amazed to
+find you a woman of letters and not write!  Bless me! how can Mellefont
+believe you love him?
+
+CYNT.  Why, faith, madam, he that won't take my word shall never have it
+under my hand.
+
+LADY FROTH.  I vow Mellefont's a pretty gentleman, but methinks he wants
+a manner.
+
+CYNT.  A manner!  What's that, madam?
+
+LADY FROTH.  Some distinguishing quality, as, for example, the _bel air_
+or _brillant_ of Mr. Brisk; the solemnity, yet complaisance of my lord,
+or something of his own that should look a little _Je-ne-sais-quoish_; he
+is too much a mediocrity, in my mind.
+
+CYNT.  He does not indeed affect either pertness or formality; for which
+I like him.  Here he comes.
+
+LADY FROTH.  And my lord with him.  Pray observe the difference.
+
+
+
+SCENE II.
+
+
+[_To them_] LORD FROTH, MELLEFONT, _and_ BRISK.
+
+CYNT.  Impertinent creature!  I could almost be angry with her now.
+[_Aside_.]
+
+LADY FROTH.  My lord, I have been telling Cynthia how much I have been in
+love with you; I swear I have; I'm not ashamed to own it now.  Ah! it
+makes my heart leap, I vow I sigh when I think on't.  My dear lord!  Ha,
+ha, ha, do you remember, my lord?  [_Squeezes him by the hand_, _looks
+kindly on him_, _sighs_, _and then laughs out_.]
+
+LORD FROTH.  Pleasant creature! perfectly well, ah! that look, ay, there
+it is; who could resist? 'twas so my heart was made a captive first, and
+ever since t'has been in love with happy slavery.
+
+LADY FROTH.  Oh, that tongue, that dear deceitful tongue! that charming
+softness in your mien and your expression, and then your bow!  Good my
+lord, bow as you did when I gave you my picture; here, suppose this my
+picture. [_Gives him a pocket-glass_.]  Pray mind, my lord; ah! he bows
+charmingly; nay, my lord, you shan't kiss it so much; I shall grow
+jealous, I vow now.  [_He bows profoundly low_, _then kisses the glass_.]
+
+LORD FROTH.  I saw myself there, and kissed it for your sake.
+
+LADY FROTH.  Ah!  Gallantry to the last degree.  Mr. Brisk, you're a
+judge; was ever anything so well bred as my lord?
+
+BRISK.  Never anything, but your ladyship; let me perish.
+
+LADY FROTH.  Oh, prettily turned again; let me die, but you have a great
+deal of wit.  Mr. Mellefont, don't you think Mr. Brisk has a world of
+wit?
+
+MEL.  O yes, madam.
+
+BRISK.  O dear, madam--
+
+LADY FROTH.  An infinite deal!
+
+BRISK.  O heav'ns, madam--
+
+LADY FROTH.  More wit than anybody.
+
+BRISK.  I'm everlastingly your humble servant, deuce take me, madam.
+
+LORD FROTH.  Don't you think us a happy couple?
+
+CYNT.  I vow, my lord, I think you the happiest couple in the world, for
+you're not only happy in one another, and when you are together, but
+happy in yourselves, and by yourselves.
+
+LORD FROTH.  I hope Mellefont will make a good husband too.
+
+CYNT.  'Tis my interest to believe he will, my Lord.
+
+LORD FROTH.  D'ye think he'll love you as well as I do my wife?  I'm
+afraid not.
+
+CYNT.  I believe he'll love me better.
+
+LORD FROTH.  Heav'ns! that can never be.  But why do you think so?
+
+CYNT.  Because he has not so much reason to be fond of himself.
+
+LORD FROTH.  Oh, your humble servant for that, dear madam.  Well,
+Mellefont, you'll be a happy creature.
+
+MEL.  Ay, my lord, I shall have the same reason for my happiness that
+your lordship has, I shall think myself happy.
+
+LORD FROTH.  Ah, that's all.
+
+BRISK.  [_To_ LADY FROTH.]  Your ladyship is in the right; but, i'gad,
+I'm wholly turned into satire.  I confess I write but seldom, but when I
+do--keen iambics, i'gad.  But my lord was telling me your ladyship has
+made an essay toward an heroic poem.
+
+LADY FROTH.  Did my lord tell you?  Yes, I vow, and the subject is my
+lord's love to me.  And what do you think I call it?  I dare swear you
+won't guess--_The Sillabub_, ha, ha, ha.
+
+BRISK.  Because my lord's title's Froth, i'gad, ha, ha, ha, deuce take
+me, very a propos and surprising, ha, ha, ha.
+
+LADY FROTH.  He, ay, is not it?  And then I call my lord Spumoso; and
+myself, what d'ye think I call myself?
+
+BRISK.  Lactilla, may be,--i'gad, I cannot tell.
+
+LADY FROTH.  Biddy, that's all; just my own name.
+
+BRISK.  Biddy!  I'gad, very pretty.  Deuce take me if your ladyship has
+not the art of surprising the most naturally in the world.  I hope you'll
+make me happy in communicating the poem.
+
+LADY FROTH.  Oh, you must be my confidant, I must ask your advice.
+
+BRISK.  I'm your humble servant, let me perish.  I presume your ladyship
+has read Bossu?
+
+LADY FROTH.  Oh yes, and Racine, and Dacier upon Aristotle and Horace.  My
+lord, you must not be jealous, I'm communicating all to Mr. Brisk.
+
+LORD FROTH.  No, no, I'll allow Mr. Brisk; have you nothing about you to
+shew him, my dear?
+
+LADY FROTH.  Yes, I believe I have.  Mr. Brisk, come, will you go into
+the next room? and there I'll shew you what I have.
+
+LORD FROTH.  I'll walk a turn in the garden, and come to you.
+
+
+
+SCENE III.
+
+
+MELLEFONT, CYNTHIA.
+
+MEL.  You're thoughtful, Cynthia?
+
+CYNT.  I'm thinking, though marriage makes man and wife one flesh, it
+leaves 'em still two fools; and they become more conspicuous by setting
+off one another.
+
+MEL.  That's only when two fools meet, and their follies are opposed.
+
+CYNT.  Nay, I have known two wits meet, and by the opposition of their
+wit render themselves as ridiculous as fools.  'Tis an odd game we're
+going to play at.  What think you of drawing stakes, and giving over in
+time?
+
+MEL.  No, hang't, that's not endeavouring to win, because it's possible
+we may lose; since we have shuffled and cut, let's even turn up trump
+now.
+
+CYNT.  Then I find it's like cards, if either of us have a good hand it
+is an accident of fortune.
+
+MEL.  No, marriage is rather like a game at bowls: fortune indeed makes
+the match, and the two nearest, and sometimes the two farthest, are
+together, but the game depends entirely upon judgment.
+
+CYNT.  Still it is a game, and consequently one of us must be a loser.
+
+MEL.  Not at all; only a friendly trial of skill, and the winnings to be
+laid out in an entertainment.  What's here, the music?  Oh, my lord has
+promised the company a new song; we'll get 'em to give it us by the way.
+[_Musicians crossing the stage_.]  Pray let us have the favour of you, to
+practise the song before the company hear it.
+
+SONG.
+
+I.
+
+Cynthia frowns whene'er I woo her,
+Yet she's vext if I give over;
+Much she fears I should undo her,
+But much more to lose her lover:
+Thus, in doubting, she refuses;
+And not winning, thus she loses.
+
+II.
+
+Prithee, Cynthia, look behind you,
+Age and wrinkles will o'ertake you;
+Then too late desire will find you,
+When the power must forsake you:
+Think, O think o' th' sad condition,
+To be past, yet wish fruition.
+
+MEL.  You shall have my thanks below.  [_To the musicians_, _they go
+out_.]
+
+
+
+SCENE IV.
+
+
+[_To them_] SIR PAUL PLYANT _and_ LADY PLYANT.
+
+SIR PAUL.  Gadsbud!  I am provoked into a fermentation, as my Lady Froth
+says; was ever the like read of in story?
+
+LADY PLYANT.  Sir Paul, have patience, let me alone to rattle him up.
+
+SIR PAUL.  Pray, your ladyship, give me leave to be angry.  I'll rattle
+him up, I warrant you, I'll firk him with a _certiorari_.
+
+LADY PLYANT.  You firk him, I'll firk him myself; pray, Sir Paul, hold
+you contented.
+
+CYNT.  Bless me, what makes my father in such a passion?  I never saw him
+thus before.
+
+SIR PAUL.  Hold yourself contented, my Lady Plyant.  I find passion
+coming upon me by inflation, and I cannot submit as formerly, therefore
+give way.
+
+LADY PLYANT.  How now! will you be pleased to retire and--
+
+SIR PAUL.  No, marry will I not be pleased: I am pleased to be angry,
+that's my pleasure at this time.
+
+MEL.  What can this mean?
+
+LADY PLYANT.  Gads my life, the man's distracted; why, how now, who are
+you?  What am I?  Slidikins, can't I govern you?  What did I marry you
+for?  Am I not to be absolute and uncontrollable?  Is it fit a woman of
+my spirit and conduct should be contradicted in a matter of this concern?
+
+SIR PAUL.  It concerns me and only me.  Besides, I'm not to be governed
+at all times.  When I am in tranquillity, my Lady Plyant shall command
+Sir Paul; but when I am provoked to fury, I cannot incorporate with
+patience and reason: as soon may tigers match with tigers, lambs with
+lambs, and every creature couple with its foe, as the poet says.
+
+LADY PLYANT.  He's hot-headed still!  'Tis in vain to talk to you; but
+remember I have a curtain-lecture for you, you disobedient, headstrong
+brute.
+
+SIR PAUL.  No, 'tis because I won't be headstrong, because I won't be a
+brute, and have my head fortified, that I am thus exasperated.  But I
+will protect my honour, and yonder is the violator of my fame.
+
+LADY PLYANT.  'Tis my honour that is concerned, and the violation was
+intended to me.  Your honour!  You have none but what is in my keeping,
+and I can dispose of it when I please: therefore don't provoke me.
+
+SIR PAUL.  Hum, gadsbud, she says true.  Well, my lady, march on; I will
+fight under you, then: I am convinced, as far as passion will permit.
+[LADY PLYANT _and_ SIR PAUL _come up to_ MELLEFONT.]
+
+LADY PLYANT.  Inhuman and treacherous--
+
+SIR PAUL.  Thou serpent and first tempter of womankind.
+
+CYNT.  Bless me!  Sir, madam, what mean you?
+
+SIR PAUL.  Thy, Thy, come away, Thy; touch him not.  Come hither, girl;
+go not near him, there's nothing but deceit about him.  Snakes are in his
+peruke, and the crocodile of Nilus is in his belly; he will eat thee up
+alive.
+
+LADY PLYANT.  Dishonourable, impudent creature!
+
+MEL.  For heav'n's sake, madam, to whom do you direct this language?
+
+LADY PLYANT.  Have I behaved myself with all the decorum and nicety
+befitting the person of Sir Paul's wife?  Have I preserved my honour as
+it were in a snow-house for these three years past?  Have I been white
+and unsullied even by Sir Paul himself?
+
+SIR PAUL.  Nay, she has been an invincible wife, even to me; that's the
+truth on't.
+
+LADY PLYANT.  Have I, I say, preserved myself like a fair sheet of paper
+for you to make a blot upon?
+
+SIR PAUL.  And she shall make a simile with any woman in England.
+
+MEL.  I am so amazed, I know not what to say.
+
+SIR PAUL.  Do you think my daughter, this pretty creature--gadsbud, she's
+a wife for a cherubim!--do you think her fit for nothing but to be a
+stalking horse, to stand before you, while you take aim at my wife?
+Gadsbud, I was never angry before in my life, and I'll never be appeased
+again.
+
+MEL.  Hell and damnation!  This is my aunt; such malice can be engendered
+nowhere else.  [_Aside_.]
+
+LADY PLYANT.  Sir Paul, take Cynthia from his sight; leave me to strike
+him with the remorse of his intended crime.
+
+CYNT.  Pray, sir, stay, hear him; I dare affirm he's innocent.
+
+SIR PAUL.  Innocent!  Why, hark'ee--come hither, Thy--hark'ee, I had it
+from his aunt, my sister Touchwood.  Gadsbud, he does not care a farthing
+for anything of thee but thy portion.  Why, he's in love with my wife.  He
+would have tantalised thee, and made a cuckold of thy poor father, and
+that would certainly have broke my heart.  I'm sure, if ever I should
+have horns, they would kill me; they would never come kindly--I should
+die of 'em like a child that was cutting his teeth--I should indeed,
+Thy--therefore come away; but providence has prevented all, therefore
+come away when I bid you.
+
+CYNT.  I must obey.
+
+
+
+SCENE V.
+
+
+LADY PLYANT, MELLEFONT.
+
+LADY PLYANT.  Oh, such a thing! the impiety of it startles me--to wrong
+so good, so fair a creature, and one that loves you tenderly--'tis a
+barbarity of barbarities, and nothing could be guilty of it--
+
+MEL.  But the greatest villain imagination can form, I grant it; and next
+to the villainy of such a fact is the villainy of aspersing me with the
+guilt.  How? which way was I to wrong her?  For yet I understand you not.
+
+LADY PLYANT.  Why, gads my life, cousin Mellefont, you cannot be so
+peremptory as to deny it, when I tax you with it to your face? for now
+Sir Paul's gone, you are _corum nobus_.
+
+MEL.  By heav'n, I love her more than life or--
+
+LADY PLYANT.  Fiddle faddle, don't tell me of this and that, and
+everything in the world, but give me mathemacular demonstration; answer
+me directly.  But I have not patience.  Oh, the impiety of it, as I was
+saying, and the unparalleled wickedness!  O merciful Father!  How could
+you think to reverse nature so, to make the daughter the means of
+procuring the mother?
+
+MEL.  The daughter to procure the mother!
+
+LADY PLYANT.  Ay, for though I am not Cynthia's own mother, I am her
+father's wife, and that's near enough to make it incest.
+
+MEL.  Incest!  O my precious aunt, and the devil in conjunction.
+[_Aside_.]
+
+LADY PLYANT.  Oh, reflect upon the horror of that, and then the guilt of
+deceiving everybody; marrying the daughter, only to make a cuckold of the
+father; and then seducing me, debauching my purity, and perverting me
+from the road of virtue in which I have trod thus long, and never made
+one trip, not one _faux pas_.  Oh, consider it!  What would you have to
+answer for if you should provoke me to frailty?  Alas! humanity is
+feeble, heav'n knows! very feeble, and unable to support itself.
+
+MEL.  Where am I? is it day? and am I awake?  Madam--
+
+LADY PLYANT.  And nobody knows how circumstances may happen together.  To
+my thinking, now I could resist the strongest temptation.  But yet I
+know, 'tis impossible for me to know whether I could or not; there's no
+certainty in the things of this life.
+
+MEL.  Madam, pray give me leave to ask you one question.
+
+LADY PLYANT.  O Lord, ask me the question; I'll swear I'll refuse it, I
+swear I'll deny it--therefore don't ask me; nay, you shan't ask me, I
+swear I'll deny it.  O Gemini, you have brought all the blood into my
+face; I warrant I am as red as a turkey-cock.  O fie, cousin Mellefont!
+
+MEL.  Nay, madam, hear me; I mean--
+
+LADY PLYANT.  Hear you?  No, no; I'll deny you first and hear you
+afterwards.  For one does not know how one's mind may change upon
+hearing.  Hearing is one of the senses, and all the senses are fallible.
+I won't trust my honour, I assure you; my honour is infallible and
+uncomeatable.
+
+MEL.  For heav'n's sake, madam--
+
+LADY PLYANT.  Oh, name it no more.  Bless me, how can you talk of heav'n,
+and have so much wickedness in your heart?  May be you don't think it a
+sin--they say some of you gentlemen don't think it a sin.  May be it is
+no sin to them that don't think it so; indeed, if I did not think it a
+sin--But still my honour, if it were no sin.  But then, to marry my
+daughter for the conveniency of frequent opportunities, I'll never
+consent to that; as sure as can be, I'll break the match.
+
+MEL.  Death and amazement!  Madam, upon my knees--
+
+LADY PLYANT.  Nay, nay, rise up; come, you shall see my good-nature.  I
+know love is powerful, and nobody can help his passion.  'Tis not your
+fault; nor, I swear, it is not mine.  How can I help it, if I have
+charms?  And how can you help it, if you are made a captive?  I swear it
+is pity it should be a fault.  But my honour,--well, but your honour,
+too--but the sin!--well, but the necessity--O Lord, here's somebody
+coming, I dare not stay.  Well, you must consider of your crime; and
+strive as much as can be against it,--strive, be sure.  But don't be
+melancholic; don't despair.  But never think that I'll grant you
+anything.  O Lord, no.  But be sure you lay aside all thoughts of the
+marriage, for though I know you don't love Cynthia, only as a blind for
+your passion to me, yet it will make me jealous.  O Lord, what did I say?
+Jealous! no, no, I can't be jealous, for I must not love you; therefore
+don't hope,--but don't despair neither.  Oh, they're coming, I must fly.
+
+
+
+SCENE VI.
+
+
+MELLEFONT _alone_.
+
+MEL.  [_After a pause_.]  So then, spite of my care and foresight, I am
+caught, caught in my security.  Yet this was but a shallow artifice,
+unworthy of my Machiavellian aunt.  There must be more behind: this is
+but the first flash, the priming of her engine.  Destruction follows
+hard, if not most presently prevented.
+
+
+
+SCENE VII.
+
+
+[_To him_] MASKWELL.
+
+MEL.  Maskwell, welcome, thy presence is a view of land, appearing to my
+shipwrecked hopes.  The witch has raised the storm, and her ministers
+have done their work: you see the vessels are parted.
+
+MASK.  I know it.  I met Sir Paul towing away Cynthia.  Come, trouble not
+your head; I'll join you together ere to-morrow morning, or drown between
+you in the attempt.
+
+MEL.  There's comfort in a hand stretched out to one that's sinking;
+though ne'er so far off.
+
+MASK.  No sinking, nor no danger.  Come, cheer up; why, you don't know
+that while I plead for you, your aunt has given me a retaining fee.  Nay,
+I am your greatest enemy, and she does but journey-work under me.
+
+MEL.  Ha! how's this?
+
+MASK.  What d'ye think of my being employed in the execution of all her
+plots?  Ha, ha, ha, by heav'n, it's true: I have undertaken to break the
+match; I have undertaken to make your uncle disinherit you; to get you
+turned out of doors; and to--ha, ha, ha, I can't tell you for laughing.
+Oh, she has opened her heart to me!  I am to turn you a-grazing, and
+to--ha, ha, ha, marry Cynthia myself.  There's a plot for you.
+
+MEL.  Ha!  Oh, see, I see my rising sun!  Light breaks through clouds
+upon me, and I shall live in day--Oh, my Maskwell! how shall I thank or
+praise thee?  Thou hast outwitted woman.  But, tell me, how couldst thou
+thus get into her confidence?  Ha!  How?  But was it her contrivance to
+persuade my Lady Plyant to this extravagant belief?
+
+MASK.  It was; and to tell you the truth, I encouraged it for your
+diversion.  Though it made you a little uneasy for the present, yet the
+reflection of it must needs be entertaining.  I warrant she was very
+violent at first.
+
+MEL.  Ha, ha, ha, ay, a very fury; but I was most afraid of her violence
+at last.  If you had not come as you did, I don't know what she might
+have attempted.
+
+MASK.  Ha, ha, ha, I know her temper.  Well, you must know, then, that
+all my contrivances were but bubbles, till at last I pretended to have
+been long secretly in love with Cynthia; that did my business, that
+convinced your aunt I might be trusted; since it was as much my interest
+as hers to break the match.  Then, she thought my jealousy might qualify
+me to assist her in her revenge.  And, in short, in that belief, told me
+the secrets of her heart.  At length we made this agreement, if I
+accomplish her designs (as I told you before) she has engaged to put
+Cynthia with all her fortune into my power.
+
+MEL.  She is most gracious in her favour.  Well, and, dear Jack, how hast
+thou contrived?
+
+MASK.  I would not have you stay to hear it now; for I don't know but she
+may come this way.  I am to meet her anon; after that, I'll tell you the
+whole matter.  Be here in this gallery an hour hence; by that time I
+imagine our consultation may be over.
+
+MEL.  I will; till then success attend thee.
+
+
+
+SCENE VIII.
+
+
+MASKWELL _alone_.
+
+Till then, success will attend me; for when I meet you, I meet the only
+obstacle to my fortune.  Cynthia, let thy beauty gild my crimes; and
+whatsoever I commit of treachery or deceit, shall be imputed to me as a
+merit.  Treachery?  What treachery?  Love cancels all the bonds of
+friendship, and sets men right upon their first foundations.
+
+Duty to kings, piety to parents, gratitude to benefactors, and fidelity
+to friends, are different and particular ties.  But the name of rival
+cuts 'em all asunder, and is a general acquittance.  Rival is equal, and
+love like death an universal leveller of mankind.  Ha!  But is there not
+such a thing as honesty?  Yes, and whosoever has it about him, bears an
+enemy in his breast.  For your honest man, as I take it, is that nice,
+scrupulous, conscientious person, who will cheat nobody but himself; such
+another coxcomb as your wise man, who is too hard for all the world, and
+will be made a fool of by nobody but himself; ha, ha, ha.  Well, for
+wisdom and honesty give me cunning and hypocrisy; oh, 'tis such a
+pleasure to angle for fair-faced fools!  Then that hungry gudgeon
+credulity will bite at anything.  Why, let me see, I have the same face,
+the same words and accents when I speak what I do think, and when I speak
+what I do not think, the very same; and dear dissimulation is the only
+art not to be known from nature.
+
+   Why will mankind be fools, and be deceived,
+   And why are friends' and lovers' oaths believed,
+   When each, who searches strictly his own mind,
+   May so much fraud and power of baseness find?
+
+
+
+
+ACT III.
+
+
+SCENE I.
+
+
+LORD TOUCHWOOD _and_ LADY TOUCHWOOD.
+
+LADY TOUCH.  My lord, can you blame my brother Plyant if he refuse his
+daughter upon this provocation?  The contract's void by this unheard-of
+impiety.
+
+LORD TOUCH.  I don't believe it true; he has better principles.  Pho,
+'tis nonsense.  Come, come, I know my Lady Plyant has a large eye, and
+would centre everything in her own circle; 'tis not the first time she
+has mistaken respect for love, and made Sir Paul jealous of the civility
+of an undesigning person, the better to bespeak his security in her
+unfeigned pleasures.
+
+LADY TOUCH.  You censure hardly, my lord; my sister's honour is very well
+known.
+
+LORD TOUCH.  Yes, I believe I know some that have been familiarly
+acquainted with it.  This is a little trick wrought by some pitiful
+contriver, envious of my nephew's merit.
+
+LADY TOUCH.  Nay, my lord, it may be so, and I hope it will be found so.
+But that will require some time; for in such a case as this,
+demonstration is necessary.
+
+LORD TOUCH.  There should have been demonstration of the contrary too,
+before it had been believed.
+
+LADY TOUCH.  So I suppose there was.
+
+LORD TOUCH.  How?  Where?  When?
+
+LADY TOUCH.  That I can't tell; nay, I don't say there was.  I am willing
+to believe as favourably of my nephew as I can.
+
+LORD TOUCH.  I don't know that.  [_Half aside_.]
+
+LADY TOUCH.  How?  Don't you believe that, say you, my lord?
+
+LORD TOUCH.  No, I don't say so.  I confess I am troubled to find you so
+cold in his defence.
+
+LADY TOUCH.  His defence!  Bless me, would you have me defend an ill
+thing?
+
+LORD TOUCH.  You believe it, then?
+
+LADY TOUCH.  I don't know; I am very unwilling to speak my thoughts in
+anything that may be to my cousin's disadvantage: besides, I find, my
+lord, you are prepared to receive an ill impression from any opinion of
+mine which is not consenting with your own.  But, since I am like to be
+suspected in the end, and 'tis a pain any longer to dissemble, I own it
+to you; in short I do believe it, nay, and can believe anything worse, if
+it were laid to his charge.  Don't ask me my reasons, my lord, for they
+are not fit to be told you.
+
+LORD TOUCH.  I'm amazed: there must be something more than ordinary in
+this.  [_Aside_.]  Not fit to be told me, madam?  You can have no
+interests wherein I am not concerned, and consequently the same reasons
+ought to be convincing to me, which create your satisfaction or disquiet.
+
+LADY TOUCH.  But those which cause my disquiet I am willing to have
+remote from your hearing.  Good my lord, don't press me.
+
+LORD TOUCH.  Don't oblige me to press you.
+
+LADY TOUCH.  Whatever it was, 'tis past.  And that is better to be
+unknown which cannot be prevented; therefore let me beg you to rest
+satisfied.
+
+LORD TOUCH.  When you have told me, I will.
+
+LADY TOUCH.  You won't.
+
+LORD TOUCH.  By my life, my dear, I will.
+
+LADY TOUCH.  What if you can't?
+
+LORD TOUCH.  How?  Then I must know, nay, I will.  No more trifling.  I
+charge you tell me.  By all our mutual peace to come; upon your duty--
+
+LADY TOUCH.  Nay, my lord, you need say no more, to make me lay my heart
+before you, but don't be thus transported; compose yourself.  It is not
+of concern to make you lose one minute's temper.  'Tis not, indeed, my
+dear.  Nay, by this kiss you shan't be angry.  O Lord, I wish I had not
+told you anything.  Indeed, my lord, you have frighted me.  Nay, look
+pleased, I'll tell you.
+
+LORD TOUCH.  Well, well.
+
+LADY TOUCH.  Nay, but will you be calm?  Indeed it's nothing but--
+
+LORD TOUCH.  But what?
+
+LADY TOUCH.  But will you promise me not to be angry?  Nay, you must--not
+to be angry with Mellefont?  I dare swear he's sorry, and were it to do
+again, would not--
+
+LORD TOUCH.  Sorry for what?  'Death, you rack me with delay.
+
+LADY TOUCH.  Nay, no great matter, only--well, I have your promise.  Pho,
+why nothing, only your nephew had a mind to amuse himself sometimes with
+a little gallantry towards me.  Nay, I can't think he meant anything
+seriously, but methought it looked oddly.
+
+LORD TOUCH.  Confusion and hell, what do I hear?
+
+LADY TOUCH.  Or, may be, he thought he was not enough akin to me, upon
+your account, and had a mind to create a nearer relation on his own; a
+lover you know, my lord.  Ha, ha, ha.  Well, but that's all.  Now you
+have it; well remember your promise, my lord, and don't take any notice
+of it to him.
+
+LORD TOUCH.  No, no, no.  Damnation!
+
+LADY TOUCH.  Nay, I swear you must not.  A little harmless mirth; only
+misplaced, that's all.  But if it were more, 'tis over now, and all's
+well.  For my part I have forgot it, and so has he, I hope,--for I have
+not heard anything from him these two days.
+
+LORD TOUCH.  These two days!  Is it so fresh?  Unnatural villain!  Death,
+I'll have him stripped and turned naked out of my doors this moment, and
+let him rot and perish, incestuous brute!
+
+LADY TOUCH.  Oh, for heav'n's sake, my lord, you'll ruin me if you take
+such public notice of it; it will be a town talk.  Consider your own and
+my honour; nay, I told you you would not be satisfied when you knew it.
+
+LORD TOUCH.  Before I've done I will be satisfied.  Ungrateful monster!
+how long?
+
+LADY TOUCH.  Lord, I don't know; I wish my lips had grown together when I
+told you.  Almost a twelvemonth.  Nay, I won't tell you any more till you
+are yourself.  Pray, my lord, don't let the company see you in this
+disorder.  Yet, I confess, I can't blame you; for I think I was never so
+surprised in my life.  Who would have thought my nephew could have so
+misconstrued my kindness?  But will you go into your closet, and recover
+your temper.  I'll make an excuse of sudden business to the company, and
+come to you.  Pray, good, dear my lord, let me beg you do now.  I'll come
+immediately and tell you all; will you, my lord?
+
+LORD TOUCH.  I will--I am mute with wonder.
+
+LADY TOUCH.  Well, but go now, here's somebody coming.
+
+LORD TOUCH.  Well, I go.  You won't stay? for I would hear more of this.
+
+LADY TOUCH.  I follow instantly.  So.
+
+
+
+SCENE II.
+
+
+LADY TOUCHWOOD, MASKWELL.
+
+MASK.  This was a masterpiece, and did not need my help, though I stood
+ready for a cue to come in and confirm all, had there been occasion.
+
+LADY TOUCH.  Have you seen Mellefont?
+
+MASK.  I have; and am to meet him here about this time.
+
+LADY TOUCH.  How does he bear his disappointment?
+
+MASK.  Secure in my assistance, he seemed not much afflicted, but rather
+laughed at the shallow artifice, which so little time must of necessity
+discover.  Yet he is apprehensive of some farther design of yours, and
+has engaged me to watch you.  I believe he will hardly be able to prevent
+your plot, yet I would have you use caution and expedition.
+
+LADY TOUCH.  Expedition indeed, for all we do must be performed in the
+remaining part of this evening, and before the company break up, lest my
+lord should cool and have an opportunity to talk with him privately.  My
+lord must not see him again.
+
+MASK.  By no means; therefore you must aggravate my lord's displeasure to
+a degree that will admit of no conference with him.  What think you of
+mentioning me?
+
+LADY TOUCH.  How?
+
+MASK.  To my lord, as having been privy to Mellefont's design upon you,
+but still using my utmost endeavours to dissuade him, though my
+friendship and love to him has made me conceal it; yet you may say, I
+threatened the next time he attempted anything of that kind to discover
+it to my lord.
+
+LADY TOUCH.  To what end is this?
+
+MASK.  It will confirm my lord's opinion of my honour and honesty, and
+create in him a new confidence in me, which (should this design miscarry)
+will be necessary to the forming another plot that I have in my head.--To
+cheat you as well as the rest.  [_Aside_.]
+
+LADY TOUCH.  I'll do it--I'll tell him you hindered him once from forcing
+me.
+
+MASK.  Excellent!  Your ladyship has a most improving fancy.  You had
+best go to my lord, keep him as long as you can in his closet, and I
+doubt not but you will mould him to what you please; your guests are so
+engaged in their own follies and intrigues, they'll miss neither of you.
+
+LADY TOUCH.  When shall we meet?--at eight this evening in my chamber?
+There rejoice at our success, and toy away an hour in mirth.
+
+MASK.  I will not fail.
+
+
+
+SCENE III.
+
+
+MASKWELL _alone_.
+
+I know what she means by toying away an hour well enough.  Pox, I have
+lost all appetite to her; yet she's a fine woman, and I loved her once.
+But I don't know: since I have been in a great measure kept by her, the
+case is altered; what was my pleasure is become my duty, and I have as
+little stomach to her now as if I were her husband.  Should she smoke my
+design upon Cynthia, I were in a fine pickle.  She has a damned
+penetrating head, and knows how to interpret a coldness the right way;
+therefore I must dissemble ardour and ecstasy; that's resolved.  How
+easily and pleasantly is that dissembled before fruition!  Pox on't that
+a man can't drink without quenching his thirst.  Ha! yonder comes
+Mellefont, thoughtful.  Let me think.  Meet her at eight--hum--ha!  By
+heav'n I have it.--If I can speak to my lord before.  Was it my brain or
+providence?  No matter which--I will deceive 'em all, and yet secure
+myself.  'Twas a lucky thought!  Well, this double-dealing is a jewel.
+Here he comes, now for me.  [MASKWELL, _pretending not to see him_,
+_walks by him_, _and speaks as it were to himself_.]
+
+
+
+SCENE IV.
+
+
+[_To him_] MELLEFONT, _musing_.
+
+MASK.  Mercy on us, what will the wickedness of this world come to?
+
+MEL.  How now, Jack?  What, so full of contemplation that you run over?
+
+MASK.  I'm glad you're come, for I could not contain myself any longer,
+and was just going to give vent to a secret, which nobody but you ought
+to drink down.  Your aunt's just gone from hence.
+
+MEL.  And having trusted thee with the secrets of her soul, thou art
+villainously bent to discover 'em all to me, ha?
+
+MASK.  I'm afraid my frailty leans that way.  But I don't know whether I
+can in honour discover 'em all.
+
+MEL.  All, all, man!  What, you may in honour betray her as far as she
+betrays herself.  No tragical design upon my person, I hope.
+
+MASK.  No, but it's a comical design upon mine.
+
+MEL.  What dost thou mean?
+
+MASK.  Listen and be dumb; we have been bargaining about the rate of your
+ruin--
+
+MEL.  Like any two guardians to an orphan heiress.  Well?
+
+MASK.  And whereas pleasure is generally paid with mischief, what
+mischief I do is to be paid with pleasure.
+
+MEL.  So when you've swallowed the potion you sweeten your mouth with a
+plum.
+
+MASK.  You are merry, sir, but I shall probe your constitution.  In
+short, the price of your banishment is to be paid with the person of--
+
+MEL.  Of Cynthia and her fortune.  Why, you forget you told me this
+before.
+
+MASK.  No, no.  So far you are right; and I am, as an earnest of that
+bargain, to have full and free possession of the person of--your aunt.
+
+MEL.  Ha!  Pho, you trifle.
+
+MASK.  By this light, I'm serious; all raillery apart.  I knew 'twould
+stun you.  This evening at eight she will receive me in her bedchamber.
+
+MEL.  Hell and the devil, is she abandoned of all grace?  Why, the woman
+is possessed.
+
+MASK.  Well, will you go in my stead?
+
+MEL.  By heav'n, into a hot furnace sooner.
+
+MASK.  No, you would not; it would not be so convenient, as I can order
+matters.
+
+MEL.  What d'ye mean?
+
+MASK.  Mean?  Not to disappoint the lady, I assure you.  Ha, ha, ha, how
+gravely he looks.  Come, come, I won't perplex you.  'Tis the only thing
+that providence could have contrived to make me capable of serving you,
+either to my inclination or your own necessity.
+
+MEL.  How, how, for heav'n's sake, dear Maskwell?
+
+MASK.  Why, thus.  I'll go according to appointment; you shall have
+notice at the critical minute to come and surprise your aunt and me
+together.  Counterfeit a rage against me, and I'll make my escape through
+the private passage from her chamber, which I'll take care to leave open.
+'Twill be hard if then you can't bring her to any conditions.  For this
+discovery will disarm her of all defence, and leave her entirely at your
+mercy--nay, she must ever after be in awe of you.
+
+MEL.  Let me adore thee, my better genius!  By heav'n I think it is not
+in the power of fate to disappoint my hopes--my hopes?  My certainty!
+
+MASK.  Well, I'll meet you here, within a quarter of eight, and give you
+notice.
+
+MEL.  Good fortune ever go along with thee.
+
+
+
+SCENE V.
+
+
+MELLEFONT, CARELESS.
+
+CARE.  Mellefont, get out o' th' way, my Lady Plyant's coming, and I
+shall never succeed while thou art in sight.  Though she begins to tack
+about; but I made love a great while to no purpose.
+
+MEL.  Why, what's the matter?  She's convinced that I don't care for her.
+
+CARE.  I can't get an answer from her, that does not begin with her
+honour, or her virtue, her religion, or some such cant.  Then she has
+told me the whole history of Sir Paul's nine years courtship; how he has
+lain for whole nights together upon the stairs before her chamber-door;
+and that the first favour he received from her was a piece of an old
+scarlet petticoat for a stomacher, which since the day of his marriage he
+has out of a piece of gallantry converted into a night-cap, and wears it
+still with much solemnity on his anniversary wedding-night.
+
+MEL.  That I have seen, with the ceremony thereunto belonging.  For on
+that night he creeps in at the bed's feet like a gulled bassa that has
+married a relation of the Grand Signior, and that night he has his arms
+at liberty.  Did not she tell you at what a distance she keeps him?  He
+has confessed to me that, but at some certain times, that is, I suppose,
+when she apprehends being with child, he never has the privilege of using
+the familiarity of a husband with a wife.  He was once given to
+scrambling with his hands, and sprawling in his sleep, and ever since she
+has him swaddled up in blankets, and his hands and feet swathed down, and
+so put to bed; and there he lies with a great beard, like a Russian bear
+upon a drift of snow.  You are very great with him, I wonder he never
+told you his grievances: he will, I warrant you.
+
+CARE.  Excessively foolish!  But that which gives me most hopes of her is
+her telling me of the many temptations she has resisted.
+
+MEL.  Nay, then you have her; for a woman's bragging to a man that she
+has overcome temptations is an argument that they were weakly offered,
+and a challenge to him to engage her more irresistibly.  'Tis only an
+enhancing the price of the commodity, by telling you how many customers
+have underbid her.
+
+CARE.  Nay, I don't despair.  But still she has a grudging to you.  I
+talked to her t'other night at my Lord Froth's masquerade, when I'm
+satisfied she knew me, and I had no reason to complain of my reception;
+but I find women are not the same bare-faced and in masks, and a vizor
+disguises their inclinations as much as their faces.
+
+MEL.  'Tis a mistake, for women may most properly be said to be unmasked
+when they wear vizors; for that secures them from blushing and being out
+of countenance, and next to being in the dark, or alone, they are most
+truly themselves in a vizor mask.  Here they come: I'll leave you.  Ply
+her close, and by and by clap a _billet doux_ into her hand; for a woman
+never thinks a man truly in love with her, till he has been fool enough
+to think of her out of her sight, and to lose so much time as to write to
+her.
+
+
+
+SCENE VI.
+
+
+CARELESS, SIR PAUL, _and_ LADY PLYANT.
+
+SIR PAUL.  Shan't we disturb your meditation, Mr. Careless?  You would be
+private?
+
+CARE.  You bring that along with you, Sir Paul, that shall be always
+welcome to my privacy.
+
+SIR PAUL.  O sweet sir, you load your humble servants, both me and my
+wife, with continual favours.
+
+LADY PLYANT.  Sir Paul, what a phrase was there?  You will be making
+answers, and taking that upon you which ought to lie upon me.  That you
+should have so little breeding to think Mr. Careless did not apply
+himself to me.  Pray what have you to entertain anybody's privacy?  I
+swear and declare in the face of the world I'm ready to blush for your
+ignorance.
+
+SIR PAUL.  I acquiesce, my lady; but don't snub so loud.  [_Aside to
+her_.]
+
+LADY PLYANT.  Mr. Careless, if a person that is wholly illiterate might
+be supposed to be capable of being qualified to make a suitable return to
+those obligations, which you are pleased to confer upon one that is
+wholly incapable of being qualified in all those circumstances, I'm sure
+I should rather attempt it than anything in the world, [_Courtesies_] for
+I'm sure there's nothing in the world that I would rather.  [_Courtesies_]
+But I know Mr. Careless is so great a critic, and so fine a gentleman,
+that it is impossible for me--
+
+CARE.  O heavens! madam, you confound me.
+
+SIR PAUL.  Gads-bud, she's a fine person.
+
+LADY PLYANT.  O Lord! sir, pardon me, we women have not those advantages;
+I know my imperfections.  But at the same time you must give me leave to
+declare in the face of the world that nobody is more sensible of favours
+and things; for with the reserve of my honour I assure you, Mr. Careless,
+I don't know anything in the world I would refuse to a person so
+meritorious.  You'll pardon my want of expression.
+
+CARE.  O, your ladyship is abounding in all excellence, particularly that
+of phrase.
+
+LADY PLYANT.  You are so obliging, sir.
+
+CARE.  Your ladyship is so charming.
+
+SIR PAUL.  So, now, now; now, my lady.
+
+LADY PLYANT.  So well bred.
+
+CARE.  So surprising.
+
+LADY PLYANT.  So well dressed, so _bonne mine_, so eloquent, so
+unaffected, so easy, so free, so particular, so agreeable.
+
+SIR PAUL.  Ay, so, so, there.
+
+CARE.  O Lord, I beseech you madam, don't.
+
+LADY PLYANT.  So gay, so graceful, so good teeth, so fine shape, so fine
+limbs, so fine linen, and I don't doubt but you have a very good skin,
+sir,
+
+CARE.  For heaven's sake, madam, I'm quite out of countenance.
+
+SIR PAUL.  And my lady's quite out of breath; or else you should
+hear--Gads-bud, you may talk of my Lady Froth.
+
+CARE.  O fie, fie, not to be named of a day.  My Lady Froth is very well
+in her accomplishments.  But it is when my Lady Plyant is not thought of.
+If that can ever be.
+
+LADY PLYANT.  O, you overcome me.  That is so excessive.
+
+SIR PAUL.  Nay, I swear and vow that was pretty.
+
+CARE.  O, Sir Paul, you are the happiest man alive.  Such a lady! that is
+the envy of her own sex, and the admiration of ours.
+
+SIR PAUL.  Your humble servant.  I am, I thank heaven, in a fine way of
+living, as I may say, peacefully and happily, and I think need not envy
+any of my neighbours, blessed be providence.  Ay, truly, Mr. Careless, my
+lady is a great blessing, a fine, discreet, well-spoken woman as you
+shall see, if it becomes me to say so, and we live very comfortably
+together; she is a little hasty sometimes, and so am I; but mine's soon
+over, and then I'm so sorry.--O Mr. Careless, if it were not for one
+thing--
+
+
+
+SCENE VII.
+
+
+CARELESS, SIR PAUL, LADY PLYANT, BOY _with a letter_.
+
+LADY PLYANT.  How often have you been told of that, you jackanapes?
+
+SIR PAUL.  Gad so, gad's-bud.  Tim, carry it to my lady, you should have
+carried it to my lady first.
+
+BOY.  'Tis directed to your worship.
+
+SIR PAUL.  Well, well, my lady reads all letters first.  Child, do so no
+more; d'ye hear, Tim.
+
+BOY.  No, and please you.
+
+
+
+SCENE VIII.
+
+
+CARELESS, SIR PAUL, LADY PLYANT.
+
+SIR PAUL.  A humour of my wife's: you know women have little fancies.  But
+as I was telling you, Mr. Careless, if it were not for one thing, I
+should think myself the happiest man in the world; indeed that touches me
+near, very near.
+
+CARE.  What can that be, Sir Paul?
+
+SIR PAUL.  Why, I have, I thank heaven, a very plentiful fortune, a good
+estate in the country, some houses in town, and some money, a pretty
+tolerable personal estate; and it is a great grief to me, indeed it is,
+Mr. Careless, that I have not a son to inherit this.  'Tis true I have a
+daughter, and a fine dutiful child she is, though I say it, blessed be
+providence I may say; for indeed, Mr. Careless, I am mightily beholden to
+providence.  A poor unworthy sinner.  But if I had a son!  Ah, that's my
+affliction, and my only affliction; indeed I cannot refrain tears when it
+comes in my mind.  [_Cries_.]
+
+CARE.  Why, methinks that might be easily remedied--my lady's a fine
+likely woman--
+
+SIR PAUL.  Oh, a fine likely woman as you shall see in a summer's day.
+Indeed she is, Mr. Careless, in all respects.
+
+CARE.  And I should not have taken you to have been so old--
+
+SIR PAUL.  Alas, that's not it, Mr. Careless; ah! that's not it; no, no,
+you shoot wide of the mark a mile; indeed you do, that's not it, Mr.
+Careless; no, no, that's not it.
+
+CARE.  No?  What can be the matter then?
+
+SIR PAUL.  You'll scarcely believe me when I shall tell you--my lady is
+so nice.  It's very strange, but it's true; too true--she's so very nice,
+that I don't believe she would touch a man for the world.  At least not
+above once a year; I'm sure I have found it so; and, alas, what's once a
+year to an old man, who would do good in his generation?  Indeed it's
+true, Mr. Careless, it breaks my heart.  I am her husband, as I may say;
+though far unworthy of that honour, yet I am her husband; but alas-a-day,
+I have no more familiarity with her person--as to that matter--than with
+my own mother--no indeed.
+
+CARE.  Alas-a-day, this is a lamentable story.  My lady must be told
+on't.  She must i'faith, Sir Paul; 'tis an injury to the world.
+
+SIR PAUL.  Ah! would to heaven you would, Mr. Careless; you are mightily
+in her favour.
+
+CARE.  I warrant you, what! we must have a son some way or other.
+
+SIR PAUL.  Indeed I should be mightily bound to you if you could bring it
+about, Mr. Careless.
+
+LADY PLYANT.  Here, Sir Paul, it's from your steward.  Here's a return of
+600 pounds; you may take fifty of it for the next half year.  [_Gives him
+the letter_.]
+
+
+
+SCENE IX.
+
+
+[_To them_] LORD FROTH, CYNTHIA.
+
+SIR PAUL.  How does my girl?  Come hither to thy father, poor lamb:
+thou'rt melancholic.
+
+LORD FROTH.  Heaven, Sir Paul, you amaze me, of all things in the world.
+You are never pleased but when we are all upon the broad grin: all laugh
+and no company; ah, then 'tis such a sight to see some teeth.  Sure
+you're a great admirer of my Lady Whifler, Mr. Sneer, and Sir Laurence
+Loud, and that gang.
+
+SIR PAUL.  I vow and swear she's a very merry woman; but I think she
+laughs a little too much.
+
+LORD FROTH.  Merry!  O Lord, what a character that is of a woman of
+quality.  You have been at my Lady Whifler's upon her day, madam?
+
+CYNT.  Yes, my lord.  I must humour this fool.  [_Aside_.]
+
+LORD FROTH.  Well, and how? hee!  What is your sense of the conversation?
+
+CYNT.  Oh, most ridiculous, a perpetual comfort of laughing without any
+harmony; for sure, my lord, to laugh out of time, is as disagreeable as
+to sing out of time or out of tune.
+
+LORD FROTH.  Hee, hee, hee, right; and then, my Lady Whifler is so
+ready--she always comes in three bars too soon.  And then, what do they
+laugh at?  For you know laughing without a jest is as impertinent, hee!
+as, as--
+
+CYNT.  As dancing without a fiddle.
+
+LORD FROTH.  Just i'faith, that was at my tongue's end.
+
+CYNT.  But that cannot be properly said of them, for I think they are all
+in good nature with the world, and only laugh at one another; and you
+must allow they have all jests in their persons, though they have none in
+their conversation.
+
+LORD FROTH.  True, as I'm a person of honour.  For heaven's sake let us
+sacrifice 'em to mirth a little.  [_Enter_ BOY _and whispers_ SIR PAUL.]
+
+SIR PAUL.  Gads so.--Wife, wife, my Lady Plyant, I have a word.
+
+LADY PLYANT.  I'm busy, Sir Paul, I wonder at your impertinence.
+
+CARE.  Sir Paul, harkee, I'm reasoning the matter you know.  Madam, if
+your ladyship please, we'll discourse of this in the next room.
+
+SIR PAUL.  O ho, I wish you good success, I wish you good success.  Boy,
+tell my lady, when she has done, I would speak with her below.
+
+
+
+SCENE X.
+
+
+CYNTHIA, LORD FROTH, LADY FROTH, BRISK.
+
+LADY FROTH.  Then you think that episode between Susan, the dairy-maid,
+and our coachman is not amiss; you know, I may suppose the dairy in town,
+as well as in the country.
+
+BRISK.  Incomparable, let me perish.  But then, being an heroic poem, had
+you not better call him a charioteer?  Charioteer sounds great; besides,
+your ladyship's coachman having a red face, and you comparing him to the
+sun--and you know the sun is called Heaven's charioteer.
+
+LADY FROTH.  Oh, infinitely better; I'm extremely beholden to you for the
+hint; stay, we'll read over those half a score lines again.  [_Pulls out
+a paper_.]  Let me see here, you know what goes before,--the comparison,
+you know.  [_Reads_.]
+
+   For as the sun shines ev'ry day,
+   So of our coachman I may say.
+
+BRISK.  I'm afraid that simile won't do in wet weather; because you say
+the sun shines every day.
+
+LADY FROTH.  No; for the sun it won't, but it will do for the coachman,
+for you know there's most occasion for a coach in wet weather.
+
+BRISK.  Right, right, that saves all.
+
+LADY FROTH.  Then I don't say the sun shines all the day, but that he
+peeps now and then; yet he does shine all the day too, you know, though
+we don't see him.
+
+BRISK.  Right, but the vulgar will never comprehend that.
+
+LADY FROTH.  Well, you shall hear.  Let me see.  [_Reads_.]
+
+   For as the sun shines ev'ry day,
+   So of our coachman I may say,
+   He shows his drunken fiery face,
+   Just as the sun does, more or less.
+
+BRISK.  That's right, all's well, all's well.  'More or less.'
+
+LADY FROTH reads:
+
+   And when at night his labour's done,
+   Then too, like Heav'n's charioteer the sun:
+
+Ay, charioteer does better.
+
+   Into the dairy he descends,
+   And there his whipping and his driving ends;
+   There he's secure from danger of a bilk,
+   His fare is paid him, and he sets in milk.
+
+For Susan you know, is Thetis, and so--
+
+BRISK.  Incomparable well and proper, egad--but I have one exception to
+make--don't you think bilk--(I know it's good rhyme)--but don't you think
+_bilk_ and _fare_ too like a hackney coachman?
+
+LADY FROTH.  I swear and vow I'm afraid so.  And yet our Jehu was a
+hackney coachman, when my lord took him.
+
+BRISK.  Was he?  I'm answered, if Jehu was a hackney coachman.  You may
+put that in the marginal notes though, to prevent criticism--only mark it
+with a small asterism, and say, 'Jehu was formerly a hackney coachman.'
+
+LADY FROTH.  I will.  You'd oblige me extremely to write notes to the
+whole poem.
+
+BRISK.  With all my heart and soul, and proud of the vast honour, let me
+perish.
+
+LORD FROTH.  Hee, hee, hee, my dear, have you done? won't you join with
+us?  We were laughing at my Lady Whifler and Mr. Sneer.
+
+LADY FROTH.  Ay, my dear, were you?  Oh, filthy Mr. Sneer; he's a
+nauseous figure, a most fulsamic fop, foh!  He spent two days together in
+going about Covent Garden to suit the lining of his coach with his
+complexion.
+
+LORD FROTH.  O silly! yet his aunt is as fond of him as if she had
+brought the ape into the world herself.
+
+BRISK.  Who, my Lady Toothless?  Oh, she's a mortifying spectacle; she's
+always chewing the cud like an old ewe.
+
+CYNT.  Fie, Mr. Brisk, eringo's for her cough.
+
+LADY FROTH.  I have seen her take 'em half chewed out of her mouth, to
+laugh, and then put 'em in again.  Foh!
+
+LORD FROTH.  Foh!
+
+LADY FROTH.  Then she's always ready to laugh when Sneer offers to speak,
+and sits in expectation of his no jest, with her gums bare, and her mouth
+open--
+
+BRISK.  Like an oyster at low ebb, egad.  Ha, ha, ha!
+
+CYNT.  [_Aside_]  Well, I find there are no fools so inconsiderable in
+themselves but they can render other people contemptible by exposing
+their infirmities.
+
+LADY FROTH.  Then that t'other great strapping lady--I can't hit of her
+name; the old fat fool that paints so exorbitantly.
+
+BRISK.  I know whom you mean--but deuce take me, I can't hit of her name
+neither.  Paints, d'ye say?  Why, she lays it on with a trowel.  Then she
+has a great beard that bristles through it, and makes her look as if she
+were plastered with lime and hair, let me perish.
+
+LADY FROTH.  Oh, you made a song upon her, Mr. Brisk.
+
+BRISK.  He! egad, so I did.  My lord can sing it.
+
+CYNT.  O good, my lord, let's hear it.
+
+BRISK.  'Tis not a song neither, it's a sort of an epigram, or rather an
+epigrammatic sonnet; I don't know what to call it, but it's satire.  Sing
+it, my lord.
+
+LORD FROTH sings.
+
+   Ancient Phyllis has young graces,
+   'Tis a strange thing, but a true one;
+   Shall I tell you how?
+   She herself makes her own faces,
+   And each morning wears a new one;
+   Where's the wonder now?
+
+BRISK.  Short, but there's salt in't; my way of writing, egad.
+
+
+
+SCENE XI.
+
+
+[_To them_] FOOTMAN.
+
+LADY FROTH.  How now?
+
+FOOT.  Your ladyship's chair is come.
+
+LADY FROTH.  Is nurse and the child in it?
+
+FOOT.  Yes, madam.
+
+LADY FROTH.  O the dear creature!  Let's go see it.
+
+LORD FROTH.  I swear, my dear, you'll spoil that child, with sending it
+to and again so often; this is the seventh time the chair has gone for
+her to-day.
+
+LADY FROTH.  O law!  I swear it's but the sixth--and I haven't seen her
+these two hours.  The poor creature--I swear, my lord, you don't love
+poor little Sapho.  Come, my dear Cynthia, Mr. Brisk, we'll go see Sapho,
+though my lord won't.
+
+CYNT.  I'll wait upon your ladyship.
+
+BRISK.  Pray, madam, how old is Lady Sapho?
+
+LADY FROTH.  Three-quarters, but I swear she has a world of wit, and can
+sing a tune already.  My lord, won't you go?  Won't you?  What! not to
+see Saph?  Pray, my lord, come see little Saph.  I knew you could not
+stay.
+
+
+
+SCENE XII.
+
+
+CYNTHIA _alone_.
+
+CYNT.  'Tis not so hard to counterfeit joy in the depth of affliction, as
+to dissemble mirth in company of fools.  Why should I call 'em fools?  The
+world thinks better of 'em; for these have quality and education, wit and
+fine conversation, are received and admired by the world.  If not, they
+like and admire themselves.  And why is not that true wisdom? for 'tis
+happiness: and for ought I know, we have misapplied the name all this
+while, and mistaken the thing: since
+
+   If happiness in self-content is placed,
+   The wise are wretched, and fools only bless'd.
+
+
+
+
+ACT IV.
+
+
+SCENE I.
+
+
+MELLEFONT _and_ CYNTHIA.
+
+CYNT.  I heard him loud as I came by the closet-door, and my lady with
+him, but she seemed to moderate his passion.
+
+MEL.  Ay, hell thank her, as gentle breezes moderate a fire; but I shall
+counter-work her spells, and ride the witch in her own bridle.
+
+CYNT.  It's impossible; she'll cast beyond you still.  I'll lay my life
+it will never be a match.
+
+MEL.  What?
+
+CYNT.  Between you and me.
+
+MEL.  Why so?
+
+CYNT.  My mind gives me it won't, because we are both willing.  We each
+of us strive to reach the goal, and hinder one another in the race.  I
+swear it never does well when the parties are so agreed; for when people
+walk hand in hand there's neither overtaking nor meeting.  We hunt in
+couples, where we both pursue the same game but forget one another; and
+'tis because we are so near that we don't think of coming together.
+
+MEL.  Hum, 'gad I believe there's something in it.  Marriage is the game
+that we hunt, and while we think that we only have it in view, I don't
+see but we have it in our power.
+
+CYNT.  Within reach; for example, give me your hand.  You have looked
+through the wrong end of the perspective all this while, for nothing has
+been between us but our fears.
+
+MEL.  I don't know why we should not steal out of the house this very
+moment and marry one another, without consideration or the fear of
+repentance.  Pox o' fortune, portion, settlements, and jointures.
+
+CYNT.  Ay, ay, what have we to do with 'em?  You know we marry for love.
+
+MEL.  Love, love, downright, very villainous love.
+
+CYNT.  And he that can't live upon love deserves to die in a ditch.  Here
+then, I give you my promise, in spite of duty, any temptation of wealth,
+your inconstancy, or my own inclination to change--
+
+MEL.  To run most wilfully and unreasonably away with me this moment and
+be married.
+
+CYNT.  Hold.  Never to marry anybody else.
+
+MEL.  That's but a kind of negative consent.  Why, you won't baulk the
+frolic?
+
+CYNT.  If you had not been so assured of your own conduct I would not.
+But 'tis but reasonable that since I consent to like a man without the
+vile consideration of money, he should give me a very evident
+demonstration of his wit: therefore let me see you undermine my Lady
+Touchwood, as you boasted, and force her to give her consent, and then--
+
+MEL.  I'll do't.
+
+CYNT.  And I'll do't.
+
+MEL.  This very next ensuing hour of eight o'clock is the last minute of
+her reign, unless the devil assist her _in propria persona_.
+
+CYNT.  Well, if the devil should assist her, and your plot miscarry--
+
+MEL.  Ay, what am I to trust to then?
+
+CYNT.  Why, if you give me very clear demonstration that it was the
+devil, I'll allow for irresistible odds.  But if I find it to be only
+chance, or destiny, or unlucky stars, or anything but the very devil, I'm
+inexorable: only still I'll keep my word, and live a maid for your sake.
+
+MEL.  And you won't die one, for your own, so still there's hope.
+
+CYNT.  Here's my mother-in-law, and your friend Careless; I would not
+have 'em see us together yet.
+
+
+
+SCENE II.
+
+
+CARELESS _and_ LADY PLYANT.
+
+LADY PLYANT.  I swear, Mr. Careless, you are very alluring, and say so
+many fine things, and nothing is so moving to me as a fine thing.  Well,
+I must do you this justice, and declare in the face of the world, never
+anybody gained so far upon me as yourself.  With blushes I must own it,
+you have shaken, as I may say, the very foundation of my honour.  Well,
+sure, if I escape your importunities, I shall value myself as long as I
+live, I swear.
+
+CARE.  And despise me.  [_Sighing_.]
+
+LADY PLYANT.  The last of any man in the world, by my purity; now you
+make me swear.  O gratitude forbid, that I should ever be wanting in a
+respectful acknowledgment of an entire resignation of all my best wishes
+for the person and parts of so accomplished a person, whose merit
+challenges much more, I'm sure, than my illiterate praises can
+description.
+
+CARE.  [_In a whining tone_.]  Ah heavens, madam, you ruin me with
+kindness.  Your charming tongue pursues the victory of your eyes, while
+at your feet your poor adorer dies.
+
+LADY PLYANT.  Ah!  Very fine.
+
+CARE.  [_Still whining_.]  Ah, why are you so fair, so bewitching fair?  O
+let me grow to the ground here, and feast upon that hand; O let me press
+it to my heart, my trembling heart: the nimble movement shall instruct
+your pulse, and teach it to alarm desire.  (Zoons, I'm almost at the end
+of my cant, if she does not yield quickly.)  [_Aside_.]
+
+LADY PLYANT.  O that's so passionate and fine, I cannot hear.  I am not
+safe if I stay, and must leave you.
+
+CARE.  And must you leave me!  Rather let me languish out a wretched
+life, and breath my soul beneath your feet.  (I must say the same thing
+over again, and can't help it.)  [_Aside_.]
+
+LADY PLYANT.  I swear I'm ready to languish too!  O my honour!  Whither
+is it going?  I protest you have given me the palpitation of the heart.
+
+CARE.  Can you be so cruel--
+
+LADY PLYANT.  O rise, I beseech you, say no more till you rise.  Why did
+you kneel so long?  I swear I was so transported, I did not see it.  Well,
+to show you how far you have gained upon me, I assure you, if Sir Paul
+should die, of all mankind there's none I'd sooner make my second choice.
+
+CARE.  O Heaven!  I can't out-live this night without your favour; I feel
+my spirits faint, a general dampness overspreads my face, a cold deadly
+dew already vents through all my pores, and will to-morrow wash me for
+ever from your sight, and drown me in my tomb.
+
+LADY PLYANT.  Oh, you have conquered, sweet, melting, moving sir, you
+have conquered.  What heart of marble can refrain to weep, and yield to
+such sad sayings!  [_Cries_.]
+
+CARE.  I thank Heaven, they are the saddest that I ever said.  Oh!  (I
+shall never contain laughter.)  [_Aside_.]
+
+LADY PLYANT.  Oh, I yield myself all up to your uncontrollable embraces.
+Say, thou dear dying man, when, where, and how.  Ah, there's Sir Paul.
+
+CARE.  'Slife, yonder's Sir Paul, but if he were not come, I'm so
+transported I cannot speak.  This note will inform you.  [_Gives her a
+note_.]
+
+
+
+SCENE III.
+
+
+LADY PLYANT, SIR PAUL, CYNTHIA.
+
+SIR PAUL.  Thou art my tender lambkin, and shalt do what thou wilt.  But
+endeavour to forget this Mellefont.
+
+CYNT.  I would obey you to my power, sir; but if I have not him, I have
+sworn never to marry.
+
+SIR PAUL.  Never to marry!  Heavens forbid! must I neither have sons nor
+grandsons?  Must the family of the Plyants be utterly extinct for want of
+issue male?  O impiety!  But did you swear, did that sweet creature
+swear? ha!  How durst you swear without my consent, ah?  Gads-bud, who am
+I?
+
+CYNT.  Pray don't be angry, sir, when I swore I had your consent; and
+therefore I swore.
+
+SIR PAUL.  Why then the revoking my consent does annul, or make of none
+effect your oath; so you may unswear it again.  The law will allow it.
+
+CYNT.  Ay, but my conscience never will.
+
+SIR PAUL.  Gads-bud, no matter for that, conscience and law never go
+together; you must not expect that.
+
+LADY PLYANT.  Ay, but, Sir Paul, I conceive if she has sworn, d'ye mark
+me, if she has once sworn, it is most unchristian, inhuman, and obscene
+that she should break it.  I'll make up the match again, because Mr.
+Careless said it would oblige him.  [_Aside_.]
+
+SIR PAUL.  Does your ladyship conceive so?  Why, I was of that opinion
+once too.  Nay, if your ladyship conceives so, I'm of that opinion again;
+but I can neither find my lord nor my lady to know what they intend.
+
+LADY PLYANT.  I'm satisfied that my cousin Mellefont has been much
+wronged.
+
+CYNT.  [_Aside_.]  I'm amazed to find her of our side, for I'm sure she
+loved him.
+
+LADY PLYANT.  I know my Lady Touchwood has no kindness for him; and
+besides I have been informed by Mr. Careless, that Mellefont had never
+anything more than a profound respect.  That he has owned himself to be
+my admirer 'tis true, but he was never so presumptuous to entertain any
+dishonourable notions of things; so that if this be made plain, I don't
+see how my daughter can in conscience, or honour, or anything in the
+world--
+
+SIR PAUL.  Indeed if this be made plain, as my lady, your mother, says,
+child--
+
+LADY PLYANT.  Plain!  I was informed of it by Mr. Careless.  And I assure
+you, Mr. Careless is a person that has a most extraordinary respect and
+honour for you, Sir Paul.
+
+CYNT.  [_Aside_.]  And for your ladyship too, I believe, or else you had
+not changed sides so soon; now I begin to find it.
+
+SIR PAUL.  I am much obliged to Mr. Careless really; he is a person that
+I have a great value for, not only for that, but because he has a great
+veneration for your ladyship.
+
+LADY PLYANT.  O las, no indeed, Sir Paul, 'tis upon your account.
+
+SIR PAUL.  No, I protest and vow, I have no title to his esteem, but in
+having the honour to appertain in some measure to your ladyship, that's
+all.
+
+LADY PLYANT.  O law now, I swear and declare it shan't be so; you're too
+modest, Sir Paul.
+
+SIR PAUL.  It becomes me, when there is any comparison made between--
+
+LADY PLYANT.  O fie, fie, Sir Paul, you'll put me out of countenance.
+Your very obedient and affectionate wife; that's all.  And highly
+honoured in that title.
+
+SIR PAUL.  Gads-bud, I am transported!  Give me leave to kiss your
+ladyship's hand.
+
+CYNT.  That my poor father should be so very silly!  [_Aside_.]
+
+LADY PLYANT.  My lip indeed, Sir Paul, I swear you shall.  [_He kisses
+her_, _and bows very low_.]
+
+SIR PAUL.  I humbly thank your ladyship.  I don't know whether I fly on
+ground, or walk in air.  Gads-bud, she was never thus before.  Well, I
+must own myself the most beholden to Mr. Careless.  As sure as can be,
+this is all his doing, something that he has said; well, 'tis a rare
+thing to have an ingenious friend.  Well, your ladyship is of opinion
+that the match may go forward.
+
+LADY PLYANT.  By all means.  Mr. Careless has satisfied me of the matter.
+
+SIR PAUL.  Well, why then, lamb, you may keep your oath, but have a care
+about making rash vows; come hither to me, and kiss papa.
+
+LADY PLYANT.  I swear and declare, I am in such a twitter to read Mr.
+Careless his letter, that I can't forbear any longer.  But though I may
+read all letters first by prerogative, yet I'll be sure to be unsuspected
+this time, Sir Paul.
+
+SIR PAUL.  Did your ladyship call?
+
+LADY PLYANT.  Nay, not to interrupt you, my dear.  Only lend me your
+letter, which you had from your steward to-day; I would look upon the
+account again, and may be increase your allowance.
+
+SIR PAUL.  There it is, madam, do you want a pen and ink?  [_Bows and
+gives the letter_.]
+
+LADY PLYANT.  No, no, nothing else, I thank you, Sir Paul.  So, now I can
+read my own letter under the cover of his.  [_Aside_.]
+
+SIR PAUL.  He?  And wilt thou bring a grandson at nine months end--he?  A
+brave chopping boy.  I'll settle a thousand pound a year upon the rogue
+as soon as ever he looks me in the face, I will, gads-bud.  I'm overjoyed
+to think I have any of my family that will bring children into the world.
+For I would fain have some resemblance of myself in my posterity, he,
+Thy?  Can't you contrive that affair, girl?  Do, gads-bud, think on thy
+old father, heh?  Make the young rogue as like as you can.
+
+CYNT.  I'm glad to see you so merry, sir.
+
+SIR PAUL.  Merry, gads-bud, I'm serious; I'll give thee five hundred
+pounds for every inch of him that resembles me; ah, this eye, this left
+eye!  A thousand pounds for this left eye.  This has done execution in
+its time, girl; why, thou hast my leer, hussey, just thy father's leer.
+Let it be transmitted to the young rogue by the help of imagination; why,
+'tis the mark of our family, Thy; our house is distinguished by a
+languishing eye, as the house of Austria is by a thick lip.  Ah! when I
+was of your age, hussey, I would have held fifty to one, I could have
+drawn my own picture--gads-bud I could have done--not so much as you,
+neither; but--nay, don't blush.
+
+CYNT.  I don't blush, sir, for I vow I don't understand.
+
+SIR PAUL.  Pshaw, pshaw, you fib, you baggage, you do understand, and you
+shall understand; come, don't be so nice.  Gads-bud, don't learn after
+your mother-in-law my lady here.  Marry, heaven forbid that you should
+follow her example; that would spoil all indeed.  Bless us! if you should
+take a vagary and make a rash resolution on your wedding night, to die a
+maid, as she did; all were ruined, all my hopes lost.  My heart would
+break, and my estate would be left to the wide world, he?  I hope you are
+a better Christian than to think of living a nun, he?  Answer me?
+
+CYNT.  I'm all obedience, sir, to your commands.
+
+LADY PLYANT.  [_Having read the letter_.]  O dear Mr. Careless, I swear
+he writes charmingly, and he looks charmingly, and he has charmed me, as
+much as I have charmed him; and so I'll tell him in the wardrobe when
+'tis dark.  O criminy!  I hope Sir Paul has not seen both letters.  [_Puts
+the wrong letter hastily up_, _and gives him her own_.]  Sir Paul, here's
+your letter; to-morrow morning I'll settle accounts to your advantage.
+
+
+
+SCENE IV.
+
+
+[_To them_] BRISK.
+
+BRISK.  Sir Paul, gads-bud, you're an uncivil person, let me tell you,
+and all that; and I did not think it had been in you.
+
+SIR PAUL.  O law, what's the matter now?  I hope you are not angry, Mr.
+Brisk.
+
+BRISK.  Deuce take me, I believe you intend to marry your daughter
+yourself; you're always brooding over her like an old hen, as if she were
+not well hatched, egad, he.
+
+SIR PAUL.  Good strange!  Mr. Brisk is such a merry facetious person, he,
+he, he.  No, no, I have done with her, I have done with her now.
+
+BRISK.  The fiddles have stayed this hour in the hall, and my Lord Froth
+wants a partner, we can never begin without her.
+
+SIR PAUL.  Go, go child, go, get you gone and dance and be merry; I'll
+come and look at you by and by.  Where's my son Mellefont?
+
+LADY PLYANT.  I'll send him to them, I know where he is.
+
+BRISK.  Sir Paul, will you send Careless into the hall if you meet him?
+
+SIR PAUL.  I will, I will, I'll go and look for him on purpose.
+
+
+
+SCENE V.
+
+
+BRISK _alone_.
+
+BRISK.  So now they are all gone, and I have an opportunity to practice.
+Ah!  My dear Lady Froth, she's a most engaging creature, if she were not
+so fond of that damned coxcombly lord of hers; and yet I am forced to
+allow him wit too, to keep in with him.  No matter, she's a woman of
+parts, and, egad, parts will carry her.  She said she would follow me
+into the gallery.  Now to make my approaches.  Hem, hem!  Ah ma-
+[_bows_.] dam!  Pox on't, why should I disparage my parts by thinking
+what to say?  None but dull rogues think; witty men, like rich fellows,
+are always ready for all expenses; while your blockheads, like poor needy
+scoundrels, are forced to examine their stock, and forecast the charges
+of the day.  Here she comes, I'll seem not to see her, and try to win her
+with a new airy invention of my own, hem!
+
+
+
+SCENE VI.
+
+
+[_To him_] LADY FROTH.
+
+BRISK [_Sings_, _walking about_.]  'I'm sick with love,' ha, ha, ha,
+'prithee, come cure me.  I'm sick with,' etc.  O ye powers!  O my Lady
+Froth, my Lady Froth, my Lady Froth!  Heigho!  Break heart; gods, I thank
+you.  [_Stands musing with his arms across_.]
+
+LADY FROTH.  O heavens, Mr. Brisk!  What's the matter?
+
+BRISK.  My Lady Froth!  Your ladyship's most humble servant.  The matter,
+madam?  Nothing, madam, nothing at all, egad.  I was fallen into the most
+agreeable amusement in the whole province of contemplation: that's
+all--(I'll seem to conceal my passion, and that will look like respect.)
+[_Aside_.]
+
+LADY FROTH.  Bless me, why did you call out upon me so loud?
+
+BRISK.  O Lord, I, madam!  I beseech your ladyship--when?
+
+LADY FROTH.  Just now as I came in, bless me, why, don't you know it?
+
+BRISK.  Not I, let me perish.  But did I?  Strange!  I confess your
+ladyship was in my thoughts; and I was in a sort of dream that did in a
+manner represent a very pleasing object to my imagination, but--but did I
+indeed?--To see how love and murder will out.  But did I really name my
+Lady Froth?
+
+LADY FROTH.  Three times aloud, as I love letters.  But did you talk of
+love?  O Parnassus!  Who would have thought Mr. Brisk could have been in
+love, ha, ha, ha.  O heavens, I thought you could have no mistress but
+the Nine Muses.
+
+BRISK.  No more I have, egad, for I adore 'em all in your ladyship.  Let
+me perish, I don't know whether to be splenetic, or airy upon't; the
+deuce take me if I can tell whether I am glad or sorry that your ladyship
+has made the discovery.
+
+LADY FROTH.  O be merry by all means.  Prince Volscius in love!  Ha, ha,
+ha.
+
+BRISK.  O barbarous, to turn me into ridicule!  Yet, ha, ha, ha.  The
+deuce take me, I can't help laughing myself, ha, ha, ha; yet by heavens,
+I have a violent passion for your ladyship, seriously.
+
+LADY FROTH.  Seriously?  Ha, ha, ha.
+
+BRISK.  Seriously, ha, ha, ha.  Gad I have, for all I laugh.
+
+LADY FROTH.  Ha, ha, ha!  What d'ye think I laugh at?  Ha, ha, ha.
+
+BRISK.  Me, egad, ha, ha.
+
+LADY FROTH.  No, the deuce take me if I don't laugh at myself; for hang
+me if I have not a violent passion for Mr. Brisk, ha, ha, ha.
+
+BRISK.  Seriously?
+
+LADY FROTH.  Seriously, ha, ha, ha.
+
+BRISK.  That's well enough; let me perish, ha, ha, ha.  O miraculous;
+what a happy discovery.  Ah my dear charming Lady Froth!
+
+LADY FROTH.  Oh my adored Mr. Brisk!  [_Embrace_.]
+
+
+
+SCENE VII.
+
+
+[_To them_] LORD FROTH.
+
+LORD FROTH.  The company are all ready.  How now?
+
+BRISK.  Zoons! madam, there's my lord.  [_Softly to her_.]
+
+LADY FROTH.  Take no notice, but observe me.  Now, cast off, and meet me
+at the lower end of the room, and then join hands again; I could teach my
+lord this dance purely, but I vow, Mr. Brisk, I can't tell how to come so
+near any other man.  Oh here's my lord, now you shall see me do it with
+him.  [_They pretend to practise part of a country dance_.]
+
+LORD FROTH.  Oh, I see there's no harm yet, but I don't like this
+familiarity.  [_Aside_.]
+
+LADY FROTH.  Shall you and I do our close dance, to show Mr. Brisk?
+
+LORD FROTH.  No, my dear, do it with him.
+
+LADY FROTH.  I'll do it with him, my lord, when you are out of the way.
+
+BRISK.  That's good, egad, that's good.  Deuce take me, I can hardly hold
+laughing in his face.  [_Aside_.]
+
+LORD FROTH.  Any other time, my dear, or we'll dance it below.
+
+LADY FROTH.  With all my heart.
+
+BRISK.  Come, my lord, I'll wait on you.  My charming witty angel!  [_To
+her_.]
+
+LADY FROTH.  We shall have whispering time enough, you know, since we are
+partners.
+
+
+
+SCENE VIII.
+
+
+LADY PLYANT _and_ CARELESS.
+
+LADY PLYANT.  Oh, Mr. Careless, Mr. Careless, I'm ruined, I'm undone.
+
+CARE.  What's the matter, madam?
+
+LADY PLYANT.  Oh, the unluckiest accident, I'm afraid I shan't live to
+tell it you.
+
+CARE.  Heaven forbid!  What is it?
+
+LADY PLYANT.  I'm in such a fright; the strangest quandary and premunire!
+I'm all over in a universal agitation; I dare swear every circumstance of
+me trembles.  O your letter, your letter!  By an unfortunate mistake I
+have given Sir Paul your letter instead of his own.
+
+CARE.  That was unlucky.
+
+LADY PLYANT.  Oh, yonder he comes reading of it; for heaven's sake step
+in here and advise me quickly before he sees.
+
+
+
+SCENE IX.
+
+
+SIR PAUL _with the Letter_.
+
+SIR PAUL.  O Providence, what a conspiracy have I discovered.  But let me
+see to make an end on't.  [_Reads_.]  Hum--After supper in the wardrobe
+by the gallery.  If Sir Paul should surprise us, I have a commission from
+him to treat with you about the very matter of fact.  Matter of fact!
+Very pretty; it seems that I am conducting to my own cuckoldom.  Why,
+this is the very traitorous position of taking up arms by my authority,
+against my person!  Well, let me see.  Till then I languish in
+expectation of my adored charmer.--Dying Ned Careless.  Gads-bud, would
+that were matter of fact too.  Die and be damned for a Judas Maccabeus
+and Iscariot both.  O friendship! what art thou but a name?  Henceforward
+let no man make a friend that would not be a cuckold: for whomsoever he
+receives into his bosom will find the way to his bed, and there return
+his caresses with interest to his wife.  Have I for this been pinioned,
+night after night for three years past?  Have I been swathed in blankets
+till I have been even deprived of motion?  Have I approached the marriage
+bed with reverence as to a sacred shrine, and denied myself the enjoyment
+of lawful domestic pleasures to preserve its purity, and must I now find
+it polluted by foreign iniquity?  O my Lady Plyant, you were chaste as
+ice, but you are melted now, and false as water.  But Providence has been
+constant to me in discovering this conspiracy; still, I am beholden to
+Providence.  If it were not for Providence, sure, poor Sir Paul, thy
+heart would break.
+
+
+
+SCENE X.
+
+
+[_To him_] LADY PLYANT.
+
+LADY PLYANT.  So, sir, I see you have read the letter.  Well, now, Sir
+Paul, what do you think of your friend Careless?  Has he been
+treacherous, or did you give his insolence a licence to make trial of
+your wife's suspected virtue?  D'ye see here?  [_Snatches the letter as
+in anger_.]  Look, read it.  Gads my life, if I thought it were so, I
+would this moment renounce all communication with you.  Ungrateful
+monster!  He? is it so?  Ay, I see it, a plot upon my honour; your guilty
+cheeks confess it.  Oh, where shall wronged virtue fly for reparation?
+I'll be divorced this instant.
+
+SIR PAUL.  Gads-bud, what shall I say?  This is the strangest surprise.
+Why, I don't know anything at all, nor I don't know whether there be
+anything at all in the world, or no.
+
+LADY PLYANT.  I thought I should try you, false man.  I, that never
+dissembled in my life, yet to make trial of you, pretended to like that
+monster of iniquity, Careless, and found out that contrivance to let you
+see this letter, which now I find was of your own inditing--I do,
+heathen, I do.  See my face no more; I'll be divorced presently.
+
+SIR PAUL.  O strange, what will become of me?  I'm so amazed, and so
+overjoyed, so afraid, and so sorry.  But did you give me this letter on
+purpose, he?  Did you?
+
+LADY PLYANT.  Did I?  Do you doubt me, Turk, Saracen?  I have a cousin
+that's a proctor in the Commons; I'll go to him instantly.
+
+SIR PAUL.  Hold, stay, I beseech your ladyship.  I'm so overjoyed, stay,
+I'll confess all.
+
+LADY PLYANT.  What will you confess, Jew?
+
+SIR PAUL.  Why, now, as I hope to be saved, I had no hand in this
+letter--nay, hear me, I beseech your ladyship.  The devil take me now if
+he did not go beyond my commission.  If I desired him to do any more than
+speak a good word only just for me; gads-bud, only for poor Sir Paul, I'm
+an Anabaptist, or a Jew, or what you please to call me.
+
+LADY PLYANT.  Why, is not here matter of fact?
+
+SIR PAUL.  Ay, but by your own virtue and continency that matter of fact
+is all his own doing.  I confess I had a great desire to have some
+honours conferred upon me, which lie all in your ladyship's breast, and
+he being a well-spoken man, I desired him to intercede for me.
+
+LADY PLYANT.  Did you so? presumption!  Oh, he comes, the Tarquin comes;
+I cannot bear his sight.
+
+
+
+SCENE XI.
+
+
+CARELESS, SIR PAUL.
+
+CARE.  Sir Paul, I'm glad I've met with you, 'gad, I have said all I
+could, but can't prevail.  Then my friendship to you has carried me a
+little farther in this matter.
+
+SIR PAUL.  Indeed; well sir, I'll dissemble with him a little.  [_Aside_.]
+
+CARE.  Why, faith I have in my time known honest gentlemen abused by a
+pretended coyness in their wives, and I had a mind to try my lady's
+virtue.  And when I could not prevail for you, gad, I pretended to be in
+love myself; but all in vain, she would not hear a word upon that
+subject.  Then I writ a letter to her; I don't know what effects that
+will have, but I'll be sure to tell you when I do, though by this light I
+believe her virtue is impregnable.
+
+SIR PAUL.  O Providence!  Providence!  What discoveries are here made?
+Why, this is better and more miraculous than the rest.
+
+CARE.  What do you mean?
+
+SIR PAUL.  I can't tell you, I'm so overjoyed; come along with me to my
+lady, I can't contain myself; come, my dear friend.
+
+CARE.  So, so, so, this difficulty's over.  [_Aside_.]
+
+
+
+SCENE XII.
+
+
+MELLEFONT, MASKWELL, _from different doors_.
+
+MEL.  Maskwell!  I have been looking for you--'tis within a quarter of
+eight.
+
+MASK.  My lady is just gone into my lord's closet, you had best steal
+into her chamber before she comes, and lie concealed there, otherwise she
+may lock the door when we are together, and you not easily get in to
+surprise us.
+
+MEL.  He?  You say true.
+
+MASK.  You had best make haste, for after she has made some apology to
+the company for her own and my lord's absence all this while, she'll
+retire to her chamber instantly.
+
+MEL.  I go this moment.  Now, fortune, I defy thee.
+
+
+
+SCENE XIII.
+
+
+MASKWELL _alone_.
+
+MASK.  I confess you may be allowed to be secure in your own opinion; the
+appearance is very fair, but I have an after-game to play that shall turn
+the tables, and here comes the man that I must manage.
+
+
+
+SCENE XIV.
+
+
+[_To him_] LORD TOUCHWOOD.
+
+LORD TOUCH.  Maskwell, you are the man I wished to meet.
+
+MASK.  I am happy to be in the way of your lordship's commands.
+
+LORD TOUCH.  I have always found you prudent and careful in anything that
+has concerned me or my family.
+
+MASK.  I were a villain else.  I am bound by duty and gratitude, and my
+own inclination, to be ever your lordship's servant.
+
+LORD TOUCH.  Enough.  You are my friend; I know it.  Yet there has been a
+thing in your knowledge, which has concerned me nearly, that you have
+concealed from me.
+
+MASK.  My lord!
+
+LORD TOUCH.  Nay, I excuse your friendship to my unnatural nephew thus
+far.  But I know you have been privy to his impious designs upon my wife.
+This evening she has told me all.  Her good nature concealed it as long
+as was possible; but he perseveres so in villainy, that she has told me
+even you were weary of dissuading him, though you have once actually
+hindered him from forcing her.
+
+MASK.  I am sorry, my lord, I can't make you an answer; this is an
+occasion in which I would not willing be silent.
+
+LORD TOUCH.  I know you would excuse him--and I know as well that you
+can't.
+
+MASK.  Indeed I was in hopes it had been a youthful heat that might have
+soon boiled over; but--
+
+LORD TOUCH.  Say on.
+
+MASK.  I have nothing more to say, my lord; but to express my concern;
+for I think his frenzy increases daily.
+
+LORD TOUCH.  How!  Give me but proof of it, ocular proof, that I may
+justify my dealing with him to the world, and share my fortunes.
+
+MASK.  O my lord! consider; that is hard.  Besides, time may work upon
+him.  Then, for me to do it!  I have professed an everlasting friendship
+to him.
+
+LORD TOUCH.  He is your friend; and what am I?
+
+MASK.  I am answered.
+
+LORD TOUCH.  Fear not his displeasure; I will put you out of his, and
+fortune's power, and for that thou art scrupulously honest, I will secure
+thy fidelity to him, and give my honour never to own any discovery that
+you shall make me.  Can you give me a demonstrative proof?  Speak.
+
+MASK.  I wish I could not.  To be plain, my lord, I intended this evening
+to have tried all arguments to dissuade him from a design which I
+suspect; and if I had not succeeded, to have informed your lordship of
+what I knew.
+
+LORD TOUCH.  I thank you.  What is the villain's purpose?
+
+MASK.  He has owned nothing to me of late, and what I mean now, is only a
+bare suspicion of my own.  If your lordship will meet me a quarter of an
+hour hence there, in that lobby by my lady's bed-chamber, I shall be able
+to tell you more.
+
+LORD TOUCH.  I will.
+
+MASK.  My duty to your lordship makes me do a severe piece of justice.
+
+LORD TOUCH.  I will be secret, and reward your honesty beyond your hopes.
+
+
+
+SCENE XV.
+
+
+_Scene opening_, _shows Lady Touchwood's chamber_.
+
+MELLEFONT _solus_.
+
+MEL.  Pray heaven my aunt keep touch with her assignation.  O that her
+lord were but sweating behind this hanging, with the expectation of what
+I shall see.  Hist, she comes.  Little does she think what a mine is just
+ready to spring under her feet.  But to my post.  [_Goes behind the
+hangings_.]
+
+
+
+SCENE XVI.
+
+
+LADY TOUCHWOOD.
+
+LADY TOUCH.  'Tis eight o'clock; methinks I should have found him here.
+Who does not prevent the hour of love, outstays the time; for to be dully
+punctual is too slow.  I was accusing you of neglect.
+
+
+
+SCENE XVII.
+
+
+LADY TOUCHWOOD, MASKWELL, MELLEFONT _absconding_.
+
+MASK.  I confess you do reproach me when I see you here before me; but
+'tis fit I should be still behindhand, still to be more and more indebted
+to your goodness.
+
+LADY TOUCH.  You can excuse a fault too well, not to have been to blame.
+A ready answer shows you were prepared.
+
+MASK.  Guilt is ever at a loss, and confusion waits upon it; when
+innocence and bold truth are always ready for expression.
+
+LADY TOUCH.  Not in love: words are the weak support of cold
+indifference; love has no language to be heard.
+
+MASK.  Excess of joy has made me stupid!  Thus may my lips be ever
+closed.  [_Kisses her_.]  And thus--O who would not lose his speech, upon
+condition to have joys above it?
+
+LADY TOUCH.  Hold, let me lock the door first.  [_Goes to the door_.]
+
+MASK.  [_Aside_.]  That I believed; 'twas well I left the private passage
+open.
+
+LADY TOUCH.  So, that's safe.
+
+MASK.  And so may all your pleasures be, and secret as this kiss--
+
+MEL.  And may all treachery be thus discovered.  [_Leaps out_.]
+
+LADY TOUCH.  Ah!  [_Shrieks_.]
+
+MEL.  Villain!  [_Offers to draw_.]
+
+MASK.  Nay, then, there's but one way.  [_Runs out_.]
+
+
+
+SCENE XVIII.
+
+
+LADY TOUCHWOOD, MELLEFONT.
+
+MEL.  Say you so, were you provided for an escape?  Hold, madam, you have
+no more holes to your burrow; I'll stand between you and this sally-port.
+
+LADY TOUCH.  Thunder strike thee dead for this deceit, immediate
+lightning blast thee, me, and the whole world!  Oh!  I could rack myself,
+play the vulture to my own heart, and gnaw it piecemeal, for not boding
+to me this misfortune.
+
+MEL.  Be patient.
+
+LADY TOUCH.  Be damned.
+
+MEL.  Consider, I have you on the hook; you will but flounder yourself a-
+weary, and be nevertheless my prisoner.
+
+LADY TOUCH.  I'll hold my breath and die, but I'll be free.
+
+MEL.  O madam, have a care of dying unprepared, I doubt you have some
+unrepented sins that may hang heavy, and retard your flight.
+
+LADY TOUCH.  O! what shall I do? say?  Whither shall I turn?  Has hell no
+remedy?
+
+MEL.  None; hell has served you even as heaven has done, left you to
+yourself.--You're in a kind of Erasmus paradise, yet if you please you
+may make it a purgatory; and with a little penance and my absolution all
+this may turn to good account.
+
+LADY TOUCH.  [_Aside_.]  Hold in my passion, and fall, fall a little,
+thou swelling heart; let me have some intermission of this rage, and one
+minute's coolness to dissemble.  [_She weeps_.]
+
+MEL.  You have been to blame.  I like those tears, and hope they are of
+the purest kind,--penitential tears.
+
+LADY TOUCH.  O the scene was shifted quick before me,--I had not time to
+think.  I was surprised to see a monster in the glass, and now I find
+'tis myself; can you have mercy to forgive the faults I have imagined,
+but never put in practice?--O consider, consider how fatal you have been
+to me, you have already killed the quiet of this life.  The love of you
+was the first wandering fire that e'er misled my steps, and while I had
+only that in view, I was betrayed into unthought of ways of ruin.
+
+MEL.  May I believe this true?
+
+LADY TOUCH.  O be not cruelly incredulous.--How can you doubt these
+streaming eyes?  Keep the severest eye o'er all my future conduct, and if
+I once relapse, let me not hope forgiveness; 'twill ever be in your power
+to ruin me.  My lord shall sign to your desires; I will myself create
+your happiness, and Cynthia shall be this night your bride.  Do but
+conceal my failings, and forgive.
+
+MEL.  Upon such terms I will be ever yours in every honest way.
+
+
+
+SCENE XIX.
+
+
+MASKWELL _softly introduces_ LORD TOUCHWOOD, _and retires_.
+
+MASK.  I have kept my word, he's here, but I must not be seen.
+
+
+
+SCENE XX.
+
+
+LADY TOUCHWOOD, LORD TOUCHWOOD, MELLEFONT.
+
+LORD TOUCH.  Hell and amazement, she's in tears.
+
+LADY TOUCH.  [_Kneeling_.]  Eternal blessings thank you.--Ha! my lord
+listening!  O fortune has o'erpaid me all, all! all's my own!  [_Aside_.]
+
+MEL.  Nay, I beseech you rise.
+
+LADY TOUCH.  [_Aloud_.]  Never, never!  I'll grow to the ground, be
+buried quick beneath it, e'er I'll be consenting to so damned a sin as
+incest! unnatural incest!
+
+MEL.  Ha!
+
+LADY TOUCH.  O cruel man, will you not let me go?  I'll forgive all
+that's past.  O heaven, you will not ravish me?
+
+MEL.  Damnation!
+
+LORD TOUCH.  Monster, dog! your life shall answer this!  [_Draws and runs
+at_ MELLEFONT, _is held by_ LADY TOUCHWOOD.]
+
+LADY TOUCH.  O heavens, my lord!  Hold, hold, for heaven's sake.
+
+MEL.  Confusion, my uncle!  O the damned sorceress.
+
+LADY TOUCH.  Moderate your rage, good my lord!  He's mad, alas, he's mad.
+Indeed he is, my lord, and knows not what he does.  See how wild he
+looks.
+
+MEL.  By heaven, 'twere senseless not to be mad, and see such witchcraft.
+
+LADY TOUCH.  My lord, you hear him, he talks idly.
+
+LORD TOUCH.  Hence from my sight, thou living infamy to my name; when
+next I see that face, I'll write villain in't with my sword's point.
+
+MEL.  Now, by my soul, I will not go till I have made known my wrongs.
+Nay, till I have made known yours, which, if possible, are
+greater,--though she has all the host of hell her servants.
+
+LADY TOUCH.  Alas, he raves!  Talks very poetry!  For heaven's sake away,
+my lord, he'll either tempt you to extravagance, or commit some himself.
+
+MEL.  Death and furies, will you not hear me?--Why by heaven she laughs,
+grins, points to your back; she forks out cuckoldom with her fingers, and
+you're running horn-mad after your fortune.  [_As she is going she turns
+back and smiles at him_.]
+
+LORD TOUCH.  I fear he's mad indeed.--Let's send Maskwell to him.
+
+MEL.  Send him to her.
+
+LADY TOUCH.  Come, come, good my lord, my heart aches so, I shall faint
+if I stay.
+
+
+
+SCENE XXI.
+
+
+MELLEFONT _alone_.
+
+MEL.  Oh, I could curse my stars, fate, and chance; all causes and
+accidents of fortune in this life!  But to what purpose?  Yet, 'sdeath,
+for a man to have the fruit of all his industry grow full and ripe, ready
+to drop into his mouth, and just when he holds out his hand to gather it,
+to have a sudden whirlwind come, tear up tree and all, and bear away the
+very root and foundation of his hopes:--what temper can contain?  They
+talk of sending Maskwell to me; I never had more need of him.  But what
+can he do?  Imagination cannot form a fairer and more plausible design
+than this of his which has miscarried.  O my precious aunt, I shall never
+thrive without I deal with the devil, or another woman.
+
+Women, like flames, have a destroying power,
+
+Ne'er to be quenched, till they themselves devour.
+
+
+
+
+ACT V.
+
+
+SCENE I.
+
+
+LADY TOUCHWOOD _and_ MASKWELL.
+
+LADY TOUCH.  Was't not lucky?
+
+MASK.  Lucky!  Fortune is your own, and 'tis her interest so to be.  By
+heaven I believe you can control her power, and she fears it: though
+chance brought my lord, 'twas your own art that turned it to advantage.
+
+LADY TOUCH.  'Tis true it might have been my ruin.  But yonder's my lord.
+I believe he's coming to find you: I'll not be seen.
+
+
+
+SCENE II.
+
+
+MASKWELL _alone_.
+
+MASK.  So; I durst not own my introducing my lord, though it succeeded
+well for her, for she would have suspected a design which I should have
+been puzzled to excuse.  My lord is thoughtful.  I'll be so too; yet he
+shall know my thoughts: or think he does.
+
+
+
+SCENE III.
+
+
+[_To him_] LORD TOUCHWOOD.
+
+MASK.  What have I done?
+
+LORD TOUCH.  Talking to himself!
+
+MASK.  'Twas honest--and shall I be rewarded for it?  No, 'twas honest,
+therefore I shan't.  Nay, rather therefore I ought not; for it rewards
+itself.
+
+LORD TOUCH.  Unequalled virtue!  [_Aside_.]
+
+MASK.  But should it be known, then I have lost a friend!  He was an ill
+man, and I have gained; for half myself I lent him, and that I have
+recalled: so I have served myself, and what is yet better, I have served
+a worthy lord to whom I owe myself.
+
+LORD TOUCH.  Excellent man!  [_Aside_.]
+
+MASK.  Yet I am wretched.  Oh, there is a secret burns within this
+breast, which, should it once blaze forth, would ruin all, consume my
+honest character, and brand me with the name of villain.
+
+LORD TOUCH.  Ha!
+
+MASK.  Why do I love!  Yet heaven and my waking conscience are my
+witnesses, I never gave one working thought a vent, which might discover
+that I loved, nor ever must.  No, let it prey upon my heart; for I would
+rather die, than seem once, barely seem, dishonest.  Oh, should it once
+be known I love fair Cynthia, all this that I have done would look like
+rival's malice, false friendship to my lord, and base self-interest.  Let
+me perish first, and from this hour avoid all sight and speech, and, if I
+can, all thought of that pernicious beauty.  Ha!  But what is my
+distraction doing?  I am wildly talking to myself, and some ill chance
+might have directed malicious ears this way.  [_Seems to start_, _seeing
+my lord_.]
+
+LORD TOUCH.  Start not; let guilty and dishonest souls start at the
+revelation of their thoughts, but be thou fixed, as is thy virtue.
+
+MASK.  I am confounded, and beg your Lordship's pardon for those free
+discourses which I have had with myself.
+
+LORD TOUCH.  Come, I beg your pardon that I overheard you, and yet it
+shall not need.  Honest Maskwell!  Thy and my good genius led me hither.
+Mine, in that I have discovered so much manly virtue; thine, in that thou
+shalt have due reward of all thy worth.  Give me thy hand.  My nephew is
+the alone remaining branch of all our ancient family: him I thus blow
+away, and constitute thee in his room to be my heir--
+
+MASK.  Now heaven forbid--
+
+LORD TOUCH.  No more--I have resolved.  The writings are ready drawn, and
+wanted nothing but to be signed, and have his name inserted.  Yours will
+fill the blank as well.  I will have no reply.  Let me command this time;
+for 'tis the last in which I will assume authority.  Hereafter, you shall
+rule where I have power.
+
+MASK.  I humbly would petition--
+
+LORD TOUCH.  Is't for yourself?  [MASKWELL _pauses_.]  I'll hear of
+nought for anybody else.
+
+MASK.  Then witness heaven for me, this wealth and honour was not of my
+seeking, nor would I build my fortune on another's ruin.  I had but one
+desire--
+
+LORD TOUCH.  Thou shalt enjoy it.  If all I'm worth in wealth or interest
+can purchase Cynthia, she is thine.  I'm sure Sir Paul's consent will
+follow fortune.  I'll quickly show him which way that is going.
+
+MASK.  You oppress me with bounty.  My gratitude is weak, and shrinks
+beneath the weight, and cannot rise to thank you.  What, enjoy my love!
+Forgive the transports of a blessing so unexpected, so unhoped for, so
+unthought of!
+
+LORD TOUCH.  I will confirm it, and rejoice with thee.
+
+
+
+SCENE IV.
+
+
+MASKWELL _alone_.
+
+MASK.  This is prosperous indeed.  Why let him find me out a villain,
+settled in possession of a fair estate, and full fruition of my love,
+I'll bear the railings of a losing gamester.  But should he find me out
+before!  'Tis dangerous to delay.  Let me think.  Should my lord proceed
+to treat openly of my marriage with Cynthia, all must be discovered, and
+Mellefont can be no longer blinded.  It must not be; nay, should my lady
+know it--ay, then were fine work indeed!  Her fury would spare nothing,
+though she involved herself in ruin.  No, it must be by stratagem.  I
+must deceive Mellefont once more, and get my lord to consent to my
+private management.  He comes opportunely.  Now will I, in my old way,
+discover the whole and real truth of the matter to him, that he may not
+suspect one word on't.
+
+   No mask like open truth to cover lies,
+   As to go naked is the best disguise.
+
+
+
+SCENE V.
+
+
+[_To him_] MELLEFONT.
+
+MEL.  O Maskwell, what hopes?  I am confounded in a maze of thoughts,
+each leading into one another, and all ending in perplexity.  My uncle
+will not see nor hear me.
+
+MASK.  No matter, sir, don't trouble your head: all's in my power.
+
+MEL.  How?  For heaven's sake?
+
+MASK.  Little do you think that your aunt has kept her word.  How the
+devil she wrought my lord into this dotage, I know not; but he's gone to
+Sir Paul about my marriage with Cynthia, and has appointed me his heir.
+
+MEL.  The devil he has!  What's to be done?
+
+MASK.  I have it, it must be by stratagem; for it's in vain to make
+application to him.  I think I have that in my head that cannot fail.
+Where's Cynthia?
+
+MEL.  In the garden.
+
+MASK.  Let us go and consult her: my life for yours, I cheat my lord.
+
+
+
+SCENE VI.
+
+
+LORD TOUCHWOOD, LADY TOUCHWOOD.
+
+LADY TOUCH.  Maskwell your heir, and marry Cynthia!
+
+LORD TOUCH.  I cannot do too much for so much merit.
+
+LADY TOUCH.  But this is a thing of too great moment to be so suddenly
+resolved.  Why Cynthia?  Why must he be married?  Is there not reward
+enough in raising his low fortune, but he must mix his blood with mine,
+and wed my niece?  How know you that my brother will consent, or she?
+Nay, he himself perhaps may have affections otherwhere.
+
+LORD TOUCH.  No, I am convinced he loves her.
+
+LADY TOUCH.  Maskwell love Cynthia?  Impossible!
+
+LORD TOUCH.  I tell you he confessed it to me.
+
+LADY TOUCH.  Confusion!  How's this?  [_Aside_.]
+
+LORD TOUCH.  His humility long stifled his passion.  And his love of
+Mellefont would have made him still conceal it.  But by encouragement, I
+wrung the secret from him, and know he's no way to be rewarded but in
+her.  I'll defer my farther proceedings in it till you have considered
+it; but remember how we are both indebted to him.
+
+
+
+SCENE VII.
+
+
+LADY TOUCHWOOD _alone_.
+
+LADY TOUCH.  Both indebted to him!  Yes, we are both indebted to him, if
+you knew all.  Villain!  Oh, I am wild with this surprise of treachery:
+it is impossible, it cannot be.  He love Cynthia!  What, have I been bawd
+to his designs, his property only, a baiting place?  Now I see what made
+him false to Mellefont.  Shame and distraction!  I cannot bear it, oh!
+what woman can bear to be a property?  To be kindled to a flame, only to
+light him to another's arms; oh! that I were fire indeed that I might
+burn the vile traitor.  What shall I do?  How shall I think?  I cannot
+think.  All my designs are lost, my love unsated, my revenge unfinished,
+and fresh cause of fury from unthought of plagues.
+
+
+
+SCENE VIII.
+
+
+[_To her_] SIR PAUL.
+
+SIR PAUL.  Madam, sister, my lady sister, did you see my lady my wife?
+
+LADY TOUCH.  Oh!  Torture!
+
+SIR PAUL.  Gads-bud, I can't find her high nor low; where can she be,
+think you?
+
+LADY TOUCH.  Where she's serving you, as all your sex ought to be served,
+making you a beast.  Don't you know you're a fool, brother?
+
+SIR PAUL.  A fool; he, he, he, you're merry.  No, no, not I, I know no
+such matter.
+
+LADY TOUCH.  Why, then, you don't know half your happiness.
+
+SIR PAUL.  That's a jest with all my heart, faith and troth.  But harkee,
+my lord told me something of a revolution of things; I don't know what to
+make on't.  Gads-bud, I must consult my wife:--he talks of disinheriting
+his nephew, and I don't know what.  Look you, sister, I must know what my
+girl has to trust to, or not a syllable of a wedding, gads-bud!--to show
+you that I am not a fool.
+
+LADY TOUCH.  Hear me: consent to the breaking off this marriage, and the
+promoting any other without consulting me, and I'll renounce all blood,
+all relation and concern with you for ever; nay, I'll be your enemy, and
+pursue you to destruction: I'll tear your eyes out, and tread you under
+my feet.
+
+SIR PAUL.  Why, what's the matter now?  Good Lord, what's all this for?
+Pooh, here's a joke indeed.  Why, where's my wife?
+
+LADY TOUCH.  With Careless, in the close arbour; he may want you by this
+time, as much as you want her.
+
+SIR PAUL.  Oh, if she be with Mr. Careless, 'tis well enough.
+
+LADY TOUCH.  Fool, sot, insensible ox!  But remember what I said to you,
+or you had better eat your own horns, by this light you had.
+
+SIR PAUL.  You're a passionate woman, gads-bud!  But to say truth all our
+family are choleric; I am the only peaceable person amongst 'em.
+
+
+
+SCENE IX.
+
+
+MELLEFONT, MASKWELL, _and_ CYNTHIA.
+
+MEL.  I know no other way but this he has proposed: if you have love
+enough to run the venture.
+
+CYNT.  I don't know whether I have love enough, but I find I have
+obstinacy enough to pursue whatever I have once resolved; and a true
+female courage to oppose anything that resists my will, though 'twere
+reason itself.
+
+MASK.  That's right.  Well, I'll secure the writings and run the hazard
+along with you.
+
+CYNT.  But how can the coach and six horses be got ready without
+suspicion?
+
+MASK.  Leave it to my care; that shall be so far from being suspected,
+that it shall be got ready by my lord's own order.
+
+MEL.  How?
+
+MASK.  Why, I intend to tell my lord the whole matter of our contrivance;
+that's my way.
+
+MEL.  I don't understand you.
+
+MASK.  Why, I'll tell my lord I laid this plot with you on purpose to
+betray you; and that which put me upon it, was the finding it impossible
+to gain the lady any other way, but in the hopes of her marrying you.
+
+MEL.  So.
+
+MASK.  So, why so, while you're busied in making yourself ready, I'll
+wheedle her into the coach; and instead of you, borrow my lord's
+chaplain, and so run away with her myself.
+
+MEL.  Oh, I conceive you; you'll tell him so.
+
+MASK.  Tell him so! ay; why, you don't think I mean to do so?
+
+MEL.  No, no; ha, ha, I dare swear thou wilt not.
+
+MASK.  Therefore, for our farther security, I would have you disguised
+like a parson, that if my lord should have curiosity to peep, he may not
+discover you in the coach, but think the cheat is carried on as he would
+have it.
+
+MEL.  Excellent Maskwell!  Thou wert certainly meant for a statesman or a
+Jesuit; but thou art too honest for one, and too pious for the other.
+
+MASK.  Well, get yourself ready, and meet me in half-an-hour, yonder in
+my lady's dressing-room; go by the back stairs, and so we may slip down
+without being observed.  I'll send the chaplain to you with his robes: I
+have made him my own, and ordered him to meet us to-morrow morning at St.
+Albans; there we will sum up this account, to all our satisfactions.
+
+MEL.  Should I begin to thank or praise thee, I should waste the little
+time we have.
+
+
+
+SCENE X.
+
+
+CYNTHIA, MASKWELL.
+
+MASK.  Madam, you will be ready?
+
+CYNT.  I will be punctual to the minute.  [_Going_.]
+
+MASK.  Stay, I have a doubt.  Upon second thoughts, we had better meet in
+the chaplain's chamber here, the corner chamber at this end of the
+gallery, there is a back way into it, so that you need not come through
+this door, and a pair of private stairs leading down to the stables.  It
+will be more convenient.
+
+CYNT.  I am guided by you; but Mellefont will mistake.
+
+MASK.  No, no, I'll after him immediately, and tell him.
+
+CYNT.  I will not fail.
+
+
+
+SCENE XI.
+
+
+MASKWELL _alone_.
+
+MASK.  Why, _qui vult decipi decipiatur_.--'Tis no fault of mine: I have
+told 'em in plain terms how easy 'tis for me to cheat 'em, and if they
+will not hear the serpent's hiss, they must be stung into experience and
+future caution.  Now to prepare my lord to consent to this.  But first I
+must instruct my little Levite; there is no plot, public or private, that
+can expect to prosper without one of them has a finger in't: he promised
+me to be within at this hour,--Mr. Saygrace, Mr. Saygrace!  [_Goes to the
+chamber door and knocks_.]
+
+
+
+SCENE XII.
+
+
+MASKWELL, SAYGRACE.
+
+SAYGRACE [_looking out_.]  Sweet sir, I will but pen the last line of an
+acrostic, and be with you in the twinkling of an ejaculation, in the
+pronouncing of an Amen, or before you can--
+
+MASK.  Nay, good Mr. Saygrace, do not prolong the time by describing to
+me the shortness of your stay; rather if you please, defer the finishing
+of your wit, and let us talk about our business; it shall be tithes in
+your way.
+
+SAYGRACE.  [_Enters_.]  You shall prevail: I would break off in the
+middle of a sermon to do you a pleasure.
+
+MASK.  You could not do me a greater,--except the business in hand.  Have
+you provided a habit for Mellefont?
+
+SAYGRACE.  I have; they are ready in my chamber, together with a clean
+starched band and cuffs.
+
+MASK.  Good, let them be carried to him; have you stitched the gown
+sleeve, that he may be puzzled, and waste time in putting it on?
+
+SAYGRACE.  I have: the gown will not be indued without perplexity.
+
+MASK.  Meet me in half-an-hour, here in your own chamber.  When Cynthia
+comes, let there be no light, and do not speak, that she may not
+distinguish you from Mellefont.  I'll urge haste to excuse your silence.
+
+SAYGRACE.  You have no more commands?
+
+MASK.  None: your text is short.
+
+SAYGRACE.  But pithy: and I will handle it with discretion.
+
+MASK.  It will be the first you have so served.
+
+
+
+SCENE XIII.
+
+
+LORD TOUCHWOOD, MASKWELL.
+
+LORD TOUCH.  Sure I was born to be controlled by those I should command.
+My very slaves will shortly give me rules how I shall govern them.
+
+MASK.  I am concerned to see your lordship discomposed.
+
+LORD TOUCH.  Have you seen my wife lately, or disobliged her?
+
+MASK.  No, my lord.  What can this mean?  [_Aside_.]
+
+LORD TOUCH.  Then Mellefont has urged somebody to incense her.  Something
+she has heard of you which carries her beyond the bounds of patience.
+
+MASK.  This I feared.  [_Aside_.]  Did not your lordship tell her of the
+honours you designed me?
+
+LORD TOUCH.  Yes.
+
+MASK.  'Tis that; you know my lady has a high spirit; she thinks I am
+unworthy.
+
+LORD TOUCH.  Unworthy!  'Tis an ignorant pride in her to think so.
+Honesty to me is true nobility.  However, 'tis my will it shall be so,
+and that should be convincing to her as much as reason.  By Heaven, I'll
+not be wife-ridden; were it possible, it should be done this night.
+
+MASK.  By Heaven, he meets my wishes!  [_Aside_.]  Few things are
+impossible to willing minds.
+
+LORD TOUCH.  Instruct me how this may be done, you shall see I want no
+inclination.
+
+MASK.  I had laid a small design for to-morrow (as love will be
+inventing) which I thought to communicate to your lordship.  But it may
+be as well done to-night.
+
+LORD TOUCH.  Here's company.  Come this way and tell me.
+
+
+
+SCENE XIV.
+
+
+CARELESS _and_ CYNTHIA.
+
+CARE.  Is not that he now gone out with my lord?
+
+CYNT.  Yes.
+
+CARE.  By heaven, there's treachery.  The confusion that I saw your
+father in, my Lady Touchwood's passion, with what imperfectly I overheard
+between my lord and her, confirm me in my fears.  Where's Mellefont?
+
+CYNT.  Here he comes.
+
+
+
+SCENE XV.
+
+
+[_To them_] MELLEFONT.
+
+CYNT.  Did Maskwell tell you anything of the chaplain's chamber?
+
+MEL.  No.  My dear, will you get ready?  The things are all in my
+chamber; I want nothing but the habit.
+
+CARE.  You are betrayed, and Maskwell is the villain I always thought
+him.
+
+CYNT.  When you were gone, he said his mind was changed, and bid me meet
+him in the chaplain's room, pretending immediately to follow you and give
+you notice.
+
+MEL.  How?
+
+CARE.  There's Saygrace tripping by with a bundle under his arm.  He
+cannot be ignorant that Maskwell means to use his chamber; let's follow
+and examine him.
+
+MEL.  'Tis loss of time; I cannot think him false.
+
+
+
+SCENE XVI.
+
+
+CYNTHIA, LORD TOUCHWOOD.
+
+CYNT.  My lord musing!
+
+LORD TOUCH.  He has a quick invention, if this were suddenly designed.
+Yet he says he had prepared my chaplain already.
+
+CYNT.  How's this?  Now I fear indeed.
+
+LORD TOUCH.  Cynthia here!  Alone, fair cousin, and melancholy?
+
+CYNT.  Your lordship was thoughtful.
+
+LORD TOUCH.  My thoughts were on serious business not worth your hearing.
+
+CYNT.  Mine were on treachery concerning you, and may be worth your
+hearing.
+
+LORD TOUCH.  Treachery concerning me?  Pray be plain.  Hark!  What noise?
+
+MASK.  (within)  Will you not hear me?
+
+LADY TOUCH.  (within)  No, monster! traitor!  No.
+
+CYNT.  My lady and Maskwell!  This may be lucky.  My lord, let me entreat
+you to stand behind this screen and listen: perhaps this chance may give
+you proof of what you ne'er could have believed from my suspicions.
+
+
+
+SCENE XVII.
+
+
+LADY TOUCHWOOD _with a dagger_; MASKWELL; CYNTHIA _and_ LORD TOUCHWOOD
+_abscond_, _listening_.
+
+LADY TOUCH.  You want but leisure to invent fresh falsehood, and soothe
+me to a fond belief of all your fictions: but I will stab the lie that's
+forming in your heart, and save a sin, in pity to your soul.
+
+MASK.  Strike then, since you will have it so.
+
+LADY TOUCH.  Ha!  A steady villain to the last.
+
+MASK.  Come, why do you dally with me thus?
+
+LADY TOUCH.  Thy stubborn temper shocks me, and you knew it would; this
+is cunning all, and not courage.  No; I know thee well, but thou shalt
+miss thy aim.
+
+MASK.  Ha, ha, ha!
+
+LADY TOUCH.  Ha!  Do you mock my rage?  Then this shall punish your fond,
+rash contempt.  Again smile!  [_Goes to strike_.]  And such a smile as
+speaks in ambiguity!  Ten thousand meanings lurk in each corner of that
+various face.
+
+Oh! that they were written in thy heart,
+
+That I, with this, might lay thee open to my sight!
+
+But then 'twill be too late to know--
+
+Thou hast, thou hast found the only way to turn my rage.  Too well thou
+knowest my jealous soul could never bear uncertainty.  Speak, then, and
+tell me.  Yet are you silent.  Oh, I am wildered in all passions.  But
+thus my anger melts.  [_Weeps_.]  Here, take this poniard, for my very
+spirits faint, and I want strength to hold it; thou hast disarmed my
+soul.  [_Gives the dagger_.]
+
+LORD TOUCH.  Amazement shakes me.  Where will this end?
+
+MASK.  So, 'tis well--let your wild fury have a vent; and when you have
+temper, tell me.
+
+LADY TOUCH.  Now, now, now I am calm and can hear you.
+
+MASK.  [_Aside_.]  Thanks, my invention; and now I have it for you.
+First, tell me what urged you to this violence: for your passion broke in
+such imperfect terms, that yet I am to learn the cause.
+
+LADY TOUCH.  My lord himself surprised me with the news you were to marry
+Cynthia, that you had owned our love to him, and his indulgence would
+assist you to attain your ends.
+
+CYNT.  How, my lord?
+
+LORD TOUCH.  Pray forbear all resentments for a while, and let us hear
+the rest.
+
+MASK.  I grant you in appearance all is true; I seemed consenting to my
+lord--nay, transported with the blessing.  But could you think that I,
+who had been happy in your loved embraces, could e'er be fond of an
+inferior slavery?
+
+LORD TOUCH.  Ha!  Oh, poison to my ears!  What do I hear?
+
+CYNT.  Nay, good my lord, forbear resentment; let us hear it out.
+
+LORD TOUCH.  Yes, I will contain, though I could burst.
+
+MASK.  I, that had wantoned in the rich circle of your world of love,
+could be confined within the puny province of a girl?  No.  Yet though I
+dote on each last favour more than all the rest, though I would give a
+limb for every look you cheaply throw away on any other object of your
+love: yet so far I prize your pleasures o'er my own, that all this
+seeming plot that I have laid has been to gratify your taste and cheat
+the world, to prove a faithful rogue to you.
+
+LADY TOUCH.  If this were true.  But how can it be?
+
+MASK.  I have so contrived that Mellefont will presently, in the
+chaplain's habit, wait for Cynthia in your dressing-room; but I have put
+the change upon her, that she may be other where employed.  Do you
+procure her night-gown, and with your hoods tied over your face, meet him
+in her stead.  You may go privately by the back stairs, and, unperceived,
+there you may propose to reinstate him in his uncle's favour, if he'll
+comply with your desires--his case is desperate, and I believe he'll
+yield to any conditions.  If not here, take this; you may employ it
+better than in the heart of one who is nothing when not yours.  [_Gives
+the dagger_.]
+
+LADY TOUCH.  Thou can'st deceive everybody.  Nay, thou hast deceived me;
+but 'tis as I would wish.  Trusty villain!  I could worship thee.
+
+MASK.  No more; it wants but a few minutes of the time; and Mellefont's
+love will carry him there before his hour.
+
+LADY TOUCH.  I go, I fly, incomparable Maskwell!
+
+
+
+SCENE XVIII.
+
+
+MASKWELL, CYNTHIA, LORD TOUCHWOOD.
+
+MASK.  So, this was a pinch indeed, my invention was upon the rack, and
+made discovery of her last plot.  I hope Cynthia and my chaplain will be
+ready; I'll prepare for the expedition.
+
+
+
+SCENE XIX.
+
+
+CYNTHIA _and_ LORD TOUCHWOOD.
+
+CYNT.  Now, my lord?
+
+LORD TOUCH.  Astonishment binds up my rage!  Villainy upon villainy!
+Heavens, what a long track of dark deceit has this discovered!  I am
+confounded when I look back, and want a clue to guide me through the
+various mazes of unheard-of treachery.  My wife!  Damnation!  My hell!
+
+CYNT.  My lord, have patience, and be sensible how great our happiness
+is, that this discovery was not made too late.
+
+LORD TOUCH.  I thank you, yet it may be still too late, if we don't
+presently prevent the execution of their plots;--ha, I'll do't.  Where's
+Mellefont, my poor injured nephew?  How shall I make him ample
+satisfaction?
+
+CYNT.  I dare answer for him.
+
+LORD TOUCH.  I do him fresh wrong to question his forgiveness; for I know
+him to be all goodness.  Yet my wife!  Damn her:--she'll think to meet
+him in that dressing-room.  Was't not so?  And Maskwell will expect you
+in the chaplain's chamber.  For once, I'll add my plot too:--let us haste
+to find out, and inform my nephew; and do you, quickly as you can, bring
+all the company into this gallery.  I'll expose the strumpet, and the
+villain.
+
+
+
+SCENE XX.
+
+
+LORD FROTH _and_ SIR PAUL.
+
+LORD FROTH.  By heavens, I have slept an age.  Sir Paul, what o'clock
+is't?  Past eight, on my conscience; my lady's is the most inviting
+couch, and a slumber there is the prettiest amusement!  But where's all
+the company?
+
+SIR PAUL.  The company, gads-bud, I don't know, my lord, but here's the
+strangest revolution, all turned topsy turvy; as I hope for providence.
+
+LORD FROTH.  O heavens, what's the matter?  Where's my wife?
+
+SIR PAUL.  All turned topsy turvy as sure as a gun.
+
+LORD FROTH.  How do you mean?  My wife?
+
+SIR PAUL.  The strangest posture of affairs!
+
+LORD FROTH.  What, my wife?
+
+SIR PAUL.  No, no, I mean the family.  Your lady's affairs may be in a
+very good posture; I saw her go into the garden with Mr. Brisk.
+
+LORD FROTH.  How?  Where, when, what to do?
+
+SIR PAUL.  I suppose they have been laying their heads together.
+
+LORD FROTH.  How?
+
+SIR PAUL.  Nay, only about poetry, I suppose, my lord; making couplets.
+
+LORD FROTH.  Couplets.
+
+SIR PAUL.  Oh, here they come.
+
+
+
+SCENE XXI.
+
+
+[_To them_] LADY FROTH, BRISK.
+
+BRISK.  My lord, your humble servant; Sir Paul, yours,--the finest night!
+
+LADY FROTH.  My dear, Mr. Brisk and I have been star-gazing, I don't know
+how long.
+
+SIR PAUL.  Does it not tire your ladyship?  Are not you weary with
+looking up?
+
+LADY FROTH.  Oh, no, I love it violently.  My dear, you're melancholy.
+
+LORD FROTH.  No, my dear; I'm but just awake.
+
+LADY FROTH.  Snuff some of my spirit of hartshorn.
+
+LORD FROTH.  I've some of my own, thank you, dear.
+
+LADY FROTH.  Well, I swear, Mr. Brisk, you understood astronomy like an
+old Egyptian.
+
+BRISK.  Not comparably to your ladyship; you are the very Cynthia of the
+skies, and queen of stars.
+
+LADY FROTH.  That's because I have no light but what's by reflection from
+you, who are the sun.
+
+BRISK.  Madam, you have eclipsed me quite, let me perish.  I can't answer
+that.
+
+LADY FROTH.  No matter.  Hark 'ee, shall you and I make an almanac
+together?
+
+BRISK.  With all my soul.  Your ladyship has made me the man in't
+already, I'm so full of the wounds which you have given.
+
+LADY FROTH.  O finely taken!  I swear now you are even with me.  O
+Parnassus, you have an infinite deal of wit.
+
+SIR PAUL.  So he has, gads-bud, and so has your ladyship.
+
+
+
+SCENE XXII.
+
+
+[_To them_] LADY PLYANT, CARELESS, CYNTHIA.
+
+LADY PLYANT.  You tell me most surprising things; bless me, who would
+ever trust a man?  Oh my heart aches for fear they should be all
+deceitful alike.
+
+CARE.  You need not fear, madam, you have charms to fix inconstancy
+itself.
+
+LADY PLYANT.  O dear, you make me blush.
+
+LORD FROTH.  Come, my dear, shall we take leave of my lord and lady?
+
+CYNT.  They'll wait upon your lordship presently.
+
+LADY FROTH.  Mr. Brisk, my coach shall set you down.
+
+ALL.  What's the matter?  [_A great shriek from the corner of the
+stage_.]
+
+
+
+SCENE XXIII.
+
+
+[_To them_] LADY TOUCHWOOD _runs out affrighted_, _my lord after her_,
+_like a parson_.
+
+LADY TOUCH.  Oh, I'm betrayed.  Save me, help me!
+
+LORD TOUCH.  Now what evasion, strumpet?
+
+LADY TOUCH.  Stand off, let me go.
+
+LORD TOUCH.  Go, and thy own infamy pursue thee.  You stare as you were
+all amazed,--I don't wonder at it,--but too soon you'll know mine, and
+that woman's shame.
+
+
+
+SCENE the last.
+
+
+LORD TOUCHWOOD, LORD FROTH, LADY FROTH, LADY PLYANT, SIR PAUL, CYNTHIA,
+MELLEFONT, MASKWELL, MELLEFONT _disguised in a parson's habit and pulling
+in_ MASKWELL.
+
+MEL.  Nay, by heaven you shall be seen.  Careless, your hand.  Do you
+hold down your head?  Yes, I am your chaplain, look in the face of your
+injured friend; thou wonder of all falsehood.
+
+LORD TOUCH.  Are you silent, monster?
+
+MEL.  Good heavens!  How I believed and loved this man!  Take him hence,
+for he's a disease to my sight.
+
+LORD TOUCH.  Secure that manifold villain.  [_Servants seize him_.]
+
+CARE.  Miracle of ingratitude!
+
+BRISK.  This is all very surprising, let me perish.
+
+LADY FROTH.  You know I told you Saturn looked a little more angry than
+usual.
+
+LORD TOUCH.  We'll think of punishment at leisure, but let me hasten to
+do justice in rewarding virtue and wronged innocence.  Nephew, I hope I
+have your pardon, and Cynthia's.
+
+MEL.  We are your lordship's creatures.
+
+LORD TOUCH.  And be each other's comfort.  Let me join your hands.
+Unwearied nights, and wishing days attend you both; mutual love, lasting
+health, and circling joys, tread round each happy year of your long
+lives.
+
+   Let secret villany from hence be warned;
+   Howe'er in private mischiefs are conceived,
+   Torture and shame attend their open birth;
+   Like vipers in the womb, base treachery lies,
+   Still gnawing that, whence first it did arise;
+   No sooner born, but the vile parent dies.
+
+[_Exeunt Omnes_.]
+
+
+
+
+EPILOGUE
+Spoken by MRS. MOUNTFORD.
+
+
+Could poets but foresee how plays would take,
+Then they could tell what epilogues to make;
+Whether to thank or blame their audience most.
+But that late knowledge does much hazard cost:
+Till dice are thrown, there's nothing won, nor lost.
+So, till the thief has stolen, he cannot know
+Whether he shall escape the law, or no.
+But poets run much greater hazards far
+Than they who stand their trials at the bar.
+The law provides a curb for it's own fury,
+And suffers judges to direct the jury:
+But in this court, what difference does appear!
+For every one's both judge and jury here;
+Nay, and what's worse, an executioner.
+All have a right and title to some part,
+Each choosing that in which he has most art.
+The dreadful men of learning all confound,
+Unless the fable's good, and moral sound.
+The vizor-masks, that are in pit and gallery,
+Approve, or damn, the repartee and raillery.
+The lady critics, who are better read,
+Inquire if characters are nicely bred;
+If the soft things are penned and spoke with grace;
+They judge of action too, and time, and place;
+In which we do not doubt but they're discerning,
+For that's a kind of assignation learning.
+Beaus judge of dress; the witlings judge of songs;
+The cuckoldom, of ancient right, to cits belongs.
+Thus poor poets the favour are denied
+Even to make exceptions, when they're tried.
+'Tis hard that they must every one admit:
+Methinks I see some faces in the pit
+Which must of consequence be foes to wit.
+You who can judge, to sentence may proceed;
+But though he cannot write, let him be freed
+At least from their contempt who cannot read.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE DOUBLE-DEALER: A COMEDY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

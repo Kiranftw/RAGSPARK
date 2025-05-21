@@ -1,4 +1,5 @@
 import pandas
+import numpy
 from pyspark.sql import SparkSession
 import os
 import requests
@@ -6,12 +7,14 @@ from typing import List, Dict, Any
 from functools import wraps
 import logging
 from dotenv import load_dotenv, find_dotenv
+from sentence_transformers import SentenceTransformer, util
+import google.generativeai as genai
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S"
 )
-import google.generativeai as genai
 
 class RAGSystem(object):
     def __init__(self, modelname: str = "models/gemini-2.0-flash") -> None:
@@ -33,6 +36,8 @@ class RAGSystem(object):
                 break
         if self.model is None:
             raise ValueError(f"Model {modelname} not found in available models.")
+        self.EmbeddingModel = SentenceTransformer("all-MiniLM-L6-v2")
+
 
     @staticmethod
     def ExceptionHandelling(func):
@@ -50,7 +55,8 @@ class RAGSystem(object):
         FOLDER = "DATAFILES"
         if not os.path.exists(FOLDER):
             os.makedirs(FOLDER)
-        
+        # base_url = "https://www.gutenberg.org/cache/epub/{id}/pg{id}.txt"
+        # urls = [ base_url.format(id=i) for i in range(1101, 2101) ]
         response = requests.get(url)
         if response.status_code == 200:
             filename = url.split("/")[-1]
@@ -65,3 +71,5 @@ class RAGSystem(object):
         else:
             logging.error(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
             return None
+    
+    def dataTransformation(self): -> pyspark.sql.dataframe.DataFrame:

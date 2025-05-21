@@ -1,0 +1,3195 @@
+﻿The Project Gutenberg eBook of The Sportsman: On Hunting, a Sportsman's Manual, Commonly Called Cynegeticus
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Sportsman: On Hunting, a Sportsman's Manual, Commonly Called Cynegeticus
+
+Author: Xenophon
+
+Translator: Henry Graham Dakyns
+
+Release date: January 1, 1998 [eBook #1180]
+                Most recently updated: September 16, 2008
+
+Language: English
+
+Credits: Produced by John Bickers, and David Widger
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE SPORTSMAN: ON HUNTING, A SPORTSMAN'S MANUAL, COMMONLY CALLED CYNEGETICUS ***
+
+
+
+
+Produced by John Bickers
+
+
+
+
+
+THE SPORTSMAN
+
+by Xenophon
+
+Translation by H. G. Dakyns
+
+
+
+
+          Xenophon the Athenian was born 431 B.C. He was a
+          pupil of Socrates. He marched with the Spartans,
+          and was exiled from Athens. Sparta gave him land
+          and property in Scillus, where he lived for many
+          years before having to move once more, to settle
+          in Corinth. He died in 354 B.C.
+
+          The Sportsman is a manual on hunting hares, deer
+          and wild boar, including the topics of dogs, and
+          the benefits of hunting for the young.
+
+
+
+
+     PREPARER'S NOTE
+
+     This was typed from Dakyns' series, "The Works of Xenophon," a
+     four-volume set. The complete list of Xenophon's works (though
+     there is doubt about some of these) is:
+
+     Work                                   Number of books
+
+     The Anabasis                                         7
+     The Hellenica                                        7
+     The Cyropaedia                                       8
+     The Memorabilia                                      4
+     The Symposium                                        1
+     The Economist                                        1
+     On Horsemanship                                      1
+     The Sportsman                                        1
+     The Cavalry General                                  1
+     The Apology                                          1
+     On Revenues                                          1
+     The Hiero                                            1
+     The Agesilaus                                        1
+     The Polity of the Athenians and the Lacedaemonians   2
+
+     Text in brackets "{}" is my transliteration of Greek text into
+     English using an Oxford English Dictionary alphabet table. The
+     diacritical marks have been lost.
+
+
+
+
+ON HUNTING
+
+A Sportsman's Manual
+
+Commonly Called CYNEGETICUS
+
+
+
+I
+
+To the gods themselves is due the discovery, to Apollo and Artemis,
+patrons of the chase and protectors of the hound. (1) As a guerdon they
+bestowed it upon Cheiron, (2) by reason of his uprightness, and he took
+it and was glad, and turned the gift to good account. At his feet
+sat many a disciple, to whom he taught the mystery of hunting and of
+chivalry (3)--to wit, Cephalus, Asclepius, Melanion, Nestor, Amphiaraus,
+Peleus, Telamon, Meleager, Theseus and Hippolytus, Palamedes, Odysseus,
+Menestheus, Diomed, Castor and Polydeuces, Machaon and Podaleirius,
+Antilochus, Aeneas and Achilles: of whom each in his turn was honoured
+by the gods. And let none marvel that of these the greater part, albeit
+well-pleasing to the gods, nevertheless were subject to death--which
+is the way of nature, (4) but their fame has grown--nor yet that their
+prime of manhood so far differed. The lifetime of Cheiron sufficed for
+all his scholars; the fact being that Zeus and Cheiron were brethren,
+sons of the same father but of different mothers--Zeus of Rhea, and
+Cheiron of the nymph Nais; (5) and so it is that, though older than all
+of them, he died not before he had taught the youngest--to wit, the boy
+Achilles. (6)
+
+ (1) Or, "This thing is the invention of no mortal man, but of Apollo
+    and Artemis, to whom belong hunting and dogs." For the style of
+    exordium L. Dind. cf (Ps.) Dion. "Art. rhet." ad in.; Galen,
+    "Isagog." ad in.; Alex. Aphrodis. "Probl." 2 proem.
+
+ (2) The wisest and "justest of all the centaurs," Hom. "Il." xi. 831.
+    See Kingsley, "The Heroes," p. 84.
+
+ (3) Or, "the discipline of the hunting field and other noble lore."
+
+ (4) Lit. "since that is nature, but the praise of them grew greatly."
+
+ (5) According to others, Philyra. Pind. "Pyth." iii. 1, {ethelon
+    Kheirona ke Philuridan}; cf. "Pyth." vi. 22; "Nem." iii. 43.
+
+ (6) See Paus. iii. 18. 12.
+
+Thanks to the careful heed they paid to dogs and things pertaining to
+the chase, thanks also to the other training of their boyhood, all these
+greatly excelled, and on the score of virtue were admired.
+
+If Cephalus was caught into the arms of one that was a goddess, (7)
+Asclepius (8) obtained yet greater honour. To him it was given to raise
+the dead and to heal the sick, whereby, (9) even as a god among mortal
+men, he has obtained to himself imperishable glory. Melanion (10) so far
+excelled in zest for toil that he alone of all that flower of chivalry
+who were his rivals (11) obtained the prize of noblest wedlock with
+Atalanta; while as to Nestor, what need to repeat the well-known tale?
+so far and wide for many a day has the fame of his virtue penetrated the
+ears of Hellas. (12)
+
+ (7) Hemera (al. Eos). For the rape of Cephalus see Hes. "Theog." 986;
+    Eur. "Ion," 269; Paus. i. 3. 1; iii. 18. 7.
+
+ (8) Lat. Aesculapius. Father of Podaleirius and Machaon, "the noble
+    leech," "Il." ii. 731, iv. 194, 219, xi. 518; "Od." iv. 232.
+
+ (9) Cf. "Anab." I. ii. 8; Lincke, "z. Xen. Krit." p. 299.
+
+ (10) Melanion, s. Meilanion, Paus. iii. 12. 9; v. 17. 10; v. 19. 1.
+
+ (11) "Which were his rival suitors." As to Atalanta see Paus. viii.
+    45. 2; iii. 24. 2; v. 19. 2; Grote, "H. G." i. 199 foll.
+
+ (12) Lit. "the virtue of Nestor has so far penetrated the ears of
+    Hellas that I should speak to those who know." See Hom. "Il." i.
+    247, and passim.
+
+Amphiaraus, (13) what time he served as a warrior against Thebes, won
+for himself the highest praise; and from heaven obtained the honour of a
+deathless life. (14)
+
+ (13) Amphiaraus. Pind. "Nem." ix. 13-27; "Olymp." vi. 11-16; Herod. i.
+    52; Paus. ix. 8. 2; 18. 2-4; ii. 23.2; i. 34; Liv. xlv. 27; Cic.
+    "de Div." i. 40. See Aesch. "Sept. c. Th." 392; Eur. "Phoen." 1122
+    foll.; Apollod. iii. 6; Strab. ix. 399, 404.
+
+ (14) Lit. "to be honoured ever living."
+
+Peleus kindled in the gods desire to give him Thetis, and to hymn their
+nuptials at the board of Cheiron. (15)
+
+ (15) For the marriage of Peleus and Thetis see Hom. "Il." xxiv. 61;
+    cf. Pope's rendering:
+
+To grace those nuptials from the bright abode Yourselves were present;
+when this minstrel god (Well pleased to share the feast) amid the quire
+Stood proud to hymn, and tune his youthful lyre ("Homer's Il." xxiv.)
+
+    Prof. Robinson Ellis ("Comment on Catull." lxiv.) cites numerous
+    passages: Eur. "I. in T." 701 foll., 1036 foll.; Pind. "Isthm." v.
+    24; "Pyth." iii. 87-96; Isocr. "Evag." 192. 6; Apoll. Rh. iv. 791;
+    "Il." xxiv. 61; Hes. "Theog." 1006, and "Epithal." (ap. Tsetz,
+    "Prol. ad Lycophr."):
+
+{tris makar Aiakide kai tetrakis olbie Peleu os toisd' en megarois ieron
+lekhos eisanabaineis}.
+
+The mighty Telamon (16) won from the greatest of all states and wedded
+her whom he desired, Periboea the daughter of Alcathus; (17) and when
+the first of Hellenes, (18) Heracles (19) the son of Zeus, distributed
+rewards of valour after taking Troy, to Telamon he gave Hesione. (20)
+
+ (16) See "Il." viii. 283l Paus. i. 42. 1-4.
+
+ (17) Or Alcathous, who rebuilt the walls of Megara by Apollo's aid.
+    Ov. "Met." viii. 15 foll.
+
+ (18) Reading {o protos}; or if with L. D. {tois protois}, "what time
+    Heracles was distributing to the heroes of Hellas (lit. the first
+    of the Hellenes) prizes of valour, to Telamon he gave."
+
+ (19) See Hom. "Il." v. 640; Strab. xiii. 595.
+
+ (20) See Diod. iv. 32; i. 42.
+
+Of Meleager (21) be it said, whereas the honours which he won are
+manifest, the misfortunes on which he fell, when his father (22) in old
+age forgot the goddess, were not of his own causing. (23)
+
+ (21) For the legend of Meleager see "Il." ix. 524-599, dramatised by
+    both Sophocles and Euripides, and in our day by Swinburne,
+    "Atalanta in Calydon." Cf. Paus. iii. 8. 9; viii. 54. 4; Ov.
+    "Met." viii. 300; Grote, "H. G." i. 195.
+
+ (22) i.e. Oeneus. "Il." ix. 535.
+
+ (23) Or, "may not be laid to his charge."
+
+Theseus (24) single-handed destroyed the enemies of collective Hellas;
+and in that he greatly enlarged the boundaries of his fatherland, is
+still to-day the wonder of mankind. (25)
+
+ (24) See "Mem." II. i. 14; III. v. 10; cf. Isocr. "Phil." 111; Plut.
+    "Thes." x. foll.; Diod. iv. 59; Ov. "Met." vii. 433.
+
+ (25) Or, "is held in admiration still to-day." See Thuc. ii. 15;
+    Strab. ix. 397.
+
+Hippolytus (26) was honoured by our lady Artemis and with her conversed,
+(27) and in his latter end, by reason of his sobriety and holiness, was
+reckoned among the blest.
+
+ (26) See the play of Euripides. Paus. i. 22; Diod. iv. 62.
+
+ (27) Al. "lived on the lips of men." But cf. Eur. "Hipp." 85, {soi kai
+    xeneimi kai logois s' ameibomai}. See Frazer, "Golden Bough," i.
+    6, for the Hippolytus-Virbius myth.
+
+Palamedes (28) all his days on earth far outshone those of his own times
+in wisdom, and when slain unjustly, won from heaven a vengeance such as
+no other mortal man may boast of. (29) Yet died he not at their hands
+(30) whom some suppose; else how could the one of them have been
+accounted all but best, and the other a compeer of the good? No, not
+they, but base men wrought that deed.
+
+ (28) As to Palamedes, son of Nauplius, his genius and treacherous
+    death, see Grote, "H. G." i. 400; "Mem." IV. ii. 33; "Apol." 26;
+    Plat. "Apol." 41; "Rep." vii. 522; Eur. fr. "Palam."; Ov. "Met."
+    xiii. 56; Paus. x. 31. 1; ii. 20. 3.
+
+ (29) For the vengeance see Schol. ad Eur. "Orest." 422; Philostr.
+    "Her." x. Cf. Strab. viii. 6. 2 (368); Leake, "Morea," ii. 358;
+    Baedeker, "Greece," 245.
+
+ (30) i.e. Odysseus and Diomed. (S. 11, I confess, strikes me as
+    somewhat in Xenophon's manner.) See "Mem." IV. ii. 33; "Apol." 26.
+
+Menestheus, (31) through diligence and patient care, the outcome of the
+chase, so far overshot all men in love of toil that even the chiefs
+of Hellas must confess themselves inferior in the concerns of war save
+Nestor only; and Nestor, it is said, (32) excelled not but alone might
+rival him.
+
+ (31) For Menestheus, who led the Athenians against Troy, cf. Hom.
+    "Il." ii. 552; iv. 327; Philostr. "Her." ii. 16; Paus. ii. 25. 6;
+    i. 17. 6; Plut. "Thes." 32, 35.
+
+ (32) Or, "so runs the tale," e.g. in "The Catalogue." See "Il." ii.
+    l.c.: {Nestor oios erizen}, "Only Nestor rivalled him, for he was
+    the elder by birth" (W. Leaf).
+
+Odysseus and Diomedes (33) were brilliant for many a single deed of
+arms, and mainly to these two was due the taking of Troy town. (34)
+
+ (33) The two heroes are frequently coupled in Homer, e.g. "Il." v.
+    519; x. 241, etc.
+
+ (34) Or, "were brilliant in single points, and broadly speaking were
+    the cause that Troy was taken." See Hygin. "Fab." 108; Virg.
+    "Aen." ii. 163.
+
+Castor and Polydeuces, (35) by reason of their glorious display of arts
+obtained from Cheiron, and for the high honour and prestige therefrom
+derived, are now immortal.
+
+ (35) Castor, Polydeuces, s. Pollux--the great twin brethren. See
+    Grote, "H. G." i. 232 foll.
+
+Machaon and Podaleirius (36) were trained in this same lore, and proved
+themselves adepts in works of skill, in argument and feats of arms. (37)
+
+ (36) As to the two sons of Asclepius, Machaon and Podaleirius, the
+    leaders of the Achaeans, see "Il." ii. 728; Schol. ad Pind.
+    "Pyth." iii. 14; Paus. iii. 26; iv. 3; Strab. vi. 4 (284); Diod.
+    iv. 71. 4; Grote, "H. G." i. 248.
+
+ (37) Or, "in crafts, in reasonings, and in deeds of war."
+
+Antilochus, (38) in that he died for his father, obtained so great a
+glory that, in the judgment of Hellas, to him alone belongs the title
+"philopator," "who loved his father." (39)
+
+ (38) Antilochus, son of Nestor, slain by Memnon. "Od." iv. 186 foll.;
+    Pind. "Pyth." vi. 28; Philostr. "Her." iv.; "Icon." ii. 281.
+
+ (39) Lit. "to be alone proclaimed Philopator among the Hellenes." Cf.
+    Plat. "Laws," 730 D, "He shall be proclaimed the great and perfect
+    citizen, and bear away the palm of virtue"; and for the epithet
+    see Eur. "Or." 1605; "I. A." 68.
+
+Aeneas (40) saved the ancestral gods--his father's and his mother's;
+(41) yea, and his own father also, whereby he bore off a reputation
+for piety so great that to him alone among all on whom they laid their
+conquering hand in Troy even the enemy granted not to be despoiled.
+
+ (40) As to Aeneas see Poseidon's speech, "Il." xx. 293 foll.; Grote,
+    "H. G." i. 413, 427 foll.
+
+ (41) Cf. "Hell." II. iv. 21.
+
+Achilles, (42) lastly, being nursed in this same training, bequeathed to
+after-days memorials so fair, so ample, that to speak or hear concerning
+him no man wearies.
+
+ (42) "The highest form that floated before Greek imagination was
+    Achilles," Hegel, "Lectures on the Philosophy of History" (Eng.
+    tr. p. 233); and for a beautiful elaboration of that idea, J. A.
+    Symonds, "Greek Poets," 2nd series, ch. ii.
+
+Such, by dint of that painstaking care derived from Cheiron, these all
+proved themselves; of whom all good men yet still to-day are lovers
+and all base men envious. So much so that if throughout the length and
+breadth of Hellas misfortunes at any time befell city or king, it was
+they who loosed the knot of them; (43) or if all Hellas found herself
+confronted with the hosts of the Barbarians in strife and battle,
+once again it was these who nerved the arms of Hellenes to victory and
+rendered Hellas unconquered and unconquerable.
+
+ (43) Reading {eluonto autous}, or if as L. D., {di autous}, transl.
+    "thanks to them, they were loosed."
+
+For my part, then, my advice to the young is, do not despise hunting or
+the other training of your boyhood, if you desire to grow up to be
+good men, good not only in war but in all else of which the issue is
+perfection in thought, word, and deed.
+
+
+
+II
+
+The first efforts of a youth emerging from boyhood should be directed to
+the institution of the chase, after which he should come to the rest of
+education, provided he have the means and with an eye to the same; if
+his means be ample, in a style worthy of the profit to be derived; or,
+if they be scant, let him at any rate contribute enthusiasm, in nothing
+falling short of the power he possesses.
+
+What are the aids and implements of divers sorts with which he who would
+enter on this field must equip himself? These and the theory of each
+in particular I will now explain. With a view to success in the
+work, forewarned is forearmed. Nor let such details be looked upon as
+insignificant. Without them there will be an end to practical results.
+(1)
+
+ (1) Or, "The question suggests itself--how many instruments and of
+    what sort are required by any one wishing to enter this field? A
+    list of these I propose to give, not omitting the theoretical side
+    of the matter in each case, so that whoever lays his hand to this
+    work may have some knowledge to go upon. It would be a mistake to
+    regard these details as trivial. In fact, without them the
+    undertaking might as well be let alone."
+
+The net-keeper should be a man with a real passion for the work, and
+in tongue a Hellene, about twenty years of age, of wiry build, agile at
+once and strong, with pluck enough to overcome the toils imposed on him,
+(2) and to take pleasure in the work.
+
+ (2) {toutous}, "by this, that, or the other good quality."
+
+The ordinary small nets should be made of fine Phasian or Carthaginian
+(3) flax, and so too should the road nets and the larger hayes. (4)
+These small nets should be nine-threaded (made of three strandes, and
+each strand of three threads), (5) five spans (6) in depth, (7) and two
+palms (8) at the nooses or pockets. (9) There should be no knots in
+the cords that run round, which should be so inserted as to run quite
+smoothly. (10) The road net should be twelve-threaded, and the larger
+net (or haye) sixteen. They may be of different sizes, the former
+varying from twelve to twenty-four or thirty feet, the latter from sixty
+to one hundred and twenty or one hundred and eighty feet. (11) If larger
+they will be unwieldy and hard to manage. Both should be thirty-knotted,
+and the interval of the nooses the same as in the ordinary small nets.
+At the elbow ends (12) the road net should be furnished with nipples
+(13) (or eyes), and the larger sort (the haye) with rings, and both
+alike with a running line of twisted cord. The pronged stakes (14)
+for the small nets should be ten palms high, (15) as a rule, but there
+should be some shorter ones besides; those of unequal length will be
+convenient to equalise the height on uneven ground, and those of equal
+length on level. They should be sharp-tipped so as to draw out easily
+(16) and smooth throughout. Those for the road nets should be twice the
+height, (17) and those for the big (haye) nets five spans long, (18)
+with small forks, the notches not deep; they should be stout and solid,
+of a thickness proportionate to their length. The number of props needed
+for the nets will vary--many or few, according to circumstances; a less
+number if the tension on the net be great, and a larger number when the
+nets are slack. (19)
+
+ (3) Phasian or Carchedonian. Cf. Pollux, v. 26.
+
+ (4) {arkus, enodia, diktua}.
+
+ (5)  (L. Dind. brackets.) See Pollux, v. 27, ap. Schn.
+
+ (6) {spithame}, a span (dodrans) = 7 1/2 inches. Herod. ii. 106;
+    {trispithamos}, Hes. "Op." 424; Plat. "Alc." i. 126 C; Aristot.
+    "H. A." viii. 28. 5; Polyb. v. 3-6.
+
+ (7) {to megethos}.
+
+ (8) Or, "eight fingers' breadth +" = 6 inches +. {palaiste} or
+    {palaste}, a palm or four fingers' breadth = 3 inches +.
+
+ (9) {tous brokhous}, a purse or tunnel arrangement with slip loop.
+
+ (10) Reading {upheisthosan de oi peridromoi anammatoi}. Lit. "the
+    cords that run round should be inserted without knots." See
+    Pollux, v. 28 foll.
+
+ (11) Lit. "2, 4, 5 fathoms; 10, 20, 30 fathoms."
+
+ (12) {akroleniois}, elbows, Pollux, v. 29; al. {akroliniois}, L. & S.,
+    "on the edges or borders."
+
+ (13) {mastous}, al. "tufts."
+
+ (14) {skhalides}, forks or net props. Cf. Pollux, v. 19. 31.
+
+ (15) i.e. 30 + inches = 2 1/2 + ft., say 36 inches = 3 ft.
+
+ (16) {euperispastoi ta akra}, al. "they should be made so that the
+    nets can be fitted on and off easily, with sharp points"; or "off
+    the points easily."
+
+ (17) {siplasiai}, i.e. 20 palms = 60 + inches, say 72, or 6 ft.
+
+ (18) {pentespithamoi}, i.e. 5 x 7 1/2 inches = 37 1/2 inches = 3 ft. 1
+    1/2 inch; al. 5 x 9 inches = 45 inches = 3 ft. 9 inches.
+
+ (19) Or, "if in the particular position the nets are taut, a larger if
+    they lie slack."
+
+Lastly, for the purpose of carrying the nets and hayes, for either
+sort (20) there must be a bag of calf-skin; and billhooks to cut down
+branches and stop gaps in the woods when necessary. (21)
+
+ (20) Reading, with Lenz, {ekaterois}, or if, as C. Gesner conj., {e
+    ekatera}, transl. "or either separately."
+
+ (21) Or, "for the purpose of felling wood and stopping up gaps where
+    necessary."
+
+
+
+III
+
+There are two breeds of sporting dogs: the Castorian and the fox-like.
+(1) The former get their name from Castor, in memory of the delight
+he took in the business of the chase, for which he kept this breed by
+preference. (2) The other breed is literally foxy, being the progeny
+originally of the dog and the fox, whose natures have in the course of
+ages become blent. (3)
+
+ (1) {Kastoriai}, or Laconian, approaching possibly the harrier type;
+    {alopekides}, i.e. vulpocanine, hybrid between fox and dog.
+
+ (2) Or, "get their appellation from the fact that Castor took delight
+    in the business of the chase, and kept this breed specially for
+    the purpose." Al. {diephulaxen}, "propagated and preserved the
+    breed which we now have." See Darwin, "Animals and Plants under
+    Domestication," ii. 202, 209.
+
+ (3) Or, "and through lapse of time the twofold characteristics of
+    their progenitors have become blent." See Timoth. Gaz. ap.
+    Schneid. ad loc. for an ancient superstition as to breeds.
+
+Both species present a large proportion of defective animals (4) which
+fall short of the type, as being under-sized, or crook-nosed, (5)
+or gray-eyed, (6) or near-sighted, or ungainly, or stiff-jointed, or
+deficient in strength, thin-haired, lanky, disproportioned, devoid of
+pluck or of nose, or unsound of foot. To particularise: an under-sized
+dog will, ten to one, break off from the chase (7) faint and flagging
+in the performance of his duty owing to mere diminutiveness. An aquiline
+nose means no mouth, and consequently an inability to hold the hare
+fast. (8) A blinking bluish eye implies defect of vision; (9) just as
+want of shape means ugliness. (10) The stiff-limbed dog will come
+home limping from the hunting-field; (11) just as want of strength and
+thinness of coat go hand in hand with incapacity for toil. (12)
+The lanky-legged, unsymmetrical dog, with his shambling gait and
+ill-compacted frame, ranges heavily; while the spiritless animal will
+leave his work to skulk off out of the sun into shade and lie down. Want
+of nose means scenting the hare with difficulty, or only once in a way;
+and however courageous he may be, a hound with unsound feet cannot stand
+the work, but through foot-soreness will eventually give in. (13)
+
+ (4) Or, "defective specimens (that is to say, the majority) are to be
+    noted, as follows."
+
+ (5) {grupai}.
+
+ (6) {kharopoi}. Al. Arrian, iv. 4, 5.
+
+ (7) Or, "will probably retire from the chase and throw up the business
+    through mere diminutiveness."
+
+ (8) Or, "a hook-nosed (? pig-jawed, see Stonehenge, "The Dog," p. 19,
+    4th ed.) dog has a bad mouth and cannot hold."
+
+ (9) Or, "a short-sighted, wall-eyed dog has defective vision."
+
+ (10) Or, "they are weedy, ugly brutes as a rule."
+
+ (11) Or, "stiffness of limbs means he will come off." Cf. "Mem." III.
+    xiii. 6.
+
+ (12) Lit. "a weak, thinly-haired animal is incapable of severe toil."
+
+ (13) Or, "Nor will courage compensate for unsound feet. The toil and
+    moil will be too great to endure, and owing to the pains in his
+    feet he will in the end give in."
+
+Similarly many different modes of hunting a line of scent are to be seen
+in the same species of hound. (14) One dog as soon as he has found the
+trail will go along without sign or symptom to show that he is on
+the scent; another will vibrate his ears only and keep his tail (15)
+perfectly still; while a third has just the opposite propensity: he will
+keep his ears still and wag with the tip of his tail. Others draw their
+ears together, and assuming a solemn air, (16) drop their tails, tuck
+them between their legs, and scour along the line. Many do nothing of
+the sort. (17) They tear madly about, babbling round the line when they
+light upon it, and senselessly trampling out the scent. Others again
+will make wide circuits and excursions; either forecasting the line,
+(18) they overshoot it and leave the hare itself behind, or every time
+they run against the line they fall to conjecture, and when they catch
+sight of the quarry are all in a tremor, (19) and will not advance a
+step till they see the creature begin to stir.
+
+ (14) Or, "Also the same dogs will exhibit many styles of coursing: one
+    set as soon as they have got the trail pursue it without a sign,
+    so there is no means of finding out that the animal is on the
+    track."
+
+ (15) "Stern."
+
+ (16) Or "with their noses solemnly fixed on the ground and sterns
+    lowered."
+
+ (17) Or, "have quite a different action"; "exhibit quite another
+    manner."
+
+ (18) i.e. "they cast forwards to make short cuts," of skirters too
+    lazy to run the line honestly.
+
+ (19) Reading {tremousi}, "fall a-trembling"; al. {atremousi}, stand
+    "stock-still"; i.e. are "dwellers."
+
+A particular sort may be described as hounds which, when hunting or
+pursuing, run forward with a frequent eye to the discoveries of the rest
+of the pack, because they have no confidence in themselves. Another sort
+is over-confident--not letting the cleverer members of the pack go
+on ahead, but keeping them back with nonsensical clamour. Others will
+wilfully hug every false scent, (20) and with a tremendous display of
+eagerness, whatever they chance upon, will take the lead, conscious all
+the while they are playing false; (21) whilst another sort again will
+behave in a precisely similar style out of sheer ignorance. (22) It is
+a poor sort of hound which will not leave a stale line (23) for want of
+recognising the true trail. So, too, a hound that cannot distinguish
+the trail leading to a hare's form, and scampers over that of a running
+hare, hot haste, is no thoroughbred. (24)
+
+ (20) Al. "seem to take pleasure in fondling every lie."
+
+ (21) Or, "fully aware themselves that the whole thing is a make-
+    believe."
+
+ (22) Or, "do exactly the same thing because they do not know any
+    better."
+
+ (23) {ek ton trimmon}. Lit. "keep away from beaten paths," and
+    commonly of footpaths, but here apparently of the hare's habitual
+    "run," not necessarily lately traversed, still less the true line.
+
+ (24) Lit. "A dog who on the one hand ignores the form track, and on
+    the other tears swiftly over a running track, is not a well-bred
+    dog." Al. {ta eunaia}, "traces of the form"; {ta dromaia}, "tracks
+    of a running hare." See Sturz. s.v. {dromaios}.
+
+When it comes to the actual chase, some hounds will show great ardour
+at first starting, but presently give up from weakness of spirit. Others
+will run in too hastily (25) and then balk; and go hopelessly astray, as
+if they had lost the sense of hearing altogether.
+
+ (25) So L. & S., {upotheousin} = "cut in before" the rest of the pack
+    and over-run the scent. Al. "flash in for a time, and then lose
+    the scent."
+
+Many a hound will give up the chase and return from mere distaste for
+hunting, (26) and not a few from pure affection for mankind. Others with
+their clamorous yelping on the line do their best to deceive, as if true
+and false were all one to them. (27) There are others that will not do
+that, but which in the middle of their running, (28) should they catch
+the echo of a sound from some other quarter, will leave their own
+business and incontinently tear off towards it. (29) The fact is, (30)
+they run on without clear motive, some of them; others taking too much
+for granted; and a third set to suit their whims and fancies. Others
+simply play at hunting; or from pure jealousy, keep questing about
+beside the line, continually rushing along and tumbling over one
+another. (31)
+
+ (26) Or, {misotheron}, "out of antipathy to the quarry." For
+    {philanthropon} cf. Pollux, ib. 64; Hermog. ap. L. Dind.
+
+ (27) Or, "unable apparently to distinguish false from true." See
+    Sturz, s.v. {poieisthai}. Cf. Plut. "de Exil." 6. Al. "Gaily
+    substituting false for true."
+
+ (28) "In the heat of the chase."
+
+ (29) "Rush to attack it."
+
+ (30) The fact is, there are as many different modes of following up
+    the chase almost as there are dogs. Some follow up the chase
+    {asaphos}, indistinctly; some {polu upolambanousai}, with a good
+    deal of guess-work; others again {doxazousai}, without conviction,
+    insincerely; others, {peplasmenos}, out of mere pretence, pure
+    humbug, make-believe, or {phthoneros}, in a fit of jealousy,
+    {ekkunousi}, are skirters; al. {ekkinousi}, Sturz, quit the scent.
+
+ (31) Al. "unceasingly tearing along, around, and about it."
+
+The majority of these defects are due to natural disposition, though
+some must be assigned no doubt to want of scientific training. In either
+case such hounds are useless, and may well deter the keenest sportsman
+from the hunting field. (32)
+
+ (32) Or, "Naturally, dogs like these damp the sportsman's ardour, and
+    indeed are enough to sicken him altogether with the chase."
+
+The characters, bodily and other, exhibited by the finer specimens of
+the same breed, (33) I will now set forth.
+
+ (33) Or, "The features, points, qualities, whether physical or other,
+    which characterise the better individuals." But what does Xenophon
+    mean by {tou autou genous}?
+
+
+
+IV
+
+In the first place, this true type of hound should be of large build;
+and, in the next place, furnished with a light small head, broad and
+flat in the snout, (1) well knit and sinewy, the lower part of the
+forehead puckered into strong wrinkles; eyes set well up (2) in the
+head, black and bright; forehead large and broad; the depression between
+the eyes pronounced; (3) ears long (4) and thin, without hair on the
+under side; neck long and flexible, freely moving on its pivot; (5)
+chest broad and fairly fleshy; shoulder-blades detached a little from
+the shoulders; (6) the shin-bones of the fore-legs should be small,
+straight, round, stout and strong; the elbows straight; ribs (7) not
+deep all along, but sloped away obliquely; the loins muscular, in size
+a mean between long and short, neither too flexible nor too stiff; (8)
+flanks, a mean between large and small; the hips (or "couples") rounded,
+fleshy behind, not tied together above, but firmly knitted on the
+inside; (9) the lower or under part of the belly (10) slack, and the
+belly itself the same, that is, hollow and sunken; tail long, straight,
+and pointed; (11) thighs (i.e. hams) stout and compact; shanks (i.e.
+lower thighs) long, round, and solid; hind-legs much longer than the
+fore-legs, and relatively lean; feet round and cat-like. (12)
+
+ (1) Pollux, v. 7; Arrian, "Cyn." iv.
+
+ (2) {meteora}, prominent.?See Sturz, s.v.
+
+ (3) {tas diakriseis batheias}, lit. "with a deep frontal sinus."
+
+ (4) Reading {makra}, or if {mikra}, "small."
+
+ (5) Al. "well rounded."
+
+ (6) "Shoulder blades standing out a little from the shoulders"; i.e.
+    "free."
+
+ (7) i.e. "not wholly given up to depth, but well curved"; depth is not
+    everything unless the ribs be also curved. Schneid. cf. Ov. "Met."
+    iii. 216, "et substricta gerens Sicyonius ilia Ladon," where the
+    poet is perhaps describing a greyhound, "chyned like a bream." See
+    Stonehenge, pp. 21, 22. Xenophon's "Castorians" were more like the
+    Welsh harrier in build, I presume.
+
+ (8) Or, "neither soft and spongy nor unyielding." See Stoneh., p. 23.
+
+ (9) "Drawn up underneath it," lit. "tucked up."
+
+ (10) Al. "flank," "flanks themselves."
+
+ (11) Or, as we should say, "stern." See Pollux, v. 59; Arrian, v. 9.
+
+ (12) See Stonehenge, p. 24 foll.
+
+Hounds possessed of these points will be strong in build, and at the
+same time light and active; they will have symmetry at once and pace; a
+bright, beaming expression; and good mouths.
+
+In following up scent, (13) see how they show their mettle by rapidly
+quitting beaten paths, keeping their heads sloping to the ground,
+smiling, as it were to greet the trail; see how they let their ears
+drop, how they keep moving their eyes to and fro quickly, flourishing
+their sterns. (14) Forwards they should go with many a circle towards
+the hare's form, (15) steadily guided by the line, all together. When
+they are close to the hare itself, they will make the fact plain to the
+huntsman by the quickened pace at which they run, as if they would let
+him know by their fury, by the motion of head and eyes, by rapid changes
+of gait and gesture, (16) now casting a glance back and now fixing their
+gaze steadily forward to the creature's hiding-place, (17) by twistings
+and turnings of the body, flinging themselves backwards, forwards, and
+sideways, and lastly, by the genuine exaltation of spirits, visible
+enough now, and the ecstasy of their pleasure, that they are close upon
+the quarry.
+
+ (13) Lit. "Let them follow up the trail."
+
+ (14) Lit. "fawning and wagging their tails."
+
+ (15) Lit. "bed" or "lair."
+
+ (16) Or, "by rapid shiftings of attitude, by looks now thrown backward
+    and now forwards to the..." Reading {kai apo ton anablemmaton
+    kai emblemmaton ton epi tas kathedras tou l.}, or if with L. D.,
+    {kai apo ton a. kai emblemmaton eis ton ulen kai anastremmaton ton
+    epi tas k.}, transl. "now looking back at the huntsman and now
+    staring hard into the covert, and again right-about-face in the
+    direction of the hare's sitting-place."
+
+ (17) Lit. "form"; "the place where puss is seated."
+
+Once she is off, the pack should pursue with vigour. (18) They must
+not relax their hold, but with yelp and bark full cry insist on keeping
+close and dogging puss at every turn. Twist for twist and turn for turn,
+they, too, must follow in a succession of swift and brilliant bursts,
+interrupted by frequent doublings; while ever and again they give tongue
+and yet again till the very welkin rings. (19) One thing they must not
+do, and that is, leave the scent and return crestfallen to the huntsman.
+(20)
+
+ (18) Lit. "let them follow up the chase vigorously, and not relax,
+    with yelp and bark."
+
+ (19) {dikaios}, Sturz, "non temere"; "and not without good reason."
+    Al. "a right good honest salvo of barks."
+
+ (20) Lit. "Let them not hark back to join the huntsman, and desert the
+    trail."
+
+Along with this build and method of working, hounds should possess four
+points. They should have pluck, sound feet, keen noses, and sleek coats.
+The spirited, plucky hound will prove his mettle by refusing to leave
+the chase, however stifling the weather; a good nose is shown by his
+capacity for scenting the hare on barren and dry ground exposed to the
+sun, and that when the orb is at the zenith; (21) soundness of foot in
+the fact that the dog may course over mountains during the same season,
+and yet his feet will not be torn to pieces; and a good coat means the
+possession of light, thick, soft, and silky hair. (22)
+
+ (21) i.e. "at mid-day"; or, "in the height of summer"; al. "during the
+    dog-days"; "at the rising of the dog-star."
+
+ (22) See Pollux, ib. 59; Arrian, vi. 1.
+
+As to the colour proper for a hound, (23) it should not be simply tawny,
+nor absolutely black or white, which is not a sign of breeding, but
+monotonous--a simplicity suggestive of the wild animal. (24) Accordingly
+the red dog should show a bloom of white hair about the muzzle, and
+so should the black, the white commonly showing red. On the top of the
+thigh the hair should be straight and thick, as also on the loins and on
+the lower portion of the stern, but of a moderate thickness only on the
+upper parts.
+
+ (23) See Stonehenge, p. 25; Darwin, op. cit. ii. 109.
+
+ (24) But see Pollux, ib. 65, who apparently read {gennaion touto to
+    aploun alla therides}; al. Arrian, vi. See Jaques de Fouilloux,
+    "La Venerie" (ap. E. Talbot, "Oeuvres completes de Xenophon,"
+    traduction, ii. 318).
+
+There is a good deal to be said for taking your hounds frequently into
+the mountains; not so much for taking them on to cultivated land. (25)
+And for this reason: the fells offer facilities for hunting and for
+following the quarry without interruption, while cultivated land, owing
+to the number of cross roads and beaten paths, presents opportunities
+for neither. Moreover, quite apart from finding a hare, it is an
+excellent thing to take your dogs on to rough ground. It is there they
+will become sound of foot, and in general the benefit to their physique
+in working over such ground will amply repay you. (26)
+
+ (25) Or, "pretty often, and less frequently over."
+
+ (26) Lit. "they must be benefited in their bodies generally by working
+    over such ground."
+
+They should be taken out in summer till mid-day; in winter from sunrise
+to sundown; in autumn any time except mid-day; and in spring any time
+before evening. These times will hit the mean of temperature. (27)
+
+ (27) Or, "You may count on a moderate temperature at these times."
+
+
+
+V
+
+The tracks of hares are long in winter owing to the length of night, and
+short for the opposite reason during summer. In winter, however, their
+scent does not lie in early morning, when the rime is on the ground, or
+earth is frozen. (1) The fact is, hoar frost by its own inherent force
+absorbs its heat, whilst black frost freezes it. (2)
+
+ (1) Or, "when there is hoar frost or black frost" (lit. "ice").
+
+ (2) Or, "the ice congeals them," "encases as it were in itself the
+    heat," i.e. the warm scent; aliter, "causes the tracks to freeze
+    at the top."
+
+The hounds, moreover, with their noses nipped by the cold, (3) cannot
+under these conditions (4) use their sense of smell, until the sun
+or the mere advance of day dissolves the scent. Then the noses of the
+hounds recover, and the scent of the trail begins to exhale itself
+perceptibly. (5)
+
+ (3) Reading {malkiosai}, Cobet, "N. Lect." 131. "Mnem." 3, 306;
+    Rutherford, "N. Phry." p. 135. = "nipped, or numb with cold." For
+    vulg. {malakiosai} = "whose noses are tender," see Lenz ad loc.
+
+ (4) Lit. "when the tracks are in this case."
+
+ (5) As it evaporates. Aliter, "is perceptible to smell as it is wafted
+    by the breeze to greet them."
+
+Heavy dews also will obliterate scent by its depressing effect; (6) and
+rains occurring after long intervals, while bringing out odours from
+the earth, (7) will render the soil bad for scent until it dries again.
+Southerly winds will not improve scent--being moisture-laden they
+disperse it; whereas northerly winds, provided the scent has not been
+previously destroyed, tend to fix and preserve it. Rains will drown
+and wash it away, and so will drizzle; while the moon by her heat
+(8)--especially a full moon--will dull its edge; in fact the trail is
+rarest--most irregular (9)--at such times, for the hares in their joy
+at the light with frolic and gambol (10) literally throw themselves high
+into the air and set long intervals between one footfall and another.
+Or again, the trail will become confused and misleading when crossed by
+that of foxes. (11)
+
+ (6) Cf. Plut. "Q. Nat." 917 F, ap. Schneid.
+
+ (7) Cf. Theophr. "C. Pl." xix. 5, 6; xx. 4.
+
+ (8) Reading {to thermo}. Aristot. "Gen. An." iv. 10. Zeune cf. Plut.
+    "Symp." iii. 10, 657. Macrob. "Sat." vii. 16; Athen. 276 E. Al.
+    {to thermon}. See Lenz ad loc., "the moon, especially a full moon,
+    dulls the heat (or odour) of the tracks."
+
+ (9) Cf. Poll. v. 67; ib. 66.
+
+ (10) "Playing with one another, in the rivalry of sport."
+
+ (11) Lit. "when foxes have gone through before."
+
+Spring with its tempered mildness is the season to render the scent
+clear, except where possibly the soil, bursting with flowers, may
+mislead the pack, by mingling the perfume of flowers with the true
+scent. (12) In summer scent is thin and indistinct; the earth being
+baked through and through absorbs the thinner warmth inherent in the
+trail, while the dogs themselves are less keen scented at that season
+through the general relaxation of their bodies. (13) In autumn scent
+lies clean, all the products of the soil by that time, if cultivable,
+being already garnered, or, if wild, withered away with age, so that
+the odours of various fruits are no longer a disturbing cause through
+blowing on to the line. (14) In winter, summer, and autumn, moreover,
+as opposed to spring, the trail of a hare lies for the most part in
+straight lines, but in the earlier season it is highly complicated, for
+the little creatures are perpetually coupling and particularly at this
+season, so that of necessity as they roam together for the purpose they
+make the line intricate as described.
+
+ (12) i.e. "with the scent into a composite and confusing whole."
+
+ (13) Or, "owing to the relaxed condition of their frames."
+
+ (14) Lit. "The fruity odours do not, as commingling currents, injure
+    the trail."
+
+The scent of the line leading to the hare's form lies longer than that
+of a hare on the run, and for this reason: in proceeding to her form the
+hare keeps stopping, (15) the other is in rapid motion; consequently,
+the ground in one case is thickly saturated all along with scent, in the
+other sparsely and superficially. So, too, scent lies better in woody
+than on barren ground, since, whilst running to and fro or sitting up,
+the creature comes in contact with a variety of objects. Everything
+that earth produces or bears upon her bosom will serve as puss's
+resting-place. These are her screen, her couch, her canopy; (16) apart,
+it may be, or close at hand, or at some middle point, among them she
+lies ensconced. At times, with an effort taxing all her strength, she
+will spring across to where some jutting point or clinging undergrowth
+on sea or freshet may attract her.
+
+ (15) "The form tracks are made by the hare leisurely proceeding and
+    stopping at times; those on the run quickly."
+
+ (16) Lit. "Anything and everything will serve to couch under, or
+    above, within, beside, now at some distance off, and now hard by,
+    and now midway between."
+
+The couching hare (17) constructs her form for the most part in
+sheltered spots during cold weather and in shady thickets during the hot
+season, but in spring and autumn on ground exposed to the sun. Not so
+the running (18) animal, for the simple reason that she is scared out of
+her wits by the hounds. (19)
+
+ (17) "The form-frequenting hare."
+
+ (18) "Her roving congener," i.e. the hunted hare that squats. The
+    distinction drawn is between the form chosen by the hare for her
+    own comfort, and her squatting-place to escape the hounds when
+    hunted.
+
+ (19) i.e. "the dogs have turned her head and made her as mad as a
+    March hare."
+
+In reclining the hare draws up the thighs under the flanks, (20) putting
+its fore-legs together, as a rule, and stretching them out, resting
+its chin on the tips of its feet. It spreads its ears out over the
+shoulder-blades, and so shelters the tender parts of its body; its hair
+serves as a protection, (21) being thick and of a downy texture. When
+awake it keeps on blinking its eyelids, (22) but when asleep the eyelids
+remain wide open and motionless, and the eyes rigidly fixed; during
+sleep it moves its nostrils frequently, if awake less often.
+
+ (20) Pollux, v. 72.
+
+ (21) Or, "as a waterproof."
+
+ (22) So Pollux, ib.
+
+When the earth is bursting with new verdure, (23) fields and farm-lands
+rather than mountains are their habitat. (24) When tracked by the
+huntsman their habit is everywhere to await approach, except only in
+case of some excessive scare during the night, in which case they will
+be on the move.
+
+ (23) "When the ground teems with vegetation."
+
+ (24) Or, "they frequent cultivated lands," etc.
+
+The fecundity of the hare is extraordinary. The female, having produced
+one litter, is on the point of producing a second when she is already
+impregnated for a third. (25)
+
+ (25) Re hyper-foetation cf. Pollux, v. 73, ap. Schneid.; Herod. iii.
+    108; Aristot. "H. A." iv. 5; Erastosthenes, "Catasterism," 34;
+    Aelian, "V. H." ii. 12; Plin. "N. H." vii. 55.
+
+The scent of the leveret lies stronger (26) than that of the grown
+animal. While the limbs are still soft and supple they trail full length
+on the ground. Every true sportsman, however, will leave these quite
+young creatures to roam freely. (27) "They are for the goddess."
+Full-grown yearlings will run their first chase very swiftly, (28) but
+they cannot keep up the pace; in spite of agility they lack strength.
+
+ (26) Cf. Pollux, v. 74.
+
+ (27) {aphiasi}, cf. Arrian, xxii. 1, "let them go free"; Aesch. "P.
+    V." 666; Plat. "Prot." 320 A.
+
+ (28) Or, "will make the running over the first ring."
+
+To find the trail you must work the dogs downwards through the
+cultivated lands, beginning at the top. Any hares that do not come into
+the tilled districts must be sought in the meadows and the glades; near
+rivulets, among the stones, or in woody ground. If the quarry makes off,
+(29) there should be no shouting, that the hounds may not grow too eager
+and fail to discover the line. When found by the hounds, and the chase
+has begun, the hare will at times cross streams, bend and double and
+creep for shelter into clefts and crannied lurking-places; (30) since
+they have not only the hounds to dread, but eagles also; and, so long as
+they are yearlings, are apt to be carried off in the clutches of these
+birds, in the act of crossing some slope or bare hillside. When they are
+bigger they have the hounds after them to hunt them down and make away
+with them. The fleetest-footed would appear to be those of the low
+marsh lands. The vagabond kind (31) addicted to every sort of ground
+are difficult to hunt, for they know the short cuts, running chiefly
+up steeps or across flats, over inequalities unequally, and downhill
+scarcely at all.
+
+ (29) Or, "shifts her ground."
+
+ (30) Or, "in their terror not of dogs only, but of eagles, since up to
+    a year old they are liable to be seized by these birds of prey
+    while crossing some bottom or bare ground, while if bigger..."
+
+ (31) {oi... planetai}, see Ael. op. cit. xiii. 14.
+
+Whilst being hunted they are most visible in crossing ground that has
+been turned up by the plough, if, that is, they have any trace of red
+about them, or through stubble, owing to reflection. So, too, they are
+visible enough on beaten paths or roads, presuming these are fairly
+level, since the bright hue of their coats lights up by contrast. On the
+other hand, they are not noticeable when they seek the cover of rocks,
+hills, screes, or scrub, owing to similarity of colour. Getting a fair
+start of the hounds, they will stop short, sit up and rise themselves up
+on their haunches, (32) and listen for any bark or other clamour of the
+hounds hard by; and when the sound reaches them, off and away they go.
+At times, too, without hearing, merely fancying or persuading themselves
+that they hear the hounds, they will fall to skipping backwards and
+forwards along the same trail, (33) interchanging leaps, and interlacing
+lines of scent, (34) and so make off and away.
+
+ (32) Cf. the German "Mannerchen machen," "play the mannikin." Shaks.
+    "V. and A." 697 foll.
+
+ (33) Passage imitated by Arrian, xvi. 1.
+
+ (34) Lit. "imprinting track upon track," but it is better perhaps to
+    avoid the language of woodcraft at this point.
+
+These animals will give the longest run when found upon the open, there
+being nothing there to screen the view; the shortest run when started
+out of thickets, where the very darkness is an obstacle.
+
+There are two distinct kinds of hare--the big kind, which is somewhat
+dark in colour (35) with a large white patch on the forehead; and the
+smaller kind, which is yellow-brown with only a little white. The tail
+of the former kind is variegated in a circle; of the other, white at
+the side. (36) The eyes of the large kind are slightly inclined to gray;
+(37) of the smaller, bluish. The black about the tips of the ears is
+largely spread in the one, but slightly in the other species. Of these
+two species, the smaller is to be met with in most of the islands,
+desert and inhabited alike. As regards numbers they are more abundant in
+the islands than on the mainland; the fact being that in most of these
+there are no foxes to attack and carry off either the grown animal or
+its young; nor yet eagles, whose habitat is on lofty mountains rather
+than the lower type of hills which characterise the islands. (38) Again,
+sportsmen seldom visit the desert islands, and as to those which
+are inhabited, the population is but thinly scattered and the folk
+themselves not addicted to the chase; while in the case of the sacred
+islands, (39) the importation of dogs is not allowed. If, then, we
+consider what a small proportion of hares existent at the moment will
+be hunted down and again the steady increase of the stock through
+reproduction, the enormous numbers will not be surprising. (40)
+
+ (35) {epiperknoi}. Cf. Pollux, v. 67 foll., "mottled with black."
+    Blane.
+
+ (36) Reading {paraseiron}, perhaps "mottled"; vulg. {paraseron}. Al.
+    {parasuron}, "ecourtee," Gail.
+
+ (37) {upokharopoi}, "subfulvi," Sturz, i.e. "inclined to tawny"; al.
+    "fairly lustrous." Cf. {ommata moi glaukas kharopotera pollon
+    'Athanas}, Theocr. xx. 25; but see Aristot. "H. A." i. 10; "Gen.
+    An." v. 1. 20.
+
+ (38) Lit. "and those on the islands are for the most part of low
+    altitude."
+
+ (39) e.g. Delos. See Strab. x. 456; Plut. "Mor." 290 B; and so Lagia,
+    Plin. iv. 12.
+
+ (40) Lit. "As the inhabitants hunt down but a few of them, these
+    constantly being added to by reproduction, there must needs be a
+    large number of them."
+
+The hare has not a keen sight for many reasons. To begin with, its eyes
+are set too prominently on the skull, and the eyelids are clipped and
+blear, (41) and afford no protection to the pupils. (42) Naturally
+the sight is indistinct and purblind. (43) Along with which, although
+asleep, for the most part it does not enjoy visual repose. (44) Again,
+its very fleetness of foot contributes largely towards dim-sightedness.
+It can only take a rapid glance at things in passing, and then off
+before perceiving what the particular object is. (45)
+
+ (41) Or, "defective."
+
+ (42) Al. "against the sun's rays."
+
+ (43) Or, "dull and mal-concentrated." See Pollux, v. 69.
+
+ (44) i.e. "its eyes are not rested, because it sleeps with them open."
+
+ (45) i.e. "it goes so quick, that before it can notice what the
+    particular object is, it must avert its gaze to the next, and then
+    the next, and so on."
+
+The alarm, too, of those hounds for ever at its heels pursuing combines
+with everything (46) to rob the creature of all prescience; so that for
+this reason alone it will run its head into a hundred dangers unawares,
+and fall into the toils. If it held on its course uphill, (47) it would
+seldom meet with such a fate; but now, through its propensity to circle
+round and its attachment to the place where it was born and bred, it
+courts destruction. Owing to its speed it is not often overtaken by
+the hounds by fair hunting. (48) When caught, it is the victim of a
+misfortune alien to its physical nature.
+
+ (46) {meta touton}, sc. "with these other causes"; al. "with the
+    dogs"; i.e. "like a second nightmare pack."
+
+ (47) Reading {orthion}, or if {orthon}, transl. "straight on."
+
+ (48) {kata podas}, i.e. "by running down"; cf. "Mem." II. vi. 9;
+    "Cyrop." I. vi. 40, re two kinds of hound: the one for scent, the
+    other for speed.
+
+The fact is, there is no other animal of equal size which is at all its
+match in speed. Witness the conformation of its body: the light, small
+drooping head (narrow in front); (49) the (thin cylindrical) (50) neck,
+not stiff and of a moderate length; straight shoulder-blades, loosely
+slung above; the fore-legs attached to them, light and set close
+together; (51) the undistended chest; (52) the light symmetrical sides;
+the supple, well-rounded loins; the fleshy buttocks; the somewhat sunken
+flanks; (53) the hips, well rounded, plump at every part, but with a
+proper interval above; the long and solid thighs, on the outside tense
+and not too flabby on the inside; the long, stout lower legs or shanks;
+the fore-feet, exceedingly pliant, thin, and straight; the hind-feet
+firm and broad; front and hind alike totally regardless of rough ground;
+the hind-legs far longer than the fore, inclined outwards somewhat; the
+fur (54) short and light.
+
+ (49) Reading {katophere  (stenen ek tou emprosthen)}. See Lenz ad loc.
+    pp. 23, 24. Pollux, v. 69.
+
+ (50) Reading { (lepton, periphere)}.
+
+ (51) {sugkola}, al. "compactly knit."
+
+ (52) Lit. {ou barutonon}, "not deep sounding" = {ou sarkodes}, Pollux,
+    ib.
+
+ (53) Reading {lagonas ugras lagaras ikanos}.
+
+ (54) {trikhona}, "the coat."
+
+I say an animal so happily constructed must needs be strong and pliant;
+the perfection of lightness and agility. If proof of this lightness
+and agility be needed, here is a fact in illustration. When proceeding
+quietly, its method of progression is by leaps; no one ever saw or is
+likely to see a hare walking. What it does is to place the hind-feet in
+front of the fore-feet and outside them, and so to run, if running one
+can call it. The action prints itself plainly on snow. The tail is not
+conducive to swiftness of pace, being ill adapted by its stumpiness to
+act as a rudder to direct the body. The animal has to do this by means
+of one or other ear; (55) as may be seen, when she is on the point of
+being caught by the hounds. (56) At that instant you may see her drop
+and shoot out aslant one of her ears towards the point of attack, and
+then, apparently throwing her full weight on that pivot, turn sharp
+round and in a moment leave her assailants far behind.
+
+ (55) So Ael. "N. A." xiii. 14.
+
+ (56) Pollux, v. 71. For punctuation, see Lenz ad loc. p. 25.
+
+So winsome a creature is it, that to note the whole of the proceedings
+from the start--the quest by scent, the find, the pack in pursuit full
+cry, the final capture--a man might well forget all other loves. (57)
+
+ (57) See Arrian, xvi. 6, his criticism. Schneid. cf. Plut. "Mor." 1096
+    C. Hermog. iii. 319, 11, ed. Walz.
+
+Here it should be added that the sportsman, who finds himself on
+cultivated lands, should rigidly keep his hands off the fruits of the
+season, and leave springs and streams alone. To meddle with them is
+ugly and base, not to speak of the bad example of lawlessness set to the
+beholder. During the close season (58) all hunting gear should be taken
+down and put away.
+
+ (58) Al. "wahrend der Jagdferien," Lenz; "on Sundays," as we might
+    say. See some remarks on S. 34 in "Hellenica Essays," "Xenophon,"
+    p. 349.
+
+
+
+VI
+
+The equipment of the dogs consists of collar straps, leashes, and
+surcingles, (1) and the collar should be broad and soft so as not to
+rub the dog's coat; the leash should have a noose for the hand, (2) and
+nothing else. The plan of making collar and leash all in one is a clumsy
+contrivance for keeping a hound in check. (3) The surcingle should be
+broad in the thongs so as not to gall the hound's flanks, and with spurs
+stitched on to the leather, to preserve the purity of the breed. (4)
+
+ (1) {stelmoniai}, al. {telamonias}, broad belts or girths, corselets.
+    Pollux, v. 55.
+
+ (2) Pollux, v. 56.
+
+ (3) Lit. "since those who make the collar out of the leash do not keep
+    hold (al. take care) of their hounds well."
+
+ (4) See "A Day with Xenophon's Harriers," "Macmillan's Mag." Jan.
+    1895, p. 183.
+
+As to taking the hounds out to hunt, no hound ought to be taken out
+which refuses its food, a conclusive proof that the animal is ailing.
+Nor again, when a violent wind is blowing, for three good reasons: the
+scent will not lie, the hounds cannot smell, (5) neither the nets nor
+hayes will stand. In the absence, however, of any of these hindrances,
+take them out every other day. (6) Do not let your hounds get into the
+habit of hunting foxes. Nothing is so ruinous; and just at the moment
+when you want them, they will not be forthcoming. On the other hand,
+vary the hunting-ground in taking them out; which will give the pack a
+wider experience in hunting and their master a better knowledge of the
+country. The start should be early in the morning, unless the scent is
+to fail the hounds entirely. (7) The dilatory sportsman robs the pack of
+finding and himself of profit. (8) Subtle and delicate by nature, scent
+will not last all day.
+
+ (5) "You cannot trust the hound's nose."
+
+ (6) "Every third day," {dia trites tes emeras}.
+
+ (7) Lit. "in order that they may not be deprived of following up the
+    scent."
+
+ (8) Or, "a late start means the hounds will be robbed of a find and
+    the huntsman of his reward."
+
+The net-keeper should wear a light costume. His business is to fix the
+nets about the runs, (9) paths, bends, and hollows, and darksome spots,
+brooks, dry torrents, or perennial mountain streams. These are the
+places to which the hare chiefly betakes itself for refuge; though there
+are of course endless others. These, and the side passages into, and
+exits from them, whether well marked or ill defined, are to be stopped
+just as day breaks; not too early, so that, in case the line of nets be
+in the neighbourhood of covert to be searched for game, (10) the
+animal may not be scared at hearing the thud close by. (11) If, on the
+contrary, there should be a wide gap between the two points, there is
+less to hinder making the net lines clear and clean quite early, so
+that nothing may cling to them. The keeper must fix the forked props
+slantwise, so as to stand the strain when subjected to tension. He must
+attach the nooses equally on the points; and see that the props are
+regularly fixed, raising the pouch towards the middle; (12) and into the
+slip-rope he must insert a large, long stone, to prevent the net from
+stretching in the opposite direction, when it has got the hare inside.
+He will fix the rows of poles with stretches of net sufficiently high to
+prevent the creature leaping over. (13) In hunting, "no procrastination"
+should be the motto, since it is sportsmanlike at once and a proof of
+energy by all means to effect a capture quickly. He will stretch the
+larger (haye) nets upon level spaces; and proceed to plant the road nets
+upon roads and at converging points of tracks and footpaths; (14) he
+must attach the border-ropes to the ground, draw together the elbows or
+side ends of the nets, fix the forked props between the upper meshes,
+(15) adjust the skirting ropes upon the tops, and close up gaps.
+
+ (9) See Pollux, v. 35.
+
+ (10) Al. "of the game to be hunted up."
+
+ (11) {omou}, "e propinquo." Schn. cf. "Cyrop." III. i. 2; VI. iii. 7.
+
+ (12) Or, "giving the funnel or belly a lift in the middle."
+    {kekruphalon}, Pollux, v. 31.
+
+ (13) This sentence according to Lenz is out of its place, referring
+    solely to the haye nets; the order of the words should be {ta de
+    diktua teineto en apedois stoikhizeto de, k.t.l.} If so, transl.
+    "He should stretch the hayes on level ground and fix, etc.; The
+    road nets should be planted... etc."
+
+ (14) Al. "at convenient points or where paths converge." See Schneid.
+    s.v. {sumpheronta}.
+
+ (15) {sardonion}, Pollux, v. 31. Al. "fixing the stakes between the
+    edges."
+
+Then he will play sentinel and go his rounds; if a prop or funnel wants
+supporting, he will set it up; and when the hare comes with the hounds
+behind her he will urge her forwards to the toils, with shout and halloa
+thundering at her heels. When she is fairly entangled, he is to calm
+the fury of the hounds, without touching them, by soothing, encouraging
+tones. He is also to signal to the huntsman with a shout, that the
+quarry is taken, or has escaped this side or that, or that he has not
+seen it, or where he last caught sight of it. (16)
+
+ (16) Or, "'caught,' 'escaped,' (this side or that), 'not seen,'
+    'marked.'"
+
+The sportsman himself should sally forth in a loose, light hunting
+dress, (17) and footgear (18) to match; he should carry a stout stick
+in his hand, the net-keeper following. They should proceed to the
+hunting-field in silence, to prevent the hare, if by chance there should
+be one close by, from making off at the sound of voices. When they have
+reached the covert, he will tie the hounds to trees, each separately, so
+that they can be easily slipped from the leash, and proceed to fix the
+nets, funnel and hayes, as above described. When that is done, and while
+the net-keeper mounts guard, the master himself will take the hounds
+and sally forth to rouse the game. (19) Then with prayer and promise to
+Apollo and to Artemis, our Lady of the Chase, (20) to share with them
+the produce of spoil, he lets slip a single hound, the cunningest at
+scenting of the pack. (If it be winter, the hour will be sunrise, or if
+summer, before day-dawn, and in the other seasons at some hour midway.)
+As soon as the hound has unravelled the true line (21) he will let slip
+another; and then, if these carry on the line, at rapid intervals he
+will slip the others one by one; and himself follow, without too great
+hurry, (22) addressing each of the dogs by name every now and then, but
+not too frequently, for fear of over-exciting them before the proper
+moment.
+
+ (17) {emelemenen} = neglige, plain, unpretentious.
+
+ (18) Pollux, v. 18.
+
+ (19) Al. "intent on the working of the pack."
+
+ (20) "To thee thy share of this chase, Lord Apollo; and thine to thee,
+    O Huntress Queen!"
+
+ (21) Or, "carries a line straight away from the many that interlace."
+
+ (22) Or, "without forcing the pace."
+
+Meanwhile the hounds are busily at work; onwards they press with eager
+spirit, disentangling the line, double or treble, as the case may be.
+(23) To and fro they weave a curious web, (24) now across, now parallel
+with the line, (25) whose threads are interlaced, here overlapped, and
+here revolving in a circle; now straight, now crooked; here close, there
+rare; at one time clear enough, at another dimly owned. Past one another
+the hounds jostle--tails waving fast, ears dropt, and eyes flashing.
+
+ (23) "Discovering two or three scents, as the case may be";
+    "unravelling her line, be it single or double."
+
+ (24) {prophoreisthai} = {diazesthai}, Pollux, vii. 52. Schneid. cf.
+    Aristoph. "Birds," 4, {apoloumeth' allos ten odon prophoroumeno}.
+
+Still up and down, old sinner, must we pace; 'Twill kill us both, this
+vain, long, wearing race (Kennedy).
+
+ (25) See Arrian, xx. 2.
+
+But when they are really close to the hare they will make the matter
+plain to the huntsman by various signs--the quivering of their bodies
+backwards and forwards, sterns and all; the ardour meaning business;
+the rush and emulaton; the hurry-scurry to be first; the patient
+following-up of the whole pack; at one moment massed together, and at
+another separated; and once again the steady onward rush. At last they
+have reached the hare's form, and are in the act to spring upon her.
+But she on a sudden will start up and bring about her ears the barking
+clamour of the whole pack as she makes off full speed. Then as the chase
+grows hot, the view halloo! of the huntsman may be heard: "So ho, good
+hounds! that's she! cleverly now, good hounds! so ho, good hounds!" (26)
+And so, wrapping his cloak (27) about his left arm, and snatching up his
+club, he joins the hounds in the race after the hare, taking care not to
+get in their way, (28) which would stop proceedings. (29) The hare, once
+off, is quickly out of sight of her pursuers; but, as a rule, will make
+a circuit back to the place where she was found. (30)
+
+ (26) Reading {io kunes, io kunes, sophos ge o kunes, kalos ge o
+    kunes}. Al. {io kunes, io kakos} = "To her, dogs! that won't do!"
+    "Ho, ho, Hunde! Ho, ho, falsch! Recht so, Hunde! schon so, Hunde!"
+    (Lenz).
+
+ (27) {o ampekhetai}, "the shawl or plaid which he carries on his
+    shoulders." See Pollux, v. 10.
+
+ (28) "Not to head the chase." Sir Alex. Grant, "Xen." p. 167.
+
+ (29) {aporon}, "which would be awkward" (see Arrian, xxv. 8).
+
+ (30) "Where the nets are set," Sir A. Grant. See his comment, l.c.
+
+He must shout then to the keeper, "Mark her, boy, mark her! hey, lad!
+hey, lad!" and the latter will make known whether the hare is caught or
+not. Supposing the hare to be caught in her first ring, the huntsman has
+only to call in the hounds and beat up another. If not, his business is
+to follow up the pack full speed, and not give in, but on through thick
+and through thin, for toil is sweet. And if again they chance upon her
+in the chevy, (31) his cheery shout will be heard once more, "Right so!
+right so, hounds! forward on, good hounds!"
+
+ (31) {apantosi diokousai auton}, al. "come across the huntsman again."
+
+But if the pack have got too long a start of him, and he cannot overtake
+them, however eagerly he follows up the hunt--perhaps he has altogether
+missed the chase, or even if they are ranging close and giving tongue
+and sticking to the scent, he cannot see them--still as he tears along
+he can interrogate the passer-by: "Hilloa there, have you seen my
+hounds?" he shouts, and having at length ascertained their whereabouts,
+if they are on the line, he will post himself close by, and cheer them
+on, repeating turn and turn about the name of every hound, and pitching
+the tone of his voice sharp or deep, soft or loud; and besides all other
+familiar calls, if the chase be on a hillside, (32) he can keep up their
+spirits with a constant "Well done, good hounds! well done, good hounds!
+good hounds!" Or if any are at fault, having overshot the line, he will
+call to them, "Back, hounds! back, will you! try back!"
+
+ (32) Or, "if the chase sweeps over a mountain-side."
+
+As soon as the hounds have got back to (where they missed) the line,
+(33) he must cast them round, making many a circle to and fro; and where
+the line fails, he should plant a stake (34) as a sign-post to guide
+the eye, and so cast round the dogs from that point, (35) till they have
+found the right scent, with coaxing and encouragement. As soon as the
+line of scent is clear, (36) off go the dogs, throwing themselves on to
+it, springing from side to side, swarming together, conjecturing, and
+giving signs to one another, and taking bearings (37) they will not
+mistake--helter-skelter off they go in pursuit. Once they dart off along
+the line of scent thus hotly, the huntsman should keep up but without
+hurrying, or out of zeal they will overshoot the line. As soon as they
+are once more in close neighbourhood of the hare, and once again have
+given their master clear indications of the fact, then let him give
+what heed he can, she does not move off farther in sheer terror of the
+hounds.
+
+ (33) {prosstosi}, al. "whenever they check."
+
+ (34) Al. (1) "take a stake or one of the poles as a sign-post," (2)
+    "draw a line on the ground."
+
+ (35) {suneirein}. Zeune cf. "Cyrop." VII. v. 6, "draw the dogs along
+    by the nets." Blane.
+
+ (36) "As the scent grows warmer," the translator in "Macmillan's Mag."
+    above referred to. Aristot. "H. A." ix. 44. 4.
+
+ (37) Lit. "fixing landmarks for themselves."
+
+They meanwhile, with sterns wagging, tumbling and leaping over one
+another's backs, (38) at intervals loudly giving tongue, and lifting
+up their heads and peering into their master's face, as much as to
+say, "There is no mistake about it this time," (39) will presently
+of themselves start the hare and be after her full cry, with bark and
+clamour. (40) Thereupon, whether the hare falls into the toils of the
+funnel net or rushes past outside or inside, whatever incident betide,
+the net-keeper must with a shout proclaim the fact. Should the hare be
+caught, the huntsman has only to begin looking for another; if not, he
+must follow up the chase once more with like encouragement.
+
+ (38) Or, "whisking their tails and frisking wildly, and jostling
+    against one another, and leaping over one another at a great
+    rate." Al. "over one obstacle, and then another."
+
+ (39) Or, "this is the true line at last."
+
+ (40) Al. "with a crash of tongues."
+
+When at length the hounds show symptoms of fatigue, and it is already
+late in the day, the time has come for the huntsman to look for his hare
+that lies dead-beat; nor must he wittingly leave any patch of green or
+clod of earth untested. (41) Backwards and forwards he must try and try
+again the ground, (42) to be sure that nothing has been overlooked. The
+fact is, the little creature lies in a small compass, and from fatigue
+and fear will not get up. As he leads the hounds on he will cheer and
+encourage them, addressing with many a soft term the docile creature,
+the self-willed, stubborn brute more rarely, and to a moderate extent
+the hound of average capacity, till he either succeeds in running down
+or driving into the toils some victim. (43) After which he will pick up
+his nets, both small and large alike, giving every hound a rub down, and
+return home from the hunting-field, taking care, if it should chance to
+be a summer's noon, to halt a bit, so that the feet of his hounds may
+not be blistered on the road.
+
+ (41) Lit. "anything which earth puts forth or bears upon her bosom."
+
+ (42) Or, "Many and many a cast back must he make."
+
+ (43) The famous stanzas in "Venus and Adonis" may fitly close this
+    chapter.
+
+     And when thou hast on foot the purblind hare,
+     Mark the poor wretch, to overshoot his troubles
+     How he outruns the wind and with what care
+     He cranks and crosses with a thousand doubles:
+        The many musets through the which he goes
+        Are like a labyrinth to amaze his foes.
+
+     Sometimes he runs among a flock of sheep,
+     To make the cunning hounds mistake their smell,
+     And sometimes where earth-delving conies keep,
+     To stop the loud pursuers in their yell,
+        And sometimes sorteth with a herd of deer:
+        Danger deviseth shifts; wit waits on fear:
+
+     For there his smell with others being mingled,
+     The hot scent-snuffing hounds are driven to doubt,
+     Ceasing their clamorous cry till they have singled
+     With much ado the cold fault cleanly out:
+        Then do they spend their mouths: Echo replies,
+        As if another chase were in the skies.
+
+     By this, poor Wat, far off upon a hill,
+     Stands on his hinder legs with listening ear,
+     To hearken if his foes pursue him still:
+     Anon their loud alarums he doth hear;
+        And now his grief may be compared well
+        To one sore sick that hears the passing-bell.
+
+     Then shalt thou see the dew-bedabbled wretch
+     Turn, and return, indenting with the way;
+     Each envious brier his weary legs doth scratch,
+     Each shadow makes him stop, each murmur stay:
+        For misery is trodden on by many,
+        And being low never relieved by any.
+
+
+
+VII
+
+For breeding purposes choose winter, and release the bitches from hard
+work; (1) which will enable them to profit by repose and to produce a
+fine progeny towards spring, since that season is the best to promote
+the growth of the young dogs. The bitch is in heat for fourteen days,
+(2) and the moment at which to put her to the male, with a view to rapid
+and successful impregnation, is when the heat is passing off. Choose a
+good dog for the purpose. When the bitch is ready to whelp she should
+not be taken out hunting continuously, but at intervals sufficient
+to avoid a miscarriage through her over-love of toil. The period of
+gestation lasts for sixty days. When littered the puppies should be left
+to ther own dam, and not placed under another bitch; foster-nursing does
+not promote growth in the same way, whilst nothing is so good for them
+as their own mother's milk and her breath, (3) and the tenderness of her
+caresses. (4)
+
+ (1) Or, "Winter is the time at which to pair dogs for breeding, the
+    bitches to be released from hard work, so that with the repose so
+    secured they may produce a fine litter in spring."
+
+ (2) Lit. "this necessity holds." Cf. Aristot. "H. A." vi. 20; Arrian,
+    xxvii., xxxi. 3.
+
+ (3) Cf. Eur. "Tro." 753, {o khrotos edu pneuma}.
+
+ (4) Cf. Arrian, xxx. 2; Pollux, v. 50; Columella, vii. 12, 12, ap.
+    Schneid.
+
+Presently, when the puppies are strong enough to roam about, they should
+be given milk (5) for a whole year, along with what will form their
+staple diet in the future, but nothing else. A heavy diet will distort
+the legs of a young dog, engender disease in other limbs, and the
+internal mechanism will get out of order. (6)
+
+ (5) See Arrian, xxxi.; Stonehenge, p. 264.
+
+ (6) Or, "the internal organs get wrong" ({adika}). Cf. "Memorabilia,"
+    IV. iv. 5.
+
+They should have short names given them, which will be easy to call
+out. (7) The following may serve as specimens:--Psyche, Pluck, Buckler,
+Spigot, Lance, Lurcher, Watch, Keeper, Brigade, Fencer, Butcher, Blazer,
+Prowess, Craftsman, Forester, Counsellor, Spoiler, Hurry, Fury, Growler,
+Riot, Bloomer, Rome, Blossom, Hebe, Hilary, Jolity, Gazer, Eyebright,
+Much, Force, Trooper, Bustle, Bubbler, Rockdove, Stubborn, Yelp, Killer,
+Pele-mele, Strongboy, Sky, Sunbeam, Bodkin, Wistful, Gnome, Tracks,
+Dash. (8)
+
+ (7) Cf. Arrian, xxxi. 2; Oppian, "Cyn," i. 443; ap. Schneid.
+
+ (8) The following is Xenophon's list:--
+
+     {Psukhe} = Soul
+     {Thumos} = Spirit
+     {Porpax} = Hasp of shield
+     {Sturax} = Spike of spear at the butt end
+     {Logkhe} = Lance
+     {Lokhos} = Ambush, or "Company"
+     {Phroura} = Watch
+     {Phulax} = Guard
+     {Taxis} = Order, Rank, Post, Brigade
+     {Xiphon} = Swordsman
+     {Phonax} = Slaughterer, cf. "King Death"
+     {Phlegon} = Blazer
+     {'Alke} = Prowess, Victory
+     {Teukhon} = Craftsman
+     {'Uleus} = Woodsman, "Dashwood"
+     {Medas} = Counsellor
+     {Porthon} = Spoiler, "Rob Roy"
+     {Sperkhon} = Hastener, "Rocket"
+     {'Orge} = Fury, Rage
+     {Bremon} = Growler, Roarer
+     {'Ubris} = Hybris, Riot, Insolence
+     {Thallon} = Blooming, "Gaudy"
+     {'Rome} = Strength, "Romeo"
+     {'Antheus} = Blossom
+     {'Eba} = Youth
+     {Getheus} = Gladsome
+     {Khara} = Joy
+     {Leusson} = Gazer
+     {Augo} = Daybeam
+     {Polus} = Much
+     {Bia} = Force
+     {Stikhon} = Stepping in rank and file
+     {Spoude} = Much ado
+     {Bruas} = Gusher
+     {Oinas} = (1) Vine, (2) Rockdove. See Aristot. "H. A." v. 13,
+            14; i. 3, 10; Ael. "N. A." iv. 58. = Columba livia =
+            rockdove, the colour of ripening grapes; al. {oinas} =
+            the vine.
+     {Sterros} = "Stiff," "King Sturdy"
+     {Krauge} = Clamour. Cf. Plat. "Rep." 607 B.
+     {Kainon} = Killer
+     {Turbas} = "Topsy-turvy"
+     {Sthenon} = Strong man
+     {Aither} = Ether
+     {'Aktis} = Ray of light
+     {Aikhme} = Spear-point
+     {Nors} = Clever (girl)
+     {Gnome} = Maxim
+     {Stibon} = Tracker
+     {'Orme} = Dash. So Arrian ("Cyn." viii. 5) named his favourite hound.
+
+    For other names see Herodian, {peri mon. l} (on monosyllables),
+    12. 7; "Corp. Inscr." iv. p. 184, n. 8319; Arrian, v. 6, xix.;
+    Colum. vii. 12, 13. According to Pollux, v. 47, Xenophon had a dog
+    named {ippokentauros} (cf. "Cyrop." IV. iii. 17).
+
+The young hounds may be taken out to the chase at the age of eight
+months (9) if bitches, or if males at the age of ten. They should not
+be let loose on the trail of a hare sitting, (10) but should be kept
+attached by long leashes and allowed to follow on a line while scenting,
+(11) with free scope to run along the trail. (12)
+
+ (9) Cf. Pollux, v. 54; al. Arrian, xxv., xxvi.
+
+ (10) Pollux, v. 12.
+
+ (11) "The dogs that are trailing," Blane.
+
+ (12) See Stonehenge, "Entering of greyhound and deerhound, of
+    foxhounds and harriers," pp. 284, 285.
+
+As soon as a hare is found, provided the young hounds have the right
+points (13) for running, they should not be let loose straight off: the
+huntsman should wait until the hare has got a good start and is out of
+sight, then let the young hounds go. (14) The result of letting slip
+young hounds, possessed of all the requisite points and full of pluck,
+(15) is that the sight of the hare will make them strain too violently
+and pull them to bits, (16) while their frames are as yet unknit; a
+catastrophe against which every sportsman should strenuously guard. If,
+on the other hand, the young hounds do not promise well for running,
+(17) there is no harm in letting them go. From the start they will give
+up all hope of striking the hare, and consequently escape the injury in
+question. (18)
+
+ (13) For points see the same authority: the harrier, p. 59; the
+    foxhound, p. 54.
+
+ (14) See Arrian's comment and dissent, xxv. 4.
+
+ (15) Lit. "which are at once well shaped and have the spirit for the
+    chase in them."
+
+ (16) Al. "they will overstrain themselves with the hare in sight, and
+    break a blood-vessel." See Arrian, xxxi. 4, {regnuntai gar autais
+    ai lagones}.
+
+ (17) Or, "are defectively built for the chase."
+
+ (18) Or, "will not suffer such mishap."
+
+As to the trail of a hare on the run, there is no harm in letting them
+follow it up till they overtake her. (19) When the hare is caught the
+carcass should be given to the young hounds to tear in pieces. (20)
+
+ (19) Perhaps read {eos an thelosi}, "as long as they choose." The MSS.
+    have {elthosi}.
+
+ (20) See Stonehenge, p. 287, "blooded, so as to make him understand
+    the nature of the scent"; ib. 284.
+
+As soon as these young hounds refuse to stay close to the nets and begin
+to scatter, they must be called back; till they have been accustomed to
+find the hare by following her up; or else, if not taught to quest for
+her (time after time) in proper style, they may end by becoming skirters
+(21)--a bad education. (22)
+
+ (21) {ekkunoi}, cf. Arrian, xxv. 5.
+
+ (22) {poneron mathema}, ib. 9.
+
+As long as they are pups, they should have their food given them
+near the nets, when these are being taken up, (23) so that if from
+inexperience they should lose their way on the hunting-field, they may
+come back for it and not be altogether lost. In time they will be quit
+of this instinct themselves, (24) when their hostile feeling towards the
+animal is developed, and they will be more concerned about the quarry
+than disposed to give their food a thought. (25)
+
+ (23) {anairontai} sc. {ai arkues}, see above, vi. 26.
+
+ (24) Or, "abandon the practice."
+
+ (25) See Stonehenge, p. 289 (another context): "... the desire for
+    game in a well-bred dog is much greater than the appetite for
+    food, unless the stomach has long been deprived of it."
+
+As a rule, the master should give the dogs their food with his own
+hand; since, however much the animal may be in want of food without his
+knowing who is to blame for that, it is impossible to have his hunger
+satisfied without his forming an affection for his benefactor. (26)
+
+ (26) Or, "If want in itself does not reveal to him the cause of his
+    suffering, to be given food when hungry for it will arouse in him
+    affection for the donor."
+
+
+
+VIII
+
+The time to track hares is after a fall of snow deep enough to conceal
+the ground completely. As long as there are black patches intermixed,
+the hare will be hard to find. It is true that outside these the tracks
+will remain visible for a long time, when the snow comes down with a
+north wind blowing, because the snow does not melt immediately; but
+if the wind be mild with gleams of sunshine, they will not last long,
+because the snow is quickly thawed. When it snows steadily and without
+intermission there is nothing to be done; the tracks will be covered
+up. Nor, again, if there be a strong wind blowing, which will whirl and
+drift the snow about and obliterate the tracks. It will not do to take
+the hounds into the field in that case; (1) since owing to excessive
+frost the snow will blister (2) the feet and noses of the dogs and
+destroy the hare's scent. Then is the time for the sportsman to take
+the haye nets and set off with a comrade up to the hills, and leave the
+cultivated lands behind; and when he has got upon the tracks to follow
+up the clue. If the tracks are much involved, and he follows them only
+to find himself back again ere along at the same place, (3) he must make
+a series of circuits and sweep round the medley of tracks, till he finds
+out where they really lead. (4)
+
+ (1) Lit. "I say it is no use setting out with dogs to this chase."
+
+ (2) {kaei}. Cf. Arrian, xiv. 5.
+
+ (3) Reading {ekonta} sc. {ton kunegeten...} or if {ekonta, kuklous}
+     (sc. {ta ikhne}), transl. "if the tracks are involved, doubling on
+    themselves and coming back eventually to the same place."
+
+ (4) Or, "where the end of the string is."
+
+The hare makes many windings, being at a loss to find a resting-place,
+and at the same time she is accustomed to deal subtly (5) in her method
+of progression, because her footsteps lead perpetually to her pursuit.
+
+ (5) {tekhnazein}. Cf. Ael. "N. A." vi. 47, ap. Schneid. A fact for
+    Uncle Remus.
+
+As soon as the track is clear, (6) the huntsman will push on a little
+farther; and it will bring him either to some embowered spot (7) or
+craggy bank; since gusts of wind will drift the snow beyond such spots,
+whereby a store of couching-places (8) is reserved (9); and that is what
+puss seeks.
+
+ (6) "Discovered."
+
+ (7) "Thicket or overhanging crag."
+
+ (8) {eunasima}, "places well adapted for a form."
+
+ (9) Al. "many places suited for her form are left aside by puss, but
+    this she seeks."
+
+If the tracks conduct the huntsman to this kind of covert he had better
+not approach too near, for fear the creature should move off. Let him
+make a circuit round; the chances are that she is there; and that will
+soon be clear; for if so, the tracks will not trend outwards from the
+place at any point. (10)
+
+ (10) L. Dind. emend. {oudamoi}, "the tracks will not pass in any
+    direction outwards from such ground."
+
+And now when it is clear that puss is there, there let her bide; she
+will not sir; let him set off and seek another, before the tracks are
+indistinct; being careful only to note the time of day; so that, in case
+he discovers others, there will be daylight enough for him to set up the
+nets. (11) When the final moment has come, he will stretch the big haye
+nets round the first one and then the other victim (precisely as in the
+case of one of those black thawed patches above named), so as to enclose
+within the toils whatever the creature is resting on. (12) As soon as
+the nets are posted, up he must go and start her. If she contrive to
+extricate herself from the nets, (13) he must after her, following her
+tracks; and presently he will find himself at a second similar piece of
+ground (unless, as is not improbable, she smothers herself in the snow
+beforehand). (14) Accordingly he must discover where she is and spread
+his toils once more; and, if she has energy still left, pursue the
+chase. Even without the nets, caught she will be, from sheer fatigue,
+(15) owing to the depth of the snow, which balls itself under her shaggy
+feet and clings to her, a sheer dead weight.
+
+ (11) Al. "to envelop the victims in the nets."
+
+ (12) Lit. "whatever the creature is in contact with inside."
+
+ (13) Cf. Aesch. "Prom." 87, {Poto tropo tesd' ekkulisthesei tukhes}.
+
+ (14) Or, "if the creature is not first suffocated in the snow itself."
+
+ (15) See Pollux, v. 50. "She must presently be tired out in the heavy
+    snow, which balls itself like a fatal clog clinging to the under
+    part of her hairy feet."
+
+
+
+IX
+
+For hunting fawns (1) and deer, (2) Indian dogs (3) should be employed,
+as being strong, large, and fleet-footed, and not devoid of spirit; with
+these points they will prove well equal to the toil.
+
+ (1) See Hom. "Il." xxii. 189, x. 361; "Od." iv. 35; Aelian, "N. A."
+    xiv. 14; xvii. 26; Geopon. xix. 5.
+
+ (2) {e elaphos} (generic, Attic) = hart or hind, of roe (Capreolus
+    caprea) or red (Cervus elaphus) deer alike, I suppose. See St.
+    John, "Nat. Hist. and Sport in Moray."
+
+ (3) Of the Persian or Grecian greyhound type perhaps. See Aristot. "H.
+    A." viii. 28; Aelian, "N. A." viii. 1; Pollux, v. 37, 38, 43;
+    Plin. "H. N." vii. 2, viii. 28; Oppian, "Cyn." i. 413.
+
+Quite young fawns (4) should be captured in spring, that being the
+season at which the dams calve. (5) Some one should go beforehand
+into the rank meadowlands (6) and reconnoitre where the hinds are
+congregated, and wherever that may be, the master of the hounds will set
+off--with his hounds and a supply of javelins--before daylight to the
+place in question. Here he will attach the hounds to trees (7) some
+distance off, for fear of their barking, (8) when they catch sight of
+the deer. That done he will choose a specular point himself and keep a
+sharp look-out. (9) As day breaks he will espy the hinds leading their
+fawns to the places where they will lay them severally to rest. (10)
+Having made them lie down and suckled them, they will cast anxious
+glances this way and that to see that no one watches them; and then they
+will severally withdraw to the side opposite and mount guard, each over
+her own offspring. The huntsman, who has seen it all, (11) will loose
+the dogs, and with javelins in hand himself advance towards the nearest
+fawn in the direction of where he saw it laid to rest; carefully noting
+the lie of the land, (12) for fear of making some mistake; since the
+place itself will present a very different aspect on approach from what
+it looked like at a distance.
+
+ (4) See above, v. 14. I do not know that any one has answered
+    Schneider's question: Quidni sensum eundem servavit homo
+    religiosus in hinnulis?
+
+ (5) "The fawns (of the roe deer) are born in the spring, usually early
+    in May," Lydekker, "R. N. H." ii. p. 383; of the red deer
+    "generally in the early part of June," ib. 346.
+
+ (6) {orgadas} = "gagnages," du Fouilloux, "Comment le veneur doit
+    aller en queste aux taillis ou gaignages pour voir le cerf a
+    veue," ap. Talbot, op. cit. i. p. 331.
+
+ (7) Or, "off the wood."
+
+ (8) It seems they were not trained to restrain themselves.
+
+ (9) Or, "set himself to observe from some higher place." Cf. Aristoph.
+    "Wasps," 361, {nun de xun oplois} | {andres oplitai diataxamenoi}
+    | {kata tas diodous skopiorountai}. Philostr. 784.
+
+ (10) See Pollux, v. 77; Aristot. "H. A." ix. 5. Mr. Scrope ap.
+    Lydekker, "R. N. H." ii. p. 346, states that the dam of the red
+    deer makes her offspring "lie down by a pressure of her nose,"
+    etc.
+
+ (11) Lit. "when he sees these things."
+
+ (12) Or, "the features of the scene"; "the topography."
+
+When his eye has lit upon the object of his search, he will approach
+quite close. The fawn will keep perfectly still, glued (13) as it were
+to earth, and with loud bleats suffer itself to be picked up; unless it
+happen to be drenched with rain; in which case, it will not stay quiet
+in one place. No doubt, the internal moisture of the animal congeals
+quickly with the cold (14) and causes it to shift its ground. Caught in
+that case it must needs be; but the hounds will have work enough to run
+the creature down. (15) The huntsman having seized the fawn, will hand
+it to the keeper. The bleating will continue; and the hind, partly
+seeing and partly hearing, will bear down full tilt upon the man who has
+got her young, in her desire to rescue it. Now is the moment to urge
+on the hounds and ply the javelins. And so having mastered this one, he
+will proceed against the rest, and employ the same method of the chase
+in dealing with them.
+
+ (13) {piesas}, "noosling, nestling, buried."
+
+ (14) "The blood runs cold."
+
+ (15) Or, "but it will give them a good chase; the dogs will have their
+    work cut out."
+
+Young fawns may be captured in the way described. Those that are already
+big will give more trouble, since they graze with their mothers and
+the other deer, and when pursued retire in the middle of the herd or
+occasionally in front, but very seldom in the rear. The deer, moreover,
+in order to protect their young will do battle with the hounds and
+trample them under foot; so that capture is not easy, unless you come at
+once to close quarters and scatter the herd, with the result that one or
+another of the fawns is isolated. The effort implies (16) a strain, and
+the hounds will be left behind in the first heat of the race, since the
+very absence of their dams (17) will intensify the young deer's terror,
+and the speed of a fawn, that age and size, is quite incredible. (18)
+But at the second or third run they will be quickly captured; since
+their bodies being young and still unformed cannot hold out long against
+fatigue.
+
+ (16) Lit. "after that violent effort."
+
+ (17) Or, "alarm at the absence of the herd will lend the creature
+    wings."
+
+ (18) Or, "is past compare"; "is beyond all telling."
+
+Foot-gins (19) or caltrops may be set for deer on mountains, in the
+neighbourhood of meadows and streams and wooded glens, on cross-roads
+(20) or in tilled fields at spots which they frequent. (21) These gins
+should be made of twisted yew twigs (22) stripped of the bark to prevent
+their rotting. They should have well-rounded hooplike "crowns" (23) with
+alternate rows of nails of wood and iron woven into the coil. (24) The
+iron nails should be larger, so that while the wooden ones yield to the
+foot, the others may press into it. (25) The noose of the cord which
+will be laid upon "the crown" should be woven out of esparto and so
+should the rope itself, this kind of grass being least liable to rot.
+The rope and noose itself should both alike be stout. The log or clog of
+wood attached should be made of common or of holm oak with the bark on,
+three spans in length, and a palm in thickness. (26)
+
+ (19) {podostrabai}, podostrabai so called. Cf. "the boot."
+
+ (20) {en tais diodois}, "at points where paths issue," or "cross."
+
+ (21) {pros o ti prosie}, "against whatever they are likely to
+    approach."
+
+ (22) Or, "should be woven out of Smilax"; "Ebenholz," Lenz; "Ifs,"
+    Gail.
+
+ (23) {tas de stephanas euk. ekh.} "having circular rims."
+
+ (24) {en to plokano} (al. {plokamo}) = the plaited rope, which formed
+    the {stephane}. See Pollux, v. 32, ap. Schneid. and Lenz.
+
+ (25) Al. "so as to press into the foot, if the wooden ones yield."
+
+ (26) Or, "27 inches x 3."
+
+To set the trap, dig a hole in the soil to a depth of fifteen inches,
+(27) circular in shape, with a circumference at the top exactly
+corresponding to the crown and narrowing towards the bottom. For the
+rope and wooden clog likewise remove sufficient earth to let them both
+be lightly buried. That done, place the foot-gin deep enough to be just
+even with the surface of the soil, (28) and round the circle of the
+crown the cord-noose. The cord itself and wooden clog must now be
+lowered into their respective places. Which done, place on the crown
+some rods of spindle-tree, (29) but not so as to stick out beyond the
+outer rim; and above these again light leaves, such as the season may
+provide. After this put a final coating of earth upon the leaves; in the
+first place the surface soil from the holes just dug, and atop of that
+some unbroken solid earth from a distance, so that the lie of the trap
+may be as much as possible unnoticed by the deer. Any earth left over
+should be carried to a distance from the gin. The mere smell of the
+newly-turned-up soil will suffice to make the animal suspicious; (30)
+and smell it readily she will.
+
+ (27) Or, "remove a mass of soil to the depth of five palms so as to
+    form a circular hole corresponding in size with the rim above-
+    named."
+
+ (28) Or, "like a door over the cavity, somewhat below the surface,
+    flatwise"; i.e. "in a horizontal position."
+
+ (29) So literally, but really Carthamus creticus, a thistle-like plant
+    used for making spindles (Sprengel ap. L. & S.), the Euonymous
+    europaeus being our spindle-tree. Aristot. "H. A." ix. 40, 49;
+    Theocr. iv. 52.
+
+ (30) Lit. "if she once sniffs the new-turned soil the deer grows shy,
+    and that she will quickly do." See Plat. "Laws," 933 A; "Phaedr."
+    242 C; "Mem." II. i. 4.
+
+The hunter should take his hounds and inspect the traps upon the
+mountains, early in the morning if possible, though he should do so also
+during the day at other times. Those set on cultivated land must always
+be inspected early, before the sun is up in fact, (31) and for this
+reason: on the hills, so desert is the region, (32) the creatures may
+be caught not only at night but at any time of day; while, on the
+cultivated lands, owing to their chronic apprehension of mankind in
+daytime, night is the only time. (33)
+
+ (31) "Before the sun is up."
+
+ (32) Or, "thanks to the lonesomeness of the region."
+
+ (33) "It is night or never, owing to the dread of man which haunts the
+    creature's mind during daytime."
+
+As soon as the huntsman finds a gin uprooted he will let slip his hounds
+and with cheery encouragement (34) follow along the wake of the wooden
+clog, with a keen eye to the direction of its march. That for the most
+part will be plain enough, since stones will be displaced, and the
+furrow which the clog makes as it trails along will be conspicuous on
+tilled ground; or if the deer should strike across rough ground, the
+rocks will show pieces of bark torn from the clog, and the chase will
+consequently be all the easier. (35)
+
+ (34) See vi. 20; "with view-halloo."
+
+ (35) Or, "along that track will not be difficult."
+
+Should the deer have been caught by one of its fore-feet it will soon
+be taken, because in the act of running it will beat and batter its own
+face and body; if by the hind-leg, the clog comes trailing along and
+must needs impede the action of every limb. Sometimes, too, as it is
+whirled along it will come in contact with the forked branches of some
+tree, and then unless the animal can snap the rope in twain, she is
+fairly caught; there ends the chase. But even so, if caught in this way
+or overdone with fatigue, it were well not to come too close the quarry,
+should it chance to be a stag, or he will lunge out with his antlers and
+his feet; better therefore let fly your javelins from a distance.
+
+These animals may also be captured without aid of gin or caltrop, by
+sheer coursing in hot summer time; they get so tired, they will stand
+still to be shot down. If hard pressed they will plunge into the sea or
+take to water of any sort in their perplexity, and at times will drop
+down from sheer want of breath. (36)
+
+ (36) "From mere shortness of breath."
+
+
+
+X
+
+To cope with the wild boar the huntsman needs to have a variety of dogs,
+Indian, Cretan, Locrian, and Laconian, (1) along with a stock of nets,
+javelins, boar-spears, and foot-traps.
+
+ (1) For these breeds see Pollux, v. 37: for the Laconian, Pind. "Fr."
+    73; Soph. "Aj." 8; cf. Shakesp. "Mids. N. D." iv. 1. 119, 129
+    foll.
+
+To begin with, the hounds must be no ordinary specimens of the species
+named, (2) in order to do battle with the beast in question.
+
+ (2) Or, "these hounds of the breed named must not be any ordinary
+    specimens"; but what does Xenophon mean by {ek toutou tou genous}?
+
+The nets should be made of the same flaxen cord (3) as those for hares
+above described. They should be forty-five threaded in three strands,
+each strand consisting of fifteen threads. The height from the upper rim
+(4) (i.e. from top to bottom) should be ten meshes, and the depth of the
+nooses or pockets one elbow-length (say fifteen inches). (5) The ropes
+running round the net should be half as thick again as the cords of the
+net; and at the extremities (6) they should be fitted with rings, and
+should be inserted (in and out) under the nooses, with the end passing
+out through the rings. Fifteen nets will be sufficient. (7)
+
+ (3) i.e. "of Phasian or Cathaginian fine flax."
+
+ (4) {tou koruphaiou}.
+
+ (5) {pugon}. The distance from the elbow to the first joint of the
+    finger = 20 {daktuloi} = 5 {palaistai} = 1 1/4 ft. + (L. & S.)
+
+ (6) {ep akrois}. Cf. {akreleniois}.
+
+ (7) Reading {ikanai}, vid. Lenz ad loc. and ii. 4.
+
+The javelins should be of all sorts, (8) having blades of a good breadth
+and razor-sharpness, and stout shafts.
+
+ (8) Al. "of various material." See Pollux, v. 20 ap. Schneid.
+
+The boar-spears should in the first place have blades fifteen inches
+long, and in the middle of the socket two solid projecting teeth of
+wrought metal, (9) and shafts of cornel-wood a spear-shaft's thickness.
+
+ (9) Wrought of copper (or bronze).
+
+The foot-traps should resemble those used for deer.
+
+These hunts should be conducted not singly, (10) but in parties, since
+the wild boar can be captured only by the collective energy of several
+men, and that not easily.
+
+ (10) Lit. "There should be a band of huntsmen"; or, "It will take the
+    united energies of several to capture this game." See Hom. "Il."
+    ix. 543, of the Calydonian boar:
+
+{ton d' uios Oineos apekteinen Meleagros, polleon ek polion theretoras
+andras ageiras kai kunas. ou men gar k' edame pauroisi brotoisin tossos
+een, pollous de pures epebes' alegeines.}
+
+    "But him slew Meleagros the son of Oineus, having gathered
+    together from many cities huntsmen and hounds; for not of few men
+    could the boar be slain, so mighty was he; and many an one brought
+    he to the grievous pyre" (W. Leaf).
+
+I will now explain how each part of the gear is to be used in hunting.
+
+The company being come to some place where a boar is thought to lie, the
+first step is to bring up the pack, (11) which done, they will loose a
+single Laconian bitch, and keeping the rest in leash, beat about with
+this one hound. (12) As soon as she has got on the boar's track, let
+them follow in order, one after another, close on the tracking hound,
+who gives the lead to the whole company. (13) Even to the huntsmen
+themselves many a mark of the creature will be plain, such as his
+footprints on soft portions of the ground, and in the thick undergrowth
+of forests broken twigs; and, where there are single trees, the scars
+made by his tusks. (14) As she follows up the trail the hound will, as
+a general rule, finally arrive at some well-wooded spot; since, as a
+general rule, the boar lies ensconced in places of the sort, that are
+warm in winter and cool in summer.
+
+ (11) {kunegesion}, "a hunting establishment, huntsmen and hounds, a
+    pack of hounds," L. & S. cf. Herod. i. 36; Pollux. v. 17. In
+    Aristot. "H. A." viii. 5. 2, of wolves in a pack; v. {monopeirai}.
+    {upagein}--"stealthily?"
+
+ (12) Or, "go on a voyage of discovery."
+
+ (13) Reading {te ikhneuouse}, or if vulg. {ikhneusei}, transl. "set
+    her to follow the trail, at the head of the whole train."
+
+ (14) Schneid. cf. Aristot. "H. A." vi. 18; Plin. viii. 52; Virg.
+    "Georg." iii. 255, "ipse ruit, dentesque Sabellicus exacuit sus";
+    Hom. "Il." xi. 416, xiii. 475; Hes. "Shield," 389; Eur. "Phoen."
+    1389; Ovid, "Met." viii. 369.
+
+As soon as she has reached his lair she will give tongue; but the boar
+will not get up, not he, in nine cases out of ten. The huntsman will
+thereupon recover the hound, and tie her up also with the rest at a good
+distance from the lair. (15) He will then launch his toils into the wild
+boar's harbourage, (16) placing the nooses upon any forked branches
+of wood to hand. Out of the net itself he must construct a deep
+forward-jutting gulf or bosom, posting young shoots on this side and
+that within, as stays or beams, (17) so that the rays of light may
+penetrate as freely as possible through the nooses into the bosom, (18)
+and the interior be as fully lit up as possible when the creature makes
+his charge. The string round the top of the net must be attached to
+some stout tree, and not to any mere shrub or thorn-bush, since these
+light-bending branches will give way to strain on open ground. (19)
+All about each net it will be well to stop with timber even places (20)
+"where harbrough nis to see," so that the hulking brute may drive a
+straight course (21) into the toils without tacking.
+
+ (15) Lit. "accordingly recover the dog, and tie her up also with the
+    rest," etc.
+
+ (16) {ormous}. Lit. "moorings," i.e. "favourite haunts." Cf. {dusorma}
+    below. Al. "stelle die Fallnetze auf die Wechsel," Lenz.
+
+ (17) {anteridas}. See a note in the "Class. Rev." X. i. p. 7, by G. S.
+    Sale: "It can only mean long sticks used as stretchers or
+    spreaders to hold up the net between and beyond the props." Cf.
+    Thuc. vii. 36, 2.
+
+ (18) Or, "within the bay of network."
+
+ (19) {sunekhontai en tois psilois ai e}. "Denn diese werden an
+    unbestandenen Orten durch die Leine niedergezogen," Lenz;
+    {sunelkontai} conj. Schn.; {sunerkhontai} al., "concurrunt," vid.
+    Sturz.
+
+ (20) {ta dusorma}, met. from "bad harbourage." Cf. Arsch. "Pers." 448;
+    "Ag." 194. Cf. Lat. "importunus," also of "rough ground."
+
+ (21) Or, "make his rush."
+
+As soon as the nets are fixed, the party will come back and let the
+hounds slip one and all; then each will snatch up his javelin (22) and
+boar-spear, and advance. Some one man, the most practised hand, will
+cheer on the hounds, and the rest will follow in good order at some
+considerable distance from one another, so as to leave the animal a free
+passage; since if he falls into the thick of them as he makes off, there
+is a fair chance of being wounded, for he will certainly vent his fury
+on the first creature he falls foul of.
+
+ (22) Lit. "then they will take their javelins and boar-spears and
+    advance."
+
+As soon as the hounds are near his lair, they will make their onslaught.
+The boar, bewildered by the uproar, will rise up and toss the first
+hound that ventures to attack him in front. He will then run and fall
+into the toils; or if not, then after him full cry. (23) Even if the
+ground on which the toils environ him be sloping, he will recover
+himself promptly; (24) but if level, he will at once plant himself firm
+as a rock, as if deliberating with himself. (25) At that conjuncture
+the hounds will press hard upon him, while their masters had best keep
+a narrow eye upon the boar and let fly their javelins and a pelt of
+stones, being planted in a ring behind him and a good way off, until the
+instant when with a forward heave of his body he stretches the net tight
+and strains the skirting-rope. Thereupon he who is most skilful of
+the company and of the stoutest nerve will advance from the front and
+deliver a home thrust with his hunting-spear.
+
+ (23) Or, "a pretty chase must follow."
+
+ (24) Or, "if within the prison of the net the ground be sloping, it
+    will not take long to make him spring up; he will be up again on
+    his legs in no time."
+
+ (25) Or, "being concerned about himself."
+
+Should the animal for all that rain of javelins and stones refuse to
+stretch the skirting-rope, should he rather relax (26) in that direction
+and make a right-about-face turn bearing down on his assailant, there
+is nothing for it, under these circumstances, but to seize a boar-spear,
+and advance; firmly clutching it with the left hand forward and with
+the right behind; the left is to steady it, and the right to give it
+impulse; and so the feet, (27) the left advanced in correspondence with
+the left arm, and right with right. As he advances, he will make a lunge
+forward with the boar-spear, (27) planting his legs apart not much wider
+than in wrestling, (28) and keeping his left side turned towards his
+left hand; and then, with his eye fixed steadily on the beast's eye, he
+will note every turn and movement of the creature's head. As he brings
+down the boar-spear to the thrust, he must take good heed the animal
+does not knock it out of his hands by a side movement of the head; (29)
+for if so he will follow up the impetus of that rude knock. In case
+of that misfortune, the huntsman must throw himself upon his face and
+clutch tight hold of the brushwood under him, since if the wild boar
+should attack him in that posture, owing to the upward curve of its
+tusks, it cannot get under him; (30) whereas if caught erect, he must be
+wounded. What will happen then is, that the beast will try to raise him
+up, and failing that will stand upon and trample him.
+
+ (26) {epanieis}. See Sturz, s.v.
+
+ (27) Lit. "forwards the left foot will follow the left arm and the
+    right foot the other."
+
+ (28) "Statum venatoris aprum venabulo excipientis pinxit
+    Philostratus," "Imag." i. 28, Schn.
+
+ (29) Or, "he will step forward and take one stride not much longer
+    than that of a wrestler, and thrust forward his boar-spear."
+
+ (30) Cf. Hes. "Shield," 387; Hom. "Il." xii. 148: "Then forth rushed
+    the twain, and fought in front of the gates like wild boars that
+    in the mountains abide the assailing crew of men and dogs, and
+    charging on either flank they crush the wood around them, cutting
+    it at the root, and the clatter of their tusks waxes loud, till
+    one smite them and take their life away" (A. Lang).
+
+From this extremity there is but one means of escape, and one alone,
+for the luckless prisoner. One of his fellow-huntsmen must approach with
+boar-spear and provoke the boar, making as though he would let fly at
+him; but let fly he must not, for fear of hitting the man under him. The
+boar, on seeing this, will leave the fallen man, and in rage and fury
+turn to grapple his assailant. The other will seize the instant to
+spring to his feet, and not forget to clutch his boar-spear as he
+rises to his legs again; since rescue cannot be nobly purchased save
+by victory. (31) Let him again bring the weapon to bear in the same
+fashion, and make a lunge at a point within the shoulder-blade, where
+lies the throat; (32) and planting his body firmly press with all his
+force. (33) The boar, by dint of his might and battle rage, will still
+push on, and were it not that the teeth of the lance-blade hindered,
+(34) would push his way up to the holder of the boar-spear even though
+the shaft run right through him. (35)
+
+ (31) "Safety can only be won with honour by some master-stroke of
+    victory."
+
+ (32) {sphage}. Aristot. "H. A." i. 14. 2. "Straight at the jugular."
+
+ (33) Or, "throwing his whole weight on the thrust, press home with all
+    his force."
+
+ (34) Or, "but for the intervention of the two projecting teeth of the
+    lance-blade." See the account of the passage of arms between Col.
+    Pollock and a boar in his "Incidents of Foreign Sport and Travel."
+    There the man was mounted, but alone.
+
+ (35) Lit. "force his heavy bulk along the shaft right up to the holder
+    of the boar-spear."
+
+Nay, so tremendous is the animal's power, that a property which no one
+ever would suspect belongs to him. Lay a few hairs upon the tusk of
+a boar just dead, and they will shrivel up instantly, (36) so hot are
+they, these tusks. Nay, while the creature is living, under fierce
+excitement they will be all aglow; or else how comes it that though he
+fail to gore the dogs, yet at the blow the fine hairs of their coats are
+singed in flecks and patches? (37)
+
+ (36) {euthus}, i.e. "for a few seconds after death."
+
+ (37) The belief is still current, I am told, in parts of India.
+
+So much and even greater trouble may be loked for from the wild boar
+before capture; I speak of the male animal. If it should be a sow that
+falls into the toils, the huntsman should run up and prod her, taking
+care not to be pushed off his legs and fall, in which case he cannot
+escape being trampled on and bitten. Ergo, he will not voluntarily get
+under those feet; but if involuntarily he should come to such a pass,
+the same means (38) of helping each the other to get up again will
+serve, as in the case of the male animal; and when he has regained his
+legs, he must ply the boar-spear vigorously till she too has died the
+death.
+
+ (38) {dianastaseis}, "the same methods of mutual recovery."
+
+Wild pigs may be captured further in the following fashion: The nets
+are fixed for them at the entrances of woody glens, (39) in coppices and
+hollows, and on screes, where there are outlets into rank meadow-lands,
+marshes, and clear pools. (40) The appointed person mounts guard at the
+nets with his boar-spear, while the others work the dogs, exploring
+the best and likeliest spots. As soon as the quarry is found the chase
+commences. If then an animal falls into the net, the net-keeper will
+grip his boar-spear and (41) advance, when he will ply it as I have
+described; if he escape the net, then after him full cry. In hot, sultry
+weather the boar may be run down by the hounds and captured. Though a
+monster in strength, the creature becomes short of breath and will give
+in from sheer exhaustion.
+
+ (39) Al. "at the passages from woodland lakes into oak-coppices."
+
+ (40) {udata}, "waters," lakes, pools, rivers, etc.
+
+ (41) Or, "and proceed to tackle him."
+
+It is a form of sport which costs the lives of many hounds and endangers
+those of the huntsmen themselves. Supposing that the animal has given in
+from exhaustion at some moment in the chase, and they are forced to come
+to close quarters; (42) whether he has taken to the water, or stands at
+bay against some craggy bank, or does not choose to come out from some
+thicket (since neither net nor anything else hinders him from bearing
+down like a tornado on whoever approaches); still, even so, advance they
+must, come what come may, to the attack. And now for a display of that
+hardihood which first induced them to indulge a passion not fit for
+carpet knights (43)--in other words, they must ply their boar-spears and
+assume that poise of body (44) already described, since if one must meet
+misfortune, let it not be for want of observing the best rules. (45)
+
+ (42) Reading {prosienai}  ({ta probolia}).  (The last two words are
+    probably a gloss, and should be omitted, since {prosienai} (from
+    {prosiemi}) {ta probolia} = "ply," or "apply their boar-spears,"
+    is hardly Greek.) See Schneid. "Add. et Corr." and L. Dind. ad
+    loc.
+
+ (43) {ekponein}, "to exercise this passion to the full."
+
+ (44) Lit. "assume their boar-spears and that forward attitude of
+    body."
+
+ (45) Lit. "it will not be at any rate from behaving correctly."
+
+Foot-traps are also set for the wild boar, similar to those for deer and
+in the same sort of places; the same inspections and methods of pursuit
+are needed, with consequent attacks and an appeal to the boar-spear in
+the end.
+
+Any attempt to capture the young pigs will cost the huntsman some rough
+work. (46) The young are not left alone, as long as they are small; and
+when the hounds have hit upon them or they get wind of something wrong,
+they will disappear like magic, vanishing into the forest. As a rule,
+both parents attend on their own progeny, and are not pleasant then to
+meddle with, being more disposed to do battle for their young than for
+themselves.
+
+ (46) Lit. "the piglings will resent it (sc. {to aliskesthai})
+    strongly"; al. "the adult (sub. {to therion}) will stand anything
+    rather."
+
+
+
+XI
+
+Lions, leopards, lynxes, panthers, bears and all other such game are to
+be captured in foreign countries--about Mount Pangaeus and Cittus beyond
+Macedonia; (1) or again, in Nysa beyond Syria, and upon other mountains
+suited to the breeding of large game.
+
+ (1) Of these places, Mt. Pangaeus (mod. Pirnari) (see "Hell." V. ii.
+    17), Cittus (s. Cissus, mod. Khortiatzi), N. W. of the Chalcidice,
+    Mysian Olympus, and Pindus are well known. Nysa has not been
+    verified hitherto, I think. Sturz cf. Bochart, "Hieroz." Part I.
+    lib. iii. c. 1, p. 722. Strabo, 637 (xv. 1. 7), mentions a Mount
+    Nysa in India sacred to Dionysus, and cites Soph. "Frag." 782--
+
+{othen kateidon ton bebakkhiomenen brotoisi kleinon Nusan... k.t.l.},
+
+    but it is a far cry from Xenophon's Syria to India. Possibly it is
+    to be sought for in the region of Mt. Amanus.
+
+In the mountains, owing to the difficulty of the ground, (2) some of
+these animals are captured by means of poison--the drug aconite--which
+the hunters throw down for them, (3) taking care to mix it with the
+favourite food of the wild best, near pools and drinking-places or
+wherever else they are likely to pay visits. Others of them, as they
+descend into the plains at night, may be cut off by parties mounted
+upon horseback and well armed, and so captured, but not without causing
+considerable danger to their captors. (4)
+
+ (2) Or, "the inaccessibility of their habitats."
+
+ (3) "The method is for the trapper to throw it down mixed with the
+    food which the particular creature likes best."
+
+ (4) For the poison method see Pollux, v. 82; Plin. "H. N." viii. 27.
+
+In some cases the custom is to construct large circular pits of some
+depth, leaving a single pillar of earth in the centre, on the top of
+which at nightfall they set a goat fast-bound, and hedge the pit about
+with timber, so as to prevent the wild beasts seeing over, and without a
+portal of admission. What happens then is this: the wild beasts, hearing
+the bleating in the night, keep scampering round the barrier, and
+finding no passage, leap over it, and are caught. (5)
+
+ (5) See "Tales from the Fjeld," Sir George W. Dasent, "Father Bruin in
+    the Corner."
+
+
+
+XII
+
+With regard to methods of procedure in the hunting-field, enough has
+been said. (1) But there are many benefits which the enthusiastic
+sportsman may expect to derive from this pursuit. (2) I speak of the
+health which will thereby accrue to the physical frame, the quickening
+of the eye and ear, the defiance of old age, and last, but not least,
+the warlike training which it ensures. To begin with, when some day he
+has to tramp along rough ways under arms, the heavy infantry soldier
+will not faint or flag--he will stand the toil from being long
+accustomed to the same experiences in capturing wild beasts. In the next
+place, men so trained will be capable of sleeping on hard couches,
+and prove brave guardians of the posts assigned them. In the actual
+encounter with the enemy, they will know at once how to attack and to
+carry out the word of command as it passes along the lines, because it
+was just so in the old hunting days that they captured the wild game. If
+posted in the van of battle, they will not desert their ranks, because
+endurance is engrained in them. In the rout of the enemy their footsteps
+will not falter nor fail: straight as an arrow they will follow the
+flying foe, on every kind of ground, through long habituation. (3) Or
+if their own army encounter a reverse on wooded and precipitous ground
+beset with difficulties, these will be the men to save themselves with
+honour and to extricate their friends; since long acquaintance with the
+business of the chase has widened their intelligence. (4)
+
+ (1) Or, "Respecting the methods employed in different forms of the
+    chase, I have said my say." As to the genuineness of this and the
+    following chapter see L. Dind. ad loc.; K. Lincke, "Xenophon's
+    Dialog." {peri oikonomias}, p. 132.
+
+ (2) Lit. "this work"; and in reference to the highly Xenophontine
+    argument which follows see "Hellenica Essays," p. 342; cf.
+    "Cyrop." I. vi. 28, 39-41.
+
+ (3) "For the sake of 'auld lang syne.'"
+
+ (4) Or, "will place them on the vantage-ground of experts."
+
+Nay, even under the worst of circumstances, when a whole mob of
+fellow-combatants (5) has been put to flight, how often ere now has
+a handful (6) of such men, by virtue of their bodily health (7) and
+courage, caught the victorious enemy roaming blindly in some intricacy
+of ground, renewed the fight, and routed him. Since so it must ever be;
+to those whose souls and bodies are in happy case success is near at
+hand. (8)
+
+ (5) Or, "allies."
+
+ (6) Or, "a forlorn hope."
+
+ (7) {euexia}, al. {eutaxia}, "by good discipline."
+
+ (8) "Fortune favours the brave," reading {to eutukhesai} (L. D.); or
+    if {tou eutukhesai}, (vulg.) "those whose health of soul and body
+    is established are ipso facto nigh unto good fortune."
+
+It was through knowledge that they owed success against their foes to
+such a training, that our own forefathers paid so careful a heed to
+the young. (9) Though they had but a scant supply of fruits, it was an
+immemorial custom "not to hinder (10) the hunter from hunting any of
+earth's offspring"; and in addition, "not to hunt by night (11) within
+many furlongs of the city," in order that the adepts in that art might
+not rob the young lads of their game. They saw plainly that among the
+many pleasures to which youth is prone, this one alone is productive of
+the greatest blessings. In other words, it tends to make them sound of
+soul and upright, being trained in the real world of actual things (12)
+(and, as was said before, our ancestors could not but perceive they owed
+their success in war to such instrumentality (13)); and the chase alone
+deprives them of none of the other fair and noble pursuits that they may
+choose to cultivate, as do those other evil pleasures, which ought never
+to be learned. Of such stuff are good soldiers and good generals made.
+(14) Naturally, those from whose souls and bodies the sweat of toil
+has washed all base and wanton thoughts, who have implanted in them a
+passion for manly virtue--these, I say, are the true nobles. (15) Not
+theirs will it be to allow their city or its sacred soil to suffer
+wrong.
+
+ (9) Al. "looked upon the chase as a pursuit incumbent on the young."
+
+ (10) {me koluein  (dia) to meden ton epi te ge phuomenon agreuein}. The
+    commentators generally omit {dia}, in which case translate as in
+    text. Lenz reads {un koluein dia meden} (see his note ad v. 34),
+    and translates (p. 61), "Dass man die Jager nicht hindern solle,
+    in allem was die Erde hervorbrachte zu jagen," "not to hinder the
+    huntsmen from ranging over any of the crops which spring from
+    earth"; (but if so, we should expect {dia medenos}). Sturz, s.v.
+    {agreuein}, notes "festive," "because the hunter does not hunt
+    vegetable products." So Gail, "parce que le chasseur rien veut pas
+    aux productions de la terre."
+
+ (11) Or, "set their face against night-hunting," cf. "Mem." IV. vii.
+    4; Plat. "Soph." 220 D; "Stranger: There is one mode of striking
+    which is done at night, and by the light of a fire, and is called
+    by the hunters themselves firing, or spearing by firelight"
+    (Jowett); for which see Scott, "Guy Mannering," ch. x. It seems
+    "night hunting was not to be practised within a certain
+    considerable radius, whereby the proficients in that art might
+    deprive it (lit. in order that they might not deprive) them (the
+    young huntsmen) of their game."
+
+ (12) Lit. "in truth and reality (not among visionary phantoms)."
+
+ (13) These words are commonly regarded as an addition; and what does
+    {te} signify?
+
+ (14) Or, "Here you have the making of brave soldiers and generals.
+    Here in embryo are to be found your future soldiers and generals
+    worthy the name."
+
+ (15) {outoi aristoi}: these are prima virorum, the true aristocrats.
+
+Some people tell us it is not right to indulge a taste for hunting,
+lest it lead to neglect of home concerns, not knowing that those who are
+benefactors of their country and their friends are in proportion all the
+more devoted to domestic duties. If lovers of the chase pre-eminently
+fit themselves to be useful to the fatherland, that is as much as to say
+they will not squander their private means; since with the state itself
+the domestic fortunes of each are saved or lost. The real fact is, these
+men are saviours, not of their own fortunes only, but of the private
+fortunes of the rest, of yours and mine. Yet there are not a few
+irrational people amongst these cavillers who, out of jealousy, would
+rather perish, thanks to their own baseness, than owe their lives to the
+virtue of their neighbours. So true is it that the mass of pleasures are
+but evil, (16) to which men succumb, and thereby are incited to adopt
+the worse cause in speech and course in action. (17) And with what
+result?--from vain and empty arguments they contract emnities, and reap
+the fruit of evil deeds, diseases, losses, death--to the undoing of
+themselves, their children, and their friends. (18) Having their senses
+dulled to things evil, while more than commonly alive to pleasures, how
+shall these be turned to good account for the salvation of the state?
+Yet from these evils every one will easily hold aloof, if once enamoured
+of those joys whose brief I hold, since a chivalrous education teaches
+obedience to laws, and renders justice familiar to tongue and ear. (19)
+
+ (16) See "Hellenica Essays," p. 371.
+
+ (17) "To depravity of speech and conduct" (whether as advocates or
+    performers). See Aristoph. "Clouds."
+
+ (18) Or, "bring down on themselves, their children, and their friends
+    a spring of misfortunes in the shape of diseases, losses, or even
+    death."
+
+ (19) "For what does a chivalrous education teach save to obey the law,
+    and to make the theme of justice familiar to tongue and ear?"
+
+In the one camp are those who, subjecting themselves ever to new toil
+and fresh instruction, have, at the cost of lessons and exercises
+painful to themselves, obtained to their several states salvation;
+and in the other are those who for the very irksomeness of the process
+choose not to be taught, but rather to pass away their days in pleasures
+unseasonable--nature's abjects these. (20) Not theirs is it to obey
+either laws or good instruction; (21) nay, how should they, who never
+toil, discover what a good man ought to be?--in other words, wisdom and
+justice are alike beyond their power. Subject to indiscipline, they have
+many a fault to find with him who is well educated.
+
+ (20) Lit. "the sorriest of mankind these by nature."
+
+ (21) Or, "virtuous argument"; {logois agathois}, lit. "good words."
+
+Through the instrumentality of such as these nothing can go well;
+whereas every blessing which mankind enjoys has been discovered by the
+efforts of the nobler sort. Nobler, I say, are those who choose to toil.
+(22)
+
+ (22) Or, "of choice spirits; and who are the choice spirits?--Clearly
+    those who choose to toil."
+
+And this has been proved conclusively by a notable example. If we look
+back to the men of old who sat at the feet of Cheiron--whose names I
+mentioned--we see that it was by dedicating the years of their youth to
+the chase (23) that they learnt all their noble lore; and therefrom they
+attained to great renown, and are admired even to this day for their
+virtue--virtue who numbers all men as her lovers, as is very plain. Only
+because of the pains it costs to win her the greater number fall away;
+for the achievement of her is hid in obscurity; while the pains that
+cleave to her are manifest. Perchance, if only she were endowed with a
+visible bodily frame, men would less have neglected her, knowing that
+even as she is visible to them, so they also are not hid from her eyes.
+For is it not so that when a man moves in the presence of him whom he
+dearly loves, (24) he rises to a height above himself, being incapable
+of aught base or foul in word or deed in sight of him? (25) But fondly
+dreaming that the eye of virtue is closed to them, they are guilty of
+many a base thing and foul before her very face, who is hidden
+from their eyes. Yet she is present everywhere, being dowered with
+immortality; and those who are perfect in goodness (26) she honours, but
+the wicked she thrusts aside from honour. If only men could know that
+she regards them, how eagerly would they rush to the embrace of toilful
+training and tribulation, (27) by which alone she is hardly taken; and
+so should they gain the mastery over her, and she should be laid captive
+at their feet.
+
+ (23) Or, "that they made their first essay in hunting when mere boys,
+    and from hunting upwards were taught many noble arts."
+
+ (24) Lit. "is beheld by his beloved." Cf. "Symp." iv. 4; viii. 31.
+
+ (25) Lit. "in order not to be seen of him."
+
+ (26) Lit. "good with respect to her."
+
+ (27) Or, "to those toils and that training."
+
+
+
+XIII
+
+Now what astonishes me in the "sophists," as they are called, (1) is,
+that though they profess, the greater part of them, to lead the young to
+virtue, they really lead them in the opposite direction. Never have we
+set eyes on the man anywhere who owed his goodness to the sophists of
+to-day. (2) Nor do their writings contain anything (3) calculated to
+make men good, but they have written volumes on vain and frivolous
+subjects, in which the young may find pleasures that pall, but the
+essence of virtue is not in them. The result of this literature is to
+inflict unnecessary waste of time on those who look to learn something
+from it all and look in vain, cutting them off from wholesome
+occupations and even teaching what is bad. I cannot then but blame them
+for certain large offences (4) more than lightly; but as regards the
+subject matter of their writings my charge is, that while full of
+far-fetched phraseology, (5) of solid wholesome sentiments, by which
+the young might be trained to virtue, I see not a vestige. Speaking as a
+plain man, I know that to be taught what is good by one's own nature is
+best of all, (6) and next best to learn of those who really do know some
+good thing rather than of those who have an art to deceive. It may
+well be that I fail to express myself in subtle language, (7) nor do
+I pretend to aim at subtlety; what I do aim at is to express
+rightly-conceived thoughts such as may serve the need of those who have
+been nobly disciplined in virtue; for it is not words and names that
+give instruction, but thoughts and sentiments worthy the name.
+
+ (1) Cf. Isocr. "Against the Sophists"; "Antidosis"; "Hel. Encom.";
+    Plat. "Sophist."
+
+ (2) Who are these {oi nun sophistai}?
+
+ (3) Lit. "do they present writings to the world."
+
+ (4) Or, "as to certain weightier matters gravely."
+
+ (5) {remata} = "words and phrases"; {ynomai} = "moral maxims, just
+    thoughts."
+
+ (6) "Being myself but a private individual and a plain man." According
+    to Hartman, "A. X. N." p. 350, "ridicule detorquet Hesiodeum":
+
+{outos men panaristos os auto panta noese esthlos d' au kakeinos os eu
+eiponti pithetai}.
+
+ (7) Al. "in true sophistic style." The writer seems to say: "I lack
+    subtlety of expression (nor is that at all my object); what I do
+    aim at is to trace with some exactness, to present with the
+    lucidity appropriate to them, certain thoughts demanded by persons
+    well educated in the school of virtue."
+
+Nor am I singular in thus reproaching the modern type of sophist (not
+the true philosopher, be it understood); it is a general reproach that
+the wisdom he professes consists in word-subtleties, not in ideas. (8)
+Certainly it does not escape my notice that an orderly sequence of ideas
+adds beauty to the composition: (9) I mean it will be easy to find fault
+with what is written incorrectly. (10) Nevertheless, I warrant it is
+written in this fashion with an eye to rectitude, to make the reader
+wise and good, not more sophistical. For I would wish my writings not to
+seem but rather to be useful. I would have them stand the test of ages
+in their blamelessness. (11)
+
+ (8) {onomasi}, "in names"; {noemasi}, "thoughts and ideas."
+
+ (9) Or, "I am alive to the advantage to be got from methodic, orderly
+    expression artistically and morally."
+
+ (10) This passage, since H. Estienne (Stephanus) first wrote against
+    it "huic loco meae conjecturae succumbunt," has been a puzzle to
+    all commentators. The words run: {ou lanthanei de me oti kalos kai
+    exes gegraphthai}  ({gegraptai} in the margin of one MS.) {radion
+    gar estai autois takhu me orthos mempsasthai' kaitoi gegraptai ge
+    outos k.t.l.} For {takhu me orthos} (1) {takhu ti me orthos}, (2)
+    {to} (or {ta}) {me orthos}, have been suggested. It is not clear
+    whether {autois} = {tois sophistais} (e.g. "it will be easy for
+    these people to lay a finger at once on blots, however unfairly"),
+    or = {tois suggrammasi} (sc. my(?) compositions; so {auta}, S. 7
+    below, {ou gar dokein auta boulomai k.t.l.}) (e.g. "since it will
+    be easy offhand to find fault with them incorrectly")  (or if {ta
+    me orthos}, "what is incorrect in them"). I append the three
+    translations of Gail, Lenz, and Talbot. "Je sais combien il est
+    avantageux de presenter des ouvrages methodiquement ecrits; aussi
+    par le meme sera-t-il plus facile de prouver aux sophistes leur
+    futilite!" {radion gar estai}  (sub. {emoi}) {mempsasthai outois
+    takhu (to) me} (sous-entendu) {gegraphthai orthos} (Gail). "Zwar
+    entgeht mir nicht, dass es schon say die Worte kunstvoll zu
+    ordnen, denn leichter wird ihnen sonst, schnell, aber mit Unrecht
+    zu tadeln" (Lenz). "Aussi leur sera-t-il facile de me reprocher
+    d'ecrire vite et sans ordre" (Talbot). As if {takhu me orthos}
+    were the reproachful comment of the sophist on the author's
+    treatise.
+
+ (11) i.e. "the arguments to be blameless at once and irrefutable for
+    all time."
+
+That is my point of view. The sophist has quite another--words with him
+are for the sake of deception, writing for personal gain; to benefit any
+other living soul at all is quite beside his mark. There never was
+nor is there now a sage among them to whom the title "wise" could be
+applied. No! the appellation "sophist" suffices for each and all, which
+among men of common sense (12) sounds like a stigma. My advice then is
+to mistrust the sonorous catch-words (13) of the sophist, and not
+to despise the reasoned conclusions (14) of the philosopher; for the
+sophist is a hunter after the rich and young, the philosopher is the
+common friend of all; he neither honours nor despises the fortunes of
+men.
+
+ (12) L. Dind. cf. Eur. "Heracl." 370, {tou tauta kalos an eie} | {para
+    g' eu phronousin}.
+
+ (13) {paraggelmata}. Cf. Aesch. "Ag." 480, "telegraph"; Lys. 121. 32;
+    Dem. 569. 1; "words of command"; Dion. H. "De Comp." 248,
+    "instructions, precepts."
+
+ (14) {enthumemata}.
+
+Nor would I have you envy or imitate those either who recklessly pursue
+the path of self-aggrandisement, (15) whether in private or in public
+life; but consider well (16) that the best of men, (17) the true
+nobility, are discovered by their virtues; (18) they are a laborious
+upwards-striving race; whilst the base are in evil plight (19) and are
+discovered by their demerits. (20) Since in proportion as they rob the
+private citizen of his means and despoil the state (21) they are less
+serviceable with a view to the public safety than any private citizen;
+(22) and what can be worse or more disgraceful for purposes of war than
+the bodily form of people so incapable of toil? (23) Think of huntsmen
+by contrast, surrendering to the common weal person and property alike
+in perfect condition for service of the citizens. They have both a
+battle to wage certainly: only the one set are for attacking beasts; and
+the other their own friends. (24) And naturally the assailant of his
+own friends does not win the general esteem; (25) whilst the huntsman in
+attacking a wild beast may win renown. If successful in his capture, he
+was won a victory over a hostile brood; or failing, in the first place,
+it is a feather in his cap that his attempt is made against enemies of
+the whole community; and secondly, that it is not to the detriment of
+man nor for love of gain that the field is taken; and thirdly, as the
+outcome of the very attempt, the hunter is improved in many respects,
+and all the wiser: by what means we will explain. Were it not for
+the very excess of his pains, his well-reasoned devices, his manifold
+precautions, he would never capture the quarry at all; since the
+antagonists he deals with are doing battle for bare life and in their
+native haunts, (26) and are consequently in great force. So that if he
+fails to overmatch the beasts by a zest for toil transcending theirs and
+plentiful intelligence, the huntsman's labours are in vain.
+
+ (15) Or, "surrender themselves heedlessly to the ways of self-
+    seeking." But the phraseology here seems to savour of extreme
+    youth, or else senility.
+
+ (16) {enthumethenta}. Query, in reference to {enthumemata} above?
+
+ (17) Reading {andron}. For the vulg. {auton} see Schneid. ad loc., who
+    suggests {ton aston}.
+
+ (18) "Recognisable for the better."
+
+ (19) "They are not famous but infamous"; "the bad fare as their name
+    suggests" (i.e. badly).
+
+ (20) "Recognisable for the worse."
+
+ (21) Or, "what with private extortionsand public peculation."
+
+ (22) {ton idioton}, "laymen," I suppose, as opposed to "professional"
+    lawyers or politicians.
+
+ (23) "What with their incapacity for hard work, their physique for
+    purposes of war is a mockery and a sham."
+
+ (24) Cf. Plat. "Soph."
+
+ (25) Or, "earns but an evil reputation in the world."
+
+ (26) "They are being bearded in their dens."
+
+I go back to my proposition then. Those self-seeking politicians, who
+want to feather their own nests, (27) practise to win victories over
+their own side, but the sportsman confines himself to the common enemy.
+This training of theirs renders the one set more able to cope with the
+foreign foe, the others far less able. The hunting of the one is carried
+on with self-restraint, of the others with effrontery. The one can look
+down with contempt upon maliciousness and sordid love of gain, the other
+cannot. The very speech and intonation of the one has melody, of the
+other harshness. And with regard to things divine, the one set know no
+obstacle to their impiety, the others are of all men the most pious.
+Indeed ancient tales affirm (28) that the very gods themselves take
+joy in this work (29) as actors and spectators. So that, (30) with due
+reflection on these things, the young who act upon my admonitions will
+be found, perchance, beloved of heaven and reverent of soul, checked by
+the thought that some one of the gods is eyeing their performance. (31)
+
+ (27) Or, "Those people who would fain have the lion's share in the
+    state."
+
+ (28) Or, "an ancient story obtains."
+
+ (29) Sc. "of the chase."
+
+ (30) Or {uparkhein} = "it may be considered as given." Scheid. cf.
+    "Pol. Ath." iii. 9, {oste uparkhein demokratian einai}.
+
+ (31) Lit. "that the things in question are beheld by some divinity."
+
+These are the youths who will prove a blessing to their parents, and not
+to their parents only but to the whole state; to every citizen alike and
+individual friend.
+
+Nay, what has sex to do with it? It is not only men enamoured of the
+chase that have become heroes, but among women there are also to whom
+our lady Artemis has granted a like boon--Atalanta, and Procris, and
+many another huntress fair.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE SPORTSMAN: ON HUNTING, A SPORTSMAN'S MANUAL, COMMONLY CALLED CYNEGETICUS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
