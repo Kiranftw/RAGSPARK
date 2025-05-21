@@ -113,8 +113,12 @@ class RAGSystem(object):
                     logging.info(f"Wrote: {filename}")
             except Exception as e:
                 logging.error(f"Error processing {filepath}: {e}")
+    
+    def main(self):
+        dataFrame = self.spark.read.format("delta").load("delta_output_path")
+        dataFrame.select("")
                     
 if __name__ == "__main__":
     object = RAGSystem()
     # object.datacleaning()
-    object.datacleaning()
+    object.main()
