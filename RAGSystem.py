@@ -7,12 +7,10 @@ from typing import List, Dict, Any
 from functools import wraps
 import logging
 from dotenv import load_dotenv, find_dotenv
-from sentence_transformers import SentenceTransformer, util
 import google.generativeai as genai
 from pyspark.sql.types import StructType, StructField, StringType
 from delta import configure_spark_with_delta_pip
-from pyspark.sql import Row
-
+from pyspark.sql import Row #NOTE: this is used when you don't explicitly define schema
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -43,7 +41,6 @@ class RAGSystem(object):
                 break
         if self.model is None:
             raise ValueError(f"Model {modelname} not found in available models.")
-        self.EmbeddingModel = SentenceTransformer('paraphrase-MiniLM-L3-v2', device='cuda')
         self.DATAFOLDER = "DATAFILES"
 
     @staticmethod
@@ -79,25 +76,45 @@ class RAGSystem(object):
             logging.error(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
             return None
     
-    def data_transfromation(self):
-        ROWS: List[Row] = []
-        for sno, filename in enumerate(os.listdir(self.DATAFOLDER)):
-            filepath = os.path.join(self.DATAFOLDER, filename)
+    @ExceptionHandelling
+    def datacleaning(self) -> None:
+        #TODO: removed 165 books greater than 1MB 
+        count: int = 0
+        for filename in os.listdir(self.DATAFOLDER):
             if not filename.endswith(".txt"):
                 continue
+            filepath = os.path.join(self.DATAFOLDER, filename)
+            if os.path.isfile(filepath):
+                size = os.path.getsize(filepath)
+                if size > 1 * 1024 * 1024:
+                    os.remove(filepath)
+                    count += 1
+                    print(f"Removed {filename}, size: {size} bytes")
+        print(f"Removed {count} files")
+
+    @ExceptionHandelling
+    def data_transfromation(self):
+        schema = StructType([
+            StructField("sno", StringType(), True),
+            StructField("filename", StringType(), True),
+            StructField("content", StringType(), True)
+        ])
+        for sno, filename in enumerate(os.listdir(self.DATAFOLDER)):
+            if not filename.endswith(".txt"):
+                continue
+            filepath = os.path.join(self.DATAFOLDER, filename)
             try:
                 with open(filepath, "r", encoding="utf-8") as file:
                     content = file.read()
-                    cleanedData = " ".join([line.strip() for line in content.splitlines() if line.strip()])
-                    ROWS.append(Row(sno, filename, cleanedData))
-            except FileNotFoundError:
-                logging.error(f"File not found: {filepath}")
+                    cleaned = " ".join([line.strip() for line in content.splitlines() if line.strip()])
+                    row = [(str(sno), filename, cleaned)]
+                    df = self.spark.createDataFrame(row, schema)
+                    df.write.format("delta").mode("append").save("delta_output_path")
+                    logging.info(f"Wrote: {filename}")
             except Exception as e:
-                logging.error(f"Error reading file {filepath}: {e}")
-        
-        print(type(ROWS[1]))
-
+                logging.error(f"Error processing {filepath}: {e}")
+                    
 if __name__ == "__main__":
-    rag = RAGSystem()
-    rag.data_transfromation()
-
+    object = RAGSystem()
+    # object.datacleaning()
+    object.datacleaning()
