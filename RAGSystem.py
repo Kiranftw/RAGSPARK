@@ -11,6 +11,14 @@ import google.generativeai as genai
 from pyspark.sql.types import StructType, StructField, StringType
 from delta import configure_spark_with_delta_pip
 from pyspark.sql import Row #NOTE: this is used when you don't explicitly define schema
+from sentence_transformers import SentenceTransformer
+from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
+from langchain.memory import ConversationSummaryBufferMemory
+from langchain.prompts import ChatPromptTemplate
+from pyspark.ml.feature import Tokenizer, StopWordsRemover, RegexTokenizer
+from pyspark.sql.functions import lower, regexp_replace, length, split, col, udf, trim
+import torch
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -43,6 +51,9 @@ class RAGSystem(object):
             raise ValueError(f"Model {modelname} not found in available models.")
         self.DATAFOLDER = "DATAFILES"
         self.DELTAPATH = "delta_output_path"
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        print(f"Using device: {device}")
+        self.EmbeddingeModel = SentenceTransformer("all-MiniLM-L6-v2", device=device)
 
     @staticmethod
     def ExceptionHandelling(func):
@@ -105,6 +116,7 @@ class RAGSystem(object):
     
     @ExceptionHandelling
     def data_transfromation(self):
+        #NOTE:
         schema = StructType([
             StructField("sno", StringType(), True),
             StructField("filename", StringType(), True),
@@ -119,7 +131,12 @@ class RAGSystem(object):
             try:
                 with open(filepath, "r", encoding="utf-8") as file:
                     content = file.read()
-                    cleaned = " ".join([line.strip() for line in content.splitlines() if line.strip()])
+                    lines = []
+                    for line in content.splitlines():
+                        line = line.strip()
+                        if line:
+                            lines.append(line)
+                    cleaned = " ".join(lines)
                     row = [(str(sno), filename, cleaned)]
                     DataFrame = self.spark.createDataFrame(row, schema)
                     DataFrame.write.format("delta").mode("append").save(self.DELTAPATH)
@@ -127,11 +144,16 @@ class RAGSystem(object):
                     sno += 1
             except Exception as E:
                 logging.error(f"Error processing {filename}: {E}")
-
+    
+    def data_preprocessing(self):
+        DataFrame = self.spark.read.format("delta").load(self.DELTAPATH)
+        if not DataFrame.isEmpty():
+            DataFrame = DataFrame.orderBy("sno", ascending=True)
+            DataFrame.show()
+            print(DataFrame.count())
+            
     def main(self):
-        dataframe = self.spark.read.format("delta").load(self.DELTAPATH)
-        dataframe.show()
-
+        self.data_preprocessing()
 
 if __name__ == "__main__":
     rag = RAGSystem()
