@@ -42,6 +42,7 @@ class RAGSystem(object):
         if self.model is None:
             raise ValueError(f"Model {modelname} not found in available models.")
         self.DATAFOLDER = "DATAFILES"
+        self.DELTAPATH = "delta_output_path"
 
     @staticmethod
     def ExceptionHandelling(func):
@@ -91,7 +92,17 @@ class RAGSystem(object):
                     count += 1
                     print(f"Removed {filename}, size: {size} bytes")
         print(f"Removed {count} files")
-
+    
+    @ExceptionHandelling
+    def get_existing_filenames(self):
+        if os.path.exists(self.DELTAPATH):
+            filenames = set()
+            DataFrame = self.spark.read.format("delta").load(self.DELTAPATH)
+            for row in DataFrame.distinct().collect():
+                filenames.add(row["filename"])
+            return filenames
+        return set()
+    
     @ExceptionHandelling
     def data_transfromation(self):
         schema = StructType([
@@ -99,8 +110,10 @@ class RAGSystem(object):
             StructField("filename", StringType(), True),
             StructField("content", StringType(), True)
         ])
-        for sno, filename in enumerate(os.listdir(self.DATAFOLDER)):
-            if not filename.endswith(".txt"):
+        existingFilenames = self.get_existing_filenames()
+        sno = 0
+        for filename in os.listdir(self.DATAFOLDER):
+            if not filename.endswith(".txt") or filename in existingFilenames:
                 continue
             filepath = os.path.join(self.DATAFOLDER, filename)
             try:
@@ -108,17 +121,18 @@ class RAGSystem(object):
                     content = file.read()
                     cleaned = " ".join([line.strip() for line in content.splitlines() if line.strip()])
                     row = [(str(sno), filename, cleaned)]
-                    df = self.spark.createDataFrame(row, schema)
-                    df.write.format("delta").mode("append").save("delta_output_path")
-                    logging.info(f"Wrote: {filename}")
-            except Exception as e:
-                logging.error(f"Error processing {filepath}: {e}")
-    
+                    DataFrame = self.spark.createDataFrame(row, schema)
+                    DataFrame.write.format("delta").mode("append").save(self.DELTAPATH)
+                    logging.info(f"Uploaded: {filename}")
+                    sno += 1
+            except Exception as E:
+                logging.error(f"Error processing {filename}: {E}")
+
     def main(self):
-        dataFrame = self.spark.read.format("delta").load("delta_output_path")
-        dataFrame.select("")
-                    
+        dataframe = self.spark.read.format("delta").load(self.DELTAPATH)
+        dataframe.show()
+
+
 if __name__ == "__main__":
-    object = RAGSystem()
-    # object.datacleaning()
-    object.main()
+    rag = RAGSystem()
+    rag.main()
