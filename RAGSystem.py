@@ -145,14 +145,7 @@ class RAGSystem(object):
             except Exception as E:
                 logging.error(f"Error processing {filename}: {E}")
     
-    def data_preprocessing(self):
-        DataFrame = self.spark.read.format("delta").load(self.DELTAPATH)
-        if not DataFrame.isEmpty():
-            DataFrame = DataFrame.orderBy("sno", ascending=True)
-            DataFrame.show()
-            print(DataFrame.count())
-            
-    def main(self):
+    def main(self) -> None:
         self.data_preprocessing()
 
 if __name__ == "__main__":
