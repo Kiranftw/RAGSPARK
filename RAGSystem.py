@@ -87,22 +87,26 @@ class RAGSystem(object):
         else:
             logging.error(f"Failed to retrieve data from {url}. Status code: {response.status_code}")
             return None
-    
+
     @ExceptionHandelling
     def datacleaning(self) -> None:
-        #TODO: removed 165 books greater than 1MB 
-        count: int = 0
-        for filename in os.listdir(self.DATAFOLDER):
+        for filename in sorted(os.listdir(self.DATAFOLDER)):
             if not filename.endswith(".txt"):
                 continue
             filepath = os.path.join(self.DATAFOLDER, filename)
-            if os.path.isfile(filepath):
+            if os.path.exists(filepath):
                 size = os.path.getsize(filepath)
-                if size > 1 * 1024 * 1024:
+                if size > 1 * 1024 * 1024:  
                     os.remove(filepath)
-                    count += 1
-                    print(f"Removed {filename}, size: {size} bytes")
-        print(f"Removed {count} files")
+                    logging.info(f"Removed large file: {filename}")
+
+        valid_files = [f for f in sorted(os.listdir(self.DATAFOLDER)) if f.endswith(".txt")]
+        for index, filename in enumerate(valid_files):
+            if index >= 1000:
+                filepath = os.path.join(self.DATAFOLDER, filename)
+                if os.path.exists(filepath):
+                    os.remove(filepath)
+                    logging.info(f"Removed extra file: {filename}")
     
     @ExceptionHandelling
     def get_existing_filenames(self):
@@ -146,7 +150,14 @@ class RAGSystem(object):
                 logging.error(f"Error processing {filename}: {E}")
     
     def main(self) -> None:
-        self.data_preprocessing()
+        count: int = 0
+        for filename in os.listdir(self.DATAFOLDER):
+            if not filename.endswith(".txt"):
+                continue
+            filepath = os.path.join(self.DATAFOLDER, filename)
+            if os.path.exists(filepath):
+                count += 1
+        print(count)
 
 if __name__ == "__main__":
     rag = RAGSystem()
